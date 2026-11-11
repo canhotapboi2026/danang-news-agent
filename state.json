@@ -15,7 +15,7 @@
    "priority": "khan",
    "site": "VOV.VN",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 50,
    "title": "Sạt lở hơn 2.000 m³ đất đá vùi lấp quốc lộ 24C ở Đà Nẵng",
    "urgent": true,
@@ -243,7 +243,7 @@
   "news.google.com/rss/articles/CBMiswFBVV95cUxNY043ZXRRU1owOEhtTXNDaEduemdIczBfRHpodUYyN3VBYjZWM1UtSG9FSkZXeHlyM1dsZ1RUU19Rdk9tbE1sNjBtQXJ5djhiZ0hEcDAzRmZ6OXV5dXFYUGRrQzJaRHVXS1FZWlR6MWVBZnczYkJUVk9KYzRnS2MzcFBwSksyYU5OOWJJRkVXTjZzaWdMdlhPbUk5Mm42aDMyS2c3U2Ewbm9pN0sxckRyanhoaw?oc=5": 1,
   "news.google.com/rss/articles/CBMivAFBVV95cUxPZVBSN2JwVEkzbDVCY3VOb21OMDJsaFhZaHJhTkJsaGYzb00tT2VlMEZMd0haemNaS0dJakVUQ0RBaGNiVHRJS2pxMW9TVzNwWXhicVhlNjh2NG4zTXQ4MkxWNXN1MHdjbG9WOGstNS1PQ2NWQ3IwRHM0OGw4SWtVTmpBbU5IdzZxaUh2MTdKTEtsZ2hIajQwdVdra0FqaUpTWmhtdDVRY2FjaVBtTENYSDR1R1YyV0lwNXhzcQ?oc=5": 1,
   "thanhnien.vn/cong-an-vuot-diem-sat-lo-dua-luong-thuc-den-vung-bi-co-lap-o-da-nang-1852611112043388.htm": 1,
-  "tuoitre.vn/phong-toa-hien-truong-tam-giu-nghi-pham-sat-hai-co-gai-roi-chon-o-bai-dat-trong-100261112004141822.htm": 1,
+  "tuoitre.vn/phong-toa-hien-truong-tam-giu-nghi-pham-sat-hai-co-gai-roi-chon-o-bai-dat-trong-100261112004141822.htm": 2,
   "tuoitre.vn/san-phu-sinh-non-be-gai-17kg-tren-duong-chuyen-vien-giua-luc-mua-lon-100261111180138734.htm": 1
  },
  "posted_captions": [],
@@ -1896,6 +1896,26 @@
     "vingroup"
    ],
    "url": "https://nguoiquansat.vn/da-nang-lap-to-cong-tac-dac-biet-thuc-tien-do-sieu-cang-2-ty-usd-nam-sat-dai-du-an-hai-van-bay-cua-vingroup-327585.html"
+  },
+  "news.google.com/rss/articles/CBMiXkFVX3lxTE9Jbmt1NVBFTW5CT1N6cXBwNzNWRWIzQnJGUmN1NkU4VVRBalVMbUNiSUFDNS15NWppU0JWeHVHWkxzcFRodGVRbmJVLUU3N1p1N3pMQlIzd3lzeGNyX2c?oc=5": {
+   "lead": [],
+   "t": 1794431658,
+   "title": [
+    "11",
+    "12",
+    "13",
+    "7",
+    "bao",
+    "dong",
+    "hom",
+    "lam",
+    "mai",
+    "nang",
+    "thoi",
+    "tiet",
+    "toi"
+   ],
+   "url": "https://baolamdong.vn/thoi-tiet/thanh-pho-da-nang"
   },
   "news.google.com/rss/articles/CBMiggFBVV95cUxNeGpNakFoNVQ5bHBlX3ZJa0ZoRVpONkg5R2xJSndJTXcwQWk0cWN1ZlFncHJ4NndrQTJta2Y2anEzN3RyajhxbnA4VkJlQVdnM0tyOTgxR255WGZ4ZWZMVzhMWldhREg4TWM2WWdjTlBJRjZRVUYwYmEtc2I3S25UVThn?oc=5": {
    "lead": [],
