@@ -52,8 +52,10 @@ class Telegram:
                 files[f"f{i}"] = (f"p{i}." + im["mime"].split("/")[1], im["data"], im["mime"])
             self.api("sendMediaGroup", {"chat_id": self.chat_id, "media": media}, files)
         head = LABEL.get(draft["category"], "📰 Tin tức")
-        if draft.get("urgent") and draft["category"] != "khan":
+        if draft.get("urgent"):
             head = "🚨 KHẨN · " + head
+        elif draft.get("priority") == "hot":
+            head = "🔥 HOT · " + head
         lines = [f"{head}  ·  {draft['site']}  ·  {len(images)} ảnh"]
         if draft["flags"]:
             lines.append("⚠️ CẦN XEM KỸ:\n- " + "\n- ".join(draft["flags"]))
