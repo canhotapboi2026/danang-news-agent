@@ -157,6 +157,8 @@
   }
  },
  "fail": {
+  "news.google.com/rss/articles/CBMi0gFBVV95cUxQX0RCZHpKRm1zeDMxV3hiRS1abG50NHdQSkFQbEVJUjhaSlFBRUtyUVNrbF9NWGd3elNnYngzRHN1RTB3YmxpWXF3V1hwTVVJZFBOREUyRF90T3VDTXZIczFabDlsQTJZWkZsYjZwMVBXTUdwNFhlYUNSSlV1NHdpQWp6QzBXQmt0UE95MzNaM194YkVJUzNROThXNFdlaHVhV1ZyeDhiM0dOTmFaWjJsN1M0RDdzWWM1ajB6b2t2NHpqWmY4Umx1dFU2a0VvYngwWUE?oc=5": 1,
+  "news.google.com/rss/articles/CBMifEFVX3lxTE1jMEhXRUl4cVpEWlc0X3FZa1BUblhQSGMyLWlWS1lNSG9GczlFUEtEOW5hR3h0T1FtbkpVWVJyTDZza3NXYlpKcDFsMmdaV0x3eC1qRWx4NTBjX2dUbDEtWTd1bFp5ZWRZUUVMaDhGREJXVng4N1lfR1kxeDI?oc=5": 1,
   "news.google.com/rss/articles/CBMimAFBVV95cUxQTWR6dDEweDEyelR3WkxhUGwwLUQxTU4wbmJDc3ByRnMtNkE0ZGtkZGQ0S295cXRzdEYxTnozS2dCT2M4QkJNbGdaTGxhdFpLdEdfUVd6S29WMS02OXJHN2gycVBvOGxnSzRYZUJ2NlFDbWgza0E2dzA2Sy1ROTZfYXRWOHlYSDlhbFlDQ05UUjZTQmZMdzRLRA?oc=5": 1,
   "thanhnien.vn/cong-an-vuot-diem-sat-lo-dua-luong-thuc-den-vung-bi-co-lap-o-da-nang-1852611112043388.htm": 1,
   "tuoitre.vn/san-phu-sinh-non-be-gai-17kg-tren-duong-chuyen-vien-giua-luc-mua-lon-100261111180138734.htm": 1
@@ -1662,6 +1664,22 @@
    ],
    "url": "https://nguoiquansat.vn/da-nang-lap-to-cong-tac-dac-biet-thuc-tien-do-sieu-cang-2-ty-usd-nam-sat-dai-du-an-hai-van-bay-cua-vingroup-327585.html"
   },
+  "news.google.com/rss/articles/CBMiigFBVV95cUxQQlpDeGU4cjJsZ1hod2JBeUZPUkdkbWhmdGM4eWEtMU5zZnc1a0FJWXE4eENUNEVNY0VHWmt6Y3ZHQmxpWlc1S3FEVElweVRuU1ZZU2xpRjJJR2lLUlpqbXZ2N3FnSm1zb1ZyV2d0U0x0bmFJMXY1UWNVYk9oOVBjemVHcThyNGxPeGc?oc=5": {
+   "lead": [],
+   "t": 1794411305,
+   "title": [
+    "24c",
+    "khac",
+    "khan",
+    "nang",
+    "phuc",
+    "quoc",
+    "sat",
+    "truong",
+    "tuyen"
+   ],
+   "url": "https://www.vietnam.vn/da-nang-khan-truong-khac-phuc-sat-lo-tren-tuyen-quoc-lo-24c"
+  },
   "news.google.com/rss/articles/CBMimAFBVV95cUxQTWR6dDEweDEyelR3WkxhUGwwLUQxTU4wbmJDc3ByRnMtNkE0ZGtkZGQ0S295cXRzdEYxTnozS2dCT2M4QkJNbGdaTGxhdFpLdEdfUVd6S29WMS02OXJHN2gycVBvOGxnSzRYZUJ2NlFDbWgza0E2dzA2Sy1ROTZfYXRWOHlYSDlhbFlDQ05UUjZTQmZMdzRLRA?oc=5": {
    "lead": [],
    "t": 1794410726,
@@ -3023,6 +3041,23 @@
    ],
    "url": "https://thanhnien.vn/truc-tiep-doi-tuyen-viet-nam-dai-loan-chan-sut-nhap-tich-olaha-manh-duc-toa-sang-185261111152608511.htm"
   },
+  "thanhnien.vn/truyen-thong-dong-nam-a-olaha-manh-duc-ra-mat-nhu-mo-cung-doi-tuyen-viet-nam-185261111222312708.htm": {
+   "lead": [],
+   "t": 1794411305,
+   "title": [
+    "doi",
+    "dong",
+    "duc",
+    "manh",
+    "mat",
+    "olaha",
+    "thong",
+    "truyen",
+    "tuyen",
+    "viet"
+   ],
+   "url": "https://thanhnien.vn/truyen-thong-dong-nam-a-olaha-manh-duc-ra-mat-nhu-mo-cung-doi-tuyen-viet-nam-185261111222312708.htm"
+  },
   "thanhnien.vn/vinfast-ban-bao-nhieu-o-to-dien-sau-10-thang-dau-nam-2026-185261111161857418.htm": {
    "lead": [],
    "t": 1794409543,
@@ -3216,6 +3251,47 @@
     "vuc"
    ],
    "url": "https://tuoitre.vn/cac-vien-kiem-sat-nhan-dan-khu-vuc-khoi-kien-dan-su-18-vu-cham-dong-bhxh-o-tphcm-100261111174328127.htm"
+  },
+  "tuoitre.vn/can-tien-tra-no-2-me-con-o-ca-mau-tu-ngam-toi-roi-dung-chuyen-bi-bo-bua-cuop-het-vang-100261111203743481.htm": {
+   "lead": [],
+   "t": 1794411305,
+   "title": [
+    "2",
+    "bua",
+    "can",
+    "chuyen",
+    "cuop",
+    "dung",
+    "het",
+    "mau",
+    "ngam",
+    "roi",
+    "tien",
+    "toi",
+    "tra",
+    "vang"
+   ],
+   "url": "https://tuoitre.vn/can-tien-tra-no-2-me-con-o-ca-mau-tu-ngam-toi-roi-dung-chuyen-bi-bo-bua-cuop-het-vang-100261111203743481.htm"
+  },
+  "tuoitre.vn/canh-bao-danh-bom-lan-rong-khap-chau-au-300-truong-hoc-tai-y-so-tan-khan-100261111212043007.htm": {
+   "lead": [],
+   "t": 1794411305,
+   "title": [
+    "300",
+    "bao",
+    "bom",
+    "canh",
+    "chau",
+    "danh",
+    "hoc",
+    "khan",
+    "khap",
+    "lan",
+    "rong",
+    "tan",
+    "truong"
+   ],
+   "url": "https://tuoitre.vn/canh-bao-danh-bom-lan-rong-khap-chau-au-300-truong-hoc-tai-y-so-tan-khan-100261111212043007.htm"
   },
   "tuoitre.vn/cau-thu-viet-kieu-croatia-ghi-ban-u19-viet-nam-van-thua-trung-quoc-100261111204207164.htm": {
    "lead": [],
@@ -3461,6 +3537,25 @@
     "xay"
    ],
    "url": "https://tuoitre.vn/hang-mi-ga-cay-samyang-dau-tu-hon-4000-ti-dong-xay-nha-may-tai-viet-nam-100261111195737752.htm"
+  },
+  "tuoitre.vn/hlv-kim-sang-sik-noi-gi-sau-tran-tuyen-viet-nam-thang-dai-bac-trung-hoa-100261111212243588.htm": {
+   "lead": [],
+   "t": 1794411305,
+   "title": [
+    "bac",
+    "dai",
+    "hlv",
+    "hoa",
+    "kim",
+    "noi",
+    "sang",
+    "sik",
+    "tran",
+    "trung",
+    "tuyen",
+    "viet"
+   ],
+   "url": "https://tuoitre.vn/hlv-kim-sang-sik-noi-gi-sau-tran-tuyen-viet-nam-thang-dai-bac-trung-hoa-100261111212243588.htm"
   },
   "tuoitre.vn/hlv-park-hang-seo-nhan-an-phat-tai-thai-lan-du-bi-miet-thi-100261111181226666.htm": {
    "lead": [],
@@ -3742,6 +3837,24 @@
    ],
    "url": "https://tuoitre.vn/pho-chu-tich-thuong-truc-quoc-hoi-do-van-chien-suc-manh-dai-doan-ket-bat-dau-tu-moi-gia-dinh-100261111181941801.htm"
   },
+  "tuoitre.vn/phu-nhan-ngo-phuong-ly-tham-cac-cu-cao-tuoi-tai-vien-duong-lao-nhat-100261111203633734.htm": {
+   "lead": [],
+   "t": 1794411305,
+   "title": [
+    "cao",
+    "duong",
+    "lao",
+    "ngo",
+    "nhan",
+    "nhat",
+    "phu",
+    "phuong",
+    "tham",
+    "tuoi",
+    "vien"
+   ],
+   "url": "https://tuoitre.vn/phu-nhan-ngo-phuong-ly-tham-cac-cu-cao-tuoi-tai-vien-duong-lao-nhat-100261111203633734.htm"
+  },
   "tuoitre.vn/pubg-bao-cao-ket-qua-kinh-doanh-bat-ngo-sau-an-cam-phi-ly-cho-himass-va-tanvuu-100261111195701547.htm": {
    "lead": [],
    "t": 1794409543,
@@ -3984,6 +4097,22 @@
     "viet"
    ],
    "url": "https://tuoitre.vn/tuan-le-thoi-trang-viet-nam-quoc-te-mao-hiem-mo-man-bang-ba-nha-thiet-ke-tre-100261111204636669.htm"
+  },
+  "tuoitre.vn/video-ban-thang-dau-tien-cua-olaha-manh-duc-cho-tuyen-viet-nam-100261111214454046.htm": {
+   "lead": [],
+   "t": 1794411305,
+   "title": [
+    "ban",
+    "dau",
+    "duc",
+    "manh",
+    "olaha",
+    "tien",
+    "tuyen",
+    "video",
+    "viet"
+   ],
+   "url": "https://tuoitre.vn/video-ban-thang-dau-tien-cua-olaha-manh-duc-cho-tuyen-viet-nam-100261111214454046.htm"
   },
   "tuoitre.vn/vu-be-gai-nguoi-viet-13-tuoi-bi-sat-hai-o-duc-nghi-pham-da-chet-100261111192508999.htm": {
    "lead": [],
