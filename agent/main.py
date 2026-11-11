@@ -233,10 +233,15 @@ def process_item(ctx, src, it):
         return
 
     cat = res.get("category") if res.get("category") in editor.CATEGORIES else "khac"
+    prio = res.get("priority") if res.get("priority") in ("khan", "hot", "thuong") else "thuong"
+    if cat == "khan" and prio != "khan":
+        cat = "khac"  # nhãn khẩn chỉ do priority quyết định
+    if prio == "khan":
+        cat = cat if cat != "khan" else "khac"
     d = {
         "id": util.sha(art["url"], 8), "url": art["url"], "title": art["title"], "site": art["site"],
         "caption": editor.final_caption(ctx.cfg, res, art), "images": [i["url"] for i in imgs],
-        "category": cat, "urgent": bool(res.get("urgent")) or cat == "khan",
+        "category": cat, "priority": prio, "urgent": prio == "khan",
         "flags": res["flags"], "created": ctx.now, "status": "pending", "source": src["name"],
     }
     auto = (s["publish_mode"] == "auto" and src.get("auto_ok", False) and not d["flags"])
