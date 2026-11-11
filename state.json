@@ -243,6 +243,7 @@
   "news.google.com/rss/articles/CBMiswFBVV95cUxNY043ZXRRU1owOEhtTXNDaEduemdIczBfRHpodUYyN3VBYjZWM1UtSG9FSkZXeHlyM1dsZ1RUU19Rdk9tbE1sNjBtQXJ5djhiZ0hEcDAzRmZ6OXV5dXFYUGRrQzJaRHVXS1FZWlR6MWVBZnczYkJUVk9KYzRnS2MzcFBwSksyYU5OOWJJRkVXTjZzaWdMdlhPbUk5Mm42aDMyS2c3U2Ewbm9pN0sxckRyanhoaw?oc=5": 1,
   "news.google.com/rss/articles/CBMivAFBVV95cUxPZVBSN2JwVEkzbDVCY3VOb21OMDJsaFhZaHJhTkJsaGYzb00tT2VlMEZMd0haemNaS0dJakVUQ0RBaGNiVHRJS2pxMW9TVzNwWXhicVhlNjh2NG4zTXQ4MkxWNXN1MHdjbG9WOGstNS1PQ2NWQ3IwRHM0OGw4SWtVTmpBbU5IdzZxaUh2MTdKTEtsZ2hIajQwdVdra0FqaUpTWmhtdDVRY2FjaVBtTENYSDR1R1YyV0lwNXhzcQ?oc=5": 1,
   "thanhnien.vn/cong-an-vuot-diem-sat-lo-dua-luong-thuc-den-vung-bi-co-lap-o-da-nang-1852611112043388.htm": 1,
+  "tuoitre.vn/phong-toa-hien-truong-tam-giu-nghi-pham-sat-hai-co-gai-roi-chon-o-bai-dat-trong-100261112004141822.htm": 1,
   "tuoitre.vn/san-phu-sinh-non-be-gai-17kg-tren-duong-chuyen-vien-giua-luc-mua-lon-100261111180138734.htm": 1
  },
  "posted_captions": [],
@@ -1739,6 +1740,21 @@
    ],
    "url": "https://dantri.com.vn/thoi-su/thuy-dien-song-ba-ha-du-kien-xa-tran-sang-1211-20261111163823906.htm"
   },
+  "dantri.com.vn/thoi-su/tong-thong-chile-va-phu-nhan-sap-tham-viet-nam-20261111212802974.htm": {
+   "lead": [],
+   "t": 1794426247,
+   "title": [
+    "chile",
+    "nhan",
+    "phu",
+    "sap",
+    "tham",
+    "thong",
+    "tong",
+    "viet"
+   ],
+   "url": "https://dantri.com.vn/thoi-su/tong-thong-chile-va-phu-nhan-sap-tham-viet-nam-20261111212802974.htm"
+  },
   "dantri.com.vn/thoi-su/yeu-cau-som-dong-duong-dan-sinh-cat-ngang-cao-toc-bien-hoa-vung-tau-20261111182122415.htm": {
    "lead": [],
    "t": 1794409543,
@@ -1979,6 +1995,39 @@
    ],
    "url": "https://baodanang.vn/da-nang-khan-truong-khac-phuc-sat-lo-tren-tuyen-quoc-lo-24c-3358199.html"
   },
+  "news.google.com/rss/articles/CBMiogFBVV95cUxPUVpVNF8xVGFjMmZ4cjFBcDFHT3NZTjBhaWRSTm1QOUdBQVVBbTVKcGFxaFM0MGJ4YzV4bUlBZVE3ei1PS2ZkM2l1cjB1UXVzY0ktd0dETHpsNGsycndlWHJpaXBpemNTX0FzZEEza2FrWFU5NW5aaWlJVjRvUjVDaTNub1M0RnItRzhHUldSeUtsdWVuZW1XbmR0OGN4SU90NGc?oc=5": {
+   "lead": [],
+   "t": 1794426247,
+   "title": [
+    "2026",
+    "gioi",
+    "hoi",
+    "kanagawa",
+    "nang",
+    "thao",
+    "thieu",
+    "tinh"
+   ],
+   "url": "https://tin.skydoor.net/news/giao-duc-hoi-thao-gioi-thieu-tinh-kanagawa-tai-da-nang-nam-2026-8427454"
+  },
+  "news.google.com/rss/articles/CBMiqAFBVV95cUxNOE8tNFhKTnM5TVkzeVR2SFpJckUwQWljbEpEeU1NUk41NEROR29VS19BQ2VQSjZmamlra3JwQkVOSGVudXJSSHFhVktXalNuaElYOGpLcG8wclJLMC1LbDU3YzY2VEdKN2E0T0c2M3RmZVEtQmZQNGlVRHFyNWpxSFVCanVfZmlKZkNrbXhKZE5WcTdrNVozOWVBYVA5VkZoNlg3MDgxOUI?oc=5": {
+   "lead": [],
+   "t": 1794426247,
+   "title": [
+    "000",
+    "10",
+    "69",
+    "dat",
+    "dia",
+    "dong",
+    "hon",
+    "nang",
+    "noi",
+    "thu",
+    "thue"
+   ],
+   "url": "https://thoibaotaichinhvietnam.vn/thue-tp-da-nang-thu-noi-dia-10-thang-dat-hon-69-000-ty-dong-206751.html"
+  },
   "news.google.com/rss/articles/CBMiqAFBVV95cUxNekVBckE5dmFkLV9pOElpU0lNX3p1QUZTQzFKbFhjZTZPVUg1TUhXVGJ0SnVTX29zYUdXU0FJd1JxOW81U3ROdzNFbWhzbk9VTllEYVhXal93dkVvaVhhbEE0aG9lc1VHSk5DQ1pRTmxuTlFzU0JwRkI1a0dpODZ4YXJKRFRPdVBsVW5IWUNVRlRIVkhIZEcydE1Mck5nTTFUXy0zOTBEd28?oc=5": {
    "lead": [],
    "t": 1794410997,
@@ -2085,6 +2134,25 @@
     "thuy"
    ],
    "url": "https://dantri.com.vn/thoi-su/cac-ho-thuy-dien-o-da-nang-co-duoc-giai-khat-trong-dot-mua-nay-20261111173545895.htm"
+  },
+  "news.google.com/rss/articles/CBMitAFBVV95cUxPejYxeE5NWWsxS1ppZG1QVzhCV1pVUE43QVFhdVhhOXM0dm14OVIwUVQxbHVQbkJjNXRDMnQ4a1BjSGZOdi1VWWpCSF9pRHV6SFc1NkxBemNFWVhIbGlkaFBTeXkwNy1YZ1VjT296MF9iSUFPTHE2Q2kxbV9KSXpkOVlXQWRiN2FsMl9nMGlfTWw2OTNsMkJmbWRTTGVqRlBfZEVUME1DS05LeFlPNmowZ0s3Um0?oc=5": {
+   "lead": [],
+   "t": 1794426247,
+   "title": [
+    "289",
+    "gia",
+    "hang",
+    "huu",
+    "lien",
+    "nang",
+    "pham",
+    "quan",
+    "quyen",
+    "tri",
+    "tue",
+    "xam"
+   ],
+   "url": "https://thuonghieucongluan.com.vn/da-nang-xu-ly-289-vu-lien-quan-hang-gia-xam-pham-quyen-so-huu-tri-tue-v2452.html"
   },
   "news.google.com/rss/articles/CBMitwFBVV95cUxOdTJMaWdfTEFvWFpUb0pUbUUtWUVpSUNCb213X01IMXBKRkpTcEV0Nkl2RUp0bGZhY2JUX2xYZ0N2djJMQ3I3NHVrLXRma0tDRkptMnlMdlN0M0k0c1lNaHk4aTNJTXZVWmhqc3otMXR6RnBWNTYwdUJLT25ia3NrOUdLVHdwbWowUlM4akl3MUZFdDNreXhLOTltM2V5RVE4Z0djcEpjdnc0M3d2RnF5WkpXeWY1b3M?oc=5": {
    "lead": [],
@@ -3861,6 +3929,27 @@
    ],
    "url": "https://tuoitre.vn/chro-2026-hoi-nghi-quoc-te-ve-vi-khuan-duong-tieu-hoa-100261111155900538.htm"
   },
+  "tuoitre.vn/chu-tich-hoi-dong-lien-bang-nga-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-100261111233119965.htm": {
+   "lead": [],
+   "t": 1794426247,
+   "title": [
+    "bang",
+    "bat",
+    "chinh",
+    "chu",
+    "dau",
+    "dong",
+    "hoi",
+    "lien",
+    "nga",
+    "noi",
+    "tham",
+    "thuc",
+    "tich",
+    "viet"
+   ],
+   "url": "https://tuoitre.vn/chu-tich-hoi-dong-lien-bang-nga-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-100261111233119965.htm"
+  },
   "tuoitre.vn/cocolux-loreal-paris-va-14-casper-mang-am-nhac-den-khong-gian-mua-sam-100261111165454967.htm": {
    "lead": [],
    "t": 1794409543,
@@ -4459,6 +4548,29 @@
     "vien"
    ],
    "url": "https://tuoitre.vn/phu-nhan-ngo-phuong-ly-tham-cac-cu-cao-tuoi-tai-vien-duong-lao-nhat-100261111203633734.htm"
+  },
+  "tuoitre.vn/phuc-hoi-nhe-buoi-chieu-gia-vang-the-gioi-bat-ngo-giam-ve-4000-usd-ounce-100261112001222849.htm": {
+   "lead": [],
+   "t": 1794426247,
+   "title": [
+    "000",
+    "4",
+    "bat",
+    "buoi",
+    "chieu",
+    "gia",
+    "giam",
+    "gioi",
+    "hoi",
+    "ngo",
+    "nhe",
+    "ounce",
+    "phuc",
+    "the",
+    "usd",
+    "vang"
+   ],
+   "url": "https://tuoitre.vn/phuc-hoi-nhe-buoi-chieu-gia-vang-the-gioi-bat-ngo-giam-ve-4000-usd-ounce-100261112001222849.htm"
   },
   "tuoitre.vn/pubg-bao-cao-ket-qua-kinh-doanh-bat-ngo-sau-an-cam-phi-ly-cho-himass-va-tanvuu-100261111195701547.htm": {
    "lead": [],
