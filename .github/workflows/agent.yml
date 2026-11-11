@@ -1,0 +1,50 @@
+name: Agent tin tức Đà Nẵng
+
+on:
+  schedule:
+    # Repo PUBLIC: chạy miễn phí không giới hạn phút. 15 phút/lần.
+    # (Nếu dùng repo PRIVATE thì đổi thành "*/30 * * * *" để không vượt 2.000 phút/tháng.)
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Nhập 1 để chạy thử, KHÔNG đăng Facebook thật"
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-agent
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Chạy agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_ALLOWED_USER_IDS: ${{ secrets.TELEGRAM_ALLOWED_USER_IDS }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: python -m agent.main
+
+      - name: Lưu trạng thái (tránh đăng trùng ở lần sau)
+        if: always()
+        run: |
+          git config user.name "news-agent"
+          git config user.email "news-agent@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || (git commit -m "cập nhật trạng thái" && git push)
