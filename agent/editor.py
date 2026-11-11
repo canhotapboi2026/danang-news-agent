@@ -98,7 +98,7 @@ def call_gemini(env, model, system, blocks, max_tokens=1500):
     r = util.http(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                   method="POST", data=body,
                   headers={"x-goog-api-key": env["GEMINI_API_KEY"], "Content-Type": "application/json"},
-                  timeout=90, retries=1)
+                  timeout=60, retries=0)
     data = r.json()
     cands = data.get("candidates") or []
     if not cands:
@@ -107,14 +107,28 @@ def call_gemini(env, model, system, blocks, max_tokens=1500):
     return "".join(p.get("text", "") for p in cands[0].get("content", {}).get("parts", []))
 
 
+RETRYABLE = (0, 404, 429, 500, 502, 503, 504)
+
+
 def call_llm(cfg, env, system, blocks):
     s = cfg["settings"]
     _throttle(s.get("llm_min_interval_seconds", 0))
     if s.get("provider", "gemini") == "anthropic":
         model = env.get("CLAUDE_MODEL") or s.get("model_anthropic", "claude-sonnet-5-5")
         return call_claude(env, model, system, blocks)
-    model = env.get("GEMINI_MODEL") or s.get("model_gemini", "gemini-3.8-flash")
-    return call_gemini(env, model, system, blocks)
+    # Gemini: thử model chính, nếu quá tải (503/429...) hoặc không tồn tại (404) thì sang model dự phòng
+    models = [env.get("GEMINI_MODEL") or s.get("model_gemini", "gemini-3.5-flash")]
+    models += [m for m in s.get("model_gemini_fallbacks", []) if m not in models]
+    last = None
+    for m in models:
+        try:
+            return call_gemini(env, m, system, blocks)
+        except util.HttpError as e:
+            last = e
+            if e.status not in RETRYABLE:
+                raise
+            util.log(f"Gemini model {m} lỗi HTTP {e.status}, thử model dự phòng")
+    raise last
 
 
 def parse_json(text):

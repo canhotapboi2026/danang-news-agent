@@ -30,7 +30,13 @@
       "sốc",
       "bê bối",
       "phốt"
-    ]
+    ],
+    "model_gemini_fallbacks": [
+      "gemini-3.6-flash",
+      "gemini-3.5-flash-lite",
+      "gemini-flash-latest"
+    ],
+    "max_new_per_source": 3
   },
   "keywords": [
     "Đà Nẵng",
@@ -88,5 +94,16 @@
       "enabled": false,
       "auto_ok": true
     }
+  ],
+  "block_keywords": [
+    "xổ số",
+    "xsdna",
+    "xs đà nẵng",
+    "soi cầu",
+    "lô đề",
+    "cá độ",
+    "nhà cái",
+    "tử vi",
+    "bói toán"
   ]
 }

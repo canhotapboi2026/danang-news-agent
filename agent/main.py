@@ -22,7 +22,7 @@ class Ctx:
         self.s = cfg["settings"]
         self.dry_run = env.get("DRY_RUN") == "1" or not fb.enabled
         self.stats = {k: 0 for k in (
-            "sources_ok", "sources_error", "processed", "off_topic", "duplicates", "unresolved",
+            "sources_ok", "sources_error", "processed", "blocked", "off_topic", "duplicates", "unresolved",
             "no_image", "too_short", "errors", "sent_for_review", "auto_posted", "queued",
             "posted", "dry_posted", "rejected", "expired")}
 
@@ -165,6 +165,10 @@ def process_item(ctx, src, it):
     if raw_key in ctx.state["seen"]:
         return
     kws = src.get("require_keywords") or ctx.cfg["keywords"]
+    if matches_keywords(it["title"], ctx.cfg.get("block_keywords", [])):
+        mark_light(ctx, raw_key, it["link"], it["title"])
+        ctx.stats["blocked"] += 1
+        return
     if src.get("prefilter", True) and not matches_keywords(it["title"] + " " + it["summary"], kws):
         mark_light(ctx, raw_key, it["link"], it["title"])
         ctx.stats["off_topic"] += 1
@@ -269,8 +273,11 @@ def run_source(ctx, src):
     cutoff = ctx.now - ctx.s["max_age_hours"] * HOUR
     fresh = [i for i in items if (i["published"] or ctx.now) >= cutoff]
     fresh.sort(key=lambda i: i["published"] or 0, reverse=True)
+    start = ctx.stats["processed"]
+    per_src = ctx.s.get("max_new_per_source", ctx.s["max_new_per_run"])
     for it in fresh:
-        if ctx.stats["processed"] >= ctx.s["max_new_per_run"]:
+        done = ctx.stats["processed"] - start
+        if ctx.stats["processed"] >= ctx.s["max_new_per_run"] or done >= per_src:
             break
         process_item(ctx, src, it)
 
