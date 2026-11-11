@@ -1,0 +1,92 @@
+{
+  "page_name": "Bản tin về Đà Nẵng",
+  "voice": "Giọng gần gũi, nhanh gọn như người trong thành phố kể cho bà con, không cứng nhắc. Cấu trúc: (1) một câu mở đầu nêu ngay điều bà con cần biết, gợi tò mò vừa đủ để muốn đọc tiếp nhưng KHÔNG giật gân, KHÔNG nói quá; (2) 1-2 câu chi tiết chính (ở đâu, khi nào, ảnh hưởng gì); (3) một câu chốt tự nhiên, có thể là câu hỏi mở để bà con chia sẻ ý kiến hoặc kinh nghiệm (ví dụ: Bà con khu vực này thấy sao?). Không được xin like/share/bình luận trực tiếp. Dùng tối đa 1-2 emoji. Với tin buồn hoặc nghiêm trọng (tai nạn, thiên tai, tìm người mất tích): giọng trang nghiêm, KHÔNG emoji vui, KHÔNG câu hỏi gợi tương tác, chỉ nêu thông tin cần thiết.",
+  "settings": {
+    "publish_mode": "approve",
+    "provider": "gemini",
+    "model_gemini": "gemini-3.8-flash",
+    "model_anthropic": "claude-sonnet-5-5",
+    "llm_min_interval_seconds": 7,
+    "check_images": true,
+    "max_age_hours": 6,
+    "max_new_per_run": 8,
+    "max_posts_per_day": 10,
+    "min_gap_minutes": 20,
+    "pending_ttl_hours": 12,
+    "urgent_ttl_hours": 3,
+    "max_images": 4,
+    "min_image_bytes": 8000,
+    "min_text_chars": 400,
+    "max_copy_words": 12,
+    "max_caption_words": 70,
+    "base_hashtags": [
+      "DaNang"
+    ],
+    "flag_words": [
+      "clip nóng",
+      "kinh hoàng",
+      "thảm khốc",
+      "đẫm máu",
+      "sốc",
+      "bê bối",
+      "phốt"
+    ]
+  },
+  "keywords": [
+    "Đà Nẵng",
+    "Sơn Trà",
+    "Hải Châu",
+    "Thanh Khê",
+    "Liên Chiểu",
+    "Ngũ Hành Sơn",
+    "Cẩm Lệ",
+    "Hòa Vang",
+    "Hải Vân",
+    "Bà Nà"
+  ],
+  "sources": [
+    {
+      "name": "Google News - Đà Nẵng",
+      "type": "google_news",
+      "url": "https://news.google.com/rss/search?q=%22%C4%90%C3%A0+N%E1%BA%B5ng%22+when:1d&hl=vi&gl=VN&ceid=VN:vi",
+      "enabled": true,
+      "prefilter": false,
+      "auto_ok": false
+    },
+    {
+      "name": "Tuổi Trẻ - Tin mới nhất",
+      "type": "rss",
+      "url": "https://tuoitre.vn/rss/tin-moi-nhat.rss",
+      "enabled": true,
+      "auto_ok": true
+    },
+    {
+      "name": "VnExpress - Tin mới nhất",
+      "type": "rss",
+      "url": "https://vnexpress.net/rss/tin-moi-nhat.rss",
+      "enabled": true,
+      "auto_ok": true
+    },
+    {
+      "name": "Thanh Niên - Trang chủ",
+      "type": "rss",
+      "url": "https://thanhnien.vn/rss/home.rss",
+      "enabled": true,
+      "auto_ok": true
+    },
+    {
+      "name": "Dân trí - Trang chủ",
+      "type": "rss",
+      "url": "https://dantri.com.vn/rss/home.rss",
+      "enabled": true,
+      "auto_ok": true
+    },
+    {
+      "name": "Báo Đà Nẵng",
+      "type": "rss",
+      "url": "DÁN_URL_RSS_BÁO_ĐÀ_NẴNG_VÀO_ĐÂY",
+      "enabled": false,
+      "auto_ok": true
+    }
+  ]
+}
