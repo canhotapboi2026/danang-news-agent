@@ -29,7 +29,10 @@ CHỈ TRẢ VỀ MỘT ĐỐI TƯỢNG JSON, không có chữ nào khác:
 {{
  "relevant": true/false,
  "category": một trong {cats},
- "urgent": true/false  (tìm người/mất tích, tai nạn nghiêm trọng, thiên tai, cúp điện/nước diện rộng sắp diễn ra, cấm đường, cảnh báo an toàn),
+ "priority": "khan" | "hot" | "thuong",
+   - "khan": CHỈ khi cần người đọc biết NGAY trong vài giờ: tìm người/mất tích, tai nạn nghiêm trọng vừa xảy ra, cúp điện/nước diện rộng sắp diễn ra, cấm đường, cảnh báo lũ/sạt lở/bão. Tin tổng hợp, cập nhật sau sự việc, tin cứu hộ đã xong thì KHÔNG phải "khan".
+   - "hot": tin lớn, đang được quan tâm nhiều (dự án, chính sách, sự kiện lớn, vụ việc gây chú ý) nhưng không cần đọc ngay.
+   - "thuong": mọi tin còn lại. Đa số tin phải là "thuong".
  "style": "tom_tat" | "phan_tich" | "voice",
  "caption": "nội dung caption (không gồm nguồn, không gồm hashtag)",
  "hashtags": ["tối đa 3 hashtag không dấu cách, không có ký tự #"],
