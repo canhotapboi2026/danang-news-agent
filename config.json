@@ -4,7 +4,7 @@
   "settings": {
     "publish_mode": "approve",
     "provider": "gemini",
-    "model_gemini": "gemini-3.8-flash",
+    "model_gemini": "gemini-3.5-flash",
     "model_anthropic": "claude-sonnet-5-5",
     "llm_min_interval_seconds": 7,
     "check_images": true,
