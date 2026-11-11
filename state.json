@@ -35,7 +35,7 @@
    ],
    "site": "Báo Thanh Niên",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 33,
    "title": "Công an vượt điểm sạt lở, đưa lương thực đến vùng bị cô lập ở Đà Nẵng",
    "urgent": true,
@@ -91,7 +91,7 @@
    ],
    "site": "Báo Giáo dục và Thời đại Online",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 6,
    "title": "Đà Nẵng di dời 122 người dân, kịp thời cứu trợ sản phụ sinh non giữa mưa lũ",
    "urgent": true,
@@ -111,7 +111,7 @@
    ],
    "site": "Báo điện tử Dân trí",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 11,
    "title": "Các hồ thủy điện ở Đà Nẵng có được “giải khát” trong đợt mưa này?",
    "urgent": true,
@@ -208,7 +208,7 @@
    ],
    "site": "Báo và phát thanh, truyền hình Đà Nẵng",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 28,
    "title": "Đà Nẵng: Khẩn trương khắc phục sạt lở trên tuyến Quốc lộ 24C",
    "urgent": true,
@@ -228,7 +228,7 @@
    ],
    "site": "Báo điện tử Dân trí",
    "source": "Dân trí - Trang chủ",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 21,
    "title": "Căng dây vượt dòng lũ, cõng ông lão 70 tuổi vượt đường rừng về nhà",
    "urgent": true,
@@ -237,10 +237,11 @@
  },
  "fail": {
   "news.google.com/rss/articles/CBMi0gFBVV95cUxQX0RCZHpKRm1zeDMxV3hiRS1abG50NHdQSkFQbEVJUjhaSlFBRUtyUVNrbF9NWGd3elNnYngzRHN1RTB3YmxpWXF3V1hwTVVJZFBOREUyRF90T3VDTXZIczFabDlsQTJZWkZsYjZwMVBXTUdwNFhlYUNSSlV1NHdpQWp6QzBXQmt0UE95MzNaM194YkVJUzNROThXNFdlaHVhV1ZyeDhiM0dOTmFaWjJsN1M0RDdzWWM1ajB6b2t2NHpqWmY4Umx1dFU2a0VvYngwWUE?oc=5": 1,
-  "news.google.com/rss/articles/CBMifEFVX3lxTE1jMEhXRUl4cVpEWlc0X3FZa1BUblhQSGMyLWlWS1lNSG9GczlFUEtEOW5hR3h0T1FtbkpVWVJyTDZza3NXYlpKcDFsMmdaV0x3eC1qRWx4NTBjX2dUbDEtWTd1bFp5ZWRZUUVMaDhGREJXVng4N1lfR1kxeDI?oc=5": 1,
+  "news.google.com/rss/articles/CBMifEFVX3lxTE1jMEhXRUl4cVpEWlc0X3FZa1BUblhQSGMyLWlWS1lNSG9GczlFUEtEOW5hR3h0T1FtbkpVWVJyTDZza3NXYlpKcDFsMmdaV0x3eC1qRWx4NTBjX2dUbDEtWTd1bFp5ZWRZUUVMaDhGREJXVng4N1lfR1kxeDI?oc=5": 2,
   "news.google.com/rss/articles/CBMimAFBVV95cUxPR0oyblBCTE9WaW1ob0dGcmNFZHVyOFA5eDZVS3RlVmUwb0dnUHF0T2YyUUozVmdzQ1hoVmQ3blByZTZCSG11SGpBSl8teHV6VF8yQXJoQ2kzYjVuZ0Nwc3VobTZzQU9YRnJXRnZlN0U3dXNnZklMNUg3R0hTeHpGTi10R0g5T294QWtDNzljYjVHLVNZSGNYYg?oc=5": 1,
   "news.google.com/rss/articles/CBMimAFBVV95cUxQTWR6dDEweDEyelR3WkxhUGwwLUQxTU4wbmJDc3ByRnMtNkE0ZGtkZGQ0S295cXRzdEYxTnozS2dCT2M4QkJNbGdaTGxhdFpLdEdfUVd6S29WMS02OXJHN2gycVBvOGxnSzRYZUJ2NlFDbWgza0E2dzA2Sy1ROTZfYXRWOHlYSDlhbFlDQ05UUjZTQmZMdzRLRA?oc=5": 1,
   "news.google.com/rss/articles/CBMiswFBVV95cUxNY043ZXRRU1owOEhtTXNDaEduemdIczBfRHpodUYyN3VBYjZWM1UtSG9FSkZXeHlyM1dsZ1RUU19Rdk9tbE1sNjBtQXJ5djhiZ0hEcDAzRmZ6OXV5dXFYUGRrQzJaRHVXS1FZWlR6MWVBZnczYkJUVk9KYzRnS2MzcFBwSksyYU5OOWJJRkVXTjZzaWdMdlhPbUk5Mm42aDMyS2c3U2Ewbm9pN0sxckRyanhoaw?oc=5": 1,
+  "news.google.com/rss/articles/CBMivAFBVV95cUxPZVBSN2JwVEkzbDVCY3VOb21OMDJsaFhZaHJhTkJsaGYzb00tT2VlMEZMd0haemNaS0dJakVUQ0RBaGNiVHRJS2pxMW9TVzNwWXhicVhlNjh2NG4zTXQ4MkxWNXN1MHdjbG9WOGstNS1PQ2NWQ3IwRHM0OGw4SWtVTmpBbU5IdzZxaUh2MTdKTEtsZ2hIajQwdVdra0FqaUpTWmhtdDVRY2FjaVBtTENYSDR1R1YyV0lwNXhzcQ?oc=5": 1,
   "thanhnien.vn/cong-an-vuot-diem-sat-lo-dua-luong-thuc-den-vung-bi-co-lap-o-da-nang-1852611112043388.htm": 1,
   "tuoitre.vn/san-phu-sinh-non-be-gai-17kg-tren-duong-chuyen-vien-giua-luc-mua-lon-100261111180138734.htm": 1
  },
@@ -1192,6 +1193,19 @@
    ],
    "url": "https://dantri.com.vn/tam-diem/tu-tam-nhin-chung-den-hop-tac-phat-trien-viet-nam-nhat-ban-20261111164217548.htm"
   },
+  "dantri.com.vn/the-gioi/dai-su-nga-tai-my-dot-ngot-qua-doi-20261112000940910.htm": {
+   "lead": [],
+   "t": 1794422079,
+   "title": [
+    "dai",
+    "doi",
+    "dot",
+    "nga",
+    "ngot",
+    "qua"
+   ],
+   "url": "https://dantri.com.vn/the-gioi/dai-su-nga-tai-my-dot-ngot-qua-doi-20261112000940910.htm"
+  },
   "dantri.com.vn/the-gioi/han-quoc-xe-buyt-tong-lien-hoan-32-phuong-tien-20261111202440275.htm": {
    "lead": [],
    "t": 1794409543,
@@ -1883,6 +1897,21 @@
     "tuyen"
    ],
    "url": "https://www.vietnam.vn/da-nang-tuyen-truyen-phap-luat-qua-phien-toa-gia-dinh"
+  },
+  "news.google.com/rss/articles/CBMiiAFBVV95cUxNLXIyVl9UVjFJNndwZkJzMHZod0p4VkZtc3BKZF84dEZyVy14cTJjMi15RE1GaE04U1ZnVXR0SFdSeVBtYW5wTnA3SmRKQ3gwT2I0aFZqMHMzOWtkZDM4Y3M4RmoxaE9rQ29YOEVUbXBoTUxwM1JDY1EtNjdHWk9OcVhHWWtEcjdS?oc=5": {
+   "lead": [],
+   "t": 1794422079,
+   "title": [
+    "113",
+    "chot",
+    "dat",
+    "hoi",
+    "khu",
+    "lam",
+    "nang",
+    "nha"
+   ],
+   "url": "https://cafef.vn/da-nang-chot-113-khu-dat-lam-nha-o-xa-hoi-188261111200430276.chn"
   },
   "news.google.com/rss/articles/CBMiigFBVV95cUxQQlpDeGU4cjJsZ1hod2JBeUZPUkdkbWhmdGM4eWEtMU5zZnc1a0FJWXE4eENUNEVNY0VHWmt6Y3ZHQmxpWlc1S3FEVElweVRuU1ZZU2xpRjJJR2lLUlpqbXZ2N3FnSm1zb1ZyV2d0U0x0bmFJMXY1UWNVYk9oOVBjemVHcThyNGxPeGc?oc=5": {
    "lead": [],
