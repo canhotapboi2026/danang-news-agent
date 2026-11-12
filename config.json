@@ -14,11 +14,11 @@
     "min_gap_minutes": 20,
     "pending_ttl_hours": 12,
     "urgent_ttl_hours": 3,
-    "max_images": 4,
+    "max_images": 5,
     "min_image_bytes": 8000,
     "min_text_chars": 400,
     "max_copy_words": 12,
-    "max_caption_words": 70,
+    "max_caption_words": 350,
     "base_hashtags": [
       "DaNang"
     ],
