@@ -781,7 +781,7 @@
    "priority": "thuong",
    "site": "vietnam.vn",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 98,
    "title": "PC Đà Nẵng có 05 công trình tham gia Giải thưởng Sáng tạo Khoa học và Công nghệ Việt Nam năm 2026",
    "urgent": false,
@@ -804,7 +804,7 @@
    "priority": "hot",
    "site": "Báo Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 118,
    "title": "Chủ tịch xã Trà Leng lái ô tô vượt sạt lở, đưa thai phụ đi sinh",
    "urgent": false,
@@ -1205,6 +1205,7 @@
   "news.google.com/rss/articles/CBMimAFBVV95cUxPR0oyblBCTE9WaW1ob0dGcmNFZHVyOFA5eDZVS3RlVmUwb0dnUHF0T2YyUUozVmdzQ1hoVmQ3blByZTZCSG11SGpBSl8teHV6VF8yQXJoQ2kzYjVuZ0Nwc3VobTZzQU9YRnJXRnZlN0U3dXNnZklMNUg3R0hTeHpGTi10R0g5T294QWtDNzljYjVHLVNZSGNYYg?oc=5": 1,
   "news.google.com/rss/articles/CBMimAFBVV95cUxQTWR6dDEweDEyelR3WkxhUGwwLUQxTU4wbmJDc3ByRnMtNkE0ZGtkZGQ0S295cXRzdEYxTnozS2dCT2M4QkJNbGdaTGxhdFpLdEdfUVd6S29WMS02OXJHN2gycVBvOGxnSzRYZUJ2NlFDbWgza0E2dzA2Sy1ROTZfYXRWOHlYSDlhbFlDQ05UUjZTQmZMdzRLRA?oc=5": 1,
   "news.google.com/rss/articles/CBMipgFBVV95cUxOUFhhNkJ1d0UxSjlLdXhfOU1TVzNpNXZWbEVtREF6a2VOaU1xSU82dGd5M3lGbTFibzgtRmwwVFFSbjN3b0RuUXB3b0llY2UzMDQteWJ4SWFGUzYxcjR5M0FGUjhzS1JBemtFT2F6aHZER2QwRUVtbXV1NU5pRl9CRWNRV3NULVdERkdDZjJ3bnJlNUxYaVMxX0w1eHE4N0JXRExhdi1B?oc=5": 1,
+  "news.google.com/rss/articles/CBMipgFBVV95cUxPMXhBY2NObzQzQWNrZDFtU01rTU1XNUhEVHY1QW4tQzd3S1FiU0R4ZnpRblpPeU1iUnhVcHQtX3ZscGFfaDBHaTdkeDFJUjZKc0xucmZLbF96S2JfMUhyMnh4NFhmUXEyWl9HNVhPLVRmR3FpdXhja1gtekliMFdPRElOcHlYVHgtSlNKNlVlRWFtVWRDLVdicWdkSjAtb1RsR0tSX2ZB?oc=5": 1,
   "news.google.com/rss/articles/CBMipgFBVV95cUxPYTJVcDBCUElpOHIxUUVRYXNJMllya1YzeGJ5Q3hVY0RqZGZmNklwY2NHSlh2U3RJMEVTVUltOWRsMkR6SHdETVJVQ2I3bzc2My1OcDduV0lTckc3VHU1WG1QUUpFSmRtSXNLclJPZGVPb0JJQ29zbzFLXzFVVEU3VjNsQWVFUFZ5blNHS3VGb1dmM21VbTZNNG1KSjdCeTc3MWIyV1FB?oc=5": 1,
   "news.google.com/rss/articles/CBMirAFBVV95cUxOVVJHc3FfVEhNM25ET3BuRXNfV1J6WFBqNmJDdi1HcGptbmUzRlFtZ0hPQXRDcjRQUW9ETDRQbW9fVnE4S0tZeDFIVjItTDRaS3ZuRnZieHBWamR3ODl3WGN4SC1MTEFxR3VtMXVaTFVsdUt1ME1tYVNBVWpiZWFlZHpTNmhiZmdvX1lKYkh0eHA4a2lSRWpEM1FqZTg5T1NRUHNraWpCN0pzZ3Iy?oc=5": 1,
   "news.google.com/rss/articles/CBMiswFBVV95cUxNY043ZXRRU1owOEhtTXNDaEduemdIczBfRHpodUYyN3VBYjZWM1UtSG9FSkZXeHlyM1dsZ1RUU19Rdk9tbE1sNjBtQXJ5djhiZ0hEcDAzRmZ6OXV5dXFYUGRrQzJaRHVXS1FZWlR6MWVBZnczYkJUVk9KYzRnS2MzcFBwSksyYU5OOWJJRkVXTjZzaWdMdlhPbUk5Mm42aDMyS2c3U2Ewbm9pN0sxckRyanhoaw?oc=5": 1,
@@ -9518,6 +9519,25 @@
    ],
    "url": "https://znews.vn/da-nang-khai-tru-ra-khoi-dang-mot-dang-vien-vi-pham-rat-nghiem-trong-post1695163.html"
   },
+  "news.google.com/rss/articles/CBMipgFBVV95cUxNU1J2RG1UMVlBaF9MZGZNalA1N0N1ZHBDTGZDVzRMdWhxYVVtWk1fM2RtVlFfOWYyZlllcW10cDU5VTFRa1NhWXB3SlJScmYwYnBhV01xVGhUaml6NWZQdV8zSGdzZThhdUhUR0N2U3F4ZHRJaUdrVkdKdHpaVk5PeXVrYTNsVnN0S2pmNWVhZTdoTi13aDNpcmo1dUh6X294azBheUtB?oc=5": {
+   "lead": [],
+   "t": 1794507664,
+   "title": [
+    "10",
+    "4",
+    "diem",
+    "dip",
+    "giang",
+    "moi",
+    "nang",
+    "sinh",
+    "thu",
+    "top",
+    "tuong",
+    "xep"
+   ],
+   "url": "https://tin.skydoor.net/news/du-lich-da-nang-xep-thu-4-trong-top-10-diem-den-ly-tuong-dip-giang-8429673"
+  },
   "news.google.com/rss/articles/CBMipgFBVV95cUxNdWZOMjgwUlZLTkgtSS0yUmljNFI1ejlBSG9MU0daRjYyTGtHa3BPSllMdWRSNHdGMXhidXM0eDVQcTFFSFBJNzg3VE1JYll3bTJSYm1GcWh0bjBwcTlWeXFuQXhpVFNsMndSTFRvSTNZU2dIbkVoOW5NaTF2RHo1bzNfSGtORmdSVVgwbDZjNkh1ci1oU0RaZXNrX1JqczlqUGNMVDVB?oc=5": {
    "lead": [],
    "t": 1794500418,
@@ -9626,6 +9646,12 @@
     "toc"
    ],
    "url": "https://tin.skydoor.net/news/nha-dat-da-nang-phe-duyet-loat-khu-tai-dinh-cu-phuc-vu-cao-toc-duong-8427562"
+  },
+  "news.google.com/rss/articles/CBMiqAFBVV95cUxQX2pOQmRMWGFhVGpReW5vcmVyV1o1X3JDZ1VuNzdNSkU5MjA2NzBsWkdBMVRLLVFpaUpVOXRkTm84a2dEVXdld2oyMEpSeHNDN2o2Q1hoUktYb254Ti13OVVvb0h6bG9yWGJCR3I4ZVMtLWVsUGUzNmFIZmtLVmh2VTNFNHZJQzBneEVpQk5nYnlGWXRiQ1F5cE1Xd0RETFVweURGZW9mLTU?oc=5": {
+   "lead": [],
+   "t": 1794507664,
+   "title": [],
+   "url": "https://laodong.vn/ban-tin/khac-phuc-sat-lo-tai-ban-dao-son-tra-da-nang-trong-dot-mua-keo-dai-1799433.ldo"
   },
   "news.google.com/rss/articles/CBMiqAFBVV95cUxQa1E5TjJsNUtQUGpwd3lIYXhRak1EX0ZxZURtWkhqMHI3UjZIcTJ2djd4TTdDMkFzODJqOEpSRTZRSWpNM3J1aGJuOTYtdXNMWlFRWjRaSWxhcVZ6REtJanNJQkZuYV8wQkRvV25WLXZkN1RxZlRsQ0JibEVPV3hUMU5yNm9UX3o3d1oyaENIVmNoekxSQmNNZG82c3ZwRlFKM0FDV1E0UzQ?oc=5": {
    "lead": [],
