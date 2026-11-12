@@ -152,7 +152,7 @@
    ],
    "site": "TUOI TRE ONLINE",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 38,
    "title": "Sản phụ sinh non bé gái 1,7kg trên đường chuyển viện giữa lúc mưa lớn",
    "urgent": false,
@@ -250,7 +250,7 @@
    ],
    "site": "Nguoiquansat.vn",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 26,
    "title": "Đà Nẵng lập tổ công tác đặc biệt, thúc tiến độ siêu cảng 2 tỷ USD nằm sát đại dự án Hải Vân Bay của Vingroup",
    "urgent": false,
@@ -321,6 +321,7 @@
   "news.google.com/rss/articles/CBMimAFBVV95cUxQTWR6dDEweDEyelR3WkxhUGwwLUQxTU4wbmJDc3ByRnMtNkE0ZGtkZGQ0S295cXRzdEYxTnozS2dCT2M4QkJNbGdaTGxhdFpLdEdfUVd6S29WMS02OXJHN2gycVBvOGxnSzRYZUJ2NlFDbWgza0E2dzA2Sy1ROTZfYXRWOHlYSDlhbFlDQ05UUjZTQmZMdzRLRA?oc=5": 1,
   "news.google.com/rss/articles/CBMipgFBVV95cUxPYTJVcDBCUElpOHIxUUVRYXNJMllya1YzeGJ5Q3hVY0RqZGZmNklwY2NHSlh2U3RJMEVTVUltOWRsMkR6SHdETVJVQ2I3bzc2My1OcDduV0lTckc3VHU1WG1QUUpFSmRtSXNLclJPZGVPb0JJQ29zbzFLXzFVVEU3VjNsQWVFUFZ5blNHS3VGb1dmM21VbTZNNG1KSjdCeTc3MWIyV1FB?oc=5": 1,
   "news.google.com/rss/articles/CBMiswFBVV95cUxNY043ZXRRU1owOEhtTXNDaEduemdIczBfRHpodUYyN3VBYjZWM1UtSG9FSkZXeHlyM1dsZ1RUU19Rdk9tbE1sNjBtQXJ5djhiZ0hEcDAzRmZ6OXV5dXFYUGRrQzJaRHVXS1FZWlR6MWVBZnczYkJUVk9KYzRnS2MzcFBwSksyYU5OOWJJRkVXTjZzaWdMdlhPbUk5Mm42aDMyS2c3U2Ewbm9pN0sxckRyanhoaw?oc=5": 1,
+  "news.google.com/rss/articles/CBMiuwFBVV95cUxPR3ZDWUQyUXg0VGdXdm14WXNmQVpSLXpkLUpHT0Y0eGZUS2MwaU9TNWRrd1FXd3VPYnZSSjdXQ2Q1eE9ZS3BQY1o2ZEpqcm9td2syOGtfcklIa0NQWXlqTFNyZm53UXdhM3ZrYlR6djlMMzBzNlpQX21QeWotWEI5MTRVYjNBaDlsZFhTekhVcEhhOVVEM1Nhc2UzZ0dmOWFBbEczRWpoaUZRSENWUVRGaGYwNTI3cW5sX2JN?oc=5": 1,
   "news.google.com/rss/articles/CBMivAFBVV95cUxPZVBSN2JwVEkzbDVCY3VOb21OMDJsaFhZaHJhTkJsaGYzb00tT2VlMEZMd0haemNaS0dJakVUQ0RBaGNiVHRJS2pxMW9TVzNwWXhicVhlNjh2NG4zTXQ4MkxWNXN1MHdjbG9WOGstNS1PQ2NWQ3IwRHM0OGw4SWtVTmpBbU5IdzZxaUh2MTdKTEtsZ2hIajQwdVdra0FqaUpTWmhtdDVRY2FjaVBtTENYSDR1R1YyV0lwNXhzcQ?oc=5": 1,
   "thanhnien.vn/cong-an-vuot-diem-sat-lo-dua-luong-thuc-den-vung-bi-co-lap-o-da-nang-1852611112043388.htm": 1,
   "tuoitre.vn/phong-toa-hien-truong-tam-giu-nghi-pham-sat-hai-co-gai-roi-chon-o-bai-dat-trong-100261112004141822.htm": 3,
@@ -507,6 +508,23 @@
     "truong"
    ],
    "url": "https://dantri.com.vn/ban-doc/ban-khoan-bo-quy-lop-co-lam-mat-su-gan-ket-giua-gia-dinh-va-nha-truong-20261112083912471.htm"
+  },
+  "dantri.com.vn/bat-dong-san/5-xu-huong-noi-that-du-bao-len-ngoi-nam-2027-cho-nha-dep-am-cung-20261111090731878.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "2027",
+    "5",
+    "bao",
+    "dep",
+    "huong",
+    "len",
+    "ngoi",
+    "nha",
+    "noi",
+    "that"
+   ],
+   "url": "https://dantri.com.vn/bat-dong-san/5-xu-huong-noi-that-du-bao-len-ngoi-nam-2027-cho-nha-dep-am-cung-20261111090731878.htm"
   },
   "dantri.com.vn/bat-dong-san/diamond-sky-tao-dau-an-voi-chinh-sach-mua-nha-trung-nha-20261111160633201.htm": {
    "lead": [],
@@ -774,6 +792,22 @@
    ],
    "url": "https://dantri.com.vn/doi-song/dieu-bat-ngo-ve-chang-trai-hung-yen-viet-game-chua-ngong-ln-gay-sot-20261111210134400.htm"
   },
+  "dantri.com.vn/doi-song/ha-noi-ben-trong-chung-cu-dai-thanh-nhieu-nguoi-ve-o-moi-biet-co-sai-pham-20261111183631119.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "ben",
+    "biet",
+    "chung",
+    "dai",
+    "moi",
+    "noi",
+    "pham",
+    "sai",
+    "thanh"
+   ],
+   "url": "https://dantri.com.vn/doi-song/ha-noi-ben-trong-chung-cu-dai-thanh-nhieu-nguoi-ve-o-moi-biet-co-sai-pham-20261111183631119.htm"
+  },
   "dantri.com.vn/doi-song/ong-chu-ban-khan-o-han-quoc-gay-sot-phai-thue-3-nhan-vien-an-ninh-bao-ve-20261111194708705.htm": {
    "lead": [],
    "t": 1794409543,
@@ -835,6 +869,27 @@
    ],
    "url": "https://dantri.com.vn/doi-song/tot-nghiep-dai-hoc-y-ha-noi-chang-trai-sang-lam-benh-vien-toi-chay-xe-om-20261111192450320.htm"
   },
+  "dantri.com.vn/dt360/chi-tram-trieu-trang-tri-quan-ca-phe-ruc-sang-don-giang-sinh-som-o-tphcm-20261112082810138.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "chi",
+    "don",
+    "giang",
+    "phe",
+    "quan",
+    "ruc",
+    "sang",
+    "sinh",
+    "som",
+    "tphcm",
+    "tram",
+    "trang",
+    "tri",
+    "trieu"
+   ],
+   "url": "https://dantri.com.vn/dt360/chi-tram-trieu-trang-tri-quan-ca-phe-ruc-sang-don-giang-sinh-som-o-tphcm-20261112082810138.htm"
+  },
   "dantri.com.vn/dt360/giai-cuu-tau-hang-trong-tai-hon-23600-tan-mac-can-tai-ep-hep-o-chan-may-20261111151501586.htm": {
    "lead": [],
    "t": 1794409543,
@@ -854,6 +909,22 @@
     "tau"
    ],
    "url": "https://dantri.com.vn/dt360/giai-cuu-tau-hang-trong-tai-hon-23600-tan-mac-can-tai-ep-hep-o-chan-may-20261111151501586.htm"
+  },
+  "dantri.com.vn/dt360/hien-truong-vu-an-mang-khien-co-gai-24-tuoi-tu-vong-o-tphcm-20261112100726282.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "24",
+    "gai",
+    "hien",
+    "khien",
+    "mang",
+    "tphcm",
+    "truong",
+    "tuoi",
+    "vong"
+   ],
+   "url": "https://dantri.com.vn/dt360/hien-truong-vu-an-mang-khien-co-gai-24-tuoi-tu-vong-o-tphcm-20261112100726282.htm"
   },
   "dantri.com.vn/dt360/nuoc-dang-cao-nhieu-khu-dan-cu-o-quang-ngai-ngap-sau-20261111154334025.htm": {
    "lead": [],
@@ -924,6 +995,26 @@
    ],
    "url": "https://dantri.com.vn/du-lich/dinh-doc-lap-duoc-goi-y-mo-tour-tham-quan-tu-18h-den-21h-20261111165635921.htm"
   },
+  "dantri.com.vn/du-lich/mien-phi-tham-quan-nhieu-bao-tang-vuon-quoc-gia-vao-ngay-van-hoa-viet-nam-20261112090155266.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "bao",
+    "gia",
+    "hoa",
+    "mien",
+    "phi",
+    "quan",
+    "quoc",
+    "tang",
+    "tham",
+    "van",
+    "vao",
+    "viet",
+    "vuon"
+   ],
+   "url": "https://dantri.com.vn/du-lich/mien-phi-tham-quan-nhieu-bao-tang-vuon-quoc-gia-vao-ngay-van-hoa-viet-nam-20261112090155266.htm"
+  },
   "dantri.com.vn/du-lich/tuan-chau-resort-ha-long-hut-khach-doanh-nghiep-20261111173026137.htm": {
    "lead": [],
    "t": 1794448214,
@@ -938,6 +1029,45 @@
     "tuan"
    ],
    "url": "https://dantri.com.vn/du-lich/tuan-chau-resort-ha-long-hut-khach-doanh-nghiep-20261111173026137.htm"
+  },
+  "dantri.com.vn/giai-tri/ket-qua-xac-minh-tin-don-trieu-vy-lien-quan-duong-day-lua-dao-buon-nguoi-20261112085826728.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "buon",
+    "dao",
+    "day",
+    "don",
+    "duong",
+    "ket",
+    "lien",
+    "lua",
+    "minh",
+    "qua",
+    "quan",
+    "tin",
+    "trieu",
+    "xac"
+   ],
+   "url": "https://dantri.com.vn/giai-tri/ket-qua-xac-minh-tin-don-trieu-vy-lien-quan-duong-day-lua-dao-buon-nguoi-20261112085826728.htm"
+  },
+  "dantri.com.vn/giai-tri/nam-sinh-hoa-bu-nhin-rom-gay-an-tuong-tai-cuoc-thi-mua-toan-quoc-20261111220840082.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "cuoc",
+    "gay",
+    "hoa",
+    "mua",
+    "nhin",
+    "quoc",
+    "rom",
+    "sinh",
+    "thi",
+    "toan",
+    "tuong"
+   ],
+   "url": "https://dantri.com.vn/giai-tri/nam-sinh-hoa-bu-nhin-rom-gay-an-tuong-tai-cuoc-thi-mua-toan-quoc-20261111220840082.htm"
   },
   "dantri.com.vn/giai-tri/nhu-quynh-tai-ngo-hoc-tro-hien-thuc-trong-dem-nhac-cua-nguyen-khang-20261111170733569.htm": {
    "lead": [],
@@ -1030,6 +1160,24 @@
     "wean"
    ],
    "url": "https://dantri.com.vn/giai-tri/rapper-wean-le-hoi-ngo-ban-gai-cu-naomi-tuong-tac-than-thiet-tren-san-khau-20261111164626161.htm"
+  },
+  "dantri.com.vn/giai-tri/sau-bigbang-giai-am-nhac-han-quoc-lan-dau-den-viet-nam-quy-mo-70000-nguoi-20261112002222769.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "000",
+    "70",
+    "bigbang",
+    "dau",
+    "giai",
+    "han",
+    "lan",
+    "nhac",
+    "quoc",
+    "quy",
+    "viet"
+   ],
+   "url": "https://dantri.com.vn/giai-tri/sau-bigbang-giai-am-nhac-han-quoc-lan-dau-den-viet-nam-quy-mo-70000-nguoi-20261112002222769.htm"
   },
   "dantri.com.vn/giao-duc/cong-bo-nguoi-ke-nhiem-hieu-truong-moi-xin-tu-chuc-20261111162631247.htm": {
    "lead": [],
@@ -1150,6 +1298,43 @@
    ],
    "url": "https://dantri.com.vn/giao-duc/than-den-se-di-doi-cong-parabol-bach-khoa-ha-noi-voi-toc-do-khoang-2-3mgio-20261111231449516.htm"
   },
+  "dantri.com.vn/giao-duc/than-den-se-doi-cong-parabol-bach-khoa-ha-noi-voi-toc-do-khoang-2-3mgio-20261111231449516.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "2",
+    "bach",
+    "cong",
+    "doi",
+    "gio",
+    "khoa",
+    "khoang",
+    "noi",
+    "parabol",
+    "than",
+    "toc"
+   ],
+   "url": "https://dantri.com.vn/giao-duc/than-den-se-doi-cong-parabol-bach-khoa-ha-noi-voi-toc-do-khoang-2-3mgio-20261111231449516.htm"
+  },
+  "dantri.com.vn/giao-duc/ton-200-300-trieu-san-bang-cap-chung-chi-van-so-tieng-anh-20261112072737171.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "200",
+    "300",
+    "anh",
+    "bang",
+    "cap",
+    "chi",
+    "chung",
+    "san",
+    "tieng",
+    "ton",
+    "trieu",
+    "van"
+   ],
+   "url": "https://dantri.com.vn/giao-duc/ton-200-300-trieu-san-bang-cap-chung-chi-van-so-tieng-anh-20261112072737171.htm"
+  },
   "dantri.com.vn/giao-duc/tri-an-thay-co-ngay-tren-bao-dan-tri-dip-2011-nhieu-cau-chuyen-xuc-dong-20261111163820802.htm": {
    "lead": [],
    "t": 1794442815,
@@ -1167,6 +1352,24 @@
     "xuc"
    ],
    "url": "https://dantri.com.vn/giao-duc/tri-an-thay-co-ngay-tren-bao-dan-tri-dip-2011-nhieu-cau-chuyen-xuc-dong-20261111163820802.htm"
+  },
+  "dantri.com.vn/khoa-hoc/bo-truong-bo-khoa-hoc-cong-nghe-tra-loi-chat-van-truoc-quoc-hoi-20261111194707078.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "chat",
+    "cong",
+    "hoc",
+    "hoi",
+    "khoa",
+    "loi",
+    "nghe",
+    "quoc",
+    "tra",
+    "truong",
+    "van"
+   ],
+   "url": "https://dantri.com.vn/khoa-hoc/bo-truong-bo-khoa-hoc-cong-nghe-tra-loi-chat-van-truoc-quoc-hoi-20261111194707078.htm"
   },
   "dantri.com.vn/khoa-hoc/pho-thu-tuong-viet-nam-xep-thu-37-ve-canh-tranh-so-khong-duoc-chu-quan-20261111180755274.htm": {
    "lead": [],
@@ -1269,6 +1472,27 @@
    ],
    "url": "https://dantri.com.vn/kinh-doanh/bi-thu-tinh-uy-thai-nguyen-tang-truong-cao-khong-the-chi-do-bang-con-so-grdp-20261107135219149.htm"
   },
+  "dantri.com.vn/kinh-doanh/bo-giai-phap-tu-vietinbank-giup-ho-kinh-doanh-ghi-nhan-giao-dich-tong-hop-doanh-thu-de-dang-20261112094122809.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "dang",
+    "dich",
+    "doanh",
+    "ghi",
+    "giai",
+    "giao",
+    "giup",
+    "hop",
+    "kinh",
+    "nhan",
+    "phap",
+    "thu",
+    "tong",
+    "vietinbank"
+   ],
+   "url": "https://dantri.com.vn/kinh-doanh/bo-giai-phap-tu-vietinbank-giup-ho-kinh-doanh-ghi-nhan-giao-dich-tong-hop-doanh-thu-de-dang-20261112094122809.htm"
+  },
   "dantri.com.vn/kinh-doanh/bo-truong-bo-tai-chinh-ban-cach-tang-truong-kinh-te-hai-con-so-20261111204812848.htm": {
    "lead": [],
    "t": 1794451697,
@@ -1352,6 +1576,23 @@
    ],
    "url": "https://dantri.com.vn/kinh-doanh/dien-khi-hoa-moi-thu-vi-sao-dung-dien-than-van-sach-hon-xang-dau-20261111161530428.htm"
   },
+  "dantri.com.vn/kinh-doanh/dong-dien-thanh-cong-duong-day-220kv-thanh-hoa-sam-son-20261112092840352.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "220kv",
+    "cong",
+    "day",
+    "dien",
+    "dong",
+    "duong",
+    "hoa",
+    "sam",
+    "son",
+    "thanh"
+   ],
+   "url": "https://dantri.com.vn/kinh-doanh/dong-dien-thanh-cong-duong-day-220kv-thanh-hoa-sam-son-20261112092840352.htm"
+  },
   "dantri.com.vn/kinh-doanh/dua-nong-san-viet-len-san-lam-sao-de-ban-duoc-hang-trieu-don-20261111183851894.htm": {
    "lead": [],
    "t": 1794409543,
@@ -1386,6 +1627,66 @@
     "vien"
    ],
    "url": "https://dantri.com.vn/kinh-doanh/gen-z-song-khoe-chu-dong-hon-voi-bai-toan-vien-phi-20261111151011326.htm"
+  },
+  "dantri.com.vn/kinh-doanh/ghe-nong-nvidia-rung-chuyen-vi-be-boi-ngoai-tinh-ai-co-kha-nang-thay-the-ty-phu-jensen-huang-20261112095158738.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "boi",
+    "chuyen",
+    "ghe",
+    "huang",
+    "jensen",
+    "kha",
+    "nang",
+    "ngoai",
+    "nong",
+    "nvidia",
+    "phu",
+    "rung",
+    "thay",
+    "the",
+    "tinh"
+   ],
+   "url": "https://dantri.com.vn/kinh-doanh/ghe-nong-nvidia-rung-chuyen-vi-be-boi-ngoai-tinh-ai-co-kha-nang-thay-the-ty-phu-jensen-huang-20261112095158738.htm"
+  },
+  "dantri.com.vn/kinh-doanh/gia-dau-the-gioi-chung-lai-sau-dot-giam-sau-vi-ky-vong-ngoai-giao-lung-lay-20261112082756614.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "chung",
+    "dau",
+    "dot",
+    "gia",
+    "giam",
+    "giao",
+    "gioi",
+    "lai",
+    "lay",
+    "lung",
+    "ngoai",
+    "the",
+    "vong"
+   ],
+   "url": "https://dantri.com.vn/kinh-doanh/gia-dau-the-gioi-chung-lai-sau-dot-giam-sau-vi-ky-vong-ngoai-giao-lung-lay-20261112082756614.htm"
+  },
+  "dantri.com.vn/kinh-doanh/gia-vang-tiep-tuc-giam-nguoi-mua-vao-lo-9-trieu-dong-sau-1-thang-20261112065901858.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "1",
+    "9",
+    "dong",
+    "gia",
+    "giam",
+    "mua",
+    "tiep",
+    "trieu",
+    "tuc",
+    "vang",
+    "vao"
+   ],
+   "url": "https://dantri.com.vn/kinh-doanh/gia-vang-tiep-tuc-giam-nguoi-mua-vao-lo-9-trieu-dong-sau-1-thang-20261112065901858.htm"
   },
   "dantri.com.vn/kinh-doanh/gpbank-danh-1000-ty-dong-ho-tro-giam-lai-suat-cho-vay-doi-voi-ca-nhan-va-doanh-nghiep-20261111161010834.htm": {
    "lead": [],
@@ -1617,6 +1918,24 @@
    ],
    "url": "https://dantri.com.vn/kinh-doanh/vang-thung-moc-4000-usdounce-nguy-co-lao-doc-sau-hon-20261112065502831.htm"
   },
+  "dantri.com.vn/kinh-doanh/vi-sao-hon-10000-ty-dong-tien-thue-chua-duoc-hoan-cho-doanh-nghiep-20261111204812848.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "000",
+    "10",
+    "chua",
+    "doanh",
+    "dong",
+    "hoan",
+    "hon",
+    "nghiep",
+    "sao",
+    "thue",
+    "tien"
+   ],
+   "url": "https://dantri.com.vn/kinh-doanh/vi-sao-hon-10000-ty-dong-tien-thue-chua-duoc-hoan-cho-doanh-nghiep-20261111204812848.htm"
+  },
   "dantri.com.vn/kinh-doanh/vietnam-airlines-chuan-bi-nguon-nhan-luc-chat-luong-cao-san-sang-khai-thac-tai-long-thanh-20261111171627927.htm": {
    "lead": [],
    "t": 1794409543,
@@ -1638,6 +1957,40 @@
     "vietnam"
    ],
    "url": "https://dantri.com.vn/kinh-doanh/vietnam-airlines-chuan-bi-nguon-nhan-luc-chat-luong-cao-san-sang-khai-thac-tai-long-thanh-20261111171627927.htm"
+  },
+  "dantri.com.vn/kinh-doanh/vpbank-va-smbc-huong-toi-xay-dung-hanh-lang-tai-chinh-ket-noi-viet-nhat-20261112102605015.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "chinh",
+    "dung",
+    "hanh",
+    "huong",
+    "ket",
+    "lang",
+    "nhat",
+    "noi",
+    "smbc",
+    "toi",
+    "viet",
+    "vpbank",
+    "xay"
+   ],
+   "url": "https://dantri.com.vn/kinh-doanh/vpbank-va-smbc-huong-toi-xay-dung-hanh-lang-tai-chinh-ket-noi-viet-nhat-20261112102605015.htm"
+  },
+  "dantri.com.vn/lao-dong-viec-lam/khi-cay-dai-thanh-dac-san-la-bo-di-cung-hai-ra-tien-20261112090710997.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "cay",
+    "dac",
+    "dai",
+    "hai",
+    "san",
+    "thanh",
+    "tien"
+   ],
+   "url": "https://dantri.com.vn/lao-dong-viec-lam/khi-cay-dai-thanh-dac-san-la-bo-di-cung-hai-ra-tien-20261112090710997.htm"
   },
   "dantri.com.vn/lao-dong-viec-lam/nguoi-dan-xo-xuong-bo-tran-bat-ca-giua-dong-nuoc-xiet-20261111164013209.htm": {
    "lead": [],
@@ -1691,6 +2044,23 @@
     "tra"
    ],
    "url": "https://dantri.com.vn/noi-vu/mao-danh-bao-hiem-xa-hoi-de-lua-dao-cap-the-hoan-tra-tien-dong-bhyt-20261111181351996.htm"
+  },
+  "dantri.com.vn/noi-vu/nguoi-dan-cam-co-to-quoc-dung-trong-gio-lanh-don-hai-cot-liet-si-20261112082255763.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "cam",
+    "cot",
+    "dan",
+    "don",
+    "dung",
+    "gio",
+    "hai",
+    "lanh",
+    "liet",
+    "quoc"
+   ],
+   "url": "https://dantri.com.vn/noi-vu/nguoi-dan-cam-co-to-quoc-dung-trong-gio-lanh-don-hai-cot-liet-si-20261112082255763.htm"
   },
   "dantri.com.vn/noi-vu/nhung-nhom-cong-chuc-tu-phap-phai-dao-can-bo-dinh-ky-20261111163151433.htm": {
    "lead": [],
@@ -1838,6 +2208,25 @@
     "vinfast"
    ],
    "url": "https://dantri.com.vn/o-to-xe-may/vinfast-evo-grand-premia-thiet-ke-co-dien-ket-hop-nhieu-tien-ich-di-pho-20261111202655789.htm"
+  },
+  "dantri.com.vn/o-to-xe-may/vinfast-nhan-dat-coc-vf5-vf6-moi-gia-tu-460-trieu-dong-va-646-trieu-dong-20261112092024724.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "460",
+    "646",
+    "coc",
+    "dat",
+    "dong",
+    "gia",
+    "moi",
+    "nhan",
+    "trieu",
+    "vf5",
+    "vf6",
+    "vinfast"
+   ],
+   "url": "https://dantri.com.vn/o-to-xe-may/vinfast-nhan-dat-coc-vf5-vf6-moi-gia-tu-460-trieu-dong-va-646-trieu-dong-20261112092024724.htm"
   },
   "dantri.com.vn/phap-luat/be-gai-14-tuoi-dung-cam-giu-ke-dam-o-ho-hoan-nguoi-lon-ho-tro-20261111180342507.htm": {
    "lead": [],
@@ -2206,6 +2595,27 @@
    ],
    "url": "https://dantri.com.vn/suc-khoe/du-thao-luat-attp-sua-doi-giai-bai-toan-ganh-hang-rong-nhu-the-nao-20261111222326907.htm"
   },
+  "dantri.com.vn/suc-khoe/fosun-health-tham-gia-ciie-lan-thu-9-day-manh-phoi-hop-y-te-bao-hiem-20261112102547693.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "9",
+    "bao",
+    "ciie",
+    "day",
+    "fosun",
+    "gia",
+    "health",
+    "hiem",
+    "hop",
+    "lan",
+    "manh",
+    "phoi",
+    "tham",
+    "thu"
+   ],
+   "url": "https://dantri.com.vn/suc-khoe/fosun-health-tham-gia-ciie-lan-thu-9-day-manh-phoi-hop-y-te-bao-hiem-20261112102547693.htm"
+  },
   "dantri.com.vn/suc-khoe/hang-trieu-nguoi-viet-bi-bien-chung-nghiem-trong-cua-dai-thao-duong-20261111170734379.htm": {
    "lead": [],
    "t": 1794409543,
@@ -2291,6 +2701,23 @@
     "xam"
    ],
    "url": "https://dantri.com.vn/suc-khoe/tphcm-xu-phat-bac-si-can-thiep-xam-nhap-co-the-benh-nhan-trai-phep-20261111141650737.htm"
+  },
+  "dantri.com.vn/tam-diem/lieu-chuan-ngoai-ngu-co-thuc-day-cuoc-dua-lay-bang-20261111165038837.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "bang",
+    "chuan",
+    "cuoc",
+    "day",
+    "dua",
+    "lay",
+    "lieu",
+    "ngoai",
+    "ngu",
+    "thuc"
+   ],
+   "url": "https://dantri.com.vn/tam-diem/lieu-chuan-ngoai-ngu-co-thuc-day-cuoc-dua-lay-bang-20261111165038837.htm"
   },
   "dantri.com.vn/tam-diem/tu-tam-nhin-chung-den-hop-tac-phat-trien-viet-nam-nhat-ban-20261111164217548.htm": {
    "lead": [],
@@ -2435,6 +2862,26 @@
    ],
    "url": "https://dantri.com.vn/the-gioi/may-bay-an-do-nhan-canh-bao-khong-tac-ngay-truoc-khi-cat-canh-20261111201148415.htm"
   },
+  "dantri.com.vn/the-gioi/my-danh-chim-tau-75-tuoi-de-tao-ran-san-ho-nhan-tao-lon-nhat-the-gioi-20261112102120483.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "75",
+    "chim",
+    "danh",
+    "gioi",
+    "lon",
+    "nhan",
+    "nhat",
+    "ran",
+    "san",
+    "tao",
+    "tau",
+    "the",
+    "tuoi"
+   ],
+   "url": "https://dantri.com.vn/the-gioi/my-danh-chim-tau-75-tuoi-de-tao-ran-san-ho-nhan-tao-lon-nhat-the-gioi-20261112102120483.htm"
+  },
   "dantri.com.vn/the-gioi/nga-tiet-lo-ket-qua-hai-ngay-dam-phan-truc-tiep-voi-ukraine-20261111194543235.htm": {
    "lead": [],
    "t": 1794409543,
@@ -2486,6 +2933,17 @@
     "ukraine"
    ],
    "url": "https://dantri.com.vn/the-gioi/nga-ukraine-tien-gan-hon-den-hoa-binh-sau-dam-phan-abu-dhabi-20261112052051189.htm"
+  },
+  "dantri.com.vn/the-gioi/nguoi-vo-kin-tieng-cua-ceo-nvidia-20261112080850960.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "ceo",
+    "kin",
+    "nvidia",
+    "tieng"
+   ],
+   "url": "https://dantri.com.vn/the-gioi/nguoi-vo-kin-tieng-cua-ceo-nvidia-20261112080850960.htm"
   },
   "dantri.com.vn/the-gioi/pho-tong-thong-indonesia-tu-chuc-sau-tranh-cai-ve-bang-cap-20261112054449532.htm": {
    "lead": [],
@@ -3024,6 +3482,24 @@
    ],
    "url": "https://dantri.com.vn/thoi-su/dong-nai-ung-pho-han-han-do-anh-huong-el-nino-20261111180235285.htm"
   },
+  "dantri.com.vn/thoi-su/hoa-thinh-cho-1656-hoc-sinh-nghi-hoc-khan-truong-so-tan-nguoi-dan-20261112092648467.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "1",
+    "656",
+    "dan",
+    "hoa",
+    "hoc",
+    "khan",
+    "nghi",
+    "sinh",
+    "tan",
+    "thinh",
+    "truong"
+   ],
+   "url": "https://dantri.com.vn/thoi-su/hoa-thinh-cho-1656-hoc-sinh-nghi-hoc-khan-truong-so-tan-nguoi-dan-20261112092648467.htm"
+  },
   "dantri.com.vn/thoi-su/khan-truong-di-doi-hon-1000-nguoi-ven-song-o-dak-lak-20261111183020590.htm": {
    "lead": [],
    "t": 1794409543,
@@ -3040,6 +3516,25 @@
     "ven"
    ],
    "url": "https://dantri.com.vn/thoi-su/khan-truong-di-doi-hon-1000-nguoi-ven-song-o-dak-lak-20261111183020590.htm"
+  },
+  "dantri.com.vn/thoi-su/mien-nhiem-chuc-danh-chu-tich-ubnd-tphcm-doi-voi-ong-nguyen-van-duoc-20260328154636190.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "chu",
+    "chuc",
+    "danh",
+    "doi",
+    "mien",
+    "nguyen",
+    "nhiem",
+    "ong",
+    "tich",
+    "tphcm",
+    "ubnd",
+    "van"
+   ],
+   "url": "https://dantri.com.vn/thoi-su/mien-nhiem-chuc-danh-chu-tich-ubnd-tphcm-doi-voi-ong-nguyen-van-duoc-20260328154636190.htm"
   },
   "dantri.com.vn/thoi-su/mua-lon-keo-dai-khanh-hoa-kich-hoat-cac-phuong-an-ung-pho-thien-tai-20261111172430498.htm": {
    "lead": [],
@@ -3059,6 +3554,26 @@
     "ung"
    ],
    "url": "https://dantri.com.vn/thoi-su/mua-lon-keo-dai-khanh-hoa-kich-hoat-cac-phuong-an-ung-pho-thien-tai-20261111172430498.htm"
+  },
+  "dantri.com.vn/thoi-su/nguoi-chay-xe-om-roi-nhan-vang-35-chi-va-viec-lam-dep-cua-2-nam-sinh-lop-9-20261112092308466.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "2",
+    "3",
+    "5",
+    "9",
+    "chay",
+    "chi",
+    "dep",
+    "lam",
+    "lop",
+    "nhan",
+    "roi",
+    "sinh",
+    "vang"
+   ],
+   "url": "https://dantri.com.vn/thoi-su/nguoi-chay-xe-om-roi-nhan-vang-35-chi-va-viec-lam-dep-cua-2-nam-sinh-lop-9-20261112092308466.htm"
   },
   "dantri.com.vn/thoi-su/nguoi-dan-dua-nhau-di-chay-lu-phai-tuan-thu-so-tan-o-nha-nguy-hiem-lam-20261111201324873.htm": {
    "lead": [],
@@ -3115,6 +3630,20 @@
     "viet"
    ],
    "url": "https://dantri.com.vn/thoi-su/quan-he-viet-nam-nhat-ban-chuyen-sang-mot-giai-doan-moi-20261111220931990.htm"
+  },
+  "dantri.com.vn/thoi-su/sat-lo-o-nha-trang-da-vang-trung-mot-phu-nu-di-xe-may-20261112091803686.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "may",
+    "nha",
+    "phu",
+    "sat",
+    "trang",
+    "trung",
+    "vang"
+   ],
+   "url": "https://dantri.com.vn/thoi-su/sat-lo-o-nha-trang-da-vang-trung-mot-phu-nu-di-xe-may-20261112091803686.htm"
   },
   "dantri.com.vn/thoi-su/sat-lo-tren-cao-toc-bac-nam-dat-da-tran-xuong-mat-duong-20261112072238527.htm": {
    "lead": [],
@@ -3234,6 +3763,24 @@
    ],
    "url": "https://dantri.com.vn/thoi-su/tong-thong-chile-va-phu-nhan-sap-tham-viet-nam-20261111212802974.htm"
   },
+  "dantri.com.vn/thoi-su/xu-phat-nguoi-cheo-keo-du-khach-chui-boi-huong-dan-vien-o-ho-hoan-kiem-20261112101453981.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "boi",
+    "cheo",
+    "chui",
+    "dan",
+    "hoan",
+    "huong",
+    "keo",
+    "khach",
+    "kiem",
+    "phat",
+    "vien"
+   ],
+   "url": "https://dantri.com.vn/thoi-su/xu-phat-nguoi-cheo-keo-du-khach-chui-boi-huong-dan-vien-o-ho-hoan-kiem-20261112101453981.htm"
+  },
   "dantri.com.vn/thoi-su/yeu-cau-som-dong-duong-dan-sinh-cat-ngang-cao-toc-bien-hoa-vung-tau-20261111182122415.htm": {
    "lead": [],
    "t": 1794409543,
@@ -3288,6 +3835,25 @@
     "tuc"
    ],
    "url": "https://dantri.com.vn/thoi-tiet/tphcm-va-nam-bo-tiep-tuc-mua-dong-trieu-cuong-giam-dan-20261111212834513.htm"
+  },
+  "dantri.com.vn/tinh-yeu-gioi-tinh/cap-ke-dai-gia-co-vo-toi-nhan-cai-ket-khong-ngo-khi-bao-tin-mang-thai-20261111201110359.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "bao",
+    "cai",
+    "cap",
+    "dai",
+    "gia",
+    "ket",
+    "mang",
+    "ngo",
+    "nhan",
+    "thai",
+    "tin",
+    "toi"
+   ],
+   "url": "https://dantri.com.vn/tinh-yeu-gioi-tinh/cap-ke-dai-gia-co-vo-toi-nhan-cai-ket-khong-ngo-khi-bao-tin-mang-thai-20261111201110359.htm"
   },
   "dantri.com.vn/tinh-yeu-gioi-tinh/ly-hon-roi-toi-va-chong-cu-lai-song-tinh-cam-nhu-vo-chong-son-20261111105927717.htm": {
    "lead": [],
@@ -3764,6 +4330,12 @@
    ],
    "url": "https://vov.vn/xa-hoi/can-bo-chien-si-da-nang-vuot-hon-10-km-duong-rung-dua-cu-ong-ve-nha-an-toan-post1349387.vov"
   },
+  "news.google.com/rss/articles/CBMiswFBVV95cUxQMlVEb0wwM2pmYWROdDJpX2FSc3F3TlNyYTVRdXVhbS1OZ2cxOWVuUTd5QktfejYxUjRub2dWY0pueVVYaEhUWWNJdE5iWWF5QUVFbWNHVDZObmxJV0NEZ1QwM25YT25DcHR5d2VNMW9pTDBmRlFpVnhNYXJPQ0dhNkFsV3ppVGl2b21ta3EtZEN1RWJfZ0xieDc3eTRjcG9tSVlkYmwxMThhOEpCRFBzM0FFSQ?oc=5": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [],
+   "url": "https://laodong.vn/cong-doan/cong-doan-da-nang-tap-huan-phong-ngua-quay-roi-tinh-duc-tai-noi-lam-viec-1799026.ldo"
+  },
   "news.google.com/rss/articles/CBMitAFBVV95cUxNRjZ4SzBzQzZtNGE5ZXdSZXlxWjlSZHJPOFJaSHNGVkVBZEhlVzYwdlJlclpSMm9DSjV0V1NwYW5FanlqRk9aNU5KZVdDcC04SVN5RGhqUU1Dc0NBUW5OYXFhUWVsSk9VZTNyTk9oZkhyMUV1ajZFX1dOcnZRY0F1N1B3MVpzV29wWHFVaExVemdrZWtyMmdCS1J2bXNXcEx0YXdoaS12UmRFUndQbUd6bTdsVzQ?oc=5": {
    "lead": [],
    "t": 1794409543,
@@ -3838,6 +4410,12 @@
    ],
    "url": "https://giaoducthoidai.vn/da-nang-di-doi-122-nguoi-dan-kip-thoi-cuu-tro-san-phu-sinh-non-giua-mua-lu-post799216.html"
   },
+  "news.google.com/rss/articles/CBMivAFBVV95cUxQcUVJU2poRlh3R0NTenZ1S1poeGUzNENxY3lBc0gtd0RxNVlKcG51eC1LVTBoSldsMkVuTWlxeS1QVm9vXy1kWGx2Z3ZGMkdfcndmaWNiNzBPalhqbEdVaVB2c2VpNF81MHhueUpvQzJobUtsNG5zR0cweWY2MFhQSTNzNnhJODBRTS0tWEV5c2NFTmZkVTVUTWQzemxZbXZkbHFpTndNXzJDeWRHTDVZSS1jdWw0TE9JR3VXOA?oc=5": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [],
+   "url": "https://laodong.vn/xa-hoi/mua-lon-don-dap-o-mien-nui-2-ho-chua-lon-o-da-nang-dong-loat-xa-nuoc-tu-chieu-1211-1798975.ldo"
+  },
   "nguoiquansat.vn/da-nang-lap-to-cong-tac-dac-biet-thuc-tien-do-sieu-cang-2-ty-usd-nam-sat-dai-du-an-hai-van-bay-cua-vingroup-327585.html": {
    "lead": [
     "11",
@@ -3908,6 +4486,26 @@
     "vingroup"
    ],
    "url": "https://nguoiquansat.vn/da-nang-lap-to-cong-tac-dac-biet-thuc-tien-do-sieu-cang-2-ty-usd-nam-sat-dai-du-an-hai-van-bay-cua-vingroup-327585.html"
+  },
+  "thanhnien.vn/10-o-to-dong-co-xang-dau-ban-chay-nhat-thang-102026-mazda-cx-5-vuot-yaris-cross-185261112102025579.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "10",
+    "2026",
+    "5",
+    "ban",
+    "chay",
+    "cross",
+    "dau",
+    "dong",
+    "mazda",
+    "nhat",
+    "vuot",
+    "xang",
+    "yaris"
+   ],
+   "url": "https://thanhnien.vn/10-o-to-dong-co-xang-dau-ban-chay-nhat-thang-102026-mazda-cx-5-vuot-yaris-cross-185261112102025579.htm"
   },
   "thanhnien.vn/2pillz-dai-dien-viet-nam-ket-hop-dan-nghe-si-chau-a-trong-ca-khuc-moi-185261112081629955.htm": {
    "lead": [],
@@ -3990,6 +4588,22 @@
     "xin"
    ],
    "url": "https://thanhnien.vn/4-hieu-truong-truong-tieu-hoc-tai-hue-xin-tu-chuc-185261111192715454.htm"
+  },
+  "thanhnien.vn/40-xa-o-khanh-hoa-nguy-co-lu-quet-sat-lo-dat-vi-mua-lon-185261112095820315.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "40",
+    "dat",
+    "hoa",
+    "khanh",
+    "lon",
+    "mua",
+    "nguy",
+    "quet",
+    "sat"
+   ],
+   "url": "https://thanhnien.vn/40-xa-o-khanh-hoa-nguy-co-lu-quet-sat-lo-dat-vi-mua-lon-185261112095820315.htm"
   },
   "thanhnien.vn/5-cau-thu-bong-ro-lien-quan-duong-day-dan-xep-ty-so-nhieu-guong-mat-tung-khoac-ao-doi-tuyen-viet-nam-185261111172933526.htm": {
    "lead": [],
@@ -4075,6 +4689,26 @@
     "van"
    ],
    "url": "https://thanhnien.vn/85-tuoi-van-thuc-tu-3-gio-sang-nau-che-cu-ba-gui-tien-ve-que-nuoi-con-1852611111518272.htm"
+  },
+  "thanhnien.vn/an-do-lap-luc-luong-dac-nhiem-tuan-tra-bien-gioi-tranh-chap-voi-trung-quoc-185261112093407936.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "bien",
+    "chap",
+    "dac",
+    "gioi",
+    "lap",
+    "luc",
+    "luong",
+    "nhiem",
+    "quoc",
+    "tra",
+    "tranh",
+    "trung",
+    "tuan"
+   ],
+   "url": "https://thanhnien.vn/an-do-lap-luc-luong-dac-nhiem-tuan-tra-bien-gioi-tranh-chap-voi-trung-quoc-185261112093407936.htm"
   },
   "thanhnien.vn/au-duong-chan-hoa-dap-tra-tin-don-an-bam-vo-giau-185261112063340543.htm": {
    "lead": [],
@@ -4212,6 +4846,27 @@
     "truong"
    ],
    "url": "https://thanhnien.vn/bo-truong-chien-tranh-my-bi-linh-gac-nhac-nho-vi-lam-on-tai-mo-tu-si-185261112081727459.htm"
+  },
+  "thanhnien.vn/bo-truong-tai-chinh-chuyen-gan-600-ho-so-nghi-tron-thue-mua-ban-hoa-don-sang-cong-an-185261112100700637.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "600",
+    "ban",
+    "chinh",
+    "chuyen",
+    "cong",
+    "don",
+    "gan",
+    "hoa",
+    "mua",
+    "nghi",
+    "sang",
+    "thue",
+    "tron",
+    "truong"
+   ],
+   "url": "https://thanhnien.vn/bo-truong-tai-chinh-chuyen-gan-600-ho-so-nghi-tron-thue-mua-ban-hoa-don-sang-cong-an-185261112100700637.htm"
   },
   "thanhnien.vn/bong-da-viet-nam-chu-trong-y-hoc-the-thao-dao-tao-chuyen-sau-ve-chan-thuong-dinh-duong-va-cap-cuu-185261111193510172.htm": {
    "lead": [],
@@ -4898,6 +5553,27 @@
    ],
    "url": "https://thanhnien.vn/du-doan-u23-viet-nam-vs-u23-singapore-williams-minh-hoang-ghi-ban-chu-nha-thang-2-0-185261112001625246.htm"
   },
+  "thanhnien.vn/el-salvador-tung-quan-vao-nuoc-lang-gieng-haiti-tan-cong-dau-nao-toi-pham-185261112102030322.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "cong",
+    "dau",
+    "gieng",
+    "haiti",
+    "lang",
+    "nao",
+    "nuoc",
+    "pham",
+    "quan",
+    "salvador",
+    "tan",
+    "toi",
+    "tung",
+    "vao"
+   ],
+   "url": "https://thanhnien.vn/el-salvador-tung-quan-vao-nuoc-lang-gieng-haiti-tan-cong-dau-nao-toi-pham-185261112102030322.htm"
+  },
   "thanhnien.vn/em-be-co-giat-giua-duong-tai-xe-xe-cong-nghe-chay-dua-12-phut-den-benh-vien-185261111190823924.htm": {
    "lead": [],
    "t": 1794439356,
@@ -4915,6 +5591,23 @@
     "vien"
    ],
    "url": "https://thanhnien.vn/em-be-co-giat-giua-duong-tai-xe-xe-cong-nghe-chay-dua-12-phut-den-benh-vien-185261111190823924.htm"
+  },
+  "thanhnien.vn/evnhanoi-da-dang-dich-vu-dien-gia-tang-tien-ich-cho-khach-hang-185261112093412542.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "dang",
+    "dich",
+    "dien",
+    "evnhanoi",
+    "gia",
+    "hang",
+    "ich",
+    "khach",
+    "tang",
+    "tien"
+   ],
+   "url": "https://thanhnien.vn/evnhanoi-da-dang-dich-vu-dien-gia-tang-tien-ich-cho-khach-hang-185261112093412542.htm"
   },
   "thanhnien.vn/evnhanoi-va-dich-vu-bao-duong-sua-chua-dien-24-7-cham-soc-toan-dien-cho-khach-hang-185261112085907463.htm": {
    "lead": [],
@@ -4953,6 +5646,25 @@
     "tro"
    ],
    "url": "https://thanhnien.vn/festival-lua-gao-tro-lai-sau-3-nam-tren-dat-can-tho-co-gi-moi-185261111172828536.htm"
+  },
+  "thanhnien.vn/gay-thiet-hai-117-ti-vi-nghe-cap-tren-noi-chu-ky-di-toi-chiu-trach-nhiem-185261112093636641.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "117",
+    "cap",
+    "chiu",
+    "chu",
+    "gay",
+    "hai",
+    "nghe",
+    "nhiem",
+    "noi",
+    "thiet",
+    "toi",
+    "trach"
+   ],
+   "url": "https://thanhnien.vn/gay-thiet-hai-117-ti-vi-nghe-cap-tren-noi-chu-ky-di-toi-chiu-trach-nhiem-185261112093636641.htm"
   },
   "thanhnien.vn/gia-heo-hoi-hom-nay-12112026-da-tang-keo-dai-185261111202334305.htm": {
    "lead": [],
@@ -5184,6 +5896,22 @@
    ],
    "url": "https://thanhnien.vn/hlv-kim-sang-sik-khen-ngoi-olaha-manh-duc-nhung-khong-quen-canh-bao-185261111210601529.htm"
   },
+  "thanhnien.vn/hoa-si-nhi-cherry-tu-dam-me-ve-tranh-den-hanh-trinh-thien-nguyen-185261112093848237.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "cherry",
+    "dam",
+    "hanh",
+    "hoa",
+    "nguyen",
+    "nhi",
+    "thien",
+    "tranh",
+    "trinh"
+   ],
+   "url": "https://thanhnien.vn/hoa-si-nhi-cherry-tu-dam-me-ve-tranh-den-hanh-trinh-thien-nguyen-185261112093848237.htm"
+  },
   "thanhnien.vn/hoan-nghia-vu-quan-su-khi-du-hoc-co-bat-buoc-quay-video-chung-minh-185261111164818389.htm": {
    "lead": [],
    "t": 1794409543,
@@ -5276,6 +6004,41 @@
     "vat"
    ],
    "url": "https://thanhnien.vn/iran-tuyen-bo-khong-de-vat-lieu-hat-nhan-lam-giau-roi-khoi-dat-nuoc-185261111194258867.htm"
+  },
+  "thanhnien.vn/jensen-huang-tiep-tuc-vuong-cao-buoc-ngoai-tinh-nvidia-co-cach-chuc-ceo-185261112095539207.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "buoc",
+    "cach",
+    "cao",
+    "ceo",
+    "chuc",
+    "huang",
+    "jensen",
+    "ngoai",
+    "nvidia",
+    "tiep",
+    "tinh",
+    "tuc",
+    "vuong"
+   ],
+   "url": "https://thanhnien.vn/jensen-huang-tiep-tuc-vuong-cao-buoc-ngoai-tinh-nvidia-co-cach-chuc-ceo-185261112095539207.htm"
+  },
+  "thanhnien.vn/ke-chuyen-hue-qua-nhung-chen-dau-hu-duoi-chan-chua-thien-mu-18526111122320967.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "chan",
+    "chen",
+    "chua",
+    "chuyen",
+    "dau",
+    "hue",
+    "qua",
+    "thien"
+   ],
+   "url": "https://thanhnien.vn/ke-chuyen-hue-qua-nhung-chen-dau-hu-duoi-chan-chua-thien-mu-18526111122320967.htm"
   },
   "thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-1111-giai-doc-dac-cong-don-176-ti-dong-185261111191204262.htm": {
    "lead": [],
@@ -5705,6 +6468,23 @@
    ],
    "url": "https://thanhnien.vn/my-nhan-bat-khoc-nhac-lai-be-boi-ngoai-tinh-chan-dong-showbiz-hong-kong-185261112073221178.htm"
   },
+  "thanhnien.vn/my-trung-len-tieng-ve-cuoc-dien-dam-ngoai-truong-song-phuong-185261112093327617.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "cuoc",
+    "dam",
+    "dien",
+    "len",
+    "ngoai",
+    "phuong",
+    "song",
+    "tieng",
+    "trung",
+    "truong"
+   ],
+   "url": "https://thanhnien.vn/my-trung-len-tieng-ve-cuoc-dien-dam-ngoai-truong-song-phuong-185261112093327617.htm"
+  },
   "thanhnien.vn/ngay-2011-nguoi-lam-trong-nganh-giao-duc-o-dong-nai-duoc-ho-tro-1-trieu-dong-18526111207443718.htm": {
    "lead": [],
    "t": 1794448214,
@@ -5757,6 +6537,23 @@
     "quang"
    ],
    "url": "https://thanhnien.vn/ngoi-mo-nha-giau-tu-2000-nam-truoc-tai-quang-ninh-185261111203654897.htm"
+  },
+  "thanhnien.vn/nguoi-dan-do-nha-giao-mat-bang-tai-diem-nghen-cuoi-cua-nut-giao-an-phu-185261111130135772.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "bang",
+    "cuoi",
+    "dan",
+    "diem",
+    "giao",
+    "mat",
+    "nghen",
+    "nha",
+    "nut",
+    "phu"
+   ],
+   "url": "https://thanhnien.vn/nguoi-dan-do-nha-giao-mat-bang-tai-diem-nghen-cuoi-cua-nut-giao-an-phu-185261111130135772.htm"
   },
   "thanhnien.vn/nguoi-phu-nu-ngam-toi-roi-trinh-bao-bi-bo-bua-lay-vang-o-ca-mau-185261111191249882.htm": {
    "lead": [],
@@ -5841,6 +6638,22 @@
    ],
    "url": "https://thanhnien.vn/nhung-be-boi-ngoai-tinh-chan-dong-cua-ti-phu-the-gioi-tu-ly-hon-hang-chuc-ti-usd-den-nghi-van-gian-diep-18526111118040304.htm"
   },
+  "thanhnien.vn/nhung-cau-chuyen-dep-sau-moi-gio-len-lop-mot-hanh-trinh-cho-di-185261111131140747.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "cau",
+    "chuyen",
+    "dep",
+    "gio",
+    "hanh",
+    "len",
+    "lop",
+    "moi",
+    "trinh"
+   ],
+   "url": "https://thanhnien.vn/nhung-cau-chuyen-dep-sau-moi-gio-len-lop-mot-hanh-trinh-cho-di-185261111131140747.htm"
+  },
   "thanhnien.vn/nhung-thong-tin-tai-chinh-nao-thuoc-bi-mat-nha-nuoc-185261111182715758.htm": {
    "lead": [],
    "t": 1794409543,
@@ -5910,6 +6723,43 @@
    ],
    "url": "https://thanhnien.vn/ong-biden-noi-ve-benh-ung-thu-va-quyet-dinh-tranh-cu-nam-2024-185261112074723485.htm"
   },
+  "thanhnien.vn/ong-le-quoc-phong-lam-chu-tich-ubnd-tphcm-185261111165918289.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "100",
+    "bau",
+    "chu",
+    "hcm",
+    "lam",
+    "ong",
+    "phieu",
+    "phong",
+    "quoc",
+    "tich",
+    "ubnd"
+   ],
+   "url": "https://thanhnien.vn/ong-le-quoc-phong-lam-chu-tich-ubnd-tphcm-185261111165918289.htm"
+  },
+  "thanhnien.vn/ong-nguyen-van-duoc-thoi-lam-chu-tich-ubnd-tphcm-185261111205656859.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "chu",
+    "hcm",
+    "lam",
+    "moi",
+    "nguyen",
+    "nhan",
+    "nhiem",
+    "ong",
+    "thoi",
+    "tich",
+    "ubnd",
+    "van"
+   ],
+   "url": "https://thanhnien.vn/ong-nguyen-van-duoc-thoi-lam-chu-tich-ubnd-tphcm-185261111205656859.htm"
+  },
   "thanhnien.vn/phat-dong-cuoc-thi-du-an-tinh-nguyen-genimpact-tong-gia-tri-giai-thuong-500-trieu-185261111155132393.htm": {
    "lead": [],
    "t": 1794409543,
@@ -5964,6 +6814,40 @@
     "viet"
    ],
    "url": "https://thanhnien.vn/phien-ban-moi-dang-mong-doi-cua-doi-tuyen-viet-nam-185261111225244443.htm"
+  },
+  "thanhnien.vn/quan-ly-hoc-sinh-dung-dien-thoai-thong-minh-o-muc-do-nao-185261112093909607.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "dien",
+    "dung",
+    "hoc",
+    "minh",
+    "muc",
+    "nao",
+    "quan",
+    "sinh",
+    "thoai",
+    "thong"
+   ],
+   "url": "https://thanhnien.vn/quan-ly-hoc-sinh-dung-dien-thoai-thong-minh-o-muc-do-nao-185261112093909607.htm"
+  },
+  "thanhnien.vn/ram-plus-tren-dien-thoai-samsung-co-thuc-su-gay-hai-nhu-tin-don-185261111225322961.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "dien",
+    "don",
+    "gay",
+    "hai",
+    "plus",
+    "ram",
+    "samsung",
+    "thoai",
+    "thuc",
+    "tin"
+   ],
+   "url": "https://thanhnien.vn/ram-plus-tren-dien-thoai-samsung-co-thuc-su-gay-hai-nhu-tin-don-185261111225322961.htm"
   },
   "thanhnien.vn/sang-nay-quoc-hoi-hoi-nhanh-dap-gon-chat-van-hai-bo-truong-185261112082834606.htm": {
    "lead": [],
@@ -6212,6 +7096,21 @@
     "them"
    ],
    "url": "https://thanhnien.vn/them-nhieu-dien-bien-nong-quanh-quoc-hoi-my-185261111182826517.htm"
+  },
+  "thanhnien.vn/thoi-trang-tre/danh-thuc-gu-tham-my-tinh-te-voi-nhung-chiec-khan-trum-dau-185261111152555168.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "chiec",
+    "danh",
+    "dau",
+    "khan",
+    "tham",
+    "thuc",
+    "tinh",
+    "trum"
+   ],
+   "url": "https://thanhnien.vn/thoi-trang-tre/danh-thuc-gu-tham-my-tinh-te-voi-nhung-chiec-khan-trum-dau-185261111152555168.htm"
   },
   "thanhnien.vn/thoi-trang-tre/dich-vu-hieu-khach-tu-nong-san-viet-nhan-von-tu-quy-dau-tu-18526111118041062.htm": {
    "lead": [],
@@ -6639,6 +7538,24 @@
    ],
    "url": "https://thanhnien.vn/u23-viet-nam-u23-singapore-19-gio-truc-tiep-tren-fpt-play-vtv-chien-thang-thu-2-trong-tam-tay-185261111224450998.htm"
   },
+  "thanhnien.vn/uong-nuoc-nau-tu-re-cay-1-thang-nguoi-dan-ong-bi-ton-thuong-than-nang-185261112092421135.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "1",
+    "cay",
+    "dan",
+    "nang",
+    "nau",
+    "nuoc",
+    "ong",
+    "than",
+    "thuong",
+    "ton",
+    "uong"
+   ],
+   "url": "https://thanhnien.vn/uong-nuoc-nau-tu-re-cay-1-thang-nguoi-dan-ong-bi-ton-thuong-than-nang-185261112092421135.htm"
+  },
   "thanhnien.vn/ven-man-meo-mang-uong-dau-o-liu-luc-doi-co-giup-on-dinh-duong-huyet-185261111165007907.htm": {
    "lead": [],
    "t": 1794442815,
@@ -6726,6 +7643,21 @@
    ],
    "url": "https://thanhnien.vn/world-cup-u17-co-viet-nam-tham-du-bien-dong-lon-u17-my-chinh-thuc-rut-lui-185261112073347305.htm"
   },
+  "thanhnien.vn/xe-tai-tong-vao-lan-can-cau-rach-mieu-mot-nguoi-tu-vong-185261112095251269.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "can",
+    "cau",
+    "lan",
+    "mieu",
+    "rach",
+    "tong",
+    "vao",
+    "vong"
+   ],
+   "url": "https://thanhnien.vn/xe-tai-tong-vao-lan-can-cau-rach-mieu-mot-nguoi-tu-vong-185261112095251269.htm"
+  },
   "thanhnien.vn/xem-nhanh-20h-ngay-1111-anh-em-song-sinh-noi-tieng-bi-khoi-to-vi-dan-xep-ty-so-be-boi-ngoai-tinh-chan-dong-cua-ti-phu-the-gioi-185261111192424325.htm": {
    "lead": [],
    "t": 1794409543,
@@ -6773,6 +7705,21 @@
     "xep"
    ],
    "url": "https://thanhnien.vn/xep-hang-casper-cup-2026-moi-nhat-doi-tuyen-viet-nam-dan-dau-dau-kyrgyzstan-ngay-nao-185261111210301056.htm"
+  },
+  "thanhnien.vn/xu-phat-nguoi-phu-nu-ban-quat-chui-tuc-o-ho-hoan-kiem-185261112101228795.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "ban",
+    "chui",
+    "hoan",
+    "kiem",
+    "phat",
+    "phu",
+    "quat",
+    "tuc"
+   ],
+   "url": "https://thanhnien.vn/xu-phat-nguoi-phu-nu-ban-quat-chui-tuc-o-ho-hoan-kiem-185261112101228795.htm"
   },
   "tuoitre.vn/4-thoi-quen-dung-dien-thoai-va-may-tinh-gay-hai-mat-100261110155959158.htm": {
    "lead": [],
@@ -6882,6 +7829,23 @@
    ],
    "url": "https://tuoitre.vn/bac-thang-len-hoi-ong-troi-tien-nguoi-yeu-cu-muon-co-doi-duoc-khong-100261111191053635.htm"
   },
+  "tuoitre.vn/bandai-namco-mua-co-phan-pops-mo-rong-hoat-dong-giai-tri-tai-dong-nam-a-100261112091807123.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "bandai",
+    "dong",
+    "giai",
+    "hoat",
+    "mua",
+    "namco",
+    "phan",
+    "pops",
+    "rong",
+    "tri"
+   ],
+   "url": "https://tuoitre.vn/bandai-namco-mua-co-phan-pops-mo-rong-hoat-dong-giai-tri-tai-dong-nam-a-100261112091807123.htm"
+  },
   "tuoitre.vn/bao-indonesia-that-vong-vi-ngoi-sao-goc-ha-lan-chon-khoac-ao-viet-nam-100261111183737443.htm": {
    "lead": [],
    "t": 1794448214,
@@ -6962,6 +7926,22 @@
    ],
    "url": "https://tuoitre.vn/bat-ngo-ung-vien-nam-phi-thach-thuc-ghe-chu-tich-fifa-cua-gianni-infantino-100261112060539463.htm"
   },
+  "tuoitre.vn/batman-superman-wonder-woman-gap-nguy-sau-khi-james-gunn-roi-dc-100261111211546848.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "batman",
+    "gap",
+    "gunn",
+    "james",
+    "nguy",
+    "roi",
+    "superman",
+    "woman",
+    "wonder"
+   ],
+   "url": "https://tuoitre.vn/batman-superman-wonder-woman-gap-nguy-sau-khi-james-gunn-roi-dc-100261111211546848.htm"
+  },
   "tuoitre.vn/bo-truong-hoan-thue-gan-79000-ti-tu-choi-hon-10000-ti-dong-ho-so-khong-day-du-100261112063143943.htm": {
    "lead": [],
    "t": 1794451697,
@@ -6996,6 +7976,24 @@
     "tien"
    ],
    "url": "https://tuoitre.vn/bong-duoc-bao-cap-the-bao-hiem-y-te-hoan-tien-coi-chung-mat-tien-100261111184844946.htm"
+  },
+  "tuoitre.vn/bot-quoc-lo-17b-dung-thu-phi-tu-ngay-17-11-som-gan-7-thang-100261112090724687.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "11",
+    "17",
+    "17b",
+    "7",
+    "bot",
+    "dung",
+    "gan",
+    "phi",
+    "quoc",
+    "som",
+    "thu"
+   ],
+   "url": "https://tuoitre.vn/bot-quoc-lo-17b-dung-thu-phi-tu-ngay-17-11-som-gan-7-thang-100261112090724687.htm"
   },
   "tuoitre.vn/cac-nu-ky-thu-viet-nam-danh-dau-thang-do-o-giai-vo-dich-co-tuong-the-gioi-100261111205234814.htm": {
    "lead": [],
@@ -7373,6 +8371,18 @@
     "ukraine"
    ],
    "url": "https://tuoitre.vn/dam-phan-nga-my-ukraine-thoa-thuan-trao-doi-tu-binh-lon-nhat-tu-truoc-toi-nay-100261111204734305.htm"
+  },
+  "tuoitre.vn/di-lam-an-xa-12-thang-khong-ve-co-bi-xoa-thuong-tru-100261111120531708.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "12",
+    "lam",
+    "thuong",
+    "tru",
+    "xoa"
+   ],
+   "url": "https://tuoitre.vn/di-lam-an-xa-12-thang-khong-ve-co-bi-xoa-thuong-tru-100261111120531708.htm"
   },
   "tuoitre.vn/dieu-tra-vu-nam-sinh-nghi-bi-ban-tha-xuong-song-sau-tai-nan-100261111184109205.htm": {
    "lead": [],
@@ -7773,6 +8783,26 @@
    ],
    "url": "https://tuoitre.vn/lai-suat-di-len-gia-so-cap-chua-ha-nhiet-dang-ke-100261111184805708.htm"
   },
+  "tuoitre.vn/lam-tuyen-giao-tren-tiktok-can-bo-tre-bien-lich-su-thanh-noi-dung-trieu-view-100261110200431367.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "bien",
+    "can",
+    "dung",
+    "giao",
+    "lam",
+    "lich",
+    "noi",
+    "thanh",
+    "tiktok",
+    "tre",
+    "trieu",
+    "tuyen",
+    "view"
+   ],
+   "url": "https://tuoitre.vn/lam-tuyen-giao-tren-tiktok-can-bo-tre-bien-lich-su-thanh-noi-dung-trieu-view-100261110200431367.htm"
+  },
   "tuoitre.vn/le-quang-liem-thang-tran-ra-quan-tai-giai-co-toan-nang-the-gioi-100261112084022014.htm": {
    "lead": [],
    "t": 1794451697,
@@ -7987,6 +9017,28 @@
    ],
    "url": "https://tuoitre.vn/my-linh-la-chi-ca-trong-phong-khach-3-the-he-100261112065108605.htm"
   },
+  "tuoitre.vn/nhat-duoc-nhan-vang-35-chi-hai-hoc-sinh-lop-9-nop-cong-an-tra-nguoi-chay-xe-om-100261112073744343.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "3",
+    "5",
+    "9",
+    "chay",
+    "chi",
+    "cong",
+    "hai",
+    "hoc",
+    "lop",
+    "nhan",
+    "nhat",
+    "nop",
+    "sinh",
+    "tra",
+    "vang"
+   ],
+   "url": "https://tuoitre.vn/nhat-duoc-nhan-vang-35-chi-hai-hoc-sinh-lop-9-nop-cong-an-tra-nguoi-chay-xe-om-100261112073744343.htm"
+  },
   "tuoitre.vn/nhung-ngoi-truong-khong-dien-thoai-san-truong-ron-ra-tieng-ca-hat-hoc-sinh-dan-len-da-cau-vui-qua-troi-100261111230018363.htm": {
    "lead": [],
    "t": 1794451697,
@@ -8032,6 +9084,22 @@
     "tot"
    ],
    "url": "https://tuoitre.vn/no-mon-chua-tot-nghiep-chuyen-tu-cao-dang-len-dai-hoc-du-hoc-nuoc-ngoai-co-duoc-tam-hoan-nhap-ngu-100261111213958524.htm"
+  },
+  "tuoitre.vn/nong-my-rut-khoi-world-cup-u17-viet-nam-co-bi-anh-huong-100261112094328844.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "anh",
+    "cup",
+    "huong",
+    "khoi",
+    "nong",
+    "rut",
+    "u17",
+    "viet",
+    "world"
+   ],
+   "url": "https://tuoitre.vn/nong-my-rut-khoi-world-cup-u17-viet-nam-co-bi-anh-huong-100261112094328844.htm"
   },
   "tuoitre.vn/nong-ong-jensen-huang-vuong-them-nghi-van-ngoai-tinh-voi-cap-duoi-nvidia-hop-ngay-de-cach-chuc-100261112060025259.htm": {
    "lead": [],
@@ -8817,6 +9885,28 @@
    ],
    "url": "https://tuoitre.vn/tuan-le-thoi-trang-viet-nam-quoc-te-mao-hiem-mo-man-bang-ba-nha-thiet-ke-tre-100261111204636669.htm"
   },
+  "tuoitre.vn/tuoi-tre-phong-van-doc-quyen-chu-tich-lien-minh-nghi-si-huu-nghi-nhat-ban-viet-nam-100261111132656203.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "ban",
+    "chu",
+    "doc",
+    "huu",
+    "lien",
+    "minh",
+    "nghi",
+    "nhat",
+    "phong",
+    "quyen",
+    "tich",
+    "tre",
+    "tuoi",
+    "van",
+    "viet"
+   ],
+   "url": "https://tuoitre.vn/tuoi-tre-phong-van-doc-quyen-chu-tich-lien-minh-nghi-si-huu-nghi-nhat-ban-viet-nam-100261111132656203.htm"
+  },
   "tuoitre.vn/tuong-lai-khu-cong-nghiep-huong-den-he-sinh-thai-cong-sinh-100261111163919726.htm": {
    "lead": [],
    "t": 1794451697,
@@ -8911,6 +10001,25 @@
     "vietnam"
    ],
    "url": "https://tuoitre.vn/vietnam-airlines-chuan-bi-nguon-nhan-luc-chat-luong-cao-cho-san-bay-long-thanh-100261112084504631.htm"
+  },
+  "tuoitre.vn/vinfast-vf-5-moi-ra-mat-gia-540-trieu-di-toi-370km-sac-nhieu-nang-cap-10026111207524041.htm": {
+   "lead": [],
+   "t": 1794455508,
+   "title": [
+    "370km",
+    "5",
+    "540",
+    "cap",
+    "gia",
+    "mat",
+    "moi",
+    "nang",
+    "sac",
+    "toi",
+    "trieu",
+    "vinfast"
+   ],
+   "url": "https://tuoitre.vn/vinfast-vf-5-moi-ra-mat-gia-540-trieu-di-toi-370km-sac-nhieu-nang-cap-10026111207524041.htm"
   },
   "tuoitre.vn/vu-be-gai-nguoi-viet-13-tuoi-bi-sat-hai-o-duc-nghi-pham-da-chet-100261111192508999.htm": {
    "lead": [],
