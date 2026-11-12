@@ -65,7 +65,7 @@ def build_user_blocks(article, images, check_images=True):
     return blocks
 
 
-def call_claude(env, model, system, blocks, max_tokens=1200):
+def call_claude(env, model, system, blocks, max_tokens=3000):
     body = json.dumps({"model": model, "max_tokens": max_tokens, "system": system,
                        "messages": [{"role": "user", "content": blocks}]}).encode()
     r = util.http("https://api.anthropic.com/v1/messages", method="POST", data=body,
@@ -88,7 +88,7 @@ def _throttle(interval):
     _last_call[0] = time.time()
 
 
-def call_gemini(env, model, system, blocks, max_tokens=1500):
+def call_gemini(env, model, system, blocks, max_tokens=4096):
     parts = []
     for b in blocks:
         if b["type"] == "text":
@@ -209,12 +209,19 @@ def edit_article(cfg, env, article, images):
             blocks[0]["text"] += "\n\nLƯU Ý SỬA LỖI TỪ LẦN TRƯỚC: " + extra
         try:
             raw = call_llm(cfg, env, system, blocks)
+        except ValueError as e:      # AI không trả kết quả (vd bị bộ lọc an toàn chặn)
+            util.log(f"AI không trả kết quả: {str(e)[:200]}")
+            raise
         except util.HttpError as e:
             if images and e.status == 400 and s.get("check_images", True):
                 raw = call_llm(cfg, env, system, build_user_blocks(article, images, False))
             else:
                 raise
-        result = parse_json(raw)
+        try:
+            result = parse_json(raw)
+        except ValueError as e:      # thường do câu trả lời bị cắt cụt giữa chừng
+            util.log(f"Không đọc được JSON của AI ({len(raw)} ký tự, đoạn cuối: {raw[-70:]!r}): {e}")
+            raise
         cap = clean_text(result.get("caption"))
         issues = []
         inv = invented_numbers(cap + " " + clean_text(result.get("title")), source)
