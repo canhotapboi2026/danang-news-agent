@@ -7,7 +7,7 @@ import os
 import re
 import sys
 
-from . import dedupe, editor, extract, feeds, util
+from . import dedupe, editor, extract, feeds, media, util
 from . import state as st_mod
 from .facebook import Facebook, FacebookError
 from .telegram import Telegram, TelegramError
@@ -24,7 +24,7 @@ class Ctx:
         self.stats = {k: 0 for k in (
             "sources_ok", "sources_error", "processed", "blocked", "off_topic", "duplicates", "unresolved",
             "no_image", "too_short", "errors", "sent_for_review", "auto_posted", "queued",
-            "posted", "dry_posted", "rejected", "expired")}
+            "posted", "dry_posted", "rejected", "expired", "video_frame", "card_media")}
 
 
 def load_config(path):
@@ -73,9 +73,23 @@ def can_publish_now(ctx, urgent):
 
 # ---------- đăng bài ----------
 
+def restore_media(ctx, d):
+    """Dựng lại ảnh của bản nháp khi bấm Duyệt ở lần chạy sau (ảnh không được lưu trong state)."""
+    m = d.get("media") or {"kind": "photo"}
+    if m["kind"] == "photo":
+        return extract.download_images(d["images"], d["url"], ctx.s["max_images"], ctx.s["min_image_bytes"])
+    if m["kind"] == "frame":
+        im = media.frame_from_video(m.get("video_url", ""), d["url"])
+        if im:
+            return [im]
+        util.log("Chụp lại khung hình lỗi, đổi sang thẻ tin")
+    card = media.make_card(d.get("card_title") or d["title"], ctx.cfg.get("page_name", media.DEFAULT_PAGE_NAME))
+    return [card] if card else []
+
+
 def publish_draft(ctx, d, imgs=None, auto=False):
     """Đăng một bản nháp. Trả True nếu xong (kể cả dry-run)."""
-    imgs = imgs or extract.download_images(d["images"], d["url"], ctx.s["max_images"], ctx.s["min_image_bytes"])
+    imgs = imgs or restore_media(ctx, d)
     if not imgs:
         d["status"], d["error"] = "failed", "không tải lại được ảnh"
         ctx.tg.notify(f"❌ Không đăng được (mất ảnh): {d['url']}")
@@ -212,11 +226,11 @@ def process_item(ctx, src, it):
         return
 
     imgs = extract.download_images(art["images"], art["url"], s["max_images"], s["min_image_bytes"])
-    if not imgs:
-        mark_light(ctx, raw_key, link, art["title"])
-        ctx.stats["no_image"] += 1          # không đủ combo caption + ảnh
-        util.log(f"Bỏ (không có ảnh): {art['title'][:70]}")
-        return
+    mdesc = {"kind": "photo"}
+    if not imgs and art.get("videos"):      # chỉ có video -> chụp 1 khung hình làm ảnh minh họa
+        frame, vurl = media.frame_from_videos(art["videos"], art["url"])
+        if frame:
+            imgs, mdesc = [frame], {"kind": "frame", "video_url": vurl}
 
     try:
         res = editor.edit_article(ctx.cfg, ctx.env, art, imgs)
@@ -232,6 +246,18 @@ def process_item(ctx, src, it):
         ctx.stats["duplicates"] += 1
         return
 
+    card_title = editor.clean_text(res.get("title")) or art["title"]
+    if not imgs:                            # không ảnh, không video dùng được -> tự vẽ thẻ tin
+        card = media.make_card(card_title, ctx.cfg.get("page_name", media.DEFAULT_PAGE_NAME))
+        if not card:
+            mark_light(ctx, raw_key, link, art["title"])
+            ctx.stats["no_image"] += 1      # không tạo được ảnh dự phòng
+            util.log(f"Bỏ (không có ảnh): {art['title'][:70]}")
+            return
+        imgs, mdesc = [card], {"kind": "card"}
+    ctx.stats["video_frame"] += mdesc["kind"] == "frame"
+    ctx.stats["card_media"] += mdesc["kind"] == "card"
+
     cat = res.get("category") if res.get("category") in editor.CATEGORIES else "khac"
     prio = res.get("priority") if res.get("priority") in ("khan", "hot", "thuong") else "thuong"
     if cat == "khan" and prio != "khan":
@@ -240,7 +266,9 @@ def process_item(ctx, src, it):
         cat = cat if cat != "khan" else "khac"
     d = {
         "id": util.sha(art["url"], 8), "url": art["url"], "title": art["title"], "site": art["site"],
-        "caption": editor.final_caption(ctx.cfg, res, art), "images": [i["url"] for i in imgs],
+        "caption": editor.final_caption(ctx.cfg, res, art),
+        "images": [i["url"] for i in imgs] if mdesc["kind"] == "photo" else [],
+        "media": mdesc, "card_title": card_title,
         "category": cat, "priority": prio, "urgent": prio == "khan",
         "flags": res["flags"], "created": ctx.now, "status": "pending", "source": src["name"],
     }

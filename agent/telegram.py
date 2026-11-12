@@ -56,10 +56,13 @@ class Telegram:
             head = "🚨 KHẨN · " + head
         elif draft.get("priority") == "hot":
             head = "🔥 HOT · " + head
-        lines = [f"{head}  ·  {draft['site']}  ·  {len(images)} ảnh"]
+        kind = (draft.get("media") or {}).get("kind", "photo")
+        what = {"frame": "1 ảnh chụp từ video", "card": "thẻ tin tự tạo (không phải ảnh thật)"}.get(
+            kind, f"{len(images)} ảnh")
+        lines = [f"{head}  ·  {draft['site']}  ·  {what}"]
         if draft["flags"]:
             lines.append("⚠️ CẦN XEM KỸ:\n- " + "\n- ".join(draft["flags"]))
-        lines += ["", draft["caption"], "", f"Mã: {draft['id']}"]
+        lines += ["", draft["caption"]]
         text = "\n".join(lines)[:3900]
         kb = {"inline_keyboard": [
             [{"text": "✅ Đăng Page", "callback_data": f"ok:{draft['id']}"},

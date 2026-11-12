@@ -11,6 +11,7 @@ IGNORE_TAGS = {"script", "style", "nav", "footer", "aside", "header", "form",
                "noscript", "svg", "iframe", "button", "select"}
 VOID_TAGS = {"img", "meta", "link", "br", "hr", "input", "source", "area", "base", "col",
              "embed", "param", "track", "wbr"}
+VIDEO_EXT = re.compile(r"\.(mp4|webm|mov|m3u8)(\?|#|$)", re.I)
 BAD_IMG = re.compile(
     r"(logo|icon|avatar|sprite|pixel|blank|placeholder|banner|/ads?/|adserver|tracking|"
     r"\.svg(\?|$)|\.gif(\?|$)|^data:)", re.I)
@@ -25,6 +26,7 @@ class _Page(HTMLParser):
         self.title_tag = ""
         self.paras = []          # (text, trong_article)
         self.imgs = []           # (url, trong_article)
+        self.videos = []         # link file video trực tiếp (mp4/webm/mov/m3u8)
         self.jsonld = []
         self._ignore = 0
         self._article = 0
@@ -53,6 +55,12 @@ class _Page(HTMLParser):
                 if src:
                     self.imgs.append((src, self._article > 0))
             return
+        if tag in ("video", "source") and not self._ignore:
+            v = a.get("src") or a.get("data-src")
+            if v and VIDEO_EXT.search(v):
+                self.videos.append(v)
+            if tag == "video" and a.get("poster"):
+                self.imgs.append((a["poster"], self._article > 0))
         if tag in VOID_TAGS:
             return
         if tag == "script" and "ld+json" in (a.get("type") or "").lower():
@@ -127,6 +135,18 @@ def _image_urls_from(value):
     return out
 
 
+def _video_urls_from(value):
+    out = []
+    if isinstance(value, dict):
+        u = value.get("contentUrl")
+        if isinstance(u, str):
+            out.append(u)
+    elif isinstance(value, list):
+        for v in value:
+            out.extend(_video_urls_from(v))
+    return out
+
+
 def _ts(s):
     return feeds._parse_date(s) if s else None
 
@@ -171,9 +191,26 @@ def parse_article(page_html, page_url):
         keys.add(k)
         images.append(u)
 
+    vcand = []
+    for k in ("og:video", "og:video:url", "og:video:secure_url", "twitter:player:stream"):
+        vcand += p.meta_multi.get(k, [])
+    vcand += _video_urls_from(news_ld.get("video"))
+    vcand += [u for o in ld if o.get("@type") == "VideoObject" for u in _video_urls_from(o)]
+    vcand += p.videos
+    videos, vkeys = [], set()
+    for u in vcand:
+        u = urljoin(page_url, u.strip())
+        if not util.is_safe_url(u) or not VIDEO_EXT.search(u):   # chỉ nhận file video trực tiếp
+            continue
+        k = u.split("?")[0]
+        if k not in vkeys:
+            vkeys.add(k)
+            videos.append(u)
+
     desc = p.meta.get("og:description") or p.meta.get("description") or news_ld.get("description") or ""
     return {"url": canonical, "title": title, "text": text, "images": images,
-            "site": site, "published": published, "description": html.unescape(desc)}
+            "site": site, "published": published, "description": html.unescape(desc),
+            "videos": videos}
 
 
 def fetch_article(url):

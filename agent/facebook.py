@@ -64,3 +64,38 @@ class Facebook:
         if not post_id:
             raise FacebookError("Graph API không trả về post id")
         return post_id, f"https://www.facebook.com/{post_id}"
+
+    def check(self):
+        """Kiểm tra token + Page ID mà KHÔNG đăng gì. Trả (id, tên Page)."""
+        url = f"https://graph.facebook.com/{self.version}/{self.page_id}?fields=id,name"
+        try:
+            r = util.http(url, headers={"Authorization": f"Bearer {self.token}"}, retries=0)
+        except util.HttpError as e:
+            msg = ""
+            try:
+                msg = json.loads(e.body.decode("utf-8", "replace")).get("error", {}).get("message", "")
+            except Exception:
+                pass
+            raise FacebookError(f"Graph API lỗi {e.status}: {msg}") from None
+        d = r.json()
+        return d.get("id"), d.get("name")
+
+
+def _main():
+    import os
+    fb = Facebook(os.environ.get("FB_PAGE_ID"), os.environ.get("FB_PAGE_ACCESS_TOKEN"),
+                  os.environ.get("FB_GRAPH_VERSION") or "v25.0")
+    if not fb.enabled:
+        print("Thiếu FB_PAGE_ID hoặc FB_PAGE_ACCESS_TOKEN trong Secrets")
+        return 2
+    try:
+        pid, name = fb.check()
+    except FacebookError as e:
+        print(f"KHÔNG ĐẠT: {e}")
+        return 1
+    print(f"ĐẠT: token đọc được Page '{name}' (id={pid}). Chưa đăng bài nào.")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(_main())
