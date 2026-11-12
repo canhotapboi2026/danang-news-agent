@@ -478,7 +478,7 @@
    "priority": "thuong",
    "site": "baochinhphu.vn",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 173,
    "title": "Đà Nẵng khẩn trương khắc phục sạt lở, sớm thông tuyến giao thông ở miền núi",
    "urgent": false,
@@ -671,7 +671,7 @@
    "priority": "thuong",
    "site": "TUOI TRE ONLINE",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 154,
    "title": "Hai kỳ họp liên tiếp, Đà Nẵng khai trừ Đảng hai nữ đảng viên",
    "urgent": false,
@@ -856,7 +856,7 @@
    "priority": "thuong",
    "site": "Báo Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 197,
    "title": "Báo Mỹ gợi ý loạt thiên đường biển đáng khám phá tại Việt Nam",
    "urgent": false,
@@ -967,7 +967,7 @@
    "priority": "thuong",
    "site": "Báo Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 203,
    "title": "Cụ bà đơn chiếc hiến hơn 500 m² đất làm đường",
    "urgent": false,
@@ -1042,7 +1042,7 @@
    "priority": "thuong",
    "site": "TUOI TRE ONLINE",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 185,
    "title": "Công trình chống ngập Đà Nẵng: Lời giải tiến độ từ chủ động sản xuất",
    "urgent": false,
@@ -1188,7 +1188,7 @@
    "priority": "thuong",
    "site": "baodautu",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 179,
    "title": "Đà Nẵng lập tổ công tác đôn đốc tiến độ Dự án Bến cảng container Liên Chiểu",
    "urgent": false,
@@ -8507,6 +8507,25 @@
    ],
    "url": "https://dantri.com.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-tiep-chu-tich-hoi-dong-lien-bang-quoc-hoi-lien-bang-nga-20261112153708376.htm"
   },
+  "dantri.com.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-to-lam-sap-co-chuyen-cong-tac-den-trung-quoc-20261112230341516.htm": {
+   "lead": [],
+   "t": 1794521923,
+   "title": [
+    "chu",
+    "chuyen",
+    "cong",
+    "lam",
+    "nuoc",
+    "quoc",
+    "sap",
+    "tac",
+    "thu",
+    "tich",
+    "tong",
+    "trung"
+   ],
+   "url": "https://dantri.com.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-to-lam-sap-co-chuyen-cong-tac-den-trung-quoc-20261112230341516.htm"
+  },
   "dantri.com.vn/thoi-su/tong-luc-lam-duong-noi-tphcm-san-bay-long-thanh-truoc-ngay-2412-20261110144727641.htm": {
    "lead": [],
    "t": 1794439356,
@@ -9627,6 +9646,24 @@
     "vien"
    ],
    "url": "https://tin.skydoor.net/news/kinh-te-benh-vien-o-da-nang-giu-xe-may-chi-1000-dongluot-gan-10-nam-8429483"
+  },
+  "news.google.com/rss/articles/CBMipwFBVV95cUxOOTVtemYyRndFYUUwcHdGc2xHUW9mc29oR1gtNmNTM09pR0pTQWlDVnFyOUZocnlIVFpsT05Fcnk1UkxLTVBGbDhhM3RGZE9NWnhoZTlJV3ZpZC0tb3VwVEhnUzRfT2NhX3BfUU0yLW96TDdfRnZlRHUtUFNtcUsyZmcwdEJwQnJfeFpOejJfNW5UVHpPajVQc3FBNDB2NS0xT0Y5SVllOA?oc=5": {
+   "lead": [],
+   "t": 1794521923,
+   "title": [
+    "chon",
+    "duc",
+    "gai",
+    "giet",
+    "nang",
+    "ong",
+    "quan",
+    "soc",
+    "tinh",
+    "trang",
+    "xac"
+   ],
+   "url": "https://www.nguoi-viet.com/viet-nam/ong-da-nang-giet-chon-xac-co-gai-soc-trang-sau-khi-quan-he-tinh-duc/"
   },
   "news.google.com/rss/articles/CBMiqAFBVV95cUxNOE8tNFhKTnM5TVkzeVR2SFpJckUwQWljbEpEeU1NUk41NEROR29VS19BQ2VQSjZmamlra3JwQkVOSGVudXJSSHFhVktXalNuaElYOGpLcG8wclJLMC1LbDU3YzY2VEdKN2E0T0c2M3RmZVEtQmZQNGlVRHFyNWpxSFVCanVfZmlKZkNrbXhKZE5WcTdrNVozOWVBYVA5VkZoNlg3MDgxOUI?oc=5": {
    "lead": [],
@@ -10830,6 +10867,23 @@
    ],
    "url": "https://thanhnien.vn/bi-thu-tran-luu-quang-giao-nhiem-vu-cho-tan-chu-tich-ubnd-tphcm-le-quoc-phong-18526111212493377.htm"
   },
+  "thanhnien.vn/billiards-tran-quyet-chien-khong-co-suat-dac-cach-tai-world-cup-ai-cap-185261113041953444.htm": {
+   "lead": [],
+   "t": 1794521923,
+   "title": [
+    "billiards",
+    "cach",
+    "cap",
+    "chien",
+    "cup",
+    "dac",
+    "quyet",
+    "suat",
+    "tran",
+    "world"
+   ],
+   "url": "https://thanhnien.vn/billiards-tran-quyet-chien-khong-co-suat-dac-cach-tai-world-cup-ai-cap-185261113041953444.htm"
+  },
   "thanhnien.vn/bo-gd-dt-thi-khoi-chuyen-khong-dong-nghia-phai-hoc-chuyen-sau-nhieu-mon-185261111223926315.htm": {
    "lead": [],
    "t": 1794439356,
@@ -11608,6 +11662,19 @@
     "phan"
    ],
    "url": "https://thanhnien.vn/co-gai-tai-hon-sau-do-vo-bi-nha-chong-phan-doi-theo-nghiep-ca-hat-18526111205120066.htm"
+  },
+  "thanhnien.vn/co-gi-sau-cuoc-dam-phan-3-ben-ve-ukraine-18526111221295483.htm": {
+   "lead": [],
+   "t": 1794521923,
+   "title": [
+    "3",
+    "ben",
+    "cuoc",
+    "dam",
+    "phan",
+    "ukraine"
+   ],
+   "url": "https://thanhnien.vn/co-gi-sau-cuoc-dam-phan-3-ben-ve-ukraine-18526111221295483.htm"
   },
   "thanhnien.vn/co-hoi-vang-cho-cac-thu-mon-tre-trung-kien-hay-van-viet-bat-chinh-khi-khong-co-le-giang-patrik-185261112200054444.htm": {
    "lead": [],
@@ -13103,6 +13170,19 @@
    ],
    "url": "https://thanhnien.vn/hdbank-vietjet-vikki-uu-dai-mua-sam-cuoi-nam-ket-noi-tai-chinh-hang-khong-du-lich-185261112091214349.htm"
   },
+  "thanhnien.vn/he-luy-lan-rong-sau-be-boi-cua-ceo-nvidia-185261112182742964.htm": {
+   "lead": [],
+   "t": 1794521923,
+   "title": [
+    "boi",
+    "ceo",
+    "lan",
+    "luy",
+    "nvidia",
+    "rong"
+   ],
+   "url": "https://thanhnien.vn/he-luy-lan-rong-sau-be-boi-cua-ceo-nvidia-185261112182742964.htm"
+  },
   "thanhnien.vn/highlight-doi-tuyen-viet-nam-2-0-dai-loan-dinh-bac-olaha-manh-duc-lap-cong-185261111211925803.htm": {
    "lead": [],
    "t": 1794409543,
@@ -13845,6 +13925,26 @@
    ],
    "url": "https://thanhnien.vn/lang-son-hoc-sinh-dan-toc-thieu-so-co-them-co-hoi-thuc-hanh-robot-lap-trinh-1852611111718108.htm"
   },
+  "thanhnien.vn/lanh-dao-can-tho-cac-so-nganh-phai-soi-roi-chinh-minh-trong-thuc-thi-cong-vu-185261112155518634.htm": {
+   "lead": [],
+   "t": 1794521923,
+   "title": [
+    "can",
+    "chinh",
+    "cong",
+    "dao",
+    "lanh",
+    "minh",
+    "nganh",
+    "phai",
+    "roi",
+    "soi",
+    "thi",
+    "tho",
+    "thuc"
+   ],
+   "url": "https://thanhnien.vn/lanh-dao-can-tho-cac-so-nganh-phai-soi-roi-chinh-minh-trong-thuc-thi-cong-vu-185261112155518634.htm"
+  },
   "thanhnien.vn/lanh-dao-vba-len-tieng-ve-vu-an-cac-cau-thu-bong-ro-bi-bat-vi-dan-xep-ty-so-rat-bat-ngo-185261111123405978.htm": {
    "lead": [],
    "t": 1794409543,
@@ -13876,6 +13976,20 @@
     "lich"
    ],
    "url": "https://thanhnien.vn/lich-am-hom-nay-1211-ngay-dan-thang-hoi-185261111101035554.htm"
+  },
+  "thanhnien.vn/lich-am-hom-nay-1311-la-ngay-tan-mao-ngay-nay-nam-xua-la-ngay-gi-185261112091311427.htm": {
+   "lead": [],
+   "t": 1794521923,
+   "title": [
+    "11",
+    "13",
+    "hom",
+    "lich",
+    "mao",
+    "tan",
+    "xua"
+   ],
+   "url": "https://thanhnien.vn/lich-am-hom-nay-1311-la-ngay-tan-mao-ngay-nay-nam-xua-la-ngay-gi-185261112091311427.htm"
   },
   "thanhnien.vn/lich-thi-dau-tran-ra-quan-world-cup-cua-u17-viet-nam-moi-nhat-se-gay-soc-cho-bi-da-gio-nao-185261107132254389.htm": {
    "lead": [],
@@ -15186,6 +15300,24 @@
    ],
    "url": "https://thanhnien.vn/ong-biden-noi-ve-benh-ung-thu-va-quyet-dinh-tranh-cu-nam-2024-185261112074723485.htm"
   },
+  "thanhnien.vn/ong-jensen-huang-tu-chuc-ceo-nvidia-thi-truong-cang-thang-cho-tac-dong-185261113001813561.htm": {
+   "lead": [],
+   "t": 1794521923,
+   "title": [
+    "cang",
+    "ceo",
+    "chuc",
+    "dong",
+    "huang",
+    "jensen",
+    "nvidia",
+    "ong",
+    "tac",
+    "thi",
+    "truong"
+   ],
+   "url": "https://thanhnien.vn/ong-jensen-huang-tu-chuc-ceo-nvidia-thi-truong-cang-thang-cho-tac-dong-185261113001813561.htm"
+  },
   "thanhnien.vn/ong-le-quoc-phong-du-le-phat-dong-phat-trien-van-hoa-dan-toc-ton-giao-185261112191731639.htm": {
    "lead": [],
    "t": 1794487470,
@@ -15626,6 +15758,24 @@
     "vien"
    ],
    "url": "https://thanhnien.vn/sat-lo-o-doc-bao-dai-nha-trang-khien-mot-phu-nu-nhap-vien-vi-tong-phai-da-185261112084135586.htm"
+  },
+  "thanhnien.vn/sat-lo-tai-quoc-lo-1d-chu-tich-gia-lai-chi-dao-lam-ro-nguyen-nhan-185261112214131245.htm": {
+   "lead": [],
+   "t": 1794521923,
+   "title": [
+    "chi",
+    "chu",
+    "dao",
+    "gia",
+    "lai",
+    "lam",
+    "nguyen",
+    "nhan",
+    "quoc",
+    "sat",
+    "tich"
+   ],
+   "url": "https://thanhnien.vn/sat-lo-tai-quoc-lo-1d-chu-tich-gia-lai-chi-dao-lam-ro-nguyen-nhan-185261112214131245.htm"
   },
   "thanhnien.vn/sat-lo-uy-hiep-nhieu-noi-o-tra-leng-129-nguoi-duoc-di-doi-khan-cap-185261112143830162.htm": {
    "lead": [
@@ -16712,6 +16862,21 @@
     "vien"
    ],
    "url": "https://thanhnien.vn/tphcm-tinh-giao-dat-mo-rong-benh-vien-nguyen-thi-thap-huong-den-500-600-giuong-185261112170558215.htm"
+  },
+  "thanhnien.vn/trai-ban-nguoi-dao-tu-tay-xay-nha-lam-du-lich-185261112214141918.htm": {
+   "lead": [],
+   "t": 1794521923,
+   "title": [
+    "ban",
+    "dao",
+    "lam",
+    "lich",
+    "nha",
+    "tay",
+    "trai",
+    "xay"
+   ],
+   "url": "https://thanhnien.vn/trai-ban-nguoi-dao-tu-tay-xay-nha-lam-du-lich-185261112214141918.htm"
   },
   "thanhnien.vn/trang-an-gop-mat-trong-100-di-san-dia-chat-the-gioi-185261112165808159.htm": {
    "lead": [],
