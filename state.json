@@ -233,7 +233,7 @@
    "priority": "thuong",
    "site": "TUOI TRE ONLINE",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 133,
    "title": "Đà Nẵng kiểm tra chất lượng vàng, lấy mẫu thử nghiệm tại 14 doanh nghiệp",
    "urgent": false,
@@ -381,7 +381,7 @@
    "priority": "thuong",
    "site": "Báo Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 138,
    "title": "An táng hài cốt liệt sĩ ở Đà Nẵng, xúc động với những di vật được tìm thấy",
    "urgent": false,
@@ -606,7 +606,7 @@
    "priority": "hot",
    "site": "Báo Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 143,
    "title": "Nổ lớn tại nhà dân ở Đà Nẵng, người đàn ông tử vong thi thể không nguyên vẹn",
    "urgent": false,
@@ -1112,7 +1112,7 @@
    "priority": "thuong",
    "site": "Báo điện tử Công Lý",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 123,
    "title": "Đà Nẵng tuyên dương 42 nhà giáo trẻ tiêu biểu và 40 học sinh xuất sắc",
    "urgent": false,
@@ -9125,6 +9125,19 @@
     "van"
    ],
    "url": "https://www.vietnam.vn/da-nang-dien-tap-chua-chay-cuu-nan-quy-mo-lon-tai-ham-hai-van"
+  },
+  "news.google.com/rss/articles/CBMijwFBVV95cUxQcWw5cWNHN0w0dG1vZXRGVmVocGppY3puWXZxNXJlbmhrS1o5QW50OGkwNS1NdWVTXzlYenhuMDBNODZueXNXcmQ1U21acHZuVG9OV3FBUV85TzBRR0FLX05SNkU3NlcyRlowcUFrZ3ZKVlQ3dEtudkVEZll4dGN6NG9PT0txTmZCNWk2dDB3RQ?oc=5": {
+   "lead": [],
+   "t": 1794511734,
+   "title": [
+    "chu",
+    "lon",
+    "nang",
+    "nha",
+    "tieng",
+    "vong"
+   ],
+   "url": "https://tin.skydoor.net/news/xa-hoi-sau-tieng-no-lon-chu-nha-o-da-nang-tu-vong-8429418"
   },
   "news.google.com/rss/articles/CBMikgFBVV95cUxPQXU2MDFVMUpWenlNSU1oTUgxX29QRlNSZFZrUFExamhWWWFYY0ZqdEJzbm1MdmlIckRFVXVxRm1tcHlVaXZZLWJORmFhTFhxdmx0MFFKZ0hZYkpKUkVkZzB4TDFFaGY1ZmFWVVgzQk11NlQ2UXliN0E0elBkMW52UGFTZ3ROaEJjXzByQzJJWlZ0Zw?oc=5": {
    "lead": [],
@@ -22371,6 +22384,22 @@
     "zelensky"
    ],
    "url": "https://tuoitre.vn/ong-zelensky-lien-lac-tren-chien-truong-gap-kho-do-mang-ve-tinh-starshield-bi-gian-doan-100261112181546067.htm"
+  },
+  "tuoitre.vn/phan-ung-cua-ong-trump-sau-khi-ceo-nvidia-jensen-huang-tu-chuc-100261112235643195.htm": {
+   "lead": [],
+   "t": 1794511734,
+   "title": [
+    "ceo",
+    "chuc",
+    "huang",
+    "jensen",
+    "nvidia",
+    "ong",
+    "phan",
+    "trump",
+    "ung"
+   ],
+   "url": "https://tuoitre.vn/phan-ung-cua-ong-trump-sau-khi-ceo-nvidia-jensen-huang-tu-chuc-100261112235643195.htm"
   },
   "tuoitre.vn/phap-de-xuat-mo-rong-hop-tac-voi-viet-nam-sang-truc-thang-ve-tinh-va-dong-tau-ho-ve-100261112192505944.htm": {
    "lead": [],
