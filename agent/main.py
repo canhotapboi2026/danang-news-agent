@@ -20,11 +20,12 @@ class Ctx:
     def __init__(self, cfg, env, state, now, tg, fb):
         self.cfg, self.env, self.state, self.now, self.tg, self.fb = cfg, env, state, now, tg, fb
         self.s = cfg["settings"]
-        self.dry_run = env.get("DRY_RUN") == "1" or not fb.enabled
+        self.dry_run = env.get("DRY_RUN") == "1" or bool(self.s.get("dry_run")) or not fb.enabled
+        self.cache = {}      # ảnh đã tải trong lần chạy này (tránh tải lại khi đăng bài từ hàng đợi)
         self.stats = {k: 0 for k in (
             "sources_ok", "sources_error", "processed", "blocked", "off_topic", "duplicates", "unresolved",
             "no_image", "too_short", "errors", "sent_for_review", "auto_posted", "queued",
-            "posted", "dry_posted", "rejected", "expired", "video_frame", "card_media")}
+            "posted", "dry_posted", "rejected", "expired", "video_frame", "card_media", "queue_full")}
 
 
 def load_config(path):
@@ -66,9 +67,34 @@ def can_publish_now(ctx, urgent):
     cap = ctx.s["max_posts_per_day"] + (5 if urgent else 0)
     if len(times) >= cap:
         return False
-    if not urgent and times and ctx.now - max(times) < ctx.s["min_gap_minutes"] * 60:
+    if not urgent and times and ctx.now - max(times) < gap_minutes(ctx, max(times)) * 60:
         return False
     return True
+
+
+def gap_minutes(ctx, last_post_ts):
+    """Khoảng cách tối thiểu tới bài kế tiếp: ngẫu nhiên trong [min_gap_minutes, max_gap_minutes].
+    Tính từ mốc bài vừa đăng nên không cần lưu thêm gì vào state."""
+    lo = ctx.s["min_gap_minutes"]
+    hi = max(lo, ctx.s.get("max_gap_minutes", lo))
+    return lo + int(util.sha(str(last_post_ts), 6), 16) % (hi - lo + 1)
+
+
+def in_active_hours(ctx):
+    """Chỉ tự đăng trong khung giờ cho phép, ví dụ "active_hours": [6, 22] (giờ Việt Nam)."""
+    rng = ctx.s.get("active_hours")
+    if not rng:
+        return True
+    start, end = rng
+    h = ((ctx.now + ctx.s.get("utc_offset_hours", 7) * HOUR) // HOUR) % 24
+    return start <= h < end if start < end else (h >= start or h < end)
+
+
+def queue_full(ctx):
+    if ctx.s["publish_mode"] != "auto":
+        return False
+    n = sum(1 for d in ctx.state["drafts"].values() if d["status"] == "queued")
+    return n >= ctx.s.get("queue_max", 5)
 
 
 # ---------- đăng bài ----------
@@ -98,7 +124,8 @@ def publish_draft(ctx, d, imgs=None, auto=False):
     if ctx.dry_run:
         d["status"] = "posted_dry"
         ctx.stats["dry_posted"] += 1
-        ctx.tg.notify(f"🧪 DRY-RUN (chưa cấu hình Facebook nên KHÔNG đăng thật)\n"
+        ctx.state["posted_times"].append(ctx.now)     # mô phỏng đúng nhịp đăng khi chạy thử
+        ctx.tg.notify(f"🧪 DRY-RUN (chạy thử, KHÔNG đăng thật lên Page)\n"
                       f"Bài sẽ đăng với {len(imgs)} ảnh:\n\n{d['caption']}")
         return True
     try:
@@ -154,21 +181,29 @@ def handle_decisions(ctx):
 
 
 def housekeeping(ctx):
-    """Hết hạn bản nháp cũ; đăng bài đang xếp hàng khi đủ điều kiện."""
-    drafts = sorted(ctx.state["drafts"].values(), key=lambda x: x["created"])
-    for d in drafts:
+    """Hết hạn bản nháp cũ và tin xếp hàng quá lâu."""
+    for d in sorted(ctx.state["drafts"].values(), key=lambda x: x["created"]):
         age_h = (ctx.now - d["created"]) / HOUR
         if d["status"] == "pending" and age_h > ttl_hours(ctx, d):
             d["status"] = "expired"
             ctx.stats["expired"] += 1
             if d.get("tg_msg_id"):
                 ctx.tg.clear_buttons(d["tg_msg_id"])
-        elif d["status"] == "queued":
-            if age_h > 3:
-                d["status"] = "expired"
-                ctx.stats["expired"] += 1
-            elif can_publish_now(ctx, d.get("urgent")):
-                publish_draft(ctx, d, auto=True)
+        elif d["status"] == "queued" and age_h > ctx.s.get("queue_ttl_hours", 5):
+            d["status"] = "expired"
+            ctx.stats["expired"] += 1
+
+
+def publish_queued(ctx):
+    """Chế độ auto: nếu đủ khoảng cách và đúng khung giờ thì đăng TỐI ĐA 1 bài trong lần chạy này.
+    Ưu tiên tin HOT, sau đó tin MỚI nhất trước (tin xếp hàng lâu sẽ tự hết hạn thay vì đăng muộn)."""
+    if ctx.s["publish_mode"] != "auto" or not in_active_hours(ctx):
+        return
+    queued = sorted((d for d in ctx.state["drafts"].values() if d["status"] == "queued"),
+                    key=lambda x: (x.get("priority") != "hot", -x["created"]))
+    if queued and can_publish_now(ctx, queued[0].get("urgent")):
+        d = queued[0]
+        publish_draft(ctx, d, imgs=ctx.cache.get(d["id"]), auto=True)
 
 
 # ---------- xử lý từng tin ----------
@@ -272,16 +307,14 @@ def process_item(ctx, src, it):
         "category": cat, "priority": prio, "urgent": prio == "khan",
         "flags": res["flags"], "created": ctx.now, "status": "pending", "source": src["name"],
     }
-    auto = (s["publish_mode"] == "auto" and src.get("auto_ok", False) and not d["flags"])
+    auto = (s["publish_mode"] == "auto" and (s.get("auto_all_sources", False) or src.get("auto_ok", False))
+            and not d["flags"] and (not d["urgent"] or s.get("auto_urgent", False)))
     try:
         if auto:
-            if can_publish_now(ctx, d["urgent"]):
-                ctx.state["drafts"][d["id"]] = d
-                publish_draft(ctx, d, imgs=imgs, auto=True)
-            else:
-                d["status"] = "queued"
-                ctx.state["drafts"][d["id"]] = d
-                ctx.stats["queued"] += 1
+            d["status"] = "queued"          # chờ tới lượt đăng (publish_queued)
+            ctx.state["drafts"][d["id"]] = d
+            ctx.cache[d["id"]] = imgs
+            ctx.stats["queued"] += 1
         else:
             d["tg_msg_id"] = ctx.tg.send_draft(d, imgs)
             ctx.state["drafts"][d["id"]] = d
@@ -312,6 +345,9 @@ def run_source(ctx, src):
         done = ctx.stats["processed"] - start
         if ctx.stats["processed"] >= ctx.s["max_new_per_run"] or done >= per_src:
             break
+        if queue_full(ctx):
+            ctx.stats["queue_full"] += 1
+            break
         process_item(ctx, src, it)
 
 
@@ -332,6 +368,7 @@ def run(cfg, env, state, now=None, tg=None, fb=None, do_sources=True):
         for src in cfg["sources"]:
             if src.get("enabled", True) and not src["url"].startswith("DÁN"):
                 run_source(ctx, src)
+    publish_queued(ctx)
     return ctx.stats
 
 
