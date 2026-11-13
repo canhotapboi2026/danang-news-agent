@@ -558,7 +558,7 @@
    "priority": "thuong",
    "site": "Báo điện tử Dân trí",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "posted_dry",
    "title": "Newtown Diamond và sức hút căn hộ cao cấp tại Đà Nẵng",
    "urgent": false,
    "url": "https://dantri.com.vn/bat-dong-san/newtown-diamond-va-suc-hut-can-ho-cao-cap-tai-da-nang-20261113173753141.htm"
@@ -1649,7 +1649,7 @@
    "priority": "thuong",
    "site": "Tạp chí điện tử Thương hiệu và Công luận",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 271,
    "title": "Đà Nẵng: Mục tiêu 8.400 ha sâm Ngọc Linh và bài toán chế biến sâu",
    "urgent": false,
@@ -2173,7 +2173,8 @@
  ],
  "posted_times": [
   1794482201,
-  1794565238
+  1794565238,
+  1794569146
  ],
  "seen": {
   "baoangiang.com.vn/da-nang-downtown-dong-luc-moi-cho-dien-mao-do-thi-va-kinh-te-dem-ben-song-han-a502430.html": {
@@ -7130,6 +7131,24 @@
    ],
    "url": "https://dantri.com.vn/kinh-doanh/gia-vang-roi-thang-dung-xuong-day-hon-mot-nam-20261113002928420.htm"
   },
+  "dantri.com.vn/kinh-doanh/gia-vang-the-gioi-bat-ngo-tang-nhe-sau-khi-cham-day-13-thang-20261113173826399.htm": {
+   "lead": [],
+   "t": 1794569146,
+   "title": [
+    "13",
+    "bat",
+    "cham",
+    "day",
+    "gia",
+    "gioi",
+    "ngo",
+    "nhe",
+    "tang",
+    "the",
+    "vang"
+   ],
+   "url": "https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-bat-ngo-tang-nhe-sau-khi-cham-day-13-thang-20261113173826399.htm"
+  },
   "dantri.com.vn/kinh-doanh/gia-vang-tiep-tuc-giam-nguoi-mua-vao-lo-9-trieu-dong-sau-1-thang-20261112065901858.htm": {
    "lead": [],
    "t": 1794455508,
@@ -7458,6 +7477,23 @@
     "trieu"
    ],
    "url": "https://dantri.com.vn/kinh-doanh/nguy-co-lo-du-lieu-11-trieu-the-tin-dung-lanh-dao-muji-cui-dau-nhan-loi-20261113163358471.htm"
+  },
+  "dantri.com.vn/kinh-doanh/nhung-dieu-nguoi-tieu-dung-tim-kiem-o-thuc-pham-che-bien-san-20261113172849566.htm": {
+   "lead": [],
+   "t": 1794569146,
+   "title": [
+    "bien",
+    "che",
+    "dieu",
+    "dung",
+    "kiem",
+    "pham",
+    "san",
+    "thuc",
+    "tieu",
+    "tim"
+   ],
+   "url": "https://dantri.com.vn/kinh-doanh/nhung-dieu-nguoi-tieu-dung-tim-kiem-o-thuc-pham-che-bien-san-20261113172849566.htm"
   },
   "dantri.com.vn/kinh-doanh/nhung-thong-tin-nao-trong-linh-vuc-tai-chinh-duoc-xep-vao-bi-mat-nha-nuoc-20261111193715007.htm": {
    "lead": [],
@@ -11405,6 +11441,21 @@
    ],
    "url": "https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-chia-tay-4-cau-thu-sau-tran-thang-dai-loan-20261111233338518.htm"
   },
+  "dantri.com.vn/the-thao/fifa-ra-phan-quyet-ve-world-cup-co-u17-viet-nam-tham-du-20261113165934998.htm": {
+   "lead": [],
+   "t": 1794569146,
+   "title": [
+    "cup",
+    "fifa",
+    "phan",
+    "quyet",
+    "tham",
+    "u17",
+    "viet",
+    "world"
+   ],
+   "url": "https://dantri.com.vn/the-thao/fifa-ra-phan-quyet-ve-world-cup-co-u17-viet-nam-tham-du-20261113165934998.htm"
+  },
   "dantri.com.vn/the-thao/fifa-ra-phan-quyet-ve-world-cup-ma-u17-viet-nam-tham-du-20261113165934998.htm": {
    "lead": [],
    "t": 1794568270,
@@ -14088,6 +14139,24 @@
    ],
    "url": "https://dantri.com.vn/tinh-yeu-gioi-tinh/mot-dem-trot-dai-ben-ngoai-toi-mang-ve-ket-qua-khien-vo-bat-khoc-20261112081319064.htm"
   },
+  "dantri.com.vn/tinh-yeu-gioi-tinh/sap-sinh-con-toi-ton-thuong-khi-chong-tu-choi-don-bo-me-vo-len-cham-chau-20261112140353606.htm": {
+   "lead": [],
+   "t": 1794569146,
+   "title": [
+    "cham",
+    "chau",
+    "choi",
+    "chong",
+    "don",
+    "len",
+    "sap",
+    "sinh",
+    "thuong",
+    "toi",
+    "ton"
+   ],
+   "url": "https://dantri.com.vn/tinh-yeu-gioi-tinh/sap-sinh-con-toi-ton-thuong-khi-chong-tu-choi-don-bo-me-vo-len-cham-chau-20261112140353606.htm"
+  },
   "giaoducthoidai.vn/da-nang-di-doi-122-nguoi-dan-kip-thoi-cuu-tro-san-phu-sinh-non-giua-mua-lu-post799216.html": {
    "lead": [
     "130",
@@ -14975,6 +15044,23 @@
    ],
    "url": "https://thanhnien.vn/da-nang-khai-tru-dang-2-nu-dang-vien-vi-pham-nghiem-trong-185261112175427156.htm"
   },
+  "news.google.com/rss/articles/CBMiowFBVV95cUxPTGM2djFVaFNwOHo1UFpMZ25lZktjOEI0TFc2bHR3LWwxeDJ0cXNWSnNCTWVkUGlETExzaVlIQlg0VHVWQkg0bnF4OGZkbDNkWUFucEpmVU5pcnF3dUZlZllnZkFzaDZodWZPSFZZQ1R0UVdHTTRwdG0zUndLclNpVFFNS1BURUpXUmJBbHJBakZsam55dmJrakEyZmlGUWFZNjdN?oc=5": {
+   "lead": [],
+   "t": 1794569146,
+   "title": [
+    "3",
+    "bien",
+    "dap",
+    "dat",
+    "dau",
+    "ket",
+    "mac",
+    "nang",
+    "vang",
+    "ven"
+   ],
+   "url": "https://tin.skydoor.net/news/xa-hoi-3-du-an-dap-nam-tren-dat-vang-ven-bien-da-nang-mac-ket-vi-8431126"
+  },
   "news.google.com/rss/articles/CBMipAFBVV95cUxNMVdtLWVscGwxUHJMeTdVTnZfZkJJSFRuN1pTZEhiaUxMZlpvSUJlbmdhbWFXMXB6RlIxd3dLUnppTjhuWHRERm1BZlB4UklxbHZHMDF3QlBTa3NWMjE1alQwdkJVUEpMMDRXcS0tUUVCOTd1ODRScW5udFEtQTVocnlFcmtEX2FIZ1IzREpPbWpENlNBVi1lQ3Zxa1lsMU56blp6RA?oc=5": {
    "lead": [],
    "t": 1794496261,
@@ -15097,6 +15183,25 @@
     "tuong"
    ],
    "url": "https://tin.skydoor.net/news/du-lich-da-nang-lot-top-10-diem-den-ly-tuong-nhat-the-gioi-dip-nam-8430013"
+  },
+  "news.google.com/rss/articles/CBMipgFBVV95cUxONnU1aDl6bHMtRmY5UkJFNTVQNFFEd0FwTHVOYzZlX0xYZHg4ZW9nY1o4eTF3ZjlDOEh1RWRKZVNTY0JOdmwzb0haRW1yOTl2dGRxQU93X0VjS1g5YjVqT0lObldQRGc5MjJxYU9BcUtlaFEtTmVDdE1JTDg4cUR5NHdjOWZuRzdOaUQ4cFhVQzNqTzVDYmQ5RFdsVjBxU0xNd3d5RVNB?oc=5": {
+   "lead": [],
+   "t": 1794569146,
+   "title": [
+    "60",
+    "dat",
+    "hoach",
+    "linh",
+    "moi",
+    "muc",
+    "nang",
+    "ngoc",
+    "sam",
+    "tan",
+    "thu",
+    "tieu"
+   ],
+   "url": "https://tin.skydoor.net/news/kinh-te-da-nang-dat-muc-tieu-thu-hoach-60-tan-cu-sam-ngoc-linh-moi-8431187"
   },
   "news.google.com/rss/articles/CBMipgFBVV95cUxPSFNaM0lXRU9XWmpMMmprZnJDUU1vQmd1dXYxLWNZVFM2eUt2c1p6OHpUbWtJcHJaYnhJM0xzenFFbGViQjBURjJhSFozU0xQU3ZhcndaWHJMSDVzOFBVS1pFVFctSGZmeldPUklLVHhDaVZwcFJkYi03cVQxRXN1VjEyMEoyZVJjWWdONlFvUjE4QUktWS1TSmQ3eGI3Z1FZTklRaDhn?oc=5": {
    "lead": [],
@@ -15313,6 +15418,23 @@
    "t": 1794507664,
    "title": [],
    "url": "https://laodong.vn/ban-tin/khac-phuc-sat-lo-tai-ban-dao-son-tra-da-nang-trong-dot-mua-keo-dai-1799433.ldo"
+  },
+  "news.google.com/rss/articles/CBMiqAFBVV95cUxQZzZ5cWxIeVJQaWtqQWtDc3R4d1VxdVZvUTJ2cUpBS3E2elRPVWk1aWxHZi1ON0xPNEx1ZFVmV2dYSjRIWGYycE5LanZtZ2VKemxYbjJ0QUFWNzZwcldaR3FMeEx5Z2FnTTJza3AxNkxTSWVTSVN0aEJmUXBieXdzVzFxdTMwc3JTQnFvUTktUDk3MTh2Qm5ha2NlRXM2eWcySjZja3lkMTM?oc=5": {
+   "lead": [],
+   "t": 1794569146,
+   "title": [
+    "bien",
+    "binh",
+    "don",
+    "khe",
+    "minh",
+    "nang",
+    "noi",
+    "tap",
+    "thien",
+    "tho"
+   ],
+   "url": "https://tin.skydoor.net/news/du-lich-den-da-nang-tap-tho-thien-noi-don-binh-minh-tren-bien-my-khe-8431357"
   },
   "news.google.com/rss/articles/CBMiqAFBVV95cUxQa1E5TjJsNUtQUGpwd3lIYXhRak1EX0ZxZURtWkhqMHI3UjZIcTJ2djd4TTdDMkFzODJqOEpSRTZRSWpNM3J1aGJuOTYtdXNMWlFRWjRaSWxhcVZ6REtJanNJQkZuYV8wQkRvV25WLXZkN1RxZlRsQ0JibEVPV3hUMU5yNm9UX3o3d1oyaENIVmNoekxSQmNNZG82c3ZwRlFKM0FDV1E0UzQ?oc=5": {
    "lead": [],
