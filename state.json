@@ -57,7 +57,7 @@
    "priority": "thuong",
    "site": "Báo Đại Đoàn Kết",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng: Ứng dụng AI tối ưu vận hành, tăng doanh số cho doanh nghiệp lữ hành",
    "urgent": false,
    "url": "https://daidoanket.vn/da-nang-ung-dung-ai-toi-uu-van-hanh-tang-doanh-so-cho-doanh-nghiep-lu-hanh.html"
@@ -149,7 +149,7 @@
    "priority": "thuong",
    "site": "Tin nhanh bất động sản CafeLand",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng đầu tư gần 667 tỷ đồng xây 2 khu nhà ở xã hội và tái định cư - CafeLand.Vn",
    "urgent": false,
    "url": "https://cafeland.vn/tin-tuc/da-nang-dau-tu-gan-667-ty-dong-xay-2-khu-nha-o-xa-hoi-va-tai-dinh-cu-156760.html"
@@ -1946,7 +1946,7 @@
    "priority": "thuong",
    "site": "Dân tộc & Phát triển",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 395,
    "title": "Xuất hiện hố sâu do sụt lún sau trường bán trú ở Đà Nẵng",
    "urgent": false,
@@ -1996,7 +1996,7 @@
    "priority": "thuong",
    "site": "Báo và phát thanh, truyền hình Đà Nẵng",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 397,
    "title": "Đà Nẵng miễn phí vé tham quan các bảo tàng trong ngày 24/11",
    "urgent": false,
@@ -11408,6 +11408,27 @@
     "tet"
    ],
    "url": "https://dantri.com.vn/tam-long-nhan-ai/tet-nay-hoan-canh-me-kho-con-dai-o-nghe-an-se-co-nha-moi-20261113110902885.htm"
+  },
+  "dantri.com.vn/tam-long-nhan-ai/vo-qua-doi-sau-thoi-gian-dieu-tri-ung-thu-chong-nghen-ngao-cam-on-ban-doc-20261113184329487.htm": {
+   "lead": [],
+   "t": 1794608875,
+   "title": [
+    "ban",
+    "cam",
+    "chong",
+    "dieu",
+    "doc",
+    "doi",
+    "gian",
+    "ngao",
+    "nghen",
+    "qua",
+    "thoi",
+    "thu",
+    "tri",
+    "ung"
+   ],
+   "url": "https://dantri.com.vn/tam-long-nhan-ai/vo-qua-doi-sau-thoi-gian-dieu-tri-ung-thu-chong-nghen-ngao-cam-on-ban-doc-20261113184329487.htm"
   },
   "dantri.com.vn/the-gioi/ai-se-chinh-thuc-ngoi-ghe-nong-ceo-nvidia-thay-ong-jensen-huang-20261113065933581.htm": {
    "lead": [],
@@ -21418,6 +21439,23 @@
    ],
    "url": "https://thanhnien.vn/dao-tao-nghiep-vu-bao-chi-thich-ung-chuyen-doi-so-va-tri-tue-nhan-tao-185261112102636524.htm"
   },
+  "thanhnien.vn/dat-vang-ven-bien-mui-ne-noi-bo-hoang-noi-van-xay-moi-185261113145446661.htm": {
+   "lead": [],
+   "t": 1794608875,
+   "title": [
+    "bien",
+    "dat",
+    "hoang",
+    "moi",
+    "mui",
+    "noi",
+    "van",
+    "vang",
+    "ven",
+    "xay"
+   ],
+   "url": "https://thanhnien.vn/dat-vang-ven-bien-mui-ne-noi-bo-hoang-noi-van-xay-moi-185261113145446661.htm"
+  },
   "thanhnien.vn/dau-an-nhiet-huyet-cua-gan-6000-nguoi-tai-mua-giai-salonpas-run-dau-tien-185261112115432398.htm": {
    "lead": [],
    "t": 1794467786,
@@ -23598,6 +23636,19 @@
     "viet"
    ],
    "url": "https://thanhnien.vn/hoi-dong-lien-bang-quoc-hoi-nga-luon-danh-tinh-cam-dac-biet-cho-viet-nam-185261112182948278.htm"
+  },
+  "thanhnien.vn/hom-nay-1411-la-ngay-gi-ma-nhieu-nguoi-quan-tam-chia-se-185261113091330647.htm": {
+   "lead": [],
+   "t": 1794608875,
+   "title": [
+    "11",
+    "14",
+    "chia",
+    "hom",
+    "quan",
+    "tam"
+   ],
+   "url": "https://thanhnien.vn/hom-nay-1411-la-ngay-gi-ma-nhieu-nguoi-quan-tam-chia-se-185261113091330647.htm"
   },
   "thanhnien.vn/hon-10-nam-o-nhat-vo-viet-quay-clip-nau-mon-que-ke-chuyen-xa-xu-18526092912031808.htm": {
    "lead": [],
@@ -26502,6 +26553,23 @@
    ],
    "url": "https://thanhnien.vn/ong-biden-noi-ve-benh-ung-thu-va-quyet-dinh-tranh-cu-nam-2024-185261112074723485.htm"
   },
+  "thanhnien.vn/ong-jensen-huang-doi-mat-trat-trieu-tap-tu-quoc-hoi-my-185261113202033574.htm": {
+   "lead": [],
+   "t": 1794608875,
+   "title": [
+    "doi",
+    "hoi",
+    "huang",
+    "jensen",
+    "mat",
+    "ong",
+    "quoc",
+    "tap",
+    "trat",
+    "trieu"
+   ],
+   "url": "https://thanhnien.vn/ong-jensen-huang-doi-mat-trat-trieu-tap-tu-quoc-hoi-my-185261113202033574.htm"
+  },
   "thanhnien.vn/ong-jensen-huang-tu-chuc-ceo-nvidia-thi-truong-cang-thang-cho-tac-dong-185261113001813561.htm": {
    "lead": [],
    "t": 1794521923,
@@ -28732,6 +28800,21 @@
    ],
    "url": "https://thanhnien.vn/tin-tuc-quoc-te-sang-1311-loat-dong-thai-sau-quyet-dinh-cua-ong-jensen-huang-185261112231025737.htm"
   },
+  "thanhnien.vn/tinh-hinh-lao-dong-viec-lam-o-tphcm-moi-nhat-185261113191343478.htm": {
+   "lead": [],
+   "t": 1794608875,
+   "title": [
+    "dong",
+    "hcm",
+    "hinh",
+    "lam",
+    "lao",
+    "moi",
+    "nhat",
+    "tinh"
+   ],
+   "url": "https://thanhnien.vn/tinh-hinh-lao-dong-viec-lam-o-tphcm-moi-nhat-185261113191343478.htm"
+  },
   "thanhnien.vn/tinh-trang-benh-cua-tai-tu-bruce-willis-chi-phi-cham-soc-lon-185261112064300877.htm": {
    "lead": [],
    "t": 1794448214,
@@ -29552,6 +29635,20 @@
     "vui"
    ],
    "url": "https://thanhnien.vn/tu-vi-ngay-13-thang-11-tuoi-hoi-don-tin-vui-tuoi-dau-can-than-tien-bac-18526111223220396.htm"
+  },
+  "thanhnien.vn/tu-vi-ngay-14-thang-11-tuoi-ti-co-loc-tuoi-tuat-tranh-nong-voi-185261113235718267.htm": {
+   "lead": [],
+   "t": 1794608875,
+   "title": [
+    "11",
+    "14",
+    "loc",
+    "nong",
+    "tranh",
+    "tuat",
+    "tuoi"
+   ],
+   "url": "https://thanhnien.vn/tu-vi-ngay-14-thang-11-tuoi-ti-co-loc-tuoi-tuat-tranh-nong-voi-185261113235718267.htm"
   },
   "thanhnien.vn/tu-vong-vi-an-nham-bom-tu-che-tao-hinh-giong-banh-ngot-185261113190517635.htm": {
    "lead": [],
