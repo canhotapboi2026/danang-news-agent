@@ -946,7 +946,7 @@
    "priority": "thuong",
    "site": "cafef",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Sau 7 lần đấu giá 'ế', sân vận động Chi Lăng hạ giá hơn 1.500 tỷ đồng",
    "urgent": false,
    "url": "https://cafef.vn/sau-7-lan-dau-gia-e-san-van-dong-chi-lang-ha-gia-hon-1500-ty-dong-188261113210919834.chn"
@@ -1101,7 +1101,7 @@
    "priority": "thuong",
    "site": "Báo Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 367,
    "title": "'Đối thoại Á - Âu' đưa opera, ballet đến phố cổ Hội An",
    "urgent": false,
@@ -1365,7 +1365,7 @@
    "priority": "thuong",
    "site": "Cổng thông tin du lịch thành phố Đà Nẵng",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 349,
    "title": "Đà Nẵng miễn phí vé tham quan các bảo tàng nhân Ngày Văn hóa Việt Nam 24/11/2026 - Cổng thông tin du lịch thành phố Đà Nẵng",
    "urgent": false,
@@ -1533,7 +1533,7 @@
    "priority": "thuong",
    "site": "TUOI TRE ONLINE",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 361,
    "title": "Đến Đà Nẵng tập thở, thiền nổi, đón bình minh trên biển Mỹ Khê",
    "urgent": false,
@@ -1696,7 +1696,7 @@
    "priority": "thuong",
    "site": "TUOI TRE ONLINE",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 355,
    "title": "Nhà đất công ở Hội An cho thuê 'được giá' nhất",
    "urgent": false,
@@ -16075,6 +16075,21 @@
    ],
    "url": "https://vietnammoi.vn/du-bao-thoi-tiet-ngay-mai-1311-ha-noi-tang-nhiet-2-do-tp-hcm-de-phong-mua-to-chieu-toi-da-nang-tiep-tuc-mua-dong-2026111121819897.htm"
   },
+  "news.google.com/rss/articles/CBMi7AFBVV95cUxQaEV5bXB2MXhvckZ5bV9qX0hmdlBtZExCZElrV1pZeEFxWXFJR1I0dlBzNzBfY29aaHAxY3ptNzE5dHVsZHhkUmpjdjBxTE1nZDh1VFV3MG5MU3hzNjFZa3JmeTdoSmVLaFZIVzAyb2RyQmZnYy15Rkd2cE9sWE9scGtSRjkzdEh3OTM1VFZubjBWTTA5VlM3QS1iQTgyeUNsY3ZUNUhnTkh4Vk5yY2tLRm5wNEp2RjVuRUFWUHFBV1dIRW51c1Y4TTk0ZENFZm1QZTVENlVxWFRqZ0VBMExBRE01OGtLSmVUbEpIeQ?oc=5": {
+   "lead": [],
+   "t": 1794602250,
+   "title": [
+    "dau",
+    "hang",
+    "hoi",
+    "kien",
+    "tin",
+    "trang",
+    "truc",
+    "viet"
+   ],
+   "url": "https://kienviet.net/2026/11/13/van-phong-kien-truc-huong-noi-giai-phap-ngoai-dong-trong-mo-thich-ung-voi-khi-hau-da-nang-winhouse-architecture-construction"
+  },
   "news.google.com/rss/articles/CBMiS0FVX3lxTFBNNXpvTXFod1dJMEhoSWZZdXVnVkFlQ3FXUmNJdXVhcGJteGR2NHdHTG1UTUMtMDBVYWlzOFhVdkxnVHAxdmRXV3p5TQ?oc=5": {
    "lead": [],
    "t": 1794467786,
@@ -16191,6 +16206,21 @@
     "thuong"
    ],
    "url": "https://www.vietnam.vn/da-nang-khai-mac-ngay-hoi-thuong-mai-dien-tu-nam-2026"
+  },
+  "news.google.com/rss/articles/CBMihwFBVV95cUxNVWVKNVdMRW1PMWZFT3B0Z0tQQ2N5SGR3eG05aFNWd1BMNHk3MmExMENKRWI0UVFnQkpkMFN2cldnZXZCRXJiVjlVMEZwOHdRQml1bUZJVThjYUdIdFlqalVCd1FYV2ZNa3lENTRGNm9lQ2U5UDNiLWtXeC1PNTZNd21iWEpkMjg?oc=5": {
+   "lead": [],
+   "t": 1794602250,
+   "title": [
+    "chuyen",
+    "diem",
+    "doi",
+    "nang",
+    "nghen",
+    "tap",
+    "thao",
+    "trung"
+   ],
+   "url": "https://www.vietnam.vn/da-nang-tap-trung-thao-go-cac-diem-nghen-ve-chuyen-doi-so"
   },
   "news.google.com/rss/articles/CBMiiAFBVV95cUxNLXIyVl9UVjFJNndwZkJzMHZod0p4VkZtc3BKZF84dEZyVy14cTJjMi15RE1GaE04U1ZnVXR0SFdSeVBtYW5wTnA3SmRKQ3gwT2I0aFZqMHMzOWtkZDM4Y3M4RmoxaE9rQ29YOEVUbXBoTUxwM1JDY1EtNjdHWk9OcVhHWWtEcjdS?oc=5": {
    "lead": [],
