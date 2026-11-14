@@ -2016,7 +2016,7 @@
    "priority": "thuong",
    "site": "Báo Đại Đoàn Kết",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 445,
    "title": "Đà Nẵng: Nạo vét cống, khơi thông dòng chảy, giải quyết ngập úng khu dân cư",
    "urgent": false,
@@ -2144,10 +2144,31 @@
    "priority": "thuong",
    "site": "vnexpress.net",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Hàng loạt trụ sở bỏ hoang sau sáp nhập ở Đà Nẵng, Quảng Trị",
    "urgent": false,
    "url": "https://vnexpress.net/hang-loat-tru-so-bo-hoang-sau-sap-nhap-o-da-nang-quang-tri-5141898.html"
+  },
+  "b7f81ccc": {
+   "caption": "📰 CA SĨ NGUYÊN HÀ GÂY CHÚ Ý KHI CÔNG KHAI SINH CON VÀ CHÂN DUNG ÔNG XÃ\n\nCa sĩ Nguyên Hà vừa khiến đông đảo khán giả bất ngờ khi công khai thông tin đón con gái đầu lòng cùng diện mạo người bạn đời. Vốn là người vô cùng kín kẽ trong chuyện riêng tư, cô chỉ tiết lộ việc mang thai vào dịp sinh nhật tháng 12 năm 2024 lúc thai kỳ đã ở tháng thứ tám. Đến tháng 1 năm 2025, nữ ca sĩ đã sinh con gái tên Naru tại một bệnh viện quốc tế ở Thành phố Hồ Chí Minh. Chỉ 3 ngày sau khi đón em bé, giọng ca Ta có hẹn với tháng 5 tiếp tục công khai người chồng Hàn Quốc không hoạt động trong ngành giải trí. Trải qua những vất vả trong lần đầu làm mẹ, cô cho biết cảm thấy mọi nỗ lực đều xứng đáng khi nhìn thấy con chào đời bình an. Khán giả yêu mến nữ ca sĩ quê Đà Nẵng này chắc hẳn cũng rất bất ngờ trước tin vui trên.\n\n#DaNang #nguyenha #doisong\nCre: ",
+   "card_title": "Ca sĩ Nguyên Hà gây chú ý khi công khai sinh con và chân dung ông xã",
+   "category": "doi_song",
+   "created": 1794700178,
+   "error": "Graph API lỗi 400: Cannot call API for app 1682792859865258 on behalf of user 1610369147769723",
+   "flags": [],
+   "id": "b7f81ccc",
+   "images": [],
+   "media": {
+    "kind": "frame",
+    "video_url": "https://kenh14cdn.com/203336854389633024/2026/11/14/tai-xuong-17946515647471089961883-0-0-450-720-crop-17946516193861773338707-1794668130406-1794668133904219448988.gif.mp4"
+   },
+   "priority": "thuong",
+   "site": "https://kenh14.vn",
+   "source": "Google News - Đà Nẵng",
+   "status": "failed",
+   "title": "Sao nữ quê Đà Nẵng kín tiếng đến khó tin: Âm thầm mang thai 8 tháng, sinh xong mới công khai chồng người Hàn",
+   "urgent": false,
+   "url": "https://kenh14.vn/sao-nu-que-da-nang-kin-tieng-den-kho-tin-am-tham-mang-thai-8-thang-sinh-xong-moi-cong-khai-chong-nguoi-han-215261114215750401.chn"
   },
   "ba63cdc9": {
    "caption": "💡 ĐÀ NẴNG QUYẾT LIỆT THÁO GỠ VƯỚNG MẮC THÚC ĐẨY CHUYỂN ĐỔI SỐ\n\nLãnh đạo thành phố Đà Nẵng vừa chủ trì cuộc họp rà soát 100 ngày xử lý các vướng mắc trong công tác chuyển đổi số và phát triển khoa học công nghệ. Đến nay, địa phương đã đạt nhiều kết quả tích cực khi phủ sóng 100% tại các điểm dân cư cùng 9 điểm trường vùng xa, đồng thời dành hơn 1.967 tỷ đồng ngân sách cho lĩnh vực này. Để người dân và doanh nghiệp thực sự thụ hưởng tiện ích số, lãnh đạo thành phố yêu cầu các sở ngành khẩn trương xử lý các công việc còn tồn đọng trước ngày 30/11, đồng thời đẩy mạnh hướng dẫn người dân khai thác ứng dụng Da Nang Smart City. Bà con ở khu vực mình đã quen dùng ứng dụng này để tra cứu thông tin hay thực hiện thủ tục hành chính chưa? 💡\n\n#DaNang #chuyendoiso #danangsmartcity\nCre: baodautu",
@@ -3025,7 +3046,7 @@
   "news.google.com/rss/articles/CBMikAFBVV95cUxQdEVGY0gwYi1WQkN1cmZlQml1XzZERndWSWlPRjUtdF80LVNiODNRdHpaOXNOeHBkSVhNbXZOZ21iQmJYeURHTnc4eWpuVC0taEtTcXlyaXhQMzNPRm40QkN2UkRUc3NfN2VmU0xfano3SkRxOXM4eHZOcFVmSGNOOEdOT1R4dlRGVmpKeXUxZnI?oc=5": 1,
   "news.google.com/rss/articles/CBMimAFBVV95cUxPR0oyblBCTE9WaW1ob0dGcmNFZHVyOFA5eDZVS3RlVmUwb0dnUHF0T2YyUUozVmdzQ1hoVmQ3blByZTZCSG11SGpBSl8teHV6VF8yQXJoQ2kzYjVuZ0Nwc3VobTZzQU9YRnJXRnZlN0U3dXNnZklMNUg3R0hTeHpGTi10R0g5T294QWtDNzljYjVHLVNZSGNYYg?oc=5": 1,
   "news.google.com/rss/articles/CBMimAFBVV95cUxQTWR6dDEweDEyelR3WkxhUGwwLUQxTU4wbmJDc3ByRnMtNkE0ZGtkZGQ0S295cXRzdEYxTnozS2dCT2M4QkJNbGdaTGxhdFpLdEdfUVd6S29WMS02OXJHN2gycVBvOGxnSzRYZUJ2NlFDbWgza0E2dzA2Sy1ROTZfYXRWOHlYSDlhbFlDQ05UUjZTQmZMdzRLRA?oc=5": 1,
-  "news.google.com/rss/articles/CBMimgFBVV95cUxNaGpHWUJqbml0ZFVDOVdtMUZuOXN2Y2RMY3llQUpwcW12QlpHR0ZvaUdJTHowNm03dEJQemJHUzhxdWEzMTZuTkg1ZDRucUlXZDNCa2ZiSWF6QTZmWUVlXzFmRUp4eXdoRWhrQkNTVjJMWll6bzZBSzBjeV9NcmhNR1FZWHZoemFfNnppUV9SdnUxUEdmVEFudVJB?oc=5": 1,
+  "news.google.com/rss/articles/CBMimgFBVV95cUxNaGpHWUJqbml0ZFVDOVdtMUZuOXN2Y2RMY3llQUpwcW12QlpHR0ZvaUdJTHowNm03dEJQemJHUzhxdWEzMTZuTkg1ZDRucUlXZDNCa2ZiSWF6QTZmWUVlXzFmRUp4eXdoRWhrQkNTVjJMWll6bzZBSzBjeV9NcmhNR1FZWHZoemFfNnppUV9SdnUxUEdmVEFudVJB?oc=5": 2,
   "news.google.com/rss/articles/CBMingFBVV95cUxQN25pMkIySm1ubkc0TmExekVtMGluZ2VZX0FmVXpoNFpYajNlMWU0M1N5Rm9zNzAwaTNNUW5JQ3VOQmdvaTV0eW9aYUUzYjR2dnhQeDZTZGJfMFIwM0RQZUhwT25VdjlCSmNUNThWa05TMUVEVXloRFNXdjZ4bWZRLXk2ZFpTa043RXl6aHZ1NjNpM1ozRnZLNmJvTTQ2dw?oc=5": 1,
   "news.google.com/rss/articles/CBMipgFBVV95cUxOUFhhNkJ1d0UxSjlLdXhfOU1TVzNpNXZWbEVtREF6a2VOaU1xSU82dGd5M3lGbTFibzgtRmwwVFFSbjN3b0RuUXB3b0llY2UzMDQteWJ4SWFGUzYxcjR5M0FGUjhzS1JBemtFT2F6aHZER2QwRUVtbXV1NU5pRl9CRWNRV3NULVdERkdDZjJ3bnJlNUxYaVMxX0w1eHE4N0JXRExhdi1B?oc=5": 1,
   "news.google.com/rss/articles/CBMipgFBVV95cUxPMXhBY2NObzQzQWNrZDFtU01rTU1XNUhEVHY1QW4tQzd3S1FiU0R4ZnpRblpPeU1iUnhVcHQtX3ZscGFfaDBHaTdkeDFJUjZKc0xucmZLbF96S2JfMUhyMnh4NFhmUXEyWl9HNVhPLVRmR3FpdXhja1gtekliMFdPRElOcHlYVHgtSlNKNlVlRWFtVWRDLVdicWdkSjAtb1RsR0tSX2ZB?oc=5": 1,
@@ -20758,6 +20779,75 @@
    ],
    "url": "https://giaoducthoidai.vn/da-nang-di-doi-122-nguoi-dan-kip-thoi-cuu-tro-san-phu-sinh-non-giua-mua-lu-post799216.html"
   },
+  "kenh14.vn/sao-nu-que-da-nang-kin-tieng-den-kho-tin-am-tham-mang-thai-8-thang-sinh-xong-moi-cong-khai-chong-nguoi-han-215261114215750401.chn": {
+   "lead": [
+    "2007",
+    "bat",
+    "biet",
+    "chi",
+    "chon",
+    "chuyen",
+    "cuoc",
+    "dai",
+    "danh",
+    "dao",
+    "dau",
+    "dinh",
+    "don",
+    "gia",
+    "giu",
+    "hai",
+    "hat",
+    "hcm",
+    "hoc",
+    "khoang",
+    "kien",
+    "kin",
+    "lua",
+    "moi",
+    "nghiep",
+    "nguyen",
+    "nhac",
+    "phe",
+    "quan",
+    "sinh",
+    "song",
+    "tao",
+    "than",
+    "thanh",
+    "thong",
+    "tro",
+    "truc",
+    "truong",
+    "truyen",
+    "tung",
+    "vai",
+    "vien",
+    "xuat"
+   ],
+   "t": 1794700178,
+   "title": [
+    "8",
+    "chong",
+    "cong",
+    "han",
+    "khai",
+    "kho",
+    "kin",
+    "mang",
+    "moi",
+    "nang",
+    "que",
+    "sao",
+    "sinh",
+    "thai",
+    "tham",
+    "tieng",
+    "tin",
+    "xong"
+   ],
+   "url": "https://kenh14.vn/sao-nu-que-da-nang-kin-tieng-den-kho-tin-am-tham-mang-thai-8-thang-sinh-xong-moi-cong-khai-chong-nguoi-han-215261114215750401.chn"
+  },
   "kinhtechungkhoan.vn/xa-cua-ngo-da-nang-chuan-bi-len-phuong-dinh-hinh-do-thi-sinh-thai-ven-song-vu-gia": {
    "lead": [
     "10",
@@ -21150,6 +21240,31 @@
     "vingroup"
    ],
    "url": "https://nguoiquansat.vn/da-nang-lap-to-cong-tac-dac-biet-thuc-tien-do-sieu-cang-2-ty-usd-nam-sat-dai-du-an-hai-van-bay-cua-vingroup-327585.html"
+  },
+  "news.google.com/rss/articles/CBMi4AFBVV95cUxOUXREdFZ5OTQ3NlRYWGhYaUd4NklRSWJDdjJBcmp6bXRCN2I2VTFJZGJuX21mbjlhUGRpc3ZCMEFqTGl3ZGZKT2lEeDZIUjMtdTJRVmNQQkNzVkhGT3kxelJOZER2NGxNWVk3ZVlFQ1Z3WTczazVTbzdjbjljN1VpYWk2S1JuR3RRTWxjVEFIR1lxUGQ0N0NzWDlsNUNqS3JpaWEtcEVnOGlEQmRPdW1uR3kwMHZDLU5lWHRQejZoYWVQTjU5czVRcHpmT0d0WTJrTHhlcGZ2ZnlrcFk5VFlqQw?oc=5": {
+   "lead": [],
+   "t": 1794700178,
+   "title": [
+    "8",
+    "chong",
+    "cong",
+    "han",
+    "khai",
+    "kho",
+    "kin",
+    "mang",
+    "moi",
+    "nang",
+    "que",
+    "sao",
+    "sinh",
+    "thai",
+    "tham",
+    "tieng",
+    "tin",
+    "xong"
+   ],
+   "url": "https://kenh14.vn/sao-nu-que-da-nang-kin-tieng-den-kho-tin-am-tham-mang-thai-8-thang-sinh-xong-moi-cong-khai-chong-nguoi-han-215261114215750401.chn"
   },
   "news.google.com/rss/articles/CBMi6wFBVV95cUxPQjVOU3l2cjl1c2R6U01oUFFVMDlhMHhVLVBEbUlQaUtUVG9PYTh1ZWFtWHNTaEwtLUxhXzZ1bVdkOTVETmh6YUpoQmFPZDl2RVhKV1U0VXpNa3NGdlNPU3hEc0hlU1huaXdxWWg3NGQ4a2RWNnRicThIbnp2U1RkVzBodTZOblpDTTdVUnZlc3kzM1YxSHVVYWppY090WlpFTnhXd1B4cVAwQTZILUpvOHl5eFFsZHQzWi15NEZ0eW9JUS10djdoWjRtN2hwMlBKYkhtMXZEc1FHTExwcC1kVWwtdWpiLXJfaW53?oc=5": {
    "lead": [],
@@ -23806,6 +23921,26 @@
    ],
    "url": "https://baoangiang.com.vn/da-nang-downtown-dong-luc-moi-cho-dien-mao-do-thi-va-kinh-te-dem-ben-song-han-a502430.html"
   },
+  "news.google.com/rss/articles/CBMitwFBVV95cUxQVWpxRG44Wlc4bW1CNWlUN2h0RkpQMkFfZUM2VTBTLVdQR2ExREtqSXRrYktVYklMYndRYzNoNHNHQ0pobnNLejJ0OXlrUFFXUE44UUJhNFJGdG5SUnNXRFhObE9ZZEtFLUFCUFJDOGRaOWlEOWdwNVdJN3ViNjlLd1d0VWRua3YwQVR4dXdSYjU3VlBXbXpMU2NnbkhLT181OU5pNlJiYkt3TGRDZFVFb2tZMnNHWDA?oc=5": {
+   "lead": [],
+   "t": 1794700178,
+   "title": [
+    "190",
+    "8",
+    "chi",
+    "dat",
+    "dau",
+    "diem",
+    "dong",
+    "gia",
+    "giam",
+    "khoi",
+    "khu",
+    "lang",
+    "nang"
+   ],
+   "url": "https://thuonghieucongluan.com.vn/da-nang-gia-khoi-diem-dau-gia-khu-dat-chi-lang-giam-con-8-190-ty-dong-a341926.html"
+  },
   "news.google.com/rss/articles/CBMiugFBVV95cUxNczVseHhWckNheU9wVGNmdUQzcUw1QU91N3RwZXdXU3FVTndYZnhIQ3h2T2t4dVFBVVI2cmx5M0NfMXNWdUdBSklJTHpQazVhcTQ2Z3NxRHluSHhOSE9UWEtBVkVaV0NoOHk3SHd4eHVPVWUxUVFkVHNaR1BvVTdsdjdnUEpWZXE5ZmtCZ20zVmJtVXNLdFJiQU50SXlMLTNUOTZYSlA2a1hJbmtkbWs2bnVCTFNKcVh4VlE?oc=5": {
    "lead": [],
    "t": 1794591400,
@@ -26267,6 +26402,22 @@
     "troi"
    ],
    "url": "https://thanhnien.vn/boi-kem-chong-nang-the-nao-khi-o-ngoai-troi-ca-ngay-185261022161200627.htm"
+  },
+  "thanhnien.vn/boi-thuong-dat-giay-tay-the-nao-cho-cong-bang-185261114214246758.htm": {
+   "lead": [],
+   "t": 1794700178,
+   "title": [
+    "bang",
+    "boi",
+    "cong",
+    "dat",
+    "giay",
+    "nao",
+    "tay",
+    "the",
+    "thuong"
+   ],
+   "url": "https://thanhnien.vn/boi-thuong-dat-giay-tay-the-nao-cho-cong-bang-185261114214246758.htm"
   },
   "thanhnien.vn/bong-ban-viet-nam-xuat-sac-gianh-hcv-dong-doi-nam-dong-nam-a-thang-nghet-tho-malaysia-185261112121015595.htm": {
    "lead": [],
@@ -29256,6 +29407,22 @@
    ],
    "url": "https://thanhnien.vn/dich-le-nhiet-ba-khong-mua-nha-rieng-chi-thich-song-trong-khach-san-185261113080409892.htm"
   },
+  "thanhnien.vn/diem-cong-trong-tuyen-sinh-dh-co-tu-khi-nao-vi-sao-bo-han-vao-nam-2028-185261114230610125.htm": {
+   "lead": [],
+   "t": 1794700178,
+   "title": [
+    "2028",
+    "cong",
+    "diem",
+    "han",
+    "nao",
+    "sao",
+    "sinh",
+    "tuyen",
+    "vao"
+   ],
+   "url": "https://thanhnien.vn/diem-cong-trong-tuyen-sinh-dh-co-tu-khi-nao-vi-sao-bo-han-vao-nam-2028-185261114230610125.htm"
+  },
   "thanhnien.vn/dien-anh-dong-gop-gan-13000-ti-dong-moi-nam-cho-tphcm-185261112174005437.htm": {
    "lead": [],
    "t": 1794487470,
@@ -29764,6 +29931,28 @@
     "viet"
    ],
    "url": "https://thanhnien.vn/doi-tuyen-viet-nam-trinh-lang-hang-thu-nhu-tay-cao-trung-binh-1845-m-185261113223627138.htm"
+  },
+  "thanhnien.vn/don-doc-an-pham-mung-ngay-nha-giao-viet-nam-2011-nha-giao-doi-moi-kien-tao-tuong-lai-185261114182844989.htm": {
+   "lead": [],
+   "t": 1794700178,
+   "title": [
+    "11",
+    "20",
+    "doc",
+    "doi",
+    "don",
+    "giao",
+    "kien",
+    "lai",
+    "moi",
+    "mung",
+    "nha",
+    "pham",
+    "tao",
+    "tuong",
+    "viet"
+   ],
+   "url": "https://thanhnien.vn/don-doc-an-pham-mung-ngay-nha-giao-viet-nam-2011-nha-giao-doi-moi-kien-tao-tuong-lai-185261114182844989.htm"
   },
   "thanhnien.vn/dong-nai-chuyen-doi-206-ha-rung-san-xuat-thuc-hien-du-an-alumin-hon-11-ti-usd-185261113104647312.htm": {
    "lead": [],
@@ -33169,6 +33358,27 @@
     "tuoi"
    ],
    "url": "https://thanhnien.vn/le-dang-chi-minh-hoan-thanh-chuong-trinh-thac-si-o-tuoi-24-18526111416412449.htm"
+  },
+  "thanhnien.vn/le-quang-liem-chia-diem-ky-thu-hang-3-the-gioi-giu-thanh-tich-bat-bai-185261115060559638.htm": {
+   "lead": [],
+   "t": 1794700178,
+   "title": [
+    "3",
+    "bai",
+    "bat",
+    "chia",
+    "diem",
+    "gioi",
+    "giu",
+    "hang",
+    "liem",
+    "quang",
+    "thanh",
+    "the",
+    "thu",
+    "tich"
+   ],
+   "url": "https://thanhnien.vn/le-quang-liem-chia-diem-ky-thu-hang-3-the-gioi-giu-thanh-tich-bat-bai-185261115060559638.htm"
   },
   "thanhnien.vn/le-quang-liem-van-bat-bai-dai-chien-ky-thu-hang-3-the-gioi-fabiano-caruana-185261114062454321.htm": {
    "lead": [],
@@ -38539,6 +38749,20 @@
     "viet"
    ],
    "url": "https://thanhnien.vn/thuong-mai-dien-tu-thuan-viet-khang-dinh-suc-canh-tranh-tai-giai-thuong-chau-a-185261113175655307.htm"
+  },
+  "thanhnien.vn/thuong-tet-som-de-kich-cau-tieu-dung-185261114223559026.htm": {
+   "lead": [],
+   "t": 1794700178,
+   "title": [
+    "cau",
+    "dung",
+    "kich",
+    "som",
+    "tet",
+    "thuong",
+    "tieu"
+   ],
+   "url": "https://thanhnien.vn/thuong-tet-som-de-kich-cau-tieu-dung-185261114223559026.htm"
   },
   "thanhnien.vn/thuong-xuyen-giat-mi-chuot-rut-khi-ngu-dung-bo-qua-dau-hieu-nay-185261016094049626.htm": {
    "lead": [],
