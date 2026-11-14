@@ -1,5 +1,26 @@
 {
  "drafts": {
+  "009bb148": {
+   "caption": "🏗️ XÃ CỬA NGÕ ĐÀ NẴNG LÊN PHƯỜNG VÀ QUY HOẠCH ĐÔ THỊ SINH THÁI\n\nKhu vực cửa ngõ phía Tây Nam thành phố đang tiến hành các bước chuyển đổi lên phường và quy hoạch không gian đến năm 2050. Cụ thể, địa phương này có quy mô rộng 7.397,49 ha, được định hướng phát triển thành đô thị sinh thái, thương mại kết hợp công nghiệp sạch. Bên cạnh đó, dự án kè chống sạt lở ven sông trị giá 120 tỷ đồng cũng đang được gấp rút thi công để hoàn thành đúng tiến độ. Bà con khu vực này có kỳ vọng gì về diện mạo mới của địa phương?\n\n#DaNang #DaiLoc #DoThi\nCre: Tạp chí điện tử",
+   "card_title": "Xã cửa ngõ Đà Nẵng lên phường và quy hoạch đô thị sinh thái",
+   "category": "su_kien",
+   "created": 1794626401,
+   "flags": [],
+   "id": "009bb148",
+   "images": [
+    "https://img.kinhtechungkhoan.vn/img/kinhtechungkhoan/20261113/dai-loc_-da-nang_1794566441.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Tạp chí điện tử",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Xã \"cửa ngõ\" Đà Nẵng chuẩn bị lên phường, định hình đô thị sinh thái ven sông Vu Gia",
+   "urgent": false,
+   "url": "https://kinhtechungkhoan.vn/xa-cua-ngo-da-nang-chuan-bi-len-phuong-dinh-hinh-do-thi-sinh-thai-ven-song-vu-gia"
+  },
   "02fab2b5": {
    "caption": "Nguồn vốn xanh đang trở thành chìa khóa quan trọng giúp cộng đồng doanh nghiệp nâng cao sức cạnh tranh trong xu thế phát triển bền vững toàn cầu. Việc tiếp cận dòng tiền này cũng đóng vai trò là mắt xích thiết yếu cho sự tăng trưởng kinh tế của mỗi địa phương. Các doanh nghiệp trong khu vực đã sẵn sàng tận dụng cơ hội từ xu hướng chuyển đổi này chưa?\n\nNguồn: vietnam.vn - https://www.vietnam.vn/mo-co-hoi-tu-tai-chinh-xanh\nẢnh: vietnam.vn\n#DaNang #KinhTeXanh #TaiChinhXanh",
    "category": "kinh_te",
@@ -292,6 +313,32 @@
    "urgent": false,
    "url": "https://www.vietnam.vn/ket-nghia-dong-bang-mien-nui-o-da-nang-tu-se-chia-den-cung-phat-trien"
   },
+  "2907d5ec": {
+   "caption": "💡 ĐÀ NẴNG ĐẨY MẠNH CHUYỂN ĐỔI SỐ VÀ ĐỊNH HƯỚNG PHÁT TRIỂN TRUNG TÂM TÀI CHÍNH\n\nĐà Nẵng đang chú trọng nâng cao hiệu quả quản lý khoa học và công nghệ thông qua các giải pháp chuyển đổi số toàn trình 💡 Bên cạnh đó, theo thông tin từ cơ quan chức năng, Chính phủ sẽ chỉ đạo việc xây dựng các công cụ tài chính phù hợp nhằm thu hút dòng vốn đầu tư trung và dài hạn, tạo điều kiện thuận lợi cho định hướng hình thành trung tâm tài chính tại địa phương cũng như TP.HCM. Những bước đi này được kỳ vọng sẽ tạo thêm động lực phát triển kinh tế và công nghệ cho thành phố trong thời gian tới. Bà con có cảm nghĩ gì về những định hướng mới này của thành phố mình?\n\n#DaNang #ChuyenDoiSo #TrungTamTaiChinh\nCre: VnEconomy",
+   "card_title": "Đà Nẵng đẩy mạnh chuyển đổi số và định hướng phát triển trung tâm tài chính",
+   "category": "kinh_te",
+   "created": 1794626401,
+   "error": "Graph API lỗi 400: Cannot call API for app 1682792859865258 on behalf of user 1610369147769723",
+   "flags": [],
+   "id": "2907d5ec",
+   "images": [
+    "https://premedia.vneconomy.vn/files/uploads/2026/11/13/b3bb5317241a4cf497a8a10e298fa5db-135506.png?w=1200&h=630&mode=crop",
+    "https://premedia.vneconomy.vn/files/uploads/2026/10/28/c0e7e0b8b1c248adb0231fec008ff9f1-131048.png?w=450&h=270&mode=crop",
+    "https://premedia.vneconomy.vn/files/uploads/2026/10/22/e0d62759bec14fa3b6b00e7babfd8e7d-129312.jpeg?w=450&h=270&mode=crop",
+    "https://premedia.vneconomy.vn/files/uploads/2026/10/15/a3478cc4315442388c412ee9ffe5e1a6-127250.png?w=450&h=270&mode=crop",
+    "https://premedia.vneconomy.vn/files/uploads/2026/11/14/ef7acf1bd2394d5384f36114abb3a10a-135607.png?w=600&h=360&mode=crop"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "VnEconomy",
+   "source": "Google News - Đà Nẵng",
+   "status": "failed",
+   "title": "Đà Nẵng: Nâng tầm quản lý khoa học và công nghệ bằng chuyển đổi số toàn trình",
+   "urgent": false,
+   "url": "https://vneconomy.vn/da-nang-nang-tam-quan-ly-khoa-hoc-va-cong-nghe-bang-chuyen-doi-so-toan-trinh.htm"
+  },
   "2b9601a6": {
    "caption": "♻️ ĐÀ NẴNG RÀ SOÁT KẾ HOẠCH THÍ ĐIỂM DÙNG XE ĐIỆN BA BÁNH THU GOM RÁC\n\nThành phố Đà Nẵng đang tiếp tục rà soát và xây dựng phương án thí điểm đưa xe điện ba bánh vào hoạt động thu gom rác thải trên địa bàn. Theo chỉ đạo từ UBND thành phố, các đơn vị chức năng cùng chính quyền địa phương sẽ phối hợp khảo sát kỹ lưỡng hạ tầng giao thông, nhất là các tuyến kiệt hẻm và đường nhỏ dưới 10,5m. Phương án này cũng yêu cầu tính toán chi tiết về khung giờ vận hành, vị trí tập kết rác tạm thời, giải pháp xử lý mùi hôi và nước rác rò rỉ nhằm bảo đảm an toàn giao thông cũng như mỹ quan đô thị. Bà con thấy việc đưa xe điện ba bánh vào thu gom rác ở các kiệt hẻm thế nào?\n\n#DaNang #ThuGomRac #MoiTruongDoThi\nCre: Báo Xây dựng",
    "card_title": "Đà Nẵng rà soát kế hoạch thí điểm dùng xe điện ba bánh thu gom rác",
@@ -482,6 +529,27 @@
    "title": "Nhiều cây xanh bật gốc sau mưa lớn, lộ ra bộ rễ loe ngoe, chính quyền nói gì?",
    "urgent": true,
    "url": "https://tuoitre.vn/nhieu-cay-xanh-bat-goc-sau-mua-lon-lo-ra-bo-re-loe-ngoe-chinh-quyen-noi-gi-100261112101018507.htm"
+  },
+  "40285e58": {
+   "caption": "🏗️ ĐÀ NẴNG PHÊ DUYỆT QUY HOẠCH ĐÔ THỊ CHIÊN ĐÀN ĐỊNH HƯỚNG ĐẾN NĂM 2050\n\nUBND thành phố Đà Nẵng vừa ban hành quyết định phê duyệt nhiệm vụ quy hoạch chung cho đô thị Chiên Đàn với tầm nhìn phát triển đến năm 2050. 🏗️ Dự án quy hoạch có tổng diện tích khoảng 4.863 ha, dự báo dân số sẽ tăng từ khoảng 32.427 người vào năm 2026 lên tới 54.324 người ở mốc năm 2050. Đô thị này được định hướng trở thành cực tăng trưởng mới phía Tây Nam thành phố, đóng vai trò là đầu mối giao thông quan trọng kết nối đường cao tốc, đường sắt và tuyến đường sắt tốc độ cao trong tương lai theo mô hình TOD. Bên cạnh việc tập trung phát triển logistics, thương mại và công nghiệp phụ trợ, định hướng quy hoạch cũng nhấn mạnh vào việc xây dựng không gian xanh, bảo tồn di tích lịch sử văn hóa và hạ tầng kỹ thuật đồng bộ. Bà con khu vực này có mong chờ sự bứt phá mới trong tương lai không?\n\n#DaNang #ChienDan #QuyHoachDaNang\nCre: etime.danviet.vn",
+   "card_title": "Đà Nẵng phê duyệt quy hoạch đô thị Chiên Đàn định hướng đến năm 2050",
+   "category": "kinh_te",
+   "created": 1794626401,
+   "flags": [],
+   "id": "40285e58",
+   "images": [
+    "https://t.ex-cdn.com/danviet.vn/800w/files/content/2026/11/14/2aoborctx0zjtjtubejdejx0n6udcfhi6kp22bvm4-0807.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "etime.danviet.vn",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Đà Nẵng quy hoạch Chiên Đàn thành “cực” động lực mới phía Tây Nam đến năm 2050",
+   "urgent": false,
+   "url": "https://etime.danviet.vn/da-nang-quy-hoach-chien-dan-thanh-cuc-dong-luc-moi-phia-tay-nam-den-nam-2050-d1474927.html"
   },
   "40719452": {
    "caption": "📰 NỔ LỚN TẠI NHÀ DÂN Ở ĐÀ NẴNG KHIẾN MỘT NGƯỜI TỬ VONG\n\nVào khoảng 9h5 sáng 12-11, một tiếng nổ lớn đã xảy ra tại nhà ông Dương D., 58 tuổi, ở thôn Khương Mỹ, xã Núi Thành, TP Đà Nẵng, khiến nạn nhân tử vong tại chỗ và căn nhà bị hư hỏng nặng, thủng một mảng tường sang nhà liền kề. Nhận được tin báo, UBND xã Núi Thành đã chỉ đạo Ban Chỉ huy quân sự phối hợp cùng công an các cấp tiến hành khám nghiệm hiện trường và thu giữ 4 vật thể bằng sắt nghi vấn đầu đạn 105mm sót lại sau chiến tranh. Lãnh đạo Công an xã Núi Thành cho biết ông D. hành nghề rà phế liệu lâu năm và từng nhiều lần giao nộp vật liệu nổ cho cơ quan chức năng, hiện nguyên nhân vụ việc vẫn đang được điều tra làm rõ.\n\n#DaNang #Tintuc #Thoisu\nCre: TUOI TRE ONLINE",
@@ -17118,6 +17186,67 @@
    ],
    "url": "https://dantri.com.vn/tinh-yeu-gioi-tinh/vua-ra-mat-nha-ban-gai-toi-tai-mat-khi-nhan-ra-bo-em-la-ai-20261112113430801.htm"
   },
+  "etime.danviet.vn/da-nang-quy-hoach-chien-dan-thanh-cuc-dong-luc-moi-phia-tay-nam-den-nam-2050-d1474927.html": {
+   "lead": [
+    "11",
+    "13",
+    "2050",
+    "ban",
+    "bao",
+    "bat",
+    "buoc",
+    "chien",
+    "chung",
+    "dan",
+    "day",
+    "dia",
+    "dinh",
+    "duyet",
+    "hanh",
+    "hoa",
+    "hoach",
+    "khu",
+    "moi",
+    "nang",
+    "nham",
+    "nhiem",
+    "phat",
+    "phe",
+    "phia",
+    "pho",
+    "quan",
+    "quy",
+    "quyet",
+    "suc",
+    "tang",
+    "tao",
+    "thanh",
+    "the",
+    "thi",
+    "toan",
+    "trien",
+    "truong",
+    "ubnd",
+    "vuc"
+   ],
+   "t": 1794626401,
+   "title": [
+    "2050",
+    "chien",
+    "cuc",
+    "dan",
+    "dong",
+    "hoach",
+    "luc",
+    "moi",
+    "nang",
+    "phia",
+    "quy",
+    "tay",
+    "thanh"
+   ],
+   "url": "https://etime.danviet.vn/da-nang-quy-hoach-chien-dan-thanh-cuc-dong-luc-moi-phia-tay-nam-den-nam-2050-d1474927.html"
+  },
   "giaoducthoidai.vn/da-nang-di-doi-122-nguoi-dan-kip-thoi-cuu-tro-san-phu-sinh-non-giua-mua-lu-post799216.html": {
    "lead": [
     "130",
@@ -17179,6 +17308,64 @@
     "tro"
    ],
    "url": "https://giaoducthoidai.vn/da-nang-di-doi-122-nguoi-dan-kip-thoi-cuu-tro-san-phu-sinh-non-giua-mua-lu-post799216.html"
+  },
+  "kinhtechungkhoan.vn/xa-cua-ngo-da-nang-chuan-bi-len-phuong-dinh-hinh-do-thi-sinh-thai-ven-song-vu-gia": {
+   "lead": [
+    "10",
+    "2026",
+    "chinh",
+    "chu",
+    "chuyen",
+    "dai",
+    "dan",
+    "dang",
+    "dia",
+    "dien",
+    "doi",
+    "don",
+    "giu",
+    "hanh",
+    "hien",
+    "hinh",
+    "hoa",
+    "huong",
+    "lap",
+    "loc",
+    "nang",
+    "nguyen",
+    "nhap",
+    "phuong",
+    "qua",
+    "quy",
+    "sap",
+    "thanh",
+    "thi",
+    "thong",
+    "tich",
+    "tiep",
+    "toan",
+    "trinh",
+    "truong",
+    "tuc",
+    "xep"
+   ],
+   "t": 1794626401,
+   "title": [
+    "chuan",
+    "dinh",
+    "gia",
+    "hinh",
+    "len",
+    "nang",
+    "ngo",
+    "phuong",
+    "sinh",
+    "song",
+    "thai",
+    "thi",
+    "ven"
+   ],
+   "url": "https://kinhtechungkhoan.vn/xa-cua-ngo-da-nang-chuan-bi-len-phuong-dinh-hinh-do-thi-sinh-thai-ven-song-vu-gia"
   },
   "moitruong.net.vn/da-nang-chu-dong-ung-pho-mua-lu-khan-truong-khac-phuc-sat-lo-bao-dam-an-toan-cho-nguoi-dan-104232.html": {
    "lead": [
@@ -18308,6 +18495,25 @@
    ],
    "url": "https://tin.skydoor.net/news/xa-hoi-3-du-an-dap-nam-tren-dat-vang-ven-bien-da-nang-mac-ket-vi-8431126"
   },
+  "news.google.com/rss/articles/CBMiowFBVV95cUxPWDNWOVBrMTl0amktTEh3SVhVWERlRFZmaXNZTUFmdkNqNHpZWUVZTlE2MFZCRWp0NTZWdlJRNWlxWXFadGVFSzFObUJsbjQwX3djelJmaWYzTmEwNF94SlZCVmt3MzNUTWtaMXM3a2pwUDd4V09vQ1VjREZjeGFaZ0FUTkpNX01EeXBVNFg3TWh0Nm1IRlgtTWlHVm83cVRScjdJ?oc=5": {
+   "lead": [],
+   "t": 1794626401,
+   "title": [
+    "bang",
+    "chuyen",
+    "cong",
+    "doi",
+    "hoc",
+    "khoa",
+    "nang",
+    "nghe",
+    "quan",
+    "tam",
+    "toan",
+    "trinh"
+   ],
+   "url": "https://vneconomy.vn/da-nang-nang-tam-quan-ly-khoa-hoc-va-cong-nghe-bang-chuyen-doi-so-toan-trinh.htm"
+  },
   "news.google.com/rss/articles/CBMiowFBVV95cUxQQ0p2Tk1vVTBtZ21tRmZ3cmt6eFNHNW1hckFYUWFmQTdKeUJGV0E0d0NJa0pMTGR1dWNoS2JLRDBDMW92VTNkWi1RTGJrMC10S2FWVF80blZXdGlIOWFmSWR3MGNId0dxZ1o1MXdxTGlWU1Ixc0hTZC1RQ0kxSU5LVXRJV0g4U0t6MHhFNzBxbHpqUWFnVHJoX3dSdjlNaHg5QkpF?oc=5": {
    "lead": [],
    "t": 1794587919,
@@ -18959,6 +19165,26 @@
    ],
    "url": "https://baodanang.vn/da-nang-diem-dau-tien-trong-11-diem-den-nen-ghe-tham-tai-viet-nam-nam-2027-3358268.html"
   },
+  "news.google.com/rss/articles/CBMirgFBVV95cUxPVzFjZ0pVWjlLWlhHaWJhM1E0OHZXSkRya090NEtNYVVCWFhSZXBYSU9yb2JnMFlzUW9zSkJnbmVsWGV2UU1jU1dnMWw4LTJ0UWwtZ3JGbllTRTFoY09yNDhvTFVBZFZVWDdmUEVIeEpHZVZRQ0xSbWN6S0pnN05QeVN3Y3EwYWM1YWRzakJhVTZmTk9PcGhNTGlVRm51NWxTbnFkcGtKQWZtemtjWXc?oc=5": {
+   "lead": [],
+   "t": 1794626401,
+   "title": [
+    "chuan",
+    "dinh",
+    "gia",
+    "hinh",
+    "len",
+    "nang",
+    "ngo",
+    "phuong",
+    "sinh",
+    "song",
+    "thai",
+    "thi",
+    "ven"
+   ],
+   "url": "https://kinhtechungkhoan.vn/xa-cua-ngo-da-nang-chuan-bi-len-phuong-dinh-hinh-do-thi-sinh-thai-ven-song-vu-gia"
+  },
   "news.google.com/rss/articles/CBMirwFBVV95cUxNU2psWjV5ZjNvYWR6MHoxTnV4S3NaZFJFOVFNYnM0eXpaYTI3RTRiclphcHFydkFJelZIUW9kdTRXdGxqNk1nODJxZDZBUnVpX1RwaTdnSjB5ODRFNjV5c0dFU3ZIN2pBbU53T0w5UkhYeEx5ZXRCZWFVR1ZVSHJ5VHBCZ3J4Q2otUUdWUk5MN0hlenRwVlJUQ1diT3FKV21zN09qZmpmbjU5VUZNdDBZ?oc=5": {
    "lead": [],
    "t": 1794568270,
@@ -19228,6 +19454,26 @@
     "vien"
    ],
    "url": "https://www.udn.vn/tin-tuc/chi-tiet/sinh-vien-dai-hoc-da-nang-tao-dau-an-tai-cac-dien-dan-cuoc-thi-hoc-thuat-uy-tin"
+  },
+  "news.google.com/rss/articles/CBMitgFBVV95cUxQZ3hFQ0J3eHVMalhrM2NsTUZpbE0tZFlzeHhfZEo5RHB1NG05WG90eDdxZWh0NUdaU05tOWthWHVDdmtKdWtiSWZlWkJRVmdrNjdSYUl5SDctRkJMTHNkeWs3M1BZRkZIajJZQkNsZVVvdXFsTXpyR2U3Q3NrNUIxVzRsb1NCbjZwdzdDOE5NZlk5WnFiSUpyMi1PeGRNZDR4M1hiWkhGSm1nV1UzSEM2TmljajBjZw?oc=5": {
+   "lead": [],
+   "t": 1794626401,
+   "title": [
+    "2050",
+    "chien",
+    "cuc",
+    "dan",
+    "dong",
+    "hoach",
+    "luc",
+    "moi",
+    "nang",
+    "phia",
+    "quy",
+    "tay",
+    "thanh"
+   ],
+   "url": "https://etime.danviet.vn/da-nang-quy-hoach-chien-dan-thanh-cuc-dong-luc-moi-phia-tay-nam-den-nam-2050-d1474927.html"
   },
   "news.google.com/rss/articles/CBMitwFBVV95cUxNbkFwOGxZdXZBZktha3RsZDQ3Nmk0RkVuLUZzV1RpNjQzT1FKekhrQlhFNWFUczNxdDRDd1pVN3Z4TnJyMU52cDZKZG5yUG9QbnlCOFp2RHllSEpJWWktUWpEcERBOUlZMklPZzZTeWtoRi1nTlExWmZtelJjNmpjT2N4LTJLOF92NjdYNXZTRWROR3hyRmxTcjI5cHhyckhwYkRqNjg5RDNqQlBDbGVMOGozZnZCZmM?oc=5": {
    "lead": [],
@@ -47927,6 +48173,82 @@
     "vsip"
    ],
    "url": "https://vietnamfinance.vn/vsip-rot-3500-ty-dong-vao-khu-thuong-mai-tu-do-da-nang-d153624.html"
+  },
+  "vneconomy.vn/da-nang-nang-tam-quan-ly-khoa-hoc-va-cong-nghe-bang-chuyen-doi-so-toan-trinh.htm": {
+   "lead": [
+    "cai",
+    "can",
+    "canh",
+    "cau",
+    "chu",
+    "cong",
+    "cxmt",
+    "dang",
+    "dau",
+    "day",
+    "diem",
+    "doanh",
+    "doi",
+    "dong",
+    "ghi",
+    "gia",
+    "gop",
+    "hang",
+    "hynix",
+    "lan",
+    "len",
+    "luc",
+    "micron",
+    "moi",
+    "ngan",
+    "nghe",
+    "nhan",
+    "nho",
+    "nvidia",
+    "phan",
+    "quoc",
+    "rong",
+    "samsung",
+    "san",
+    "singapore",
+    "song",
+    "suc",
+    "tam",
+    "tang",
+    "tao",
+    "thi",
+    "thien",
+    "thu",
+    "thuc",
+    "tiep",
+    "toan",
+    "toi",
+    "tranh",
+    "tri",
+    "trung",
+    "tuc",
+    "tue",
+    "usd",
+    "vao",
+    "xuat",
+    "ymtc"
+   ],
+   "t": 1794626401,
+   "title": [
+    "bang",
+    "chuyen",
+    "cong",
+    "doi",
+    "hoc",
+    "khoa",
+    "nang",
+    "nghe",
+    "quan",
+    "tam",
+    "toan",
+    "trinh"
+   ],
+   "url": "https://vneconomy.vn/da-nang-nang-tam-quan-ly-khoa-hoc-va-cong-nghe-bang-chuyen-doi-so-toan-trinh.htm"
   },
   "vnexpress.net/13-nan-nhan-vu-no-cua-hang-gas-bi-chan-thuong-vung-dau-tay-chan-5144333.html": {
    "lead": [],
