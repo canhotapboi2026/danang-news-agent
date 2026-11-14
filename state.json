@@ -392,6 +392,31 @@
    "urgent": false,
    "url": "https://baoxaydung.vn/da-nang-ra-soat-phuong-an-thi-diem-su-dung-xe-dien-ba-banh-phuc-vu-thu-gom-rac-thai-192261112194339938.htm"
   },
+  "2c10f06c": {
+   "caption": "🎁 CHÙA PHỔ HIỀN TRAO HÀNG TRĂM SUẤT QUÀ CHO NGƯỜI BỆNH KHÓ KHĂN\n\nTrong hai ngày 12 và 13/11/2026, Ni sư Thích Nữ Minh Hiền cùng Phật tử và các nhà hảo tâm từ chùa Phổ Hiền ở số 02 Trần Huy Liệu, phường Cẩm Lệ đã đến thăm hỏi và trao tận tay 210 suất quà cho các bệnh nhân có hoàn cảnh khó khăn. Hoạt động ý nghĩa này nhằm sẻ chia bớt gánh nặng và mang lại niềm vui cho người bệnh trong quá trình điều trị. Bà con khu vực này có thường xuyên tham gia các hoạt động thiện nguyện như thế này không?\n\n#DaNang #ThienNguyen #DoiSong\nCre: Phật Sự Online",
+   "card_title": "Chùa Phổ Hiền trao hàng trăm suất quà cho người bệnh khó khăn",
+   "category": "doi_song",
+   "created": 1794675434,
+   "flags": [],
+   "id": "2c10f06c",
+   "images": [
+    "https://storage-phatsuonline-v2.sgp1.digitaloceanspaces.com/files/2026/11/6f6506f6-c970-4bd5-80e8-fa242eec874e-crop.JPEG",
+    "https://storage-phatsuonline-v2.sgp1.digitaloceanspaces.com/files/2026/11/a039f723-f68b-48e5-9f52-093f22afb470-crop.JPEG",
+    "https://storage-phatsuonline-v2.sgp1.digitaloceanspaces.com/files/2026/11/a74a0efa-f387-4456-b500-4fea0a2162a5-crop.JPEG",
+    "https://storage-phatsuonline-v2.sgp1.digitaloceanspaces.com/files/2026/11/77026e65-d276-4185-92f6-1e6c2115bc56-crop.JPEG",
+    "https://storage-phatsuonline-v2.sgp1.digitaloceanspaces.com/files/2026/11/1f986a3f-6c63-4f37-9a01-6ea30d23ccfd-crop.JPEG"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Phật Sự Online",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Đà Nẵng: Chùa Phổ Hiền trao tặng 210 suất quà đến bệnh nhân khó khăn",
+   "urgent": false,
+   "url": "https://phatsuonline.vn/da-nang-chua-pho-hien-trao-tang-210-suat-qua-den-benh-nhan-kho-khan-32"
+  },
   "317a2e3b": {
    "caption": "🚨 NỔ LỚN TẠI NHÀ DÂN Ở ĐÀ NẴNG KHIẾN MỘT NGƯỜI TỬ VONG\n\nSự việc đáng tiếc xảy ra vào hơn 9h ngày 12/11 tại nhà ông D.D. (58 tuổi, trú thôn Khương Mỹ) thuộc địa bàn xã Núi Thành, thành phố Đà Nẵng khi một tiếng nổ lớn phát ra khiến nạn nhân tử vong tại chỗ. Vụ nổ mạnh đã làm bung mái tôn, làm vỡ nhiều vật dụng trong nhà và làm thủng một mảng tường của nhà dân bên cạnh có đường kính hơn 1m. Qua công tác khám nghiệm hiện trường, lực lượng chức năng phát hiện và thu giữ 4 khối kim loại nghi là đầu đạn pháo 105mm còn sót lại từ thời chiến tranh để xử lý theo quy định. Chính quyền địa phương đã triển khai công tác thăm hỏi gia đình nạn nhân, đồng thời khuyến cáo người dân tuyệt đối không tự ý cất giữ hay tháo gỡ các vật liệu nổ còn sót lại để đảm bảo an toàn.\n\n#DaNang #TintucDanang #AnninhNhandan #TinNong\nCre: Báo điện tử Dân trí",
    "card_title": "Nổ lớn tại nhà dân ở Đà Nẵng khiến một người tử vong",
@@ -15390,6 +15415,24 @@
    ],
    "url": "https://dantri.com.vn/the-gioi/lieu-ong-elon-musk-co-the-giup-phuc-chuc-cho-cuu-ceo-nvidia-20261114154621116.htm"
   },
+  "dantri.com.vn/the-gioi/ly-do-ukraine-chua-the-yen-tam-voi-thuong-vu-mua-500-ten-lua-patriot-tu-my-20261111172323719.htm": {
+   "lead": [],
+   "t": 1794675434,
+   "title": [
+    "500",
+    "chua",
+    "lua",
+    "mua",
+    "patriot",
+    "tam",
+    "ten",
+    "the",
+    "thuong",
+    "ukraine",
+    "yen"
+   ],
+   "url": "https://dantri.com.vn/the-gioi/ly-do-ukraine-chua-the-yen-tam-voi-thuong-vu-mua-500-ten-lua-patriot-tu-my-20261111172323719.htm"
+  },
   "dantri.com.vn/the-gioi/may-bay-an-do-nhan-canh-bao-khong-tac-ngay-truoc-khi-cat-canh-20261111201148415.htm": {
    "lead": [],
    "t": 1794409543,
@@ -16690,6 +16733,25 @@
     "viet"
    ],
    "url": "https://dantri.com.vn/the-thao/hlv-dai-loan-ca-ngoi-dinh-bac-thua-nhan-doi-tuyen-viet-nam-manh-hon-20261111231604555.htm"
+  },
+  "dantri.com.vn/the-thao/hlv-dinh-hong-vinh-ngoi-vo-dich-la-buoc-dem-cho-tuong-lai-u23-viet-nam-20261114230149477.htm": {
+   "lead": [],
+   "t": 1794675434,
+   "title": [
+    "buoc",
+    "dem",
+    "dich",
+    "dinh",
+    "hlv",
+    "hong",
+    "lai",
+    "ngoi",
+    "tuong",
+    "u23",
+    "viet",
+    "vinh"
+   ],
+   "url": "https://dantri.com.vn/the-thao/hlv-dinh-hong-vinh-ngoi-vo-dich-la-buoc-dem-cho-tuong-lai-u23-viet-nam-20261114230149477.htm"
   },
   "dantri.com.vn/the-thao/hlv-kim-sang-sik-khen-olaha-manh-duc-dua-ra-tuyen-bo-bat-ngo-20261111223406746.htm": {
    "lead": [],
@@ -21611,6 +21673,26 @@
    "title": [],
    "url": "https://laodong.vn/giao-duc/da-nang-vinh-danh-82-nha-giao-tre-va-hoc-sinh-xuat-sac-1799127.ldo"
   },
+  "news.google.com/rss/articles/CBMimgFBVV95cUxQRnZ5MEdiWF9UVUZoRExJSzF0TTNqeFM1VXZHOHpJZ3A2LWtiV1dSNTZ5XzcwM3FZTE9lSUxQeUZ1cTFVcGlwSUtyZ1pya0xydmNCTUdNaGtTcWNkNjNMYzM3UEpJWjdpWjdqY3JLY1ZDdC1MeTl5OFh1aG04NWZ6YWxyemZjTGZTWkllTU5hS1Y0Xy1BenlhSXVn?oc=5": {
+   "lead": [],
+   "t": 1794675434,
+   "title": [
+    "210",
+    "benh",
+    "chua",
+    "hien",
+    "khan",
+    "kho",
+    "nang",
+    "nhan",
+    "pho",
+    "qua",
+    "suat",
+    "tang",
+    "trao"
+   ],
+   "url": "https://phatsuonline.vn/da-nang-chua-pho-hien-trao-tang-210-suat-qua-den-benh-nhan-kho-khan-32"
+  },
   "news.google.com/rss/articles/CBMimwFBVV95cUxNXzZidml6d0Y3bWgxTi10S2w1M0hoS0dZMnY4XzVad2owTy1EWUR5Wlg1aFFNXzVRWFFuekdrdEluM011YjNleEFZekNEMVlJMDdNWkkzbVVGSERFa29KcFNmWUF6S0tldk10MEpsbDBzUkJUc29CMjJXR3hIbHk0ZTFDUVNPTTd3bnA0Snc2UHFlRER5NV96Yzlvdw?oc=5": {
    "lead": [],
    "t": 1794672750,
@@ -21761,6 +21843,24 @@
     "vao"
    ],
    "url": "https://baodautu.vn/da-nang-dat-muc-tieu-mo-rong-8400-ha-sam-ngoc-linh-vao-nam-2030-d743407.html"
+  },
+  "news.google.com/rss/articles/CBMinAFBVV95cUxPLWJZbEFWTWsyNy1ZMmQyYmVQM0JmRGhWMTFFdVd0Y3J0WmdEVVhhb1Q2c0IzNmZERzh2djV0MmRPMExCRlVFdHFlSjRwbU5GS0lkTGpvTnhGY0hsVzB6dnZaNXRaRnFEM0x4by1wSVVDbDhvbGE1OVNGYS1tRE9RVFJfV1N1aS1NcVZuLXZjSFlidC1Ybm92dFpBSUE?oc=5": {
+   "lead": [],
+   "t": 1794675434,
+   "title": [
+    "000",
+    "12",
+    "chay",
+    "gia",
+    "giai",
+    "hoc",
+    "hon",
+    "nang",
+    "race",
+    "sinh",
+    "tham"
+   ],
+   "url": "https://tin.skydoor.net/news/chay-bo-hon-12000-hoc-sinh-tham-gia-giai-chay-srace-da-nang-8433637"
   },
   "news.google.com/rss/articles/CBMinAFBVV95cUxQNFJZcFdMLXljUWVpbWppei1JOFZ3R2psN0dJdko3cUV6cEIwMnVNcVVNWUc1WVRCbm1nUjZTX3l5LXRfakJlUnpLUGhjeFpaektOQzFhekNBOGtkVUp3VTl5RE8zWjBLSGVMVk8tY2JEblNjYVJQOVJvOXNlZzlCSFdjalg0UkZaMWhVOVNvbEwyTXdHZ0RxLUp5Z1g?oc=5": {
    "lead": [],
@@ -22408,6 +22508,27 @@
     "tieu"
    ],
    "url": "https://tin.skydoor.net/news/kinh-te-da-nang-dat-muc-tieu-thu-hoach-60-tan-cu-sam-ngoc-linh-moi-8431187"
+  },
+  "news.google.com/rss/articles/CBMipgFBVV95cUxOQUlnc2I2LXQyQ2RJUi1VbkMyUW9hRzY4VUNiZWJrRXg0OGl2R1p5QmQ3OGhON2FPRGxpVlFlay1mVlB5bWluN1c2Tm11ZjR2RDFGcHZPR190YVFpVUQ3NzJQVVZvT0VqM0FDeTVjWTJOYXRVbjRMbVhiMmZsSlMwc0F1VVFlU1FqUERER0JkalNVTU44VU5IUVZ0REFseGR4NlpfdEFR?oc=5": {
+   "lead": [],
+   "t": 1794675434,
+   "title": [
+    "000",
+    "12",
+    "2026",
+    "gia",
+    "hao",
+    "hon",
+    "hung",
+    "huynh",
+    "nang",
+    "phu",
+    "race",
+    "tham",
+    "thay",
+    "tro"
+   ],
+   "url": "https://tin.skydoor.net/news/giao-duc-hon-12000-thay-tro-va-phu-huynh-da-nang-hao-hung-tham-gia-8433044"
   },
   "news.google.com/rss/articles/CBMipgFBVV95cUxPSFNaM0lXRU9XWmpMMmprZnJDUU1vQmd1dXYxLWNZVFM2eUt2c1p6OHpUbWtJcHJaYnhJM0xzenFFbGViQjBURjJhSFozU0xQU3ZhcndaWHJMSDVzOFBVS1pFVFctSGZmeldPUklLVHhDaVZwcFJkYi03cVQxRXN1VjEyMEoyZVJjWWdONlFvUjE4QUktWS1TSmQ3eGI3Z1FZTklRaDhn?oc=5": {
    "lead": [],
@@ -23974,6 +24095,72 @@
     "suc"
    ],
    "url": "https://nhandan.vn/da-nang-chu-dong-nang-cao-suc-khoe-nhan-dan-huong-den-lao-hoa-khoe-manh-post1002363.html"
+  },
+  "phatsuonline.vn/da-nang-chua-pho-hien-trao-tang-210-suat-qua-den-benh-nhan-kho-khan-32": {
+   "lead": [
+    "06",
+    "10",
+    "11",
+    "14",
+    "2026",
+    "ban",
+    "binh",
+    "chi",
+    "chinh",
+    "chua",
+    "cong",
+    "dai",
+    "dao",
+    "day",
+    "dien",
+    "dong",
+    "dung",
+    "hoi",
+    "hung",
+    "kien",
+    "linh",
+    "nghiem",
+    "ngo",
+    "ngoi",
+    "nguyen",
+    "nham",
+    "nhan",
+    "niem",
+    "noi",
+    "phu",
+    "pso",
+    "quang",
+    "sang",
+    "tam",
+    "than",
+    "tho",
+    "thon",
+    "tien",
+    "tiep",
+    "tin",
+    "tinh",
+    "trang",
+    "trinh",
+    "truc",
+    "xay"
+   ],
+   "t": 1794675434,
+   "title": [
+    "210",
+    "benh",
+    "chua",
+    "hien",
+    "khan",
+    "kho",
+    "nang",
+    "nhan",
+    "pho",
+    "qua",
+    "suat",
+    "tang",
+    "trao"
+   ],
+   "url": "https://phatsuonline.vn/da-nang-chua-pho-hien-trao-tang-210-suat-qua-den-benh-nhan-kho-khan-32"
   },
   "thanhnien.vn/1-trieu-luot-xem-tren-youtube-thuc-te-mang-lai-bao-nhieu-tien-185261113110848019.htm": {
    "lead": [],
