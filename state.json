@@ -2476,7 +2476,7 @@
    "priority": "thuong",
    "site": "baodautu",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng đặt mục tiêu mở rộng 8.400 ha sâm Ngọc Linh vào năm 2030",
    "urgent": false,
    "url": "https://baodautu.vn/da-nang-dat-muc-tieu-mo-rong-8400-ha-sam-ngoc-linh-vao-nam-2030-d743407.html"
@@ -33431,6 +33431,21 @@
    ],
    "url": "https://thanhnien.vn/microsoft-gap-su-co-toan-cau-outlook-va-teams-gian-doan-nhieu-gio-185261113150303651.htm"
   },
+  "thanhnien.vn/microsoft-xin-loi-sau-su-co-gian-doan-dich-vu-toan-cau-185261114221501595.htm": {
+   "lead": [],
+   "t": 1794692043,
+   "title": [
+    "cau",
+    "dich",
+    "doan",
+    "gian",
+    "loi",
+    "microsoft",
+    "toan",
+    "xin"
+   ],
+   "url": "https://thanhnien.vn/microsoft-xin-loi-sau-su-co-gian-doan-dich-vu-toan-cau-185261114221501595.htm"
+  },
   "thanhnien.vn/mien-phi-tham-quan-dinh-doc-lap-nhieu-bao-tang-va-vuon-quoc-gia-vao-ngay-2411-18526111119484451.htm": {
    "lead": [],
    "t": 1794409543,
@@ -40131,6 +40146,19 @@
     "vung"
    ],
    "url": "https://thanhnien.vn/uav-bat-dau-dong-vai-tro-tai-thuong-trong-vung-tu-dia-o-ukraine-185261114165605025.htm"
+  },
+  "thanhnien.vn/ung-pho-su-co-my-dong-khong-phan-tren-toan-quoc-185261114222831246.htm": {
+   "lead": [],
+   "t": 1794692043,
+   "title": [
+    "dong",
+    "phan",
+    "pho",
+    "quoc",
+    "toan",
+    "ung"
+   ],
+   "url": "https://thanhnien.vn/ung-pho-su-co-my-dong-khong-phan-tren-toan-quoc-185261114222831246.htm"
   },
   "thanhnien.vn/ung-vien-dan-chu-danh-bai-3-doi-thu-cong-hoa-trong-cuoc-bau-thong-doc-alaska-185261114150529286.htm": {
    "lead": [],
@@ -55701,6 +55729,31 @@
     "xuat"
    ],
    "url": "https://tuoitre.vn/tin-tuc-sang-14-11-tphcm-de-xuat-chinh-trang-nang-cap-8-cong-vien-hien-huu-quy-mo-106ha-100261113215612002.htm"
+  },
+  "tuoitre.vn/tin-tuc-sang-15-11-de-xuat-cong-khai-sao-ke-tien-tu-thien-it-nhat-7-ngay-lan-xu-phat-hung-thinh-land-10026111421495743.htm": {
+   "lead": [],
+   "t": 1794692043,
+   "title": [
+    "11",
+    "15",
+    "7",
+    "cong",
+    "hung",
+    "khai",
+    "lan",
+    "land",
+    "nhat",
+    "phat",
+    "sang",
+    "sao",
+    "thien",
+    "thinh",
+    "tien",
+    "tin",
+    "tuc",
+    "xuat"
+   ],
+   "url": "https://tuoitre.vn/tin-tuc-sang-15-11-de-xuat-cong-khai-sao-ke-tien-tu-thien-it-nhat-7-ngay-lan-xu-phat-hung-thinh-land-10026111421495743.htm"
   },
   "tuoitre.vn/tin-tuc-the-gioi-12-11-nga-noi-thoa-thuan-hoa-binh-da-gan-hon-nha-trang-canh-cao-y-dinh-dieu-tra-ong-trump-100261112054450123.htm": {
    "lead": [],
