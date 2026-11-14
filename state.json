@@ -1713,7 +1713,7 @@
    "priority": "thuong",
    "site": "VIETTIMES",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Ai sẽ được vinh danh tại Giải thưởng “Cống hiến cho Đà Nẵng”?",
    "urgent": false,
    "url": "https://viettimes.vn/ai-se-duoc-vinh-danh-tai-giai-thuong-cong-hien-cho-da-nang-post208426.html"
@@ -45486,6 +45486,22 @@
    ],
    "url": "https://tuoitre.vn/cong-bo-11-phuong-thuc-xet-tuyen-dai-hoc-tu-nam-2027-them-xet-diem-trung-hoc-nghe-100261113105613389.htm"
   },
+  "tuoitre.vn/cong-chieng-va-rock-mo-man-festival-am-nhac-quoc-te-lang-biang-100261114235916121.htm": {
+   "lead": [],
+   "t": 1794689611,
+   "title": [
+    "biang",
+    "chieng",
+    "cong",
+    "festival",
+    "lang",
+    "man",
+    "nhac",
+    "quoc",
+    "rock"
+   ],
+   "url": "https://tuoitre.vn/cong-chieng-va-rock-mo-man-festival-am-nhac-quoc-te-lang-biang-100261114235916121.htm"
+  },
   "tuoitre.vn/cong-doan-tphcm-giam-sat-doanh-nghiep-tra-luong-toi-thieu-tu-nam-2027-100261112110814626.htm": {
    "lead": [],
    "t": 1794467786,
@@ -48527,6 +48543,21 @@
     "united"
    ],
    "url": "https://tuoitre.vn/hlv-pochettino-khoc-noi-ro-ly-do-dan-dat-man-united-100261114060506589.htm"
+  },
+  "tuoitre.vn/hlv-tuyen-kyrgyzstan-danh-gia-cao-dinh-bac-100261115000151326.htm": {
+   "lead": [],
+   "t": 1794689611,
+   "title": [
+    "bac",
+    "cao",
+    "danh",
+    "dinh",
+    "gia",
+    "hlv",
+    "kyrgyzstan",
+    "tuyen"
+   ],
+   "url": "https://tuoitre.vn/hlv-tuyen-kyrgyzstan-danh-gia-cao-dinh-bac-100261115000151326.htm"
   },
   "tuoitre.vn/hlv-tuyen-tay-ban-nha-noi-gi-truoc-tin-yamal-duoc-huong-dac-quyen-100261112194352137.htm": {
    "lead": [],
