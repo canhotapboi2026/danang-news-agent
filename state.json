@@ -175,7 +175,7 @@
    "priority": "thuong",
    "site": "Báo điện tử Công Lý",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 409,
    "title": "Đà Nẵng: Hơn 3.000 đại biểu dự Hội nghị ngành Nhãn khoa Việt Nam năm 2026",
    "urgent": false,
@@ -778,6 +778,29 @@
    "title": "Thể thao Đà Nẵng kỳ vọng bứt phá",
    "urgent": false,
    "url": "https://baodanang.vn/the-thao-da-nang-ky-vong-but-pha-3358308.html"
+  },
+  "5d15ed40": {
+   "caption": "🎉 PHƯỜNG NGŨ HÀNH SƠN TỔ CHỨC TUẦN VĂN HÓA ĐẠI ĐOÀN KẾT TOÀN DÂN TỘC NĂM 2026\n\nPhường Ngũ Hành Sơn đang rộn ràng hòa mình vào không khí Tuần Văn hóa - Đại đoàn kết toàn dân tộc năm 2026 với các hoạt động trọng tâm diễn ra từ ngày 18 đến 24/11. Trước đó, từ ngày 1 đến 18/11, toàn bộ 54 tổ dân phố trên địa bàn đã đồng loạt hưởng ứng ngày hội đoàn kết gắn liền với những việc làm thiết thực như hỗ trợ an sinh, khuyến học và xây dựng đời sống văn hóa. Chuỗi sự kiện mang đến nhiều chương trình phong phú như biểu diễn nghệ thuật truyền thống, giới thiệu sản phẩm đặc trưng Đà Nẵng, không gian trưng bày di sản tại Danh thắng Ngũ Hành Sơn và di tích K20. Đặc biệt, hội thi thể thao cấp phường dự kiến diễn ra vào ngày 22/11 hứa hẹn tạo sân chơi gắn kết đông đảo người dân. Đây là dịp ý nghĩa giúp thắt chặt tình làng nghĩa xóm và nâng cao đời sống tinh thần cho bà con địa phương. Bà con khu vực này đã tham gia hoạt động nào chưa?\n\n#DaNang #NguHanhSon #DaiDoanKet\nCre: vietnam.vn",
+   "card_title": "Phường Ngũ Hành Sơn tổ chức Tuần Văn hóa Đại đoàn kết toàn dân tộc năm 2026",
+   "category": "su_kien",
+   "created": 1794630431,
+   "error": "Graph API lỗi 400: Cannot call API for app 1682792859865258 on behalf of user 1610369147769723",
+   "flags": [],
+   "id": "5d15ed40",
+   "images": [
+    "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/14/1794623070437_1-1.jpeg",
+    "https://vphoto.vietnam.vn/thumb/640x360/vietnam/resource/IMAGE/2026/11/14/1794623070437_1-1.jpeg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "vietnam.vn",
+   "source": "Google News - Đà Nẵng",
+   "status": "failed",
+   "title": "Vun đắp sức mạnh đại đoàn kết",
+   "urgent": false,
+   "url": "https://www.vietnam.vn/vun-dap-suc-manh-dai-doan-ket"
   },
   "5deffcee": {
    "caption": "🏢 KHU VỰC NGŨ HÀNH SƠN HÚT DÒNG TIỀN ĐẦU TƯ CĂN HỘ CAO CẤP\n\nThị trường căn hộ tại quận Ngũ Hành Sơn đang ghi nhận sức hút mạnh mẽ khi đóng góp tới 40 phần trăm nguồn cung và 43 phần trăm lượng giao dịch của toàn thành phố theo dữ liệu quý ba. Trong đó, dự án Newtown Diamond tọa lạc trên trục đường Trường Sa với ba tòa tháp gồm The Ruby, The Sapphire và The Diamond đang là tâm điểm chú ý nhờ sở hữu các dòng sản phẩm từ một đến ba phòng ngủ hướng biển, sông Cổ Cò và sân golf. Nhờ lợi thế vị trí kết nối linh hoạt cùng hệ thống tiện ích đẳng cấp, dự án mang đến nhiều phương án khai thác cho thuê hoặc làm nơi nghỉ dưỡng dài ngày cho nhà đầu tư. Bà con quan tâm đến phân khúc căn hộ cao cấp ven biển khu vực này có góc nhìn thế nào về tiềm năng sinh lời?\n\n#DaNang #BấtĐộngSảnĐàNẵng #NgũHànhSơn #NewtownDiamond\nCre: Báo điện tử Dân trí",
@@ -17640,6 +17663,20 @@
     "toi"
    ],
    "url": "https://baolamdong.vn/thoi-tiet/thanh-pho-da-nang"
+  },
+  "news.google.com/rss/articles/CBMiYkFVX3lxTE1iUjJyQjRsTjdrSkRFbXpPZ2s2WGl3NXdDUFMzeTFWMDctT1FwdE9kLXRiaWNRUkJJTXdfQXo2cHV3Mk1kRTY2NXlXNGFnUlRVU3lpSzVkMHRPTEFTemIweEFn?oc=5": {
+   "lead": [],
+   "t": 1794630431,
+   "title": [
+    "dai",
+    "dap",
+    "doan",
+    "ket",
+    "manh",
+    "suc",
+    "vun"
+   ],
+   "url": "https://www.vietnam.vn/vun-dap-suc-manh-dai-doan-ket"
   },
   "news.google.com/rss/articles/CBMi_gFBVV95cUxNdzdvY0J1MjN1dDA5RXVrUGpaZ3ZqQ0lMVEJGdWRPaHFFM0IwR0xHUi16MHNJMEtRdlg1WllrUF9DNURIc001MnJsZTNvb1JtRlMtRG1XYjdOWDlHcDdCOGhKYmxpd3JjQ0JfWkU4UDZkTkZXM0tZYkd6T1ktU0xsVzd5X0JnRHl2UVlPTVM1OElPSEZaV01ibGtCamtWSV8zbnNJMHQ1STk0M1h4S2k4LVlqSGtKbnNpMGhxN0pQV3hBcEk5QjIwTENHaktYQUNpWmVZaEJNXy12NXRzOTFjQ2t6eWdsR1VFY0NpckljbjM1RzNOUFZjN2ZKclkydw?oc=5": {
    "lead": [],
@@ -48045,6 +48082,64 @@
     "truong"
    ],
    "url": "https://www.vietnam.vn/thanh-tra-ket-luan-gi-ve-tong-giam-doc-cong-ty-moi-truong-do-thi-da-nang"
+  },
+  "vietnam.vn/vun-dap-suc-manh-dai-doan-ket": {
+   "lead": [
+    "11",
+    "2026",
+    "ban",
+    "cong",
+    "cuong",
+    "dai",
+    "dan",
+    "dau",
+    "dia",
+    "doan",
+    "dong",
+    "dung",
+    "gan",
+    "gia",
+    "hanh",
+    "hoa",
+    "hoi",
+    "huong",
+    "huy",
+    "ket",
+    "khu",
+    "lan",
+    "minh",
+    "muc",
+    "nep",
+    "ngu",
+    "phat",
+    "phuong",
+    "son",
+    "song",
+    "tang",
+    "thong",
+    "tieu",
+    "toa",
+    "toan",
+    "toc",
+    "tri",
+    "truyen",
+    "tuan",
+    "ung",
+    "van",
+    "viet",
+    "xay"
+   ],
+   "t": 1794630431,
+   "title": [
+    "dai",
+    "dap",
+    "doan",
+    "ket",
+    "manh",
+    "suc",
+    "vun"
+   ],
+   "url": "https://www.vietnam.vn/vun-dap-suc-manh-dai-doan-ket"
   },
   "vietnam.vn/xay-dung-khoi-dai-doan-ket-tren-nen-tang-van-hoa-dan-toc": {
    "lead": [
