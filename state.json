@@ -757,6 +757,28 @@
    "urgent": true,
    "url": "https://dantri.com.vn/giao-duc/xuat-hien-ho-sau-phia-sau-ngoi-truong-co-423-hoc-sinh-giao-vien-20261113120351774.htm"
   },
+  "58195614": {
+   "caption": "⚽ KHAI MẠC GIẢI BÓNG ĐÁ U11 TRANH CÚP SHB ĐÀ NẴNG LẦN THỨ NHẤT\n\nSáng 14/11, giải bóng đá U11 tranh cúp SHB Đà Nẵng lần đầu tiên đã chính thức khởi tranh tại Trung tâm Đào tạo bóng đá trẻ SHB Đà Nẵng ở phường Hòa Khánh. Ngày hội thể thao thiếu nhi này quy tụ 225 vận động viên của 12 đội bóng gồm U11 SHB Đà Nẵng, U10 SHB Đà Nẵng, U11 Ngọc Hùng Đà Nẵng, U11 Chuyên Việt, U11 VietGoal, U11 TT Sunday Hội An, U11 TT Chinh Phan Phú Ninh, U11 Thăng Bình Kids, U11 Năng khiếu Quảng Nam, U11 Long Nguyễn Tam Kỳ, U11 Tam Kỳ Kids và U11 T&T Sơn Tịnh Quảng Ngãi. Trong hai ngày 14 và 15/11, 12 đội chia làm 3 bảng đá vòng tròn tính điểm nhằm chọn ra 3 đội đầu bảng, 3 đội nhì bảng cùng 2 đội hạng ba xuất sắc nhất bước vào vòng trong. Bên cạnh cúp, huy chương và tiền thưởng cho các tập thể dẫn đầu, ban tổ chức còn trao giải cá nhân cho cầu thủ xuất sắc nhất, thủ môn xuất sắc nhất và vua phá lưới. Cuối tuần này bà con có ai đi xem và ủng hộ các cầu thủ nhí tranh tài không?\n\n#DaNang #BongDaU11 #SHBDaNang\nCre: Báo và phát thanh, truyền hình Đà Nẵng",
+   "card_title": "Khai mạc giải bóng đá U11 tranh cúp SHB Đà Nẵng lần thứ nhất",
+   "category": "su_kien",
+   "created": 1794633845,
+   "error": "Graph API lỗi 400: Cannot call API for app 1682792859865258 on behalf of user 1610369147769723",
+   "flags": [],
+   "id": "58195614",
+   "images": [
+    "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/14/1794626881843_1019814998590926491_1019814998590926491_ed635463f1dad01027b3d12d0a233123.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Báo và phát thanh, truyền hình Đà Nẵng",
+   "source": "Google News - Đà Nẵng",
+   "status": "failed",
+   "title": "Khai mạc Giải bóng đá U11 - tranh cúp SHB Đà Nẵng 2026",
+   "urgent": false,
+   "url": "https://baodanang.vn/khai-mac-giai-bong-da-u11-tranh-cup-shb-da-nang-2026-3358460.html"
+  },
   "5a60827b": {
    "caption": "🏆 THỂ THAO ĐÀ NẴNG KỲ VỌNG BƯỚC TIẾN MỚI SAU KHI HỢP NHẤT ĐƠN VỊ HUẤN LUYỆN\n\nThể thao Đà Nẵng đang đứng trước cơ hội bứt phá mới khi Trung tâm Huấn luyện và Thi đấu thể thao thành phố chính thức vận hành từ ngày 1/11/2026 trên cơ sở sáp nhập các đơn vị cũ. Việc hợp nhất này giúp tối ưu hóa công tác đào tạo, nâng cao thành tích thi đấu đỉnh cao lẫn phong trào rèn luyện sức khỏe trong nhân dân. Tính từ đầu năm 2026, các vận động viên thành phố đã thi đấu xuất sắc và mang về 256 Huy chương Vàng quốc gia cùng 44 Huy chương Vàng ở đấu trường quốc tế. Nhằm chuẩn bị cho Đại hội Thể thao toàn quốc lần thứ X năm 2026, đoàn thể thao địa phương đã cử 103 huấn luyện viên cùng 522 vận động viên tranh tài ở 39 môn thi đấu, đặt quyết tâm vào tốp 7 đơn vị dẫn đầu toàn đoàn. Song song đó, nhiều giải đấu phong trào như thể dục dưỡng sinh hay thể thao người khuyết tật cũng sẽ tiếp tục được tổ chức từ nay đến cuối năm. Bà con mình có hay theo dõi và cổ vũ cho các vận động viên thành phố nhà không? 🏆\n\n#DaNang #TheThaoDaNang #DaiHoiTheThao2026\nCre: Báo và phát thanh, truyền hình Đà Nẵng",
    "card_title": "Thể thao Đà Nẵng kỳ vọng bước tiến mới sau khi hợp nhất đơn vị huấn luyện",
@@ -944,7 +966,7 @@
    "priority": "thuong",
    "site": "Báo Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "queued",
+   "status": "expired",
    "title": "Làng hoa vào vụ Tết, phập phồng lo thời tiết, sức mua",
    "urgent": false,
    "url": "https://thanhnien.vn/lang-hoa-vao-vu-tet-phap-phong-lo-thoi-tiet-suc-mua-185261113202911746.htm"
@@ -1882,6 +1904,28 @@
    "title": "Khẩn trương khắc phục sạt lở trên các tuyến đường phía tây nam Đà Nẵng",
    "urgent": true,
    "url": "https://www.vietnam.vn/de/khan-truong-khac-phuc-sat-lo-tren-cac-tuyen-duong-phia-tay-nam-da-nang"
+  },
+  "c1ac518f": {
+   "caption": "💡 ĐÀ NẴNG TẬP HUẤN ỨNG DỤNG CÔNG NGHỆ VÀ TRÍ TUỆ NHÂN TẠO CHO TIỂU THƯƠNG\n\nVào ngày 14/11, Sở Công Thương thành phố Đà Nẵng đã triển khai buổi hướng dẫn chuẩn hóa sản phẩm và nền tảng số thu hút gần 50 đơn vị cùng hộ kinh doanh tham gia. Chương trình giới thiệu các giải pháp quản lý bán hàng, lưu trú cũng như tích hợp công cụ thông minh vào quy trình vận hành cơ sở. Đặc biệt, lực lượng cán bộ cấp xã phường cũng được tiếp cận mô hình trợ lý số nhằm tối ưu hóa thời gian xử lý công việc hành chính. Bà con tiểu thương khu vực này đã áp dụng các giải pháp công nghệ mới này vào việc kinh doanh của gia đình mình chưa.\n\n#DaNang #ChuyenDoiSo #CongThuong\nCre: vietnam.vn",
+   "card_title": "Đà Nẵng tập huấn ứng dụng công nghệ và trí tuệ nhân tạo cho tiểu thương",
+   "category": "kinh_te",
+   "created": 1794633845,
+   "flags": [],
+   "id": "c1ac518f",
+   "images": [
+    "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/14/1794628925115_thiet-ke-chua-co-ten-2026-11-14t100523-653-10152059.jpg",
+    "https://vphoto.vietnam.vn/thumb/640x360/vietnam/resource/IMAGE/2026/11/14/1794628925115_thiet-ke-chua-co-ten-2026-11-14t100523-653-10152059.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "vietnam.vn",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Đà Nẵng thúc đẩy ứng dụng công nghệ, AI trong hoạt động Công Thương",
+   "urgent": false,
+   "url": "https://www.vietnam.vn/da-nang-thuc-day-ung-dung-cong-nghe-ai-trong-hoat-dong-cong-thuong"
   },
   "c85a8265": {
    "caption": "💼 HÀNG CHỤC NHÀ ĐẤT CÔNG Ở ĐÀ NẴNG BỎ TRỐNG DÙ CÓ NƠI THUÊ GIÁ CAO\n\nTrong danh sách 79 cơ sở nhà đất công do Trung tâm Phát triển quỹ đất TP Đà Nẵng quản lý được tung ra cho thuê qua các biên bản ngày 9-11, có tới 68 địa điểm không có người đăng ký. Trái lại, cơ sở số 88 Phan Chu Trinh tại Hội An lại thu hút nhiều hộ kinh doanh quan tâm và được trả mức giá cao nhất gần 2,8 triệu đồng mỗi mét vuông nhà mỗi năm trong thời hạn 10 năm. Ngoài ra, một số vị trí khác tại Điện Bàn Đông, Hòa Cường, hay Thanh Khê cũng tìm được người thuê với các mức giá dao động từ hơn 580 nghìn đến gần 900 nghìn đồng mỗi mét vuông nhà mỗi năm. Trong khi đó, phần lớn các trụ sở cơ quan cũ ở khu vực Tam Kỳ và các huyện miền núi vẫn hoàn toàn vắng bóng người đăng ký thuê. Bà con khu vực này có góc nhìn thế nào về việc quản lý và khai thác các tài sản công dôi dư này?\n\n#DaNang #NhaDatCong #KinhTe\nCre: TUOI TRE ONLINE",
@@ -3170,6 +3214,65 @@
     "tham"
    ],
    "url": "https://baodanang.vn/da-nang-mien-phi-ve-tham-quan-cac-bao-tang-trong-ngay-24-11-3358383.html"
+  },
+  "baodanang.vn/khai-mac-giai-bong-da-u11-tranh-cup-shb-da-nang-2026-3358460.html": {
+   "lead": [
+    "11",
+    "12",
+    "14",
+    "2026",
+    "225",
+    "bong",
+    "cup",
+    "dao",
+    "dien",
+    "dno",
+    "doi",
+    "dong",
+    "gia",
+    "giai",
+    "gop",
+    "hoa",
+    "hoi",
+    "hung",
+    "hut",
+    "khai",
+    "khanh",
+    "lan",
+    "mac",
+    "mat",
+    "nang",
+    "ngoc",
+    "nhat",
+    "phuong",
+    "sang",
+    "shb",
+    "sunday",
+    "tam",
+    "tao",
+    "tham",
+    "thu",
+    "tranh",
+    "tre",
+    "trung",
+    "u11",
+    "van",
+    "vien"
+   ],
+   "t": 1794633845,
+   "title": [
+    "2026",
+    "bong",
+    "cup",
+    "giai",
+    "khai",
+    "mac",
+    "nang",
+    "shb",
+    "tranh",
+    "u11"
+   ],
+   "url": "https://baodanang.vn/khai-mac-giai-bong-da-u11-tranh-cup-shb-da-nang-2026-3358460.html"
   },
   "baodanang.vn/the-thao-da-nang-ky-vong-but-pha-3358308.html": {
    "lead": [
@@ -17948,6 +18051,23 @@
    ],
    "url": "https://www.vietnam.vn/da-nang-vao-top-10-diem-den-ly-tuong-dip-giang-sinh-va-nam-moi"
   },
+  "news.google.com/rss/articles/CBMijwFBVV95cUxPU05yZm9QdUJjZXdOd1JnQTl0WnItQUg3a2xmU2lONXpyR1JwVTFiQVlxWmgxTTVlc2oyZUVzcjh2WC1ta2phY1YzZV92SUpvXzBJZEliS3ZoLXg4RnlxVm01MjU3T3IxUnF3T1FMak1zMjJoMF90N0YwSzJhUk1NajV6WXZLcGRfTmRTYVBETQ?oc=5": {
+   "lead": [],
+   "t": 1794633845,
+   "title": [
+    "2026",
+    "bong",
+    "cup",
+    "giai",
+    "khai",
+    "mac",
+    "nang",
+    "shb",
+    "tranh",
+    "u11"
+   ],
+   "url": "https://baodanang.vn/khai-mac-giai-bong-da-u11-tranh-cup-shb-da-nang-2026-3358460.html"
+  },
   "news.google.com/rss/articles/CBMijwFBVV95cUxQcWw5cWNHN0w0dG1vZXRGVmVocGppY3puWXZxNXJlbmhrS1o5QW50OGkwNS1NdWVTXzlYenhuMDBNODZueXNXcmQ1U21acHZuVG9OV3FBUV85TzBRR0FLX05SNkU3NlcyRlowcUFrZ3ZKVlQ3dEtudkVEZll4dGN6NG9PT0txTmZCNWk2dDB3RQ?oc=5": {
    "lead": [],
    "t": 1794511734,
@@ -17993,6 +18113,23 @@
     "qua"
    ],
    "url": "https://www.vietnam.vn/ket-qua-cham-diem-thang-10-ve-khoa-hoc-cong-nghe-va-chuyen-doi-so"
+  },
+  "news.google.com/rss/articles/CBMikwFBVV95cUxObk96Y2VFNTJDbWpOVUtsQXJhMkRKbjdiSzZ5ZHo2ZXIwLTRmYUxKT0ZEeVJWb2Z6Y3cxRGNEbkJUaUFUZW81R3QtSjlxM0wyWVBHZDE5RHpyR212WnV6eGt1cUJWX3JtNkg5TWtuR3lkNUd5VklaZ2xwWWdfeE15MW5Od0NOemdCUFRaeGNzU0YyVU0?oc=5": {
+   "lead": [],
+   "t": 1794633845,
+   "title": [
+    "cong",
+    "day",
+    "dong",
+    "dung",
+    "hoat",
+    "nang",
+    "nghe",
+    "thuc",
+    "thuong",
+    "ung"
+   ],
+   "url": "https://www.vietnam.vn/da-nang-thuc-day-ung-dung-cong-nghe-ai-trong-hoat-dong-cong-thuong"
   },
   "news.google.com/rss/articles/CBMikwFBVV95cUxPbkVXX1NJQXVuRW1Cem1NNi1ORHJWY01qRlZSejlJSm45MGpiaUNHNVVZRi1UNVFZaWkwRWtjOUVHRWRYdU1YMUFBajcxVmZ0QXRIV1NNOE9pM1VKU250TEFrbWdQLU45TEJXWTR4ZWVTSk9SejVmZEdDcmNsNUdrT3RQUnF1TldBNFp0aHU3RGFnQXM?oc=5": {
    "lead": [],
@@ -47445,6 +47582,72 @@
     "van"
    ],
    "url": "https://www.vietnam.vn/da-nang-tham-van-de-an-trung-tam-logistics-tich-hop-da-phuong-thuc"
+  },
+  "vietnam.vn/da-nang-thuc-day-ung-dung-cong-nghe-ai-trong-hoat-dong-cong-thuong": {
+   "lead": [
+    "11",
+    "14",
+    "anh",
+    "cao",
+    "chuan",
+    "chuc",
+    "chuyen",
+    "cong",
+    "dan",
+    "day",
+    "dien",
+    "doanh",
+    "doi",
+    "dong",
+    "dung",
+    "gian",
+    "gop",
+    "hang",
+    "hanh",
+    "hieu",
+    "hinh",
+    "hoa",
+    "huan",
+    "huong",
+    "kinh",
+    "lop",
+    "mai",
+    "manh",
+    "nang",
+    "nghe",
+    "nha",
+    "nhan",
+    "noi",
+    "nuoc",
+    "pham",
+    "phan",
+    "pho",
+    "qua",
+    "quan",
+    "san",
+    "tao",
+    "tap",
+    "thanh",
+    "thuong",
+    "tri",
+    "tro",
+    "tue",
+    "ung"
+   ],
+   "t": 1794633845,
+   "title": [
+    "cong",
+    "day",
+    "dong",
+    "dung",
+    "hoat",
+    "nang",
+    "nghe",
+    "thuc",
+    "thuong",
+    "ung"
+   ],
+   "url": "https://www.vietnam.vn/da-nang-thuc-day-ung-dung-cong-nghe-ai-trong-hoat-dong-cong-thuong"
   },
   "vietnam.vn/da-nang-tuyen-truyen-phap-luat-qua-phien-toa-gia-dinh": {
    "lead": [
