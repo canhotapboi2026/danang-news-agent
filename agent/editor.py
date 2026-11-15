@@ -326,7 +326,15 @@ DOMAIN_NAMES = {
     "dantri.com.vn": "Dân trí", "tienphong.vn": "Tiền Phong", "nld.com.vn": "Người Lao Động",
     "laodong.vn": "Lao Động", "vietnamnet.vn": "VietNamNet", "baodanang.vn": "Báo Đà Nẵng",
     "vov.vn": "VOV", "vtv.vn": "VTV", "vietnamplus.vn": "VietnamPlus", "nhandan.vn": "Nhân Dân",
-    "cand.com.vn": "Công an nhân dân", "plo.vn": "Pháp Luật TP.HCM", "znews.vn": "Znews",
+    "cand.com.vn": "Công an nhân dân", "plo.vn": "Pháp Luật TP.HCM", "znews.vn": "Znews", "zingnews.vn": "Znews",
+    "baotintuc.vn": "Báo Tin Tức", "baochinhphu.vn": "Báo Chính phủ", "sggp.org.vn": "Sài Gòn Giải Phóng",
+    "qdnd.vn": "Quân đội nhân dân", "kenh14.vn": "Kênh14", "soha.vn": "Soha", "cafef.vn": "CafeF",
+    "vneconomy.vn": "VnEconomy", "baophapluat.vn": "Báo Pháp luật Việt Nam", "giadinh.net.vn": "Gia đình & Xã hội",
+    "danviet.vn": "Dân Việt", "baodautu.vn": "Báo Đầu tư", "congluan.vn": "Công luận", "vtc.vn": "VTC News",
+    "baoquangnam.vn": "Báo Quảng Nam", "vietnamnet.vn": "VietNamNet", "tienphong.vn": "Tiền Phong",
+    "baotanghinh.vn": "Báo Tăng Hình", "nguoiduatin.vn": "Người đưa tin", "tapchicongsan.org.vn": "Tạp chí Cộng sản",
+    "baovanhoa.vn": "Báo Văn hóa", "thesaigontimes.vn": "The Saigon Times", "nhipsongkinhdoanh.vn": "Nhịp sống kinh doanh",
+    "tuoitrethudo.vn": "Tuổi trẻ Thủ đô", "baomoi.com": "Báo Mới", "vietnamplus.vn": "VietnamPlus",
 }
 DOMAIN_LIKE = re.compile(r"^[\w.-]+\.(vn|com|net|org|info|tv|vov|asia)(/.*)?$", re.I)
 
