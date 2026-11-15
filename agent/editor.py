@@ -8,7 +8,7 @@ import time
 from . import util
 
 CATEGORIES = ["khan", "giao_thong", "dich_vu_tien_ich", "su_kien", "du_lich_van_hoa",
-              "kinh_te", "phap_luat", "giao_duc", "y_te", "thoi_tiet", "doi_song", "khac"]
+              "kinh_te", "phap_luat", "giao_duc", "y_te", "thoi_tiet", "doi_song", "con_nguoi", "khac"]
 
 SYSTEM = """Bạn là biên tập viên của một Fanpage tin tức địa phương Đà Nẵng.
 Nhiệm vụ: đọc bài gốc và viết lại thành caption Facebook ngắn gọn, đúng sự thật.
@@ -29,7 +29,7 @@ GIỌNG VĂN CỦA PAGE
 CHỈ TRẢ VỀ MỘT ĐỐI TƯỢNG JSON, không có chữ nào khác:
 {{
  "relevant": true/false,
- "category": một trong {cats},
+ "category": một trong {cats}. Gợi ý: "con_nguoi" = câu chuyện/nhân vật/gương người tốt/cộng đồng người Đà Nẵng; "doi_song" = dân sinh, tiện ích, dịch vụ chung; "su_kien" = lễ hội, sự kiện, hoạt động diễn ra; "khac" CHỈ khi không hợp chuyên mục nào,
  "priority": "khan" | "hot" | "thuong",
    - "khan": CHỈ khi cần người đọc biết NGAY trong vài giờ: tìm người/mất tích, tai nạn nghiêm trọng vừa xảy ra, cúp điện/nước diện rộng sắp diễn ra, cấm đường, cảnh báo lũ/sạt lở/bão. Tin tổng hợp, cập nhật sau sự việc, tin cứu hộ đã xong thì KHÔNG phải "khan".
    - "hot": tin lớn, đang được quan tâm nhiều (dự án, chính sách, sự kiện lớn, vụ việc gây chú ý) nhưng không cần đọc ngay.
@@ -38,7 +38,7 @@ CHỈ TRẢ VỀ MỘT ĐỐI TƯỢNG JSON, không có chữ nào khác:
  "emoji": "đúng 1 emoji hợp chủ đề tin (vd 🚦 giao thông, 🌧️ thời tiết, 🏖️ du lịch, 🎉 sự kiện, 💡 tiện ích, 🏗️ dự án, 🎓 giáo dục, 🩺 y tế, ⚖️ pháp luật, 💼 kinh tế, 📰 chung)",
  "title": "tiêu đề ngắn 6-16 từ, nêu đúng sự việc, diễn đạt lại (không chép tiêu đề gốc), không giật gân, không dấu chấm cuối",
  "caption": "đoạn tóm tắt theo quy tắc 3",
- "hashtags": ["tối đa 3 hashtag không dấu cách, không có ký tự #"],
+ "hashtags": ["tối đa 1 hashtag keyword đặc trưng của tin này (địa danh hoặc chủ đề cụ thể, vd TraLeng), viết liền không dấu cách, không có ký tự #, không dùng hashtag chung như DaNang; để rỗng [] nếu không cần"],
  "text_ok": true/false  (caption tuân thủ chính sách),
  "issues": ["lý do cần người duyệt kỹ, nếu có"],
  "image_ok": true/false/null
@@ -263,7 +263,7 @@ def hashtag_clean(tags, limit=3):
 
 CATEGORY_EMOJI = {"khan": "🚨", "giao_thong": "🚦", "dich_vu_tien_ich": "💡", "su_kien": "🎉",
                   "du_lich_van_hoa": "🏖️", "kinh_te": "💼", "phap_luat": "⚖️", "giao_duc": "🎓",
-                  "y_te": "🩺", "thoi_tiet": "🌧️", "doi_song": "🏙️", "khac": "📰"}
+                  "y_te": "🩺", "thoi_tiet": "🌧️", "doi_song": "🏙️", "con_nguoi": "👥", "khac": "📰"}
 
 
 def pick_emoji(result):
@@ -285,16 +285,73 @@ def clean_title(title, fallback):
     return t.upper()
 
 
+# Hashtag theo chuyên mục (có thể ghi đè bằng "category_hashtags" trong config.json)
+CATEGORY_TAGS = {"giao_thong": "GiaoThongDaNang", "thoi_tiet": "ThoiTietDaNang",
+                 "su_kien": "SuKienDaNang", "du_lich_van_hoa": "DuLichDaNang",
+                 "kinh_te": "KinhTeDaNang", "phap_luat": "PhapLuatDaNang",
+                 "giao_duc": "GiaoDucDaNang", "y_te": "YTeDaNang",
+                 "doi_song": "DoiSongDaNang", "dich_vu_tien_ich": "DoiSongDaNang",
+                 "con_nguoi": "NguoiDaNang"}
+
+
+def build_hashtags(cfg, result):
+    """Thứ tự: nhóm cố định (config) -> 1 hashtag chuyên mục -> tối đa 1 hashtag keyword của tin. Không trùng (không phân biệt hoa thường)."""
+    s = cfg["settings"]
+    cats = dict(CATEGORY_TAGS, **cfg.get("category_hashtags", {}))
+    cat_tag = cats.get(result.get("category"))
+    fixed = [h.lstrip("#") for h in s.get("base_hashtags", [])] + ([cat_tag] if cat_tag else [])
+    tags, seen = [], set()
+
+    def add(t):
+        t = re.sub(r"[^\w]", "", str(t), flags=re.UNICODE)
+        if t and t.lower() not in seen:
+            seen.add(t.lower())
+            tags.append(t)
+            return True
+        return False
+
+    for t in fixed:
+        add(t)
+    n = 0
+    for t in hashtag_clean(result.get("hashtags"), limit=10):   # lọc trùng trước, rồi mới lấy 1 tag keyword
+        if n < 1 and add(t):
+            n += 1
+    return tags[: s.get("max_hashtags", 8)]
+
+
+# Tên báo hiển thị theo tên miền (ưu tiên hơn thẻ og:site_name vì có trang khai thiếu hoặc khai sai).
+# Thêm/ghi đè bằng "site_names" trong config.json, ví dụ: "site_names": {"baodanang.vn": "Báo Đà Nẵng"}
+DOMAIN_NAMES = {
+    "tuoitre.vn": "Tuổi Trẻ", "vnexpress.net": "VnExpress", "thanhnien.vn": "Thanh Niên",
+    "dantri.com.vn": "Dân trí", "tienphong.vn": "Tiền Phong", "nld.com.vn": "Người Lao Động",
+    "laodong.vn": "Lao Động", "vietnamnet.vn": "VietNamNet", "baodanang.vn": "Báo Đà Nẵng",
+    "vov.vn": "VOV", "vtv.vn": "VTV", "vietnamplus.vn": "VietnamPlus", "nhandan.vn": "Nhân Dân",
+    "cand.com.vn": "Công an nhân dân", "plo.vn": "Pháp Luật TP.HCM", "znews.vn": "Znews",
+}
+DOMAIN_LIKE = re.compile(r"^[\w.-]+\.(vn|com|net|org|info|tv|vov|asia)(/.*)?$", re.I)
+
+
+def source_name(cfg, article):
+    """Tên báo để ghi 'Cre:'. Luôn là tên, không bao giờ là link hay tên miền."""
+    from urllib.parse import urlparse
+    host = (urlparse(article.get("url") or "").hostname or "").lower().removeprefix("www.")
+    names = dict(DOMAIN_NAMES, **cfg.get("site_names", {}))
+    for dom, name in names.items():                      # khớp cả tên miền phụ: m.tuoitre.vn, www.tuoitre.vn
+        if host == dom or host.endswith("." + dom):
+            return name
+    og = clean_text(article.get("site") or "")
+    if og and not DOMAIN_LIKE.match(og):                 # thẻ og:site_name là tên thật (không phải tên miền)
+        return og
+    label = (host or og).split(".")[0] if (host or og) else ""
+    return label.replace("-", " ").title() or "Nguồn tin"
+
+
 def final_caption(cfg, result, article):
     """Mẫu: ICON TIÊU ĐỀ IN HOA / đoạn tóm tắt / hashtag / Cre: nguồn. Không link, không mã."""
-    base = [h.lstrip("#") for h in cfg["settings"].get("base_hashtags", [])]
-    tags = []
-    for t in base + hashtag_clean(result.get("hashtags")):
-        if t.lower() not in [x.lower() for x in tags]:
-            tags.append(t)
+    tags = build_hashtags(cfg, result)
     head = f"{pick_emoji(result)} {clean_title(result.get('title'), article['title'])}"
     lines = [head, "", result["caption"], ""]
     if tags:
         lines.append(" ".join("#" + t for t in tags))
-    lines.append(f"Cre: {clean_text(article['site'])}")
+    lines.append(f"Cre: {source_name(cfg, article)}")
     return "\n".join(lines)
