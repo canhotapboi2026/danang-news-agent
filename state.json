@@ -384,7 +384,7 @@
    "priority": "thuong",
    "site": "Báo Đà Nẵng",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Vận động viên Vovinam Đà Nẵng nhận Huân chương Lao động hạng Nhất",
    "urgent": false,
    "url": "https://baodanang.vn/van-dong-vien-vovinam-da-nang-nhan-huan-chuong-lao-dong-hang-nhat-3358561.html"
@@ -2982,7 +2982,7 @@
    "priority": "thuong",
    "site": "vietnam.vn",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 486,
    "title": "Sôi nổi Ngày hội Đại đoàn kết toàn dân tộc tại Đà Nẵng",
    "urgent": false,
@@ -26131,6 +26131,21 @@
    ],
    "url": "https://www.vietnam.vn/nhan-dinh-zorya-luhansk-vs-fc-kharkiv-hua-hen-man-doi-cong"
   },
+  "news.google.com/rss/articles/CBMiigFBVV95cUxOdmRKNnpQNkp0aXVEU0djQUZFdWY4QnpMSkJ4cHdtUjJhelcwVzZpXzhxRDFlQzNsM1hyRndvS0dsT2Y1VmxGOHR1U1JhVldUdmRzbEZOUFlXNXdXSmlsc3k5djJKMm5jMS1PdXFabTRybVRLR3lJdHdxZjQyNnFxdk1XT1FsUl9TbVE?oc=5": {
+   "lead": [],
+   "t": 1794766794,
+   "title": [
+    "dan",
+    "diem",
+    "dip",
+    "giang",
+    "hap",
+    "moi",
+    "nang",
+    "sinh"
+   ],
+   "url": "https://www.vietnam.vn/ly-do-da-nang-la-diem-den-hap-dan-dip-giang-sinh-va-nam-moi"
+  },
   "news.google.com/rss/articles/CBMiigFBVV95cUxQQlpDeGU4cjJsZ1hod2JBeUZPUkdkbWhmdGM4eWEtMU5zZnc1a0FJWXE4eENUNEVNY0VHWmt6Y3ZHQmxpWlc1S3FEVElweVRuU1ZZU2xpRjJJR2lLUlpqbXZ2N3FnSm1zb1ZyV2d0U0x0bmFJMXY1UWNVYk9oOVBjemVHcThyNGxPeGc?oc=5": {
    "lead": [],
    "t": 1794411305,
@@ -26414,6 +26429,24 @@
     "vot"
    ],
    "url": "https://cafef.vn/bat-ngo-co-phieu-tang-vot-gap-15-lan-tu-dau-nam-188261113160041791.chn"
+  },
+  "news.google.com/rss/articles/CBMikgFBVV95cUxOTlpUWnZhU2F2NkF4OEFlaWtEc05fX3g0cVRWQkF1WmlFOHRfOUZ3VjllUmc4UGdCMFFzNWVaZDlIYmpSQlNteFdiR0F1MXBRS2NMcUpKZGdaaHI3Y2RMRlhrbGJLUHVVYXNHQ1F2YnVjSHluRXJBR2Z6am1KeDlJd05KeFVJM043S09RNlZkWHVwQQ?oc=5": {
+   "lead": [],
+   "t": 1794766794,
+   "title": [
+    "chuong",
+    "dong",
+    "hang",
+    "huan",
+    "lao",
+    "nang",
+    "nhan",
+    "nhat",
+    "van",
+    "vien",
+    "vovinam"
+   ],
+   "url": "https://www.vietnam.vn/van-dong-vien-vovinam-da-nang-nhan-huan-chuong-lao-dong-hang-nhat"
   },
   "news.google.com/rss/articles/CBMikgFBVV95cUxOZjdDNFY0OFpCNnBMOFVaOTBFXzV3dko3MWJoM1NoV0xzVnBIWHU0ZktGVlhDdjlVbUZHajJub2t6aTRnd1lIdUo0TGN0dzZhRE5wTFdITTBFaGVhcjZ3YmxhQ3o4ZkNZa3UwLVRyQkZ6cUNEcE5sVzBWdWpxLXM3Q0RJOU9sblQyWHJZLUJyZEFUdw?oc=5": {
    "lead": [],
@@ -27666,6 +27699,25 @@
     "xep"
    ],
    "url": "https://tin.skydoor.net/news/du-lich-da-nang-xep-thu-4-trong-top-10-diem-den-ly-tuong-dip-giang-8429673"
+  },
+  "news.google.com/rss/articles/CBMipgFBVV95cUxNUjRqMEhrVHBHQnNTUmtJTDdqLVN2QTVvRnloLW1FVHY3Tlk4ZWxCYl8xN28teXd1dkltcGNWcVhRcFNUMHdYQndGaXBqUnVocDkzZmJMMW5FN0RtVGd4c2lFeTRza0l4aVFBLUVqSnd4OHZyM3dZWTZDQ29KMmdPYUxVLWV1aUlGM212ZnVjcGVISy1LQXd4ZklQZ29lOExBc3V4MDV3?oc=5": {
+   "lead": [],
+   "t": 1794766794,
+   "title": [
+    "ban",
+    "bien",
+    "chan",
+    "dat",
+    "day",
+    "lap",
+    "phe",
+    "phuong",
+    "quan",
+    "rac",
+    "thung",
+    "via"
+   ],
+   "url": "https://tin.skydoor.net/news/da-nang-phuong-lap-bien-ban-quan-ca-phe-dat-day-thung-rac-chan-via-8435119"
   },
   "news.google.com/rss/articles/CBMipgFBVV95cUxNdWZOMjgwUlZLTkgtSS0yUmljNFI1ejlBSG9MU0daRjYyTGtHa3BPSllMdWRSNHdGMXhidXM0eDVQcTFFSFBJNzg3VE1JYll3bTJSYm1GcWh0bjBwcTlWeXFuQXhpVFNsMndSTFRvSTNZU2dIbkVoOW5NaTF2RHo1bzNfSGtORmdSVVgwbDZjNkh1ci1oU0RaZXNrX1JqczlqUGNMVDVB?oc=5": {
    "lead": [],
@@ -36093,6 +36145,17 @@
    ],
    "url": "https://thanhnien.vn/em-be-co-giat-giua-duong-tai-xe-xe-cong-nghe-chay-dua-12-phut-den-benh-vien-185261111190823924.htm"
   },
+  "thanhnien.vn/em-ut-dang-cho-doi-cua-u17-viet-nam-185261115195050941.htm": {
+   "lead": [],
+   "t": 1794766794,
+   "title": [
+    "17",
+    "dang",
+    "doi",
+    "viet"
+   ],
+   "url": "https://thanhnien.vn/em-ut-dang-cho-doi-cua-u17-viet-nam-185261115195050941.htm"
+  },
   "thanhnien.vn/emirates-lai-hon-1-ti-usd-du-gia-nhien-lieu-tang-gap-doi-185261113080755261.htm": {
    "lead": [],
    "t": 1794533155,
@@ -39445,6 +39508,18 @@
    ],
    "url": "https://thanhnien.vn/lai-co-them-nghi-van-ve-moi-quan-he-cua-ong-jensen-huang-185261113083459424.htm"
   },
+  "thanhnien.vn/lai-ly-huynh-khang-dinh-vi-the-185261115200025784.htm": {
+   "lead": [],
+   "t": 1794766794,
+   "title": [
+    "dinh",
+    "huynh",
+    "khang",
+    "lai",
+    "the"
+   ],
+   "url": "https://thanhnien.vn/lai-ly-huynh-khang-dinh-vi-the-185261115200025784.htm"
+  },
   "thanhnien.vn/lai-ly-huynh-vao-tu-ket-the-gioi-cham-tran-cao-thu-co-tuong-trung-quoc-185261114181344076.htm": {
    "lead": [],
    "t": 1794657452,
@@ -41257,6 +41332,22 @@
     "van"
    ],
    "url": "https://thanhnien.vn/nang-van-co-nuoc-tren-duong-185261113202848354.htm"
+  },
+  "thanhnien.vn/nang-vat-nang-the-nao-de-tranh-dau-lung-chan-thuong-185261111175851993.htm": {
+   "lead": [],
+   "t": 1794766794,
+   "title": [
+    "chan",
+    "dau",
+    "lung",
+    "nang",
+    "nao",
+    "the",
+    "thuong",
+    "tranh",
+    "vat"
+   ],
+   "url": "https://thanhnien.vn/nang-vat-nang-the-nao-de-tranh-dau-lung-chan-thuong-185261111175851993.htm"
   },
   "thanhnien.vn/nations-league-doi-tuyen-y-lam-nen-mot-lich-su-nho-1852611131534285.htm": {
    "lead": [],
@@ -46557,6 +46648,26 @@
    ],
    "url": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-1511-gian-doan-khoi-hanh-bay-o-my-chau-au-chot-dai-dien-du-hoa-dam-ukraine-18526111422013913.htm"
   },
+  "thanhnien.vn/tieu-duong-am-tham-tan-pha-than-dung-doi-co-trieu-chung-moi-kiem-tra-18526111516415199.htm": {
+   "lead": [],
+   "t": 1794766794,
+   "title": [
+    "chung",
+    "doi",
+    "dung",
+    "duong",
+    "kiem",
+    "moi",
+    "pha",
+    "tan",
+    "tham",
+    "than",
+    "tieu",
+    "tra",
+    "trieu"
+   ],
+   "url": "https://thanhnien.vn/tieu-duong-am-tham-tan-pha-than-dung-doi-co-trieu-chung-moi-kiem-tra-18526111516415199.htm"
+  },
   "thanhnien.vn/tieu-duong-an-bap-luoc-co-lam-tang-duong-huyet-185261112170026839.htm": {
    "lead": [],
    "t": 1794528026,
@@ -48668,6 +48779,19 @@
     "vtv"
    ],
    "url": "https://thanhnien.vn/u23-viet-nam-u23-singapore-19-gio-truc-tiep-tren-fpt-play-vtv-chien-thang-thu-2-trong-tam-tay-185261111224450998.htm"
+  },
+  "thanhnien.vn/u23-viet-nam-xung-dang-duoc-dau-tu-manh-185261115164419729.htm": {
+   "lead": [],
+   "t": 1794766794,
+   "title": [
+    "23",
+    "dang",
+    "dau",
+    "manh",
+    "viet",
+    "xung"
+   ],
+   "url": "https://thanhnien.vn/u23-viet-nam-xung-dang-duoc-dau-tu-manh-185261115164419729.htm"
   },
   "thanhnien.vn/u23-viet-nam-xung-dang-vo-dich-va-su-hy-sinh-cua-than-dong-tung-duoc-bao-anh-danh-gia-cao-185261115172029075.htm": {
    "lead": [],
