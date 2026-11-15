@@ -530,7 +530,7 @@
    "priority": "thuong",
    "site": "Báo Đại Đoàn Kết",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 494,
    "title": "Phó Chủ tịch Thường trực Mặt trận TP Đà Nẵng dự Ngày hội Đại đoàn kết",
    "urgent": false,
@@ -34884,6 +34884,20 @@
     "ukraine"
    ],
    "url": "https://thanhnien.vn/dam-phan-nga-ukraine-my-dat-duoc-gi-185261112174518633.htm"
+  },
+  "thanhnien.vn/dam-phan-nga-ukraine-xuat-hien-cac-de-xuat-moi-185261115200719179.htm": {
+   "lead": [],
+   "t": 1794778504,
+   "title": [
+    "dam",
+    "hien",
+    "moi",
+    "nga",
+    "phan",
+    "ukraine",
+    "xuat"
+   ],
+   "url": "https://thanhnien.vn/dam-phan-nga-ukraine-xuat-hien-cac-de-xuat-moi-185261115200719179.htm"
   },
   "thanhnien.vn/dan-bo-12-con-chiem-mat-cau-xe-co-o-phu-quoc-phai-ne-tranh-185261114094238491.htm": {
    "lead": [],
