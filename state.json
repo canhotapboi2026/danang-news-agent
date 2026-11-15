@@ -478,7 +478,7 @@
    "priority": "thuong",
    "site": "TẠP CHÍ ĐIỆN TỬ VĂN HÓA VÀ PHÁT TRIỂN",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 497,
    "title": "Phường Liên Chiểu, TP Đà Nẵng: Sôi động chào mừng Ngày Văn hóa Việt Nam, Ngày Hội Đại đoàn kết dân tộc",
    "urgent": false,
@@ -2672,7 +2672,7 @@
    "priority": "thuong",
    "site": "Chungta",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 503,
    "title": "Học sinh Hy vọng giành giải Nhất chạy bộ với sự tiếp sức của người FPT",
    "urgent": false,
@@ -2780,7 +2780,7 @@
    "priority": "thuong",
    "site": "Tuổi Trẻ",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "queued",
+   "status": "expired",
    "title": "Phường lập biên bản quán cà phê đặt dãy thùng rác chắn vỉa hè",
    "urgent": false,
    "url": "https://tuoitre.vn/phuong-lap-bien-ban-quan-ca-phe-dat-day-thung-rac-chan-via-he-100261115180006026.htm"
@@ -3709,6 +3709,7 @@
   "news.google.com/rss/articles/CBMi0gFBVV95cUxQX0RCZHpKRm1zeDMxV3hiRS1abG50NHdQSkFQbEVJUjhaSlFBRUtyUVNrbF9NWGd3elNnYngzRHN1RTB3YmxpWXF3V1hwTVVJZFBOREUyRF90T3VDTXZIczFabDlsQTJZWkZsYjZwMVBXTUdwNFhlYUNSSlV1NHdpQWp6QzBXQmt0UE95MzNaM194YkVJUzNROThXNFdlaHVhV1ZyeDhiM0dOTmFaWjJsN1M0RDdzWWM1ajB6b2t2NHpqWmY4Umx1dFU2a0VvYngwWUE?oc=5": 1,
   "news.google.com/rss/articles/CBMiU0FVX3lxTE1NT2J5Tkw3XzNQV2V3cm4wMjlsTnJUU2V2a1RtRmxOTDRlTHBRLUFiTDZtQUQzZnU4Z2JYbmxBb3B3MjBqTjhOZTBZeGVaN1lTSDNv?oc=5": 1,
   "news.google.com/rss/articles/CBMiU0FVX3lxTE45Wm5yZWczelZ2M1g1NFVpaEdRczh5WUdWQUdObGFELWZNb3ktZnZXNk1KSzAxQmltajVySGl1VnNrRkIyUUJCX0tHcWFYSU93TUx3?oc=5": 3,
+  "news.google.com/rss/articles/CBMiU0FVX3lxTE9OYlRjUDJXRjVGMVlYbVg4eVQxNFk5aTFDOWpvZDlQYkI3U3NSZVROZzF0bmNaMElXY1NJMEZ3ZGl1bnlwWkdOcHgyYzJzOFROcElz?oc=5": 1,
   "news.google.com/rss/articles/CBMiU0FVX3lxTE9tZ2g5MUE4OV9KdS1GM3ZFcm5XT2loa29pcEs0N082dkJxbFpFamJFNkNXbFRqUUtJVVFtQWpXNjlhSzB2MktlbXRlZGQwLW8zZ2NV?oc=5": 1,
   "news.google.com/rss/articles/CBMie0FVX3lxTE1TRmY3V0EwVW83ZmhlQXZyZnJLNGZidUU2M09JQktlQmZzSWQtVzFnUldFWnlYenN1MnVqQlNHcHMtQldCelMzakd6ZkYxRkVGdURySnpPSGNNX2lPVzNwMGdGbXloMUVCemxaRVg4TWIzSExlVlVlZ1lLWQ?oc=5": 1,
   "news.google.com/rss/articles/CBMifEFVX3lxTE1jMEhXRUl4cVpEWlc0X3FZa1BUblhQSGMyLWlWS1lNSG9GczlFUEtEOW5hR3h0T1FtbkpVWVJyTDZza3NXYlpKcDFsMmdaV0x3eC1qRWx4NTBjX2dUbDEtWTd1bFp5ZWRZUUVMaDhGREJXVng4N1lfR1kxeDI?oc=5": 2,
@@ -37726,6 +37727,23 @@
    ],
    "url": "https://thanhnien.vn/hien-trang-cau-go-dai-nhat-viet-nam-bi-lu-cuon-troi-chi-con-lai-vai-met-van-185261113213119022.htm"
   },
+  "thanhnien.vn/hien-trang-du-an-cong-vien-thien-nien-ky-tphcm-vua-thu-hoi-185261115151011344.htm": {
+   "lead": [],
+   "t": 1794781372,
+   "title": [
+    "cong",
+    "hcm",
+    "hien",
+    "hoi",
+    "nien",
+    "thien",
+    "thu",
+    "trang",
+    "vien",
+    "vua"
+   ],
+   "url": "https://thanhnien.vn/hien-trang-du-an-cong-vien-thien-nien-ky-tphcm-vua-thu-hoi-185261115151011344.htm"
+  },
   "thanhnien.vn/hien-truong-vu-no-nghi-do-khi-gas-khien-2-can-nha-do-sap-o-tphcm-18526111313035108.htm": {
    "lead": [],
    "t": 1794552259,
@@ -39883,6 +39901,18 @@
    ],
    "url": "https://thanhnien.vn/lang-son-hoc-sinh-dan-toc-thieu-so-co-them-co-hoi-thuc-hanh-robot-lap-trinh-1852611111718108.htm"
   },
+  "thanhnien.vn/lang-son-truoc-nha-da-lo-sau-nha-nuoc-dang-1852611152009255.htm": {
+   "lead": [],
+   "t": 1794781372,
+   "title": [
+    "dang",
+    "lang",
+    "nha",
+    "nuoc",
+    "son"
+   ],
+   "url": "https://thanhnien.vn/lang-son-truoc-nha-da-lo-sau-nha-nuoc-dang-1852611152009255.htm"
+  },
   "thanhnien.vn/lanh-dao-can-tho-cac-so-nganh-phai-soi-roi-chinh-minh-trong-thuc-thi-cong-vu-185261112155518634.htm": {
    "lead": [],
    "t": 1794521923,
@@ -40020,6 +40050,19 @@
     "ngo"
    ],
    "url": "https://thanhnien.vn/lich-am-hom-nay-1511-ngay-ti-thang-hoi-nam-ngo-185261113104242459.htm"
+  },
+  "thanhnien.vn/lich-am-hom-nay-1611-ngay-ngo-thang-hoi-nam-ngo-18526111418582963.htm": {
+   "lead": [],
+   "t": 1794781372,
+   "title": [
+    "11",
+    "16",
+    "hoi",
+    "hom",
+    "lich",
+    "ngo"
+   ],
+   "url": "https://thanhnien.vn/lich-am-hom-nay-1611-ngay-ngo-thang-hoi-nam-ngo-18526111418582963.htm"
   },
   "thanhnien.vn/lich-cup-nuoc-6-phuong-o-tphcm-tu-toi-nay-1311-185261113135602067.htm": {
    "lead": [],
@@ -47080,6 +47123,25 @@
    ],
    "url": "https://thanhnien.vn/tin-tuc-quoc-te-sang-1411-lenh-hiem-ve-hang-khong-tren-toan-nuoc-my-185261114055603927.htm"
   },
+  "thanhnien.vn/tin-tuc-quoc-te-sang-1611-cape-verde-bau-tong-thong-moi-18526111523481245.htm": {
+   "lead": [],
+   "t": 1794781372,
+   "title": [
+    "11",
+    "16",
+    "bau",
+    "cape",
+    "moi",
+    "quoc",
+    "sang",
+    "thong",
+    "tin",
+    "tong",
+    "tuc",
+    "verde"
+   ],
+   "url": "https://thanhnien.vn/tin-tuc-quoc-te-sang-1611-cape-verde-bau-tong-thong-moi-18526111523481245.htm"
+  },
   "thanhnien.vn/tinh-bao-duc-canh-bao-xe-tesla-co-the-tro-thanh-cong-cu-gian-diep-185261114155135312.htm": {
    "lead": [],
    "t": 1794651397,
@@ -48588,6 +48650,22 @@
     "tuoi"
    ],
    "url": "https://thanhnien.vn/tu-vi-ngay-15-thang-11-tuoi-suu-co-loc-tuoi-hoi-can-than-trong-185261114233948278.htm"
+  },
+  "thanhnien.vn/tu-vi-ngay-16-thang-11-tuoi-dan-gap-co-hoi-tot-tuoi-ti-can-than-185261115225257165.htm": {
+   "lead": [],
+   "t": 1794781372,
+   "title": [
+    "11",
+    "16",
+    "can",
+    "dan",
+    "gap",
+    "hoi",
+    "than",
+    "tot",
+    "tuoi"
+   ],
+   "url": "https://thanhnien.vn/tu-vi-ngay-16-thang-11-tuoi-dan-gap-co-hoi-tot-tuoi-ti-can-than-185261115225257165.htm"
   },
   "thanhnien.vn/tu-vong-vi-an-nham-bom-tu-che-tao-hinh-giong-banh-ngot-185261113190517635.htm": {
    "lead": [],
