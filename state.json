@@ -3708,7 +3708,7 @@
   "dantri.com.vn/thoi-su/vu-nguoi-dan-ong-tu-vong-sau-tieng-no-lon-thu-giu-4-vat-nghi-dau-dan-phao-20261113083746835.htm": 1,
   "news.google.com/rss/articles/CBMi0gFBVV95cUxQX0RCZHpKRm1zeDMxV3hiRS1abG50NHdQSkFQbEVJUjhaSlFBRUtyUVNrbF9NWGd3elNnYngzRHN1RTB3YmxpWXF3V1hwTVVJZFBOREUyRF90T3VDTXZIczFabDlsQTJZWkZsYjZwMVBXTUdwNFhlYUNSSlV1NHdpQWp6QzBXQmt0UE95MzNaM194YkVJUzNROThXNFdlaHVhV1ZyeDhiM0dOTmFaWjJsN1M0RDdzWWM1ajB6b2t2NHpqWmY4Umx1dFU2a0VvYngwWUE?oc=5": 1,
   "news.google.com/rss/articles/CBMiU0FVX3lxTE1NT2J5Tkw3XzNQV2V3cm4wMjlsTnJUU2V2a1RtRmxOTDRlTHBRLUFiTDZtQUQzZnU4Z2JYbmxBb3B3MjBqTjhOZTBZeGVaN1lTSDNv?oc=5": 1,
-  "news.google.com/rss/articles/CBMiU0FVX3lxTE45Wm5yZWczelZ2M1g1NFVpaEdRczh5WUdWQUdObGFELWZNb3ktZnZXNk1KSzAxQmltajVySGl1VnNrRkIyUUJCX0tHcWFYSU93TUx3?oc=5": 2,
+  "news.google.com/rss/articles/CBMiU0FVX3lxTE45Wm5yZWczelZ2M1g1NFVpaEdRczh5WUdWQUdObGFELWZNb3ktZnZXNk1KSzAxQmltajVySGl1VnNrRkIyUUJCX0tHcWFYSU93TUx3?oc=5": 3,
   "news.google.com/rss/articles/CBMiU0FVX3lxTE9tZ2g5MUE4OV9KdS1GM3ZFcm5XT2loa29pcEs0N082dkJxbFpFamJFNkNXbFRqUUtJVVFtQWpXNjlhSzB2MktlbXRlZGQwLW8zZ2NV?oc=5": 1,
   "news.google.com/rss/articles/CBMie0FVX3lxTE1TRmY3V0EwVW83ZmhlQXZyZnJLNGZidUU2M09JQktlQmZzSWQtVzFnUldFWnlYenN1MnVqQlNHcHMtQldCelMzakd6ZkYxRkVGdURySnpPSGNNX2lPVzNwMGdGbXloMUVCemxaRVg4TWIzSExlVlVlZ1lLWQ?oc=5": 1,
   "news.google.com/rss/articles/CBMifEFVX3lxTE1jMEhXRUl4cVpEWlc0X3FZa1BUblhQSGMyLWlWS1lNSG9GczlFUEtEOW5hR3h0T1FtbkpVWVJyTDZza3NXYlpKcDFsMmdaV0x3eC1qRWx4NTBjX2dUbDEtWTd1bFp5ZWRZUUVMaDhGREJXVng4N1lfR1kxeDI?oc=5": 2,
@@ -25839,6 +25839,24 @@
    ],
    "url": "https://www.vietnam.vn/la-bang-sac-do"
   },
+  "news.google.com/rss/articles/CBMiU0FVX3lxTE45Wm5yZWczelZ2M1g1NFVpaEdRczh5WUdWQUdObGFELWZNb3ktZnZXNk1KSzAxQmltajVySGl1VnNrRkIyUUJCX0tHcWFYSU93TUx3?oc=5": {
+   "lead": [],
+   "t": 1794776022,
+   "title": [
+    "chuong",
+    "dong",
+    "hang",
+    "huan",
+    "lao",
+    "nang",
+    "nhan",
+    "nhat",
+    "van",
+    "vien",
+    "vovinam"
+   ],
+   "url": "https://twaslnews1.twaslnews.com/7747524/"
+  },
   "news.google.com/rss/articles/CBMiX0FVX3lxTE1BeHk3LWVQLVY4aUxpZEI0SXhPQzFwaE1LU0V6NmhESThaWFdsTURRMFFmNDJVTU9kSG95ZlllSExULTgxUk5oMzhReUxvOGJRMVltUXQ0UVRTbklhczVZ?oc=5": {
    "lead": [],
    "t": 1794448214,
@@ -38080,6 +38098,25 @@
     "ung"
    ],
    "url": "https://thanhnien.vn/hlv-kim-sang-sik-ung-pho-voi-bien-dong-185261115195625063.htm"
+  },
+  "thanhnien.vn/hlv-kyrgyzstan-he-lo-phuong-an-dau-doi-tuyen-viet-nam-dac-biet-de-chung-dinh-bac-185261116001417424.htm": {
+   "lead": [],
+   "t": 1794776022,
+   "title": [
+    "bac",
+    "biet",
+    "chung",
+    "dac",
+    "dau",
+    "dinh",
+    "doi",
+    "hlv",
+    "kyrgyzstan",
+    "phuong",
+    "tuyen",
+    "viet"
+   ],
+   "url": "https://thanhnien.vn/hlv-kyrgyzstan-he-lo-phuong-an-dau-doi-tuyen-viet-nam-dac-biet-de-chung-dinh-bac-185261116001417424.htm"
   },
   "thanhnien.vn/hlv-kyrgyzstan-muon-thang-doi-tuyen-viet-nam-tu-tinh-huong-co-dinh-bat-ngo-nhac-ten-dinh-bac-185261114205913701.htm": {
    "lead": [],
