@@ -1,12 +1,15 @@
 """Gửi bản xem trước tới Telegram và đọc nút bấm Duyệt/Bỏ."""
 import json
+import re
 
 from . import util
+
+URL_RE = re.compile(r"https?://[^\s<>\"']+", re.I)
 
 LABEL = {"khan": "🚨 KHẨN", "giao_thong": "🚦 Giao thông", "dich_vu_tien_ich": "💡 Tiện ích",
          "su_kien": "🎉 Sự kiện", "du_lich_van_hoa": "🏖 Du lịch/Văn hóa", "kinh_te": "💼 Kinh tế",
          "phap_luat": "⚖️ Pháp luật", "giao_duc": "🎓 Giáo dục", "y_te": "🩺 Y tế",
-         "thoi_tiet": "⛈ Thời tiết", "doi_song": "🏙 Đời sống", "khac": "📰 Tin tức"}
+         "thoi_tiet": "⛈ Thời tiết", "doi_song": "🏙 Đời sống", "con_nguoi": "👥 Người Đà Nẵng", "khac": "📰 Tin tức"}
 
 
 class TelegramError(Exception):
@@ -19,6 +22,7 @@ class Telegram:
         self.chat_id = str(chat_id)
         ids = {str(i).strip() for i in (allowed_ids or []) if str(i).strip()}
         self.allowed = ids or {self.chat_id}
+        self.inbox = []          # tin nhắn (có link) nhận được ở lần poll gần nhất
 
     def api(self, method, payload=None, files=None):
         url = f"https://api.telegram.org/bot{self.token}/{method}"
@@ -76,14 +80,42 @@ class Telegram:
         return self.api("sendMessage", {"chat_id": self.chat_id, "text": text[:3900],
                                         "disable_web_page_preview": True})
 
-    # ----- nhận nút bấm -----
+    # ----- nhận nút bấm và tin nhắn (link bài báo) -----
+    @staticmethod
+    def extract_urls(msg):
+        """Lấy các link http(s) trong tin nhắn (kể cả link ẩn sau chữ), giữ thứ tự, bỏ trùng."""
+        text = msg.get("text") or msg.get("caption") or ""
+        found = URL_RE.findall(text)
+        for e in (msg.get("entities") or []) + (msg.get("caption_entities") or []):
+            if e.get("type") == "text_link" and e.get("url"):
+                found.append(e["url"])
+        out = []
+        for u in found:
+            u = u.rstrip(".,;:!?)]}»”’")
+            if u and u not in out:
+                out.append(u)
+        return out
+
     def poll(self, offset):
-        """Trả (danh_sách_quyết_định, offset_mới). Chỉ chấp nhận người dùng được phép."""
+        """Trả (danh_sách_quyết_định, offset_mới). Chỉ chấp nhận người dùng được phép.
+        Tin nhắn chữ gửi cho bot được để ở self.inbox: [{"text", "urls", "message_id"}]."""
+        self.inbox = []
         ups = self.api("getUpdates", {"offset": offset, "timeout": 0,
-                                      "allowed_updates": ["callback_query"]})
+                                      "allowed_updates": ["callback_query", "message"]})
         decisions, new_off = [], offset
+        now = util.now_ts()
         for u in ups:
             new_off = max(new_off, u["update_id"] + 1)
+            msg = u.get("message")
+            if msg:
+                uid = str(msg.get("from", {}).get("id"))
+                chat = str(msg.get("chat", {}).get("id"))
+                if uid not in self.allowed or chat != self.chat_id:
+                    util.log(f"Bỏ qua tin nhắn từ người dùng lạ (id={uid})")
+                elif now - msg.get("date", now) <= 86400:        # bỏ tin cũ hơn 24 giờ
+                    self.inbox.append({"text": msg.get("text") or msg.get("caption") or "",
+                                       "urls": self.extract_urls(msg), "message_id": msg.get("message_id")})
+                continue
             cq = u.get("callback_query")
             if not cq:
                 continue

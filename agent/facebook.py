@@ -5,7 +5,25 @@ from . import util
 
 
 class FacebookError(Exception):
-    pass
+    def __init__(self, msg, code=None, subcode=None):
+        super().__init__(msg)
+        self.code, self.subcode = code, subcode
+
+    @property
+    def is_auth(self):
+        """Lỗi do token/quyền/phiên đăng nhập (cần con người xử lý), không phải lỗi tạm thời."""
+        return self.code in (102, 190, 200) or "Cannot call API" in str(self)
+
+
+def _graph_error(e):
+    """Đọc thông báo + mã lỗi từ phản hồi lỗi của Graph API (không bao giờ chứa token)."""
+    msg, code, sub = "", None, None
+    try:
+        err = json.loads(e.body.decode("utf-8", "replace")).get("error", {})
+        msg, code, sub = err.get("message", ""), err.get("code"), err.get("error_subcode")
+    except Exception:
+        pass
+    return FacebookError(f"Graph API lỗi {e.status}: {msg}", code, sub)
 
 
 class Facebook:
@@ -32,12 +50,7 @@ class Facebook:
                               headers={"Content-Type": "application/x-www-form-urlencoded"},
                               timeout=60, retries=0)
         except util.HttpError as e:
-            msg = ""
-            try:
-                msg = json.loads(e.body.decode("utf-8", "replace")).get("error", {}).get("message", "")
-            except Exception:
-                pass
-            raise FacebookError(f"Graph API lỗi {e.status}: {msg}") from None
+            raise _graph_error(e) from None
         return r.json()
 
     def publish(self, caption, images):
@@ -71,12 +84,7 @@ class Facebook:
         try:
             r = util.http(url, headers={"Authorization": f"Bearer {self.token}"}, retries=0)
         except util.HttpError as e:
-            msg = ""
-            try:
-                msg = json.loads(e.body.decode("utf-8", "replace")).get("error", {}).get("message", "")
-            except Exception:
-                pass
-            raise FacebookError(f"Graph API lỗi {e.status}: {msg}") from None
+            raise _graph_error(e) from None
         d = r.json()
         return d.get("id"), d.get("name")
 

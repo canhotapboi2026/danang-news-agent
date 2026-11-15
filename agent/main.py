@@ -14,6 +14,7 @@ from .telegram import Telegram, TelegramError
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HOUR = 3600
+VERSION = "2026-11-15d"            # đổi mỗi lần sửa code: nhìn dòng "Bắt đầu" trong log để biết GitHub đang chạy bản nào
 FB_PAUSE_KEY = "fb_auth_pause"      # mốc thời gian lần Facebook từ chối token (lưu trong state["fail"])
 
 
@@ -26,7 +27,8 @@ class Ctx:
         self.stats = {k: 0 for k in (
             "sources_ok", "sources_error", "processed", "blocked", "off_topic", "duplicates", "unresolved",
             "no_image", "too_short", "errors", "sent_for_review", "auto_posted", "queued",
-            "posted", "dry_posted", "rejected", "expired", "video_frame", "card_media", "queue_full")}
+            "posted", "dry_posted", "rejected", "expired", "video_frame", "card_media", "queue_full",
+            "link_queued", "link_review")}
 
 
 def load_config(path):
@@ -201,7 +203,8 @@ def housekeeping(ctx):
             ctx.stats["expired"] += 1
             if d.get("tg_msg_id"):
                 ctx.tg.clear_buttons(d["tg_msg_id"])
-        elif d["status"] == "queued" and age_h > ctx.s.get("queue_ttl_hours", 5):
+        elif d["status"] == "queued" and age_h > (ctx.s.get("manual_ttl_hours", 12) if d.get("manual")
+                                                   else ctx.s.get("queue_ttl_hours", 5)):
             d["status"] = "expired"
             ctx.stats["expired"] += 1
 
@@ -214,10 +217,54 @@ def publish_queued(ctx):
     if ctx.now - ctx.state["fail"].get(FB_PAUSE_KEY, 0) < ctx.s.get("fb_pause_hours", 3) * HOUR:
         return          # đang tạm dừng vì Facebook từ chối token
     queued = sorted((d for d in ctx.state["drafts"].values() if d["status"] == "queued"),
-                    key=lambda x: (x.get("priority") != "hot", -x["created"]))
+                    key=lambda x: (not x.get("manual"), x.get("priority") != "hot", -x["created"]))
     if queued and can_publish_now(ctx, queued[0].get("urgent")):
         d = queued[0]
         publish_draft(ctx, d, imgs=ctx.cache.get(d["id"]), auto=True)
+
+
+# ---------- ảnh + bản nháp (dùng chung cho tin từ RSS và link bạn gửi) ----------
+
+def get_media(ctx, art):
+    """Ảnh từ bài gốc; nếu không có thì chụp 1 khung hình từ video. Trả (imgs, mdesc)."""
+    s = ctx.s
+    imgs = extract.download_images(art["images"], art["url"], s["max_images"], s["min_image_bytes"])
+    mdesc = {"kind": "photo"}
+    if not imgs and art.get("videos"):
+        frame, vurl = media.frame_from_videos(art["videos"], art["url"])
+        if frame:
+            imgs, mdesc = [frame], {"kind": "frame", "video_url": vurl}
+    return imgs, mdesc
+
+
+def ensure_media(ctx, art, res, imgs, mdesc):
+    """Không có ảnh/video dùng được thì tự vẽ thẻ tin. Trả (imgs, mdesc, card_title); imgs rỗng nếu thất bại."""
+    card_title = editor.clean_text(res.get("title")) or art["title"]
+    if not imgs:
+        card = media.make_card(card_title, ctx.cfg.get("page_name", media.DEFAULT_PAGE_NAME))
+        if not card:
+            return [], mdesc, card_title
+        imgs, mdesc = [card], {"kind": "card"}
+    ctx.stats["video_frame"] += mdesc["kind"] == "frame"
+    ctx.stats["card_media"] += mdesc["kind"] == "card"
+    return imgs, mdesc, card_title
+
+
+def new_draft(ctx, art, res, imgs, mdesc, card_title, source):
+    cat = res.get("category") if res.get("category") in editor.CATEGORIES else "khac"
+    prio = res.get("priority") if res.get("priority") in ("khan", "hot", "thuong") else "thuong"
+    if cat == "khan" and prio != "khan":
+        cat = "khac"  # nhãn khẩn chỉ do priority quyết định
+    if prio == "khan":
+        cat = cat if cat != "khan" else "khac"
+    return {
+        "id": util.sha(art["url"], 8), "url": art["url"], "title": art["title"], "site": editor.source_name(ctx.cfg, art),
+        "caption": editor.final_caption(ctx.cfg, res, art),
+        "images": [i["url"] for i in imgs] if mdesc["kind"] == "photo" else [],
+        "media": mdesc, "card_title": card_title,
+        "category": cat, "priority": prio, "urgent": prio == "khan",
+        "flags": list(res["flags"]), "created": ctx.now, "status": "pending", "source": source,
+    }
 
 
 # ---------- xử lý từng tin ----------
@@ -274,12 +321,7 @@ def process_item(ctx, src, it):
         ctx.stats["duplicates"] += 1
         return
 
-    imgs = extract.download_images(art["images"], art["url"], s["max_images"], s["min_image_bytes"])
-    mdesc = {"kind": "photo"}
-    if not imgs and art.get("videos"):      # chỉ có video -> chụp 1 khung hình làm ảnh minh họa
-        frame, vurl = media.frame_from_videos(art["videos"], art["url"])
-        if frame:
-            imgs, mdesc = [frame], {"kind": "frame", "video_url": vurl}
+    imgs, mdesc = get_media(ctx, art)
 
     try:
         res = editor.edit_article(ctx.cfg, ctx.env, art, imgs)
@@ -295,32 +337,13 @@ def process_item(ctx, src, it):
         ctx.stats["duplicates"] += 1
         return
 
-    card_title = editor.clean_text(res.get("title")) or art["title"]
-    if not imgs:                            # không ảnh, không video dùng được -> tự vẽ thẻ tin
-        card = media.make_card(card_title, ctx.cfg.get("page_name", media.DEFAULT_PAGE_NAME))
-        if not card:
-            mark_light(ctx, raw_key, link, art["title"])
-            ctx.stats["no_image"] += 1      # không tạo được ảnh dự phòng
-            util.log(f"Bỏ (không có ảnh): {art['title'][:70]}")
-            return
-        imgs, mdesc = [card], {"kind": "card"}
-    ctx.stats["video_frame"] += mdesc["kind"] == "frame"
-    ctx.stats["card_media"] += mdesc["kind"] == "card"
-
-    cat = res.get("category") if res.get("category") in editor.CATEGORIES else "khac"
-    prio = res.get("priority") if res.get("priority") in ("khan", "hot", "thuong") else "thuong"
-    if cat == "khan" and prio != "khan":
-        cat = "khac"  # nhãn khẩn chỉ do priority quyết định
-    if prio == "khan":
-        cat = cat if cat != "khan" else "khac"
-    d = {
-        "id": util.sha(art["url"], 8), "url": art["url"], "title": art["title"], "site": editor.source_name(ctx.cfg, art),
-        "caption": editor.final_caption(ctx.cfg, res, art),
-        "images": [i["url"] for i in imgs] if mdesc["kind"] == "photo" else [],
-        "media": mdesc, "card_title": card_title,
-        "category": cat, "priority": prio, "urgent": prio == "khan",
-        "flags": res["flags"], "created": ctx.now, "status": "pending", "source": src["name"],
-    }
+    imgs, mdesc, card_title = ensure_media(ctx, art, res, imgs, mdesc)
+    if not imgs:                            # không tạo được ảnh dự phòng
+        mark_light(ctx, raw_key, link, art["title"])
+        ctx.stats["no_image"] += 1
+        util.log(f"Bỏ (không có ảnh): {art['title'][:70]}")
+        return
+    d = new_draft(ctx, art, res, imgs, mdesc, card_title, src["name"])
     auto = (s["publish_mode"] == "auto" and (s.get("auto_all_sources", False) or src.get("auto_ok", False))
             and not d["flags"] and (not d["urgent"] or s.get("auto_urgent", False)))
     try:
@@ -339,6 +362,114 @@ def process_item(ctx, src, it):
     dedupe.remember(ctx.state, art["url"], art["title"], art["text"], ctx.now)
     if raw_key not in ctx.state["seen"]:   # link RSS khác link chuẩn: ghi nhớ cả hai, không ghi đè bản đầy đủ
         mark_light(ctx, raw_key, link, art["title"])
+
+
+# ---------- link bài báo bạn gửi vào Telegram ----------
+
+SOCIAL_HOSTS = ("facebook.com", "fb.com", "fb.watch", "fb.me", "instagram.com", "tiktok.com", "youtube.com",
+                "youtu.be", "x.com", "twitter.com", "zalo.me", "threads.net")
+HELP_TEXT = ("📥 Gửi cho mình LINK một bài báo (tuoitre.vn, vnexpress.net, baodanang.vn...). "
+             "Mình sẽ lấy nội dung, viết lại theo mẫu Page và xếp hàng đăng. "
+             "Có thể gửi nhiều link trong một tin nhắn.")
+
+
+def _is_social(url):
+    from urllib.parse import urlparse
+    host = (urlparse(url).hostname or "").lower().removeprefix("www.")
+    return any(host == h or host.endswith("." + h) for h in SOCIAL_HOSTS)
+
+
+def process_link(ctx, url):
+    """Xử lý 1 link do bạn gửi. Mọi kết quả (kể cả lỗi) đều báo lại trên Telegram. Trả True nếu đã nhận."""
+    s = ctx.s
+    short = url if len(url) <= 80 else url[:77] + "..."
+    if _is_social(url):
+        ctx.tg.notify(f"⚠️ Chưa hỗ trợ link mạng xã hội: {short}\n"
+                      f"Facebook/TikTok chặn máy chủ tự đọc nội dung. Hãy gửi link bài báo gốc nếu có.")
+        return False
+    if not util.is_safe_url(url):
+        ctx.tg.notify(f"⚠️ Link không hợp lệ hoặc không an toàn: {short}")
+        return False
+    link = url
+    if "news.google.com" in url:
+        link = feeds.google_news_real_url(url)
+        if not link:
+            ctx.tg.notify(f"⚠️ Không giải mã được link Google News: {short}. Hãy gửi link của chính trang báo.")
+            return False
+    try:
+        art = extract.fetch_article(link)
+    except Exception as e:
+        ctx.tg.notify(f"❌ Không tải được bài: {short} ({type(e).__name__}). Trang có thể chặn hoặc link bị lỗi.")
+        return False
+    old = ctx.state["drafts"].get(util.sha(art["url"], 8))
+    if old and old["status"] in ("pending", "queued", "posted", "posted_dry"):
+        ctx.tg.notify(f"ℹ️ Bài này đã có rồi (trạng thái: {old['status']}): {art['title'][:80]}")
+        return False
+    if len(art["text"]) < s["min_text_chars"]:
+        ctx.tg.notify(f"⚠️ Bài quá ngắn hoặc bị chặn (có thể cần đăng nhập/trả phí), không lấy được nội dung: {short}")
+        return False
+    dup, why = dedupe.check(ctx.state, art["url"], art["title"], art["text"], ctx.now)
+    if dup:
+        ctx.tg.notify(f"ℹ️ Bỏ vì trùng tin đã có ({why}): {art['title'][:80]}")
+        return False
+
+    imgs, mdesc = get_media(ctx, art)
+    try:
+        res = editor.edit_article(ctx.cfg, ctx.env, art, imgs)
+    except Exception as e:
+        ctx.tg.notify(f"❌ AI biên tập lỗi ({type(e).__name__}): {art['title'][:80]}. Gửi lại link sau ít phút.")
+        return False
+    if res.get("relevant") is False:
+        res["flags"].append("AI thấy bài có thể không liên quan Đà Nẵng")
+    imgs, mdesc, card_title = ensure_media(ctx, art, res, imgs, mdesc)
+    if not imgs:
+        ctx.tg.notify(f"❌ Không tạo được ảnh cho bài: {art['title'][:80]}")
+        return False
+    d = new_draft(ctx, art, res, imgs, mdesc, card_title, "Link Telegram")
+    d["manual"] = True
+
+    # Chế độ auto: xếp hàng (đăng theo giãn cách). Có cảnh báo hoặc tin KHẨN thì chờ bạn bấm duyệt.
+    queue = (s["publish_mode"] == "auto" and s.get("link_intake", "queue") == "queue"
+             and not d["flags"] and (not d["urgent"] or s.get("auto_urgent", False)))
+    try:
+        if queue:
+            d["status"] = "queued"
+            ctx.state["drafts"][d["id"]] = d
+            ctx.cache[d["id"]] = imgs
+            ctx.stats["link_queued"] += 1
+            ctx.tg.notify(f"✅ Đã nhận link, xếp hàng đăng (ưu tiên trước tin tự quét; vẫn tuân thủ giãn cách "
+                          f"và giờ đăng):\n{d['caption'].splitlines()[0]}")
+        else:
+            d["tg_msg_id"] = ctx.tg.send_draft(d, imgs)
+            ctx.state["drafts"][d["id"]] = d
+            ctx.stats["link_review"] += 1
+    except TelegramError as e:
+        util.log(f"Gửi Telegram lỗi khi nhận link: {e}")
+        return False
+    dedupe.remember(ctx.state, art["url"], art["title"], art["text"], ctx.now)
+    mark_light(ctx, dedupe.url_key(link), link, art["title"])
+    return True
+
+
+def handle_inbox(ctx):
+    """Đọc tin nhắn bạn gửi cho bot (poll đã lọc đúng người). Mỗi lần chạy xử lý tối đa link_max_per_run link."""
+    limit = ctx.s.get("link_max_per_run", 5)
+    done = 0
+    for m in getattr(ctx.tg, "inbox", []):
+        if not m["urls"]:
+            ctx.tg.notify(HELP_TEXT)
+            continue
+        for url in m["urls"]:
+            if done >= limit:
+                ctx.tg.notify(f"⏳ Mỗi lần chạy chỉ xử lý {limit} link. Hãy gửi lại link này sau: "
+                              f"{url[:80]}")
+                continue
+            done += 1
+            try:
+                process_link(ctx, url)
+            except Exception as e:      # một link lỗi không được làm hỏng cả lượt chạy
+                util.log(f"Lỗi xử lý link: {type(e).__name__}: {e}")
+                ctx.stats["errors"] += 1
 
 
 def run_source(ctx, src):
@@ -372,11 +503,15 @@ def run(cfg, env, state, now=None, tg=None, fb=None, do_sources=True):
     fb = fb or Facebook(env.get("FB_PAGE_ID"), env.get("FB_PAGE_ACCESS_TOKEN"),
                         env.get("FB_GRAPH_VERSION") or "v25.0")
     ctx = Ctx(cfg, env, state, now, tg, fb)
-    util.log(f"Bắt đầu. Chế độ: {ctx.s['publish_mode']}, DRY-RUN Facebook: {ctx.dry_run}")
+    util.log(f"Bắt đầu. Bản code {VERSION}. Chế độ: {ctx.s['publish_mode']}, DRY-RUN Facebook: {ctx.dry_run}")
     try:
         handle_decisions(ctx)
     except TelegramError as e:
         util.log(f"Đọc nút bấm Telegram lỗi: {e}")
+    try:
+        handle_inbox(ctx)
+    except TelegramError as e:
+        util.log(f"Xử lý link Telegram lỗi: {e}")
     housekeeping(ctx)
     if do_sources:
         for src in cfg["sources"]:
