@@ -14,6 +14,7 @@ from .telegram import Telegram, TelegramError
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HOUR = 3600
+FB_PAUSE_KEY = "fb_auth_pause"      # mốc thời gian lần Facebook từ chối token (lưu trong state["fail"])
 
 
 class Ctx:
@@ -133,10 +134,21 @@ def publish_draft(ctx, d, imgs=None, auto=False):
     except FacebookError as e:
         d["error"] = str(e)
         util.log(f"Đăng Facebook lỗi: {e}")
+        if e.is_auth and auto:
+            # Token/quyền hỏng: thử lại cũng vô ích. Giữ tin trong hàng đợi, tạm dừng tự đăng, báo 1 lần.
+            ctx.state["fail"][FB_PAUSE_KEY] = ctx.now
+            hours = ctx.s.get("fb_pause_hours", 3)
+            ctx.tg.notify(
+                f"⛔ Facebook từ chối token, agent TẠM DỪNG tự đăng {hours} giờ (tin vẫn giữ trong hàng đợi).\n"
+                f"Chi tiết: {e}\n\nCách xử lý: (1) dán Page token vào developers.facebook.com/tools/debug/accesstoken "
+                f"xem còn hợp lệ không; (2) tạo lại Page token, cập nhật secret FB_PAGE_ACCESS_TOKEN; "
+                f"(3) chạy workflow với check_facebook = 1 để kiểm tra.")
+            return False
         ctx.tg.notify(f"❌ Đăng Facebook lỗi: {e}\nBài: {d['url']}")
         if auto:
             d["status"] = "failed"
         return False
+    ctx.state["fail"].pop(FB_PAUSE_KEY, None)       # đăng được rồi thì bỏ trạng thái tạm dừng
     d["status"], d["fb_post_id"], d["fb_link"] = "posted", pid, link
     ctx.state["posted_times"].append(ctx.now)
     dedupe.remember_caption(ctx.state, d["caption"], ctx.now)
@@ -199,6 +211,8 @@ def publish_queued(ctx):
     Ưu tiên tin HOT, sau đó tin MỚI nhất trước (tin xếp hàng lâu sẽ tự hết hạn thay vì đăng muộn)."""
     if ctx.s["publish_mode"] != "auto" or not in_active_hours(ctx):
         return
+    if ctx.now - ctx.state["fail"].get(FB_PAUSE_KEY, 0) < ctx.s.get("fb_pause_hours", 3) * HOUR:
+        return          # đang tạm dừng vì Facebook từ chối token
     queued = sorted((d for d in ctx.state["drafts"].values() if d["status"] == "queued"),
                     key=lambda x: (x.get("priority") != "hot", -x["created"]))
     if queued and can_publish_now(ctx, queued[0].get("urgent")):
@@ -300,7 +314,7 @@ def process_item(ctx, src, it):
     if prio == "khan":
         cat = cat if cat != "khan" else "khac"
     d = {
-        "id": util.sha(art["url"], 8), "url": art["url"], "title": art["title"], "site": art["site"],
+        "id": util.sha(art["url"], 8), "url": art["url"], "title": art["title"], "site": editor.source_name(ctx.cfg, art),
         "caption": editor.final_caption(ctx.cfg, res, art),
         "images": [i["url"] for i in imgs] if mdesc["kind"] == "photo" else [],
         "media": mdesc, "card_title": card_title,
