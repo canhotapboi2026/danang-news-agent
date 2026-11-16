@@ -1612,7 +1612,7 @@
    "priority": "thuong",
    "site": "Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "queued",
+   "status": "expired",
    "title": "CLB Đà Nẵng bổ nhiệm 'tướng' Lee Young-jin: Ông Lê Đức Tuấn thôi chức, ngồi ghế khác",
    "urgent": false,
    "url": "https://thanhnien.vn/clb-da-nang-bo-nhiem-tuong-lee-young-jin-ong-le-duc-tuan-thoi-chuc-ngoi-ghe-khac-185261116184059809.htm"
@@ -2626,7 +2626,7 @@
    "priority": "thuong",
    "site": "Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "queued",
+   "status": "expired",
    "title": "Phê duyệt dự án nối cao tốc với biển Quảng Ngãi",
    "urgent": false,
    "url": "https://thanhnien.vn/phe-duyet-du-an-noi-cao-toc-voi-bien-quang-ngai-185261116171809791.htm"
@@ -4346,7 +4346,7 @@
   "news.google.com/rss/articles/CBMiqwFBVV95cUxPbGlWd0U3LVctSXU1MHhsVFVoejdBTHM3NXZJbzk1VzVRWVEwaFlXamRmMC1BOGh4SXFqRWdkdHBKc0JWZXhqOGE2NEwwOXJaRTFLU2ZmNF84NnhIZk16X0dpY1ZJbzd2QU1PQmRERkprSld5QmZlRmYxcDNLWk5WZmMyUS1hbVRLaFBING1FN3MwYnlNa1AtTlVQMU1hVGs1OXZNT0NlZFdhZmM?oc=5": 1,
   "news.google.com/rss/articles/CBMirAFBVV95cUxORnNvWkhyN0trYnNTZE1PeGdDMFVZTU9iV3oxeUd5RWdLRUIxWFBUTE81TWNLWjJsNE1UcHl0d0tYV1ZGSjZ4bGwzYTZSWjFTbzVjNy1STVkteUpzTlE5bW5rVGtyeEVEUzdyelZ3U1l0QjctQUY2RFpIZW5hNWJJVjB2a2hPVjJ0d09YcWdxeDR0WndobjUtbEVCbW9oWVJNUEhBQkRBU3RvTmU4?oc=5": 1,
   "news.google.com/rss/articles/CBMirAFBVV95cUxOVVJHc3FfVEhNM25ET3BuRXNfV1J6WFBqNmJDdi1HcGptbmUzRlFtZ0hPQXRDcjRQUW9ETDRQbW9fVnE4S0tZeDFIVjItTDRaS3ZuRnZieHBWamR3ODl3WGN4SC1MTEFxR3VtMXVaTFVsdUt1ME1tYVNBVWpiZWFlZHpTNmhiZmdvX1lKYkh0eHA4a2lSRWpEM1FqZTg5T1NRUHNraWpCN0pzZ3Iy?oc=5": 1,
-  "news.google.com/rss/articles/CBMisAFBVV95cUxQSkNxcmRZamQ3NjBUX2JfdUtRUVhmcm92NEZWUk1uT3h6WFd1Q1VFQWs4ZjZwRmFaWkQwdWhFRHlrSVl6em1oNlM5NU5MV3dySGhheHBkNlg1a0xLWGE1cFBUc0hFclpyRF9TX0xLeDB2S1BlSzF4TVVTQjNpbUMzQTdxT3JLZEZyTTdrNVZYTzItUmlXX3ZPRDNydkZ5RmtnUWtZTnNtUzhpV1AtWTh2UA?oc=5": 2,
+  "news.google.com/rss/articles/CBMisAFBVV95cUxQSkNxcmRZamQ3NjBUX2JfdUtRUVhmcm92NEZWUk1uT3h6WFd1Q1VFQWs4ZjZwRmFaWkQwdWhFRHlrSVl6em1oNlM5NU5MV3dySGhheHBkNlg1a0xLWGE1cFBUc0hFclpyRF9TX0xLeDB2S1BlSzF4TVVTQjNpbUMzQTdxT3JLZEZyTTdrNVZYTzItUmlXX3ZPRDNydkZ5RmtnUWtZTnNtUzhpV1AtWTh2UA?oc=5": 3,
   "news.google.com/rss/articles/CBMiswFBVV95cUxNY043ZXRRU1owOEhtTXNDaEduemdIczBfRHpodUYyN3VBYjZWM1UtSG9FSkZXeHlyM1dsZ1RUU19Rdk9tbE1sNjBtQXJ5djhiZ0hEcDAzRmZ6OXV5dXFYUGRrQzJaRHVXS1FZWlR6MWVBZnczYkJUVk9KYzRnS2MzcFBwSksyYU5OOWJJRkVXTjZzaWdMdlhPbUk5Mm42aDMyS2c3U2Ewbm9pN0sxckRyanhoaw?oc=5": 1,
   "news.google.com/rss/articles/CBMiswFBVV95cUxPUUhvSmNRN3ZaRjhSZHRyQkNvcUhpblhldDZGeVI2b2k2R25ya1dQeGRQLU9XUzF5QzU5anJ6eHE2aVJYLWxqSjFoQ1Nla1F5WWEybHFDSmFIbE5qVWg5eEJaX1pFQU5EbE5WdEIzWGoweXJ2c1RKUFBQTzlOLXFyeHJKQ256YXNIajVIN3pEdDlDTWFPVDNBalF6eFpudW8wR3NXa0tVWVpDQkdEZ0RJOUVVYw?oc=5": 1,
   "news.google.com/rss/articles/CBMitAFBVV95cUxOUTJTbGRLbERBaC1ZU3JUeWUyTjA5Y1Zid2xtdlVsZ1cwMzBDbmJ0VzZxNjhkZzBFYVpadFNUMmFHOWtJNDVoOVh5Rlg3Uk1OTHJMYUdROExDRklsYWU0a0NJQ0Vwd245Ym9tVVBaQ0ItbkdTUjF4OTIzaWdldDNicElSZmdrcHFYNkZQWHN6TDB3U2VOcTZjbXdNLVZWejZCcFk0MTJmNkJSVzk2Ymp6SXE2aGs?oc=5": 2,
@@ -34375,6 +34375,22 @@
    ],
    "url": "https://kinhtechungkhoan.vn/xa-cua-ngo-da-nang-chuan-bi-len-phuong-dinh-hinh-do-thi-sinh-thai-ven-song-vu-gia"
   },
+  "news.google.com/rss/articles/CBMirgFBVV95cUxPd2NuazFXRGdTSk5ISG10RFl2LW1fanB1eU1GTGFBLVJKM2V0aGVPcm9TQWdtX0VvVG5jc1p6WHFJRHdZaGg3cFAyWmZkU1B6SFVSR2VjMmFLMFZCUWphckhkS1NtUlUxVUFMT1ZaRXhiVDN0MVdUMGYwTWx4akFtUEljeUNZX2l2TFFHelFGN2ZLZlhoeENVbHJsRWl6ZWp6cDFzX2hMMk5sUFp2clE?oc=5": {
+   "lead": [],
+   "t": 1794864782,
+   "title": [
+    "bao",
+    "dao",
+    "gameshow",
+    "hai",
+    "minh",
+    "nang",
+    "quang",
+    "que",
+    "tam"
+   ],
+   "url": "https://tin.skydoor.net/news/tin-truyen-hinh-gameshow-que-minh-xu-quang-den-voi-xa-dao-tam-hai-bao-da-8437135"
+  },
   "news.google.com/rss/articles/CBMirwFBVV95cUxNU2psWjV5ZjNvYWR6MHoxTnV4S3NaZFJFOVFNYnM0eXpaYTI3RTRiclphcHFydkFJelZIUW9kdTRXdGxqNk1nODJxZDZBUnVpX1RwaTdnSjB5ODRFNjV5c0dFU3ZIN2pBbU53T0w5UkhYeEx5ZXRCZWFVR1ZVSHJ5VHBCZ3J4Q2otUUdWUk5MN0hlenRwVlJUQ1diT3FKV21zN09qZmpmbjU5VUZNdDBZ?oc=5": {
    "lead": [],
    "t": 1794568270,
@@ -34509,6 +34525,27 @@
     "toan"
    ],
    "url": "https://thuonghieucongluan.com.vn/da-nang-muc-tieu-8-400-ha-sam-ngoc-linh-va-bai-toan-che-bien-sau-a341696.html"
+  },
+  "news.google.com/rss/articles/CBMisAFBVV95cUxQSkNxcmRZamQ3NjBUX2JfdUtRUVhmcm92NEZWUk1uT3h6WFd1Q1VFQWs4ZjZwRmFaWkQwdWhFRHlrSVl6em1oNlM5NU5MV3dySGhheHBkNlg1a0xLWGE1cFBUc0hFclpyRF9TX0xLeDB2S1BlSzF4TVVTQjNpbUMzQTdxT3JLZEZyTTdrNVZYTzItUmlXX3ZPRDNydkZ5RmtnUWtZTnNtUzhpV1AtWTh2UA?oc=5": {
+   "lead": [],
+   "t": 1794864782,
+   "title": [
+    "bao",
+    "cam",
+    "chat",
+    "dich",
+    "doc",
+    "moi",
+    "nang",
+    "nghiep",
+    "nha",
+    "nhiem",
+    "nong",
+    "tam",
+    "truong",
+    "xoa"
+   ],
+   "url": "https://nongnghiepmoitruong.vn/da-nang-ve-dich-xoa-nha-tam-cho-con-cua-nguoi-nhiem-chat-doc-da-cam-d841722.html"
   },
   "news.google.com/rss/articles/CBMisAFBVV95cUxQY1c4Wk5MZTdrSVVGbjFvWUNlUU1QZ0JHTUNDX01ybDFiNkRPWGM5NHhBRmg2ZmoyM1czTGEycWdMa0x4aUJoLXNORWo1UlFMTk5nYjNxT2RGYk5FdHZrYnRlYlJhbEFqenhQSFRpRDZRSGw3UHE5Nm82ZUNVdUJsWk5POVRkZTg1bnNadjNuRUlKUUVacXRzWFRCLTF0MFBIVHlGWVNHT1RmcmhNYnAwdw?oc=5": {
    "lead": [],
@@ -37626,6 +37663,24 @@
     "thuong"
    ],
    "url": "https://thanhnien.vn/benh-gan-dung-chu-quan-chi-vi-men-gan-binh-thuong-185261112092551881.htm"
+  },
+  "thanhnien.vn/benh-nguoi-gia-am-tham-tan-cong-nguoi-tre-dau-hieu-nao-can-duoc-tham-kham-ngay-185261116194743342.htm": {
+   "lead": [],
+   "t": 1794864782,
+   "title": [
+    "benh",
+    "can",
+    "cong",
+    "dau",
+    "gia",
+    "hieu",
+    "kham",
+    "nao",
+    "tan",
+    "tham",
+    "tre"
+   ],
+   "url": "https://thanhnien.vn/benh-nguoi-gia-am-tham-tan-cong-nguoi-tre-dau-hieu-nao-can-duoc-tham-kham-ngay-185261116194743342.htm"
   },
   "thanhnien.vn/benh-vien-1200-giuong-i-ach-lanh-dao-ca-mau-tiep-tuc-ra-chi-dao-185261113004642398.htm": {
    "lead": [],
@@ -41471,6 +41526,29 @@
     "toi"
    ],
    "url": "https://thanhnien.vn/cuoi-nam-ban-ron-routine-toi-gian-cho-da-dau-mun-can-nhung-gi-185261114162318513.htm"
+  },
+  "thanhnien.vn/cuu-chien-binh-mien-tay-tung-trang-tay-2-lan-tro-thanh-nong-dan-viet-nam-xuat-sac-18526111616160349.htm": {
+   "lead": [],
+   "t": 1794864782,
+   "title": [
+    "2",
+    "binh",
+    "chien",
+    "cuu",
+    "dan",
+    "lan",
+    "mien",
+    "nong",
+    "sac",
+    "tay",
+    "thanh",
+    "trang",
+    "tro",
+    "tung",
+    "viet",
+    "xuat"
+   ],
+   "url": "https://thanhnien.vn/cuu-chien-binh-mien-tay-tung-trang-tay-2-lan-tro-thanh-nong-dan-viet-nam-xuat-sac-18526111616160349.htm"
   },
   "thanhnien.vn/cuu-chien-binh-mien-tay-tung-trang-tay-thanh-nong-dan-viet-nam-xuat-sac-185261113162626743.htm": {
    "lead": [],
@@ -47199,6 +47277,25 @@
     "van"
    ],
    "url": "https://thanhnien.vn/khong-thua-can-van-bi-cholesterol-cao-3-nguyen-nhan-it-ngo-185261115174445293.htm"
+  },
+  "thanhnien.vn/khu-dat-trong-tren-duong-vo-van-kiet-lot-xac-thanh-hoa-vien-3000-m-185261115212944233.htm": {
+   "lead": [],
+   "t": 1794864782,
+   "title": [
+    "000",
+    "3",
+    "dat",
+    "duong",
+    "hoa",
+    "khu",
+    "kiet",
+    "lot",
+    "thanh",
+    "van",
+    "vien",
+    "xac"
+   ],
+   "url": "https://thanhnien.vn/khu-dat-trong-tren-duong-vo-van-kiet-lot-xac-thanh-hoa-vien-3000-m-185261115212944233.htm"
   },
   "thanhnien.vn/khu-dat-vang-duong-le-loi-thanh-pho-hue-duoc-ban-dau-gia-bao-nhieu-tien-185261114101902334.htm": {
    "lead": [],
@@ -57755,6 +57852,24 @@
     "trao"
    ],
    "url": "https://thanhnien.vn/trao-luu-di-tu-online-gay-tranh-cai-nguoi-choi-lam-gi-trong-nha-tu-ao-185261112155924951.htm"
+  },
+  "thanhnien.vn/trao-luu-dung-ai-tao-anh-nu-than-de-bi-gia-danh-tinh-tao-anh-nhay-cam-185261116174545525.htm": {
+   "lead": [],
+   "t": 1794864782,
+   "title": [
+    "anh",
+    "cam",
+    "danh",
+    "dung",
+    "gia",
+    "luu",
+    "nhay",
+    "tao",
+    "than",
+    "tinh",
+    "trao"
+   ],
+   "url": "https://thanhnien.vn/trao-luu-dung-ai-tao-anh-nu-than-de-bi-gia-danh-tinh-tao-anh-nhay-cam-185261116174545525.htm"
   },
   "thanhnien.vn/traphaco-chu-trong-danh-gia-nang-luc-kiem-nghiem-thong-qua-chuong-trinh-thu-nghiem-thanh-thao-185261113163546497.htm": {
    "lead": [],
