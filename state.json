@@ -2136,7 +2136,7 @@
    "priority": "thuong",
    "site": "Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 600,
    "title": "Tài xế xe công nghệ âm thầm bám theo khách, kịp cứu người trên cầu Thuận Phước",
    "urgent": false,
@@ -6112,7 +6112,7 @@
    "priority": "thuong",
    "site": "Tuổi Trẻ",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 591,
    "title": "Chiêm ngưỡng những bảo vật ngàn năm ở Đà Nẵng",
    "urgent": false,
@@ -33753,6 +33753,24 @@
    ],
    "url": "https://dantri.com.vn/tam-long-nhan-ai/cham-lo-doi-song-nhan-dan-va-hanh-trinh-nhan-ai-o-dien-bien-20261117091147255.htm"
   },
+  "dantri.com.vn/tam-long-nhan-ai/chi-chong-mu-loa-cung-em-dau-benh-tat-xuc-dong-sap-co-nha-moi-20261119173334042.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "benh",
+    "chi",
+    "chong",
+    "dau",
+    "dong",
+    "loa",
+    "moi",
+    "nha",
+    "sap",
+    "tat",
+    "xuc"
+   ],
+   "url": "https://dantri.com.vn/tam-long-nhan-ai/chi-chong-mu-loa-cung-em-dau-benh-tat-xuc-dong-sap-co-nha-moi-20261119173334042.htm"
+  },
   "dantri.com.vn/tam-long-nhan-ai/chi-khong-di-gat-thi-khong-co-gi-ma-an-dau-20261112170008009.htm": {
    "lead": [],
    "t": 1794968545,
@@ -45668,6 +45686,19 @@
     "toi"
    ],
    "url": "https://dantri.com.vn/tinh-yeu-gioi-tinh/ham-lay-chong-giau-toi-muon-bo-cua-chay-lay-nguoi-ngay-dem-tan-hon-20261115142941363.htm"
+  },
+  "dantri.com.vn/tinh-yeu-gioi-tinh/lo-co-thai-sau-tinh-mot-dem-co-nen-im-lang-de-chong-nuoi-con-tu-hu-20261119150938458.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "chong",
+    "dem",
+    "lang",
+    "nuoi",
+    "thai",
+    "tinh"
+   ],
+   "url": "https://dantri.com.vn/tinh-yeu-gioi-tinh/lo-co-thai-sau-tinh-mot-dem-co-nen-im-lang-de-chong-nuoi-con-tu-hu-20261119150938458.htm"
   },
   "dantri.com.vn/tinh-yeu-gioi-tinh/ly-hon-roi-toi-va-chong-cu-lai-song-tinh-cam-nhu-vo-chong-son-20261111105927717.htm": {
    "lead": [],
@@ -57963,6 +57994,24 @@
    ],
    "url": "https://thanhnien.vn/bac-si-24-7-noi-soi-chup-ct-mri-khi-nao-la-thuc-su-can-thiet-185261030014310904.htm"
   },
+  "thanhnien.vn/bac-si-chi-cach-can-bang-he-vi-sinh-bao-ve-dai-trang-185261119105416817.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "bac",
+    "bang",
+    "bao",
+    "cach",
+    "can",
+    "chi",
+    "dai",
+    "duong",
+    "ruot",
+    "sinh",
+    "trang"
+   ],
+   "url": "https://thanhnien.vn/bac-si-chi-cach-can-bang-he-vi-sinh-bao-ve-dai-trang-185261119105416817.htm"
+  },
   "thanhnien.vn/bac-si-chi-cach-kiem-soat-duong-huyet-qua-bua-com-nha-185261113142806155.htm": {
    "lead": [],
    "t": 1794614994,
@@ -61146,6 +61195,30 @@
    ],
    "url": "https://thanhnien.vn/chang-trai-gianh-giai-nhat-tu-do-an-ve-toa-nha-cao-240-m-185261113194102645.htm"
   },
+  "thanhnien.vn/chang-trai-khmer-ngheo-hoc-het-lop-3-tro-thanh-ong-chu-trai-tom-lai-9-ti-dong-moi-nam-185261118154104014.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "3",
+    "9",
+    "chang",
+    "chu",
+    "dong",
+    "het",
+    "hoc",
+    "khmer",
+    "lai",
+    "lop",
+    "moi",
+    "ngheo",
+    "ong",
+    "thanh",
+    "tom",
+    "trai",
+    "tro"
+   ],
+   "url": "https://thanhnien.vn/chang-trai-khmer-ngheo-hoc-het-lop-3-tro-thanh-ong-chu-trai-tom-lai-9-ti-dong-moi-nam-185261118154104014.htm"
+  },
   "thanhnien.vn/chang-trai-mang-vali-dung-huy-chuong-len-nhan-bang-tot-nghiep-ai-cung-tram-tro-18526111500514421.htm": {
    "lead": [],
    "t": 1794731118,
@@ -63303,6 +63376,25 @@
     "tat"
    ],
    "url": "https://thanhnien.vn/cong-an-tphcm-bat-nhanh-nghi-pham-cuop-giat-278-to-ve-so-cua-nguoi-khuyet-tat-185261117173713458.htm"
+  },
+  "thanhnien.vn/cong-an-tphcm-canh-bao-sai-lam-de-gay-chay-no-khi-dung-binh-gas-mini-185261119203428554.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "bao",
+    "binh",
+    "canh",
+    "chay",
+    "cong",
+    "dung",
+    "gas",
+    "gay",
+    "hcm",
+    "lam",
+    "mini",
+    "sai"
+   ],
+   "url": "https://thanhnien.vn/cong-an-tphcm-canh-bao-sai-lam-de-gay-chay-no-khi-dung-binh-gas-mini-185261119203428554.htm"
   },
   "thanhnien.vn/cong-an-tphcm-dieu-tra-vu-phat-hien-thi-the-tai-khu-dat-trong-hem-vo-van-van-185261112010812053.htm": {
    "lead": [],
@@ -69588,6 +69680,24 @@
    ],
    "url": "https://thanhnien.vn/hai-tram-bot-noi-hai-phong-quang-ninh-dung-thu-phi-185261117155426192.htm"
   },
+  "thanhnien.vn/han-muc-giao-dat-nong-nghiep-moi-nhat-o-dong-nai-ra-sao-185261119213111349.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "dat",
+    "dong",
+    "giao",
+    "han",
+    "moi",
+    "muc",
+    "nai",
+    "nghiep",
+    "nhat",
+    "nong",
+    "sao"
+   ],
+   "url": "https://thanhnien.vn/han-muc-giao-dat-nong-nghiep-moi-nhat-o-dong-nai-ra-sao-185261119213111349.htm"
+  },
   "thanhnien.vn/han-quoc-kiem-tra-kinh-deo-mat-cua-thi-sinh-thi-dai-hoc-185261116110151435.htm": {
    "lead": [],
    "t": 1794807037,
@@ -72273,6 +72383,25 @@
     "vietlott"
    ],
    "url": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-1911-2-nguoi-cung-trung-jackpot-2-185261119185926134.htm"
+  },
+  "thanhnien.vn/ket-xe-cua-ngo-tay-bac-tphcm-linh-hoat-cho-ngay-thao-rao-chan-metro-so-2-185261119194351392.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "2",
+    "bac",
+    "chan",
+    "hcm",
+    "hoat",
+    "ket",
+    "linh",
+    "metro",
+    "ngo",
+    "rao",
+    "tay",
+    "thao"
+   ],
+   "url": "https://thanhnien.vn/ket-xe-cua-ngo-tay-bac-tphcm-linh-hoat-cho-ngay-thao-rao-chan-metro-so-2-185261119194351392.htm"
   },
   "thanhnien.vn/khai-hoan-prime-can-canh-tieu-chuan-ban-giao-cua-can-ho-ven-song-sap-ve-dich-185261115181254792.htm": {
    "lead": [],
@@ -75093,6 +75222,25 @@
     "trang"
    ],
    "url": "https://thanhnien.vn/meta-bat-ngo-khai-tu-tinh-nang-nhieu-trang-ca-nhan-tren-facebook-185261114130124583.htm"
+  },
+  "thanhnien.vn/metro-so-1-tphcm-ngay-cang-dong-khach-cao-diem-sang-gan-800-nguoi-chuyen-185261119211412489.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "1",
+    "800",
+    "cang",
+    "cao",
+    "chuyen",
+    "diem",
+    "dong",
+    "gan",
+    "hcm",
+    "khach",
+    "metro",
+    "sang"
+   ],
+   "url": "https://thanhnien.vn/metro-so-1-tphcm-ngay-cang-dong-khach-cao-diem-sang-gan-800-nguoi-chuyen-185261119211412489.htm"
   },
   "thanhnien.vn/mi-vit-tiem-25000-dong-o-tphcm-chu-quan-tung-dong-cua-3-quan-an-185261113111014402.htm": {
    "lead": [],
@@ -82363,6 +82511,22 @@
    ],
    "url": "https://thanhnien.vn/spacex-lan-dau-bat-thanh-cong-tau-starship-tro-ve-tu-khong-gian-185261115064900298.htm"
   },
+  "thanhnien.vn/su-co-tai-nsa-lam-gian-doan-hoat-dong-tinh-bao-ve-trung-dong-185261119205733136.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "bao",
+    "doan",
+    "dong",
+    "gian",
+    "hoat",
+    "lam",
+    "nsa",
+    "tinh",
+    "trung"
+   ],
+   "url": "https://thanhnien.vn/su-co-tai-nsa-lam-gian-doan-hoat-dong-tinh-bao-ve-trung-dong-185261119205733136.htm"
+  },
   "thanhnien.vn/sua-doi-quy-che-tuyen-sinh-dh-nam-2027-diem-cong-toi-da-la-05-18526111309502411.htm": {
    "lead": [],
    "t": 1794540122,
@@ -87672,6 +87836,23 @@
    ],
    "url": "https://thanhnien.vn/truong-dh-bach-khoa-tphcm-gianh-chuc-vo-dich-sau-chien-thang-kich-tinh-18526111917511399.htm"
   },
+  "thanhnien.vn/truong-dh-bach-khoa-tphcm-xuat-sac-lap-hat-trick-vo-dich-185261119211612502.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "bach",
+    "dich",
+    "hat",
+    "hcm",
+    "khoa",
+    "lap",
+    "sac",
+    "trick",
+    "truong",
+    "xuat"
+   ],
+   "url": "https://thanhnien.vn/truong-dh-bach-khoa-tphcm-xuat-sac-lap-hat-trick-vo-dich-185261119211612502.htm"
+  },
   "thanhnien.vn/truong-dh-cuu-long-hop-tac-voi-hon-54-benh-vien-trong-ca-nuoc-185261116154505839.htm": {
    "lead": [],
    "t": 1794823399,
@@ -88290,6 +88471,30 @@
     "tuan"
    ],
    "url": "https://thanhnien.vn/tuan-tran-lam-dieu-dac-biet-cho-phuong-anh-dao-truoc-khi-doi-dau-tai-phong-ve-18526111612072353.htm"
+  },
+  "thanhnien.vn/tung-duoc-day-mien-phi-thay-giao-tre-lam-dieu-dac-biet-cho-nhung-hoc-tro-co-hoan-canh-giong-minh-185261119172155677.htm": {
+   "lead": [],
+   "t": 1795126930,
+   "title": [
+    "biet",
+    "canh",
+    "dac",
+    "day",
+    "dieu",
+    "giao",
+    "giong",
+    "hoan",
+    "hoc",
+    "lam",
+    "mien",
+    "minh",
+    "phi",
+    "thay",
+    "tre",
+    "tro",
+    "tung"
+   ],
+   "url": "https://thanhnien.vn/tung-duoc-day-mien-phi-thay-giao-tre-lam-dieu-dac-biet-cho-nhung-hoc-tro-co-hoan-canh-giong-minh-185261119172155677.htm"
   },
   "thanhnien.vn/tuong-dap-mask-cang-lau-da-cang-dep-hoa-ra-chi-em-dang-rut-can-do-am-185261118093820604.htm": {
    "lead": [],
