@@ -1427,7 +1427,7 @@
    "priority": "thuong",
    "site": "Dân trí",
    "source": "Dân trí - Trang chủ",
-   "status": "queued",
+   "status": "expired",
    "title": "Phát hiện 2 tấm bia có khắc tên liệt sĩ “Tô Ng... Lang, Nguyễn Gia”",
    "urgent": false,
    "url": "https://dantri.com.vn/noi-vu/phat-hien-2-tam-bia-co-khac-ten-liet-si-to-ng-lang-nguyen-gia-20261119174028510.htm"
@@ -1681,6 +1681,29 @@
    "title": "Đà Nẵng: Khu dân cư Khánh Sơn 3 mừng Ngày Hội Đại đoàn kết - Ngày Văn hóa Việt Nam",
    "urgent": false,
    "url": "https://vanhoavaphattrien.vn/da-nang-khu-dan-cu-khanh-son-3-mung-ngay-hoi-dai-doan-ket-ngay-van-hoa-viet-nam-a35873.html"
+  },
+  "497e6f8d": {
+   "caption": "⚖️ BỘ CHỈ HUY QUÂN SỰ ĐÀ NẴNG ĐỔI MỚI CÁCH TUYÊN TRUYỀN PHÁP LUẬT ĐẾN NGƯỜI DÂN\n\nBộ Chỉ huy Quân sự thành phố Đà Nẵng đang tích cực đổi mới các hoạt động tuyên truyền và phổ biến giáo dục pháp luật đến tận các thôn bản, trường học trên địa bàn. Thay vì những buổi lý thuyết khô khan, lực lượng quân sự đã lồng ghép các kiến thức về Luật Trẻ em, Luật Nghĩa vụ quân sự hay Luật Hôn nhân và Gia đình qua hoạt động đố vui, phát tờ rơi, xe loa lưu động và ứng dụng mã QR tra cứu. Những cách làm trực quan này giúp bà con cùng các em học sinh dễ nắm bắt quy định để tự bảo vệ bản thân và nâng cao ý thức chấp hành. Bà con thấy các hình thức tuyên truyền gần gũi như thế này thế nào?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #PhapLuatDaNang #BoChiHuyQuanSuDaNang\nCre: Báo Pháp luật Việt Nam",
+   "card_title": "Bộ Chỉ huy Quân sự Đà Nẵng đổi mới cách tuyên truyền pháp luật đến người dân",
+   "category": "phap_luat",
+   "created": 1795120018,
+   "flags": [],
+   "id": "497e6f8d",
+   "images": [
+    "https://cdn.baophapluat.vn/w1280/uploaded/images/2026/11/19/63312c50-3654-4ec7-a91b-7e0e3b0850fe.jpg",
+    "https://cdn.baophapluat.vn/w1280/uploaded/images/2026/11/19/4507f70f-64ab-4902-b675-f06464ee4d02.jpg",
+    "https://cdn.baophapluat.vn/w1280/uploaded/images/2026/11/19/412b56f3-7064-4779-8808-10c7eae9c464.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Báo Pháp luật Việt Nam",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Bộ chỉ huy quân sự TP. Đà Nẵng: Đổi mới tuyên truyền, phổ biến, giáo dục pháp luật để củng cố “thế trận lòng dân”",
+   "urgent": false,
+   "url": "https://baophapluat.vn/bo-chi-huy-quan-su-tp-da-nang-doi-moi-tuyen-truyen-pho-bien-giao-duc-phap-luat-de-cung-co-the-tran-long-dan.html"
   },
   "4bff5cc0": {
    "caption": "🩺 ĐÀ NẴNG DỰ KIẾN LUÂN CHUYỂN BÁC SĨ VỀ HỖ TRỢ CÁC TRẠM Y TẾ XÃ\n\nNhằm giải quyết bài toán thiếu hụt nhân lực tại cơ sở, ngành y tế Đà Nẵng đang xây dựng phương án đưa bác sĩ từ các trung tâm y tế khu vực về công tác tại trạm y tế xã. Thông tin từ cuộc họp ngày 14-11 của lãnh đạo thành phố cho biết, toàn địa bàn hiện có hơn 70 trạm y tế đang thiếu bác sĩ. Việc luân chuyển nhân sự này được kỳ vọng giúp bà con vùng sâu, vùng xa thuận tiện hơn trong việc khám chữa bệnh, dự kiến cơ bản khắc phục xong trước cuối năm 2027. Song song đó, thành phố cũng chỉ đạo các sở ngành khẩn trương tháo gỡ vướng mắc về hạ tầng giao thông và chăm lo an sinh xã hội cho những vùng còn nhiều thiếu thốn. Bà con ở khu vực tuyến xã thấy giải pháp này thế nào? 🩺\n\n#DaNang #YTeDaNang #TramYTeXa\nCre: TUOI TRE ONLINE",
@@ -6162,7 +6185,7 @@
    "priority": "thuong",
    "site": "Tuổi Trẻ",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng chính thức hủy quy hoạch dự án khu biệt thự tại bán đảo Sơn Trà",
    "urgent": false,
    "url": "https://tuoitre.vn/da-nang-chinh-thuc-huy-quy-hoach-du-an-khu-biet-thu-tai-ban-dao-son-tra-10026111916590273.htm"
@@ -11203,6 +11226,75 @@
     "trung"
    ],
    "url": "https://baodautu.vn/da-nang-tap-trung-thao-go-cac-diem-nghen-ve-chuyen-doi-so-d743066.html"
+  },
+  "baophapluat.vn/bo-chi-huy-quan-su-tp-da-nang-doi-moi-tuyen-truyen-pho-bien-giao-duc-phap-luat-de-cung-co-the-tran-long-dan.html": {
+   "lead": [
+    "buoi",
+    "chi",
+    "chqs",
+    "chuc",
+    "cot",
+    "dan",
+    "dang",
+    "dien",
+    "dinh",
+    "dua",
+    "gia",
+    "giang",
+    "hinh",
+    "hoc",
+    "hon",
+    "huy",
+    "loi",
+    "luat",
+    "nang",
+    "nghia",
+    "nhan",
+    "noi",
+    "phap",
+    "pho",
+    "quan",
+    "quy",
+    "roi",
+    "soi",
+    "tan",
+    "tat",
+    "tay",
+    "thanh",
+    "thong",
+    "thuc",
+    "tieu",
+    "toc",
+    "tom",
+    "tre",
+    "tru",
+    "trung",
+    "truong",
+    "truyen",
+    "tuyen"
+   ],
+   "t": 1795120018,
+   "title": [
+    "bien",
+    "chi",
+    "dan",
+    "doi",
+    "duc",
+    "giao",
+    "huy",
+    "long",
+    "luat",
+    "moi",
+    "nang",
+    "phap",
+    "pho",
+    "quan",
+    "the",
+    "tran",
+    "truyen",
+    "tuyen"
+   ],
+   "url": "https://baophapluat.vn/bo-chi-huy-quan-su-tp-da-nang-doi-moi-tuyen-truyen-pho-bien-giao-duc-phap-luat-de-cung-co-the-tran-long-dan.html"
   },
   "baophapluat.vn/hon-3-500-ty-dong-dau-tu-ha-tang-tai-vi-tri-so-7-khu-thuong-mai-tu-do-da-nang.html": {
    "lead": [
@@ -46869,6 +46961,31 @@
    ],
    "url": "https://doanhnghiepkinhtexanh.vn/da-nang-pho-chu-tich-hdnd-thanh-pho-tran-xuan-vinh-du-ngay-hoi-dai-doan-ket-thon-lang-gach-a55945.html"
   },
+  "news.google.com/rss/articles/CBMi0AFBVV95cUxPX3VXbzdSbXQ1UzZTZGtwT2MxRmcyLWtJV2F0TUlyTkZHb1BaeExpeUtFdV9JR29FaE1haklzVVhxZUxNeGcxN09LWDFkX1JKckFmdWFadXNPak5fd2c1ZDZrSHRmMlNjRUJiQ2UtZWx3NjhRbUxwLXhRZk9uUU5keWhyU0pqMGFBZzJPZTEwNDRJYXdUOWEyX21PZGFPT3B6X0V5VE5hSnlubmtZQTJzWVY1RGh2OERHc0hHUEhjcnhXVEVXVnc3U3V4Q1E0elNj?oc=5": {
+   "lead": [],
+   "t": 1795120018,
+   "title": [
+    "bien",
+    "chi",
+    "dan",
+    "doi",
+    "duc",
+    "giao",
+    "huy",
+    "long",
+    "luat",
+    "moi",
+    "nang",
+    "phap",
+    "pho",
+    "quan",
+    "the",
+    "tran",
+    "truyen",
+    "tuyen"
+   ],
+   "url": "https://baophapluat.vn/bo-chi-huy-quan-su-tp-da-nang-doi-moi-tuyen-truyen-pho-bien-giao-duc-phap-luat-de-cung-co-the-tran-long-dan.html"
+  },
   "news.google.com/rss/articles/CBMi0wFBVV95cUxNc3ZwOG8wMHdhcnd0TWhsMEdmWjRHbmhsQS05UUJrUnlrczhFMkhXSVY4a0tKdUE2bjVWTnlOakc1ZjhqNDZ1NTl1dmE3MmhScno5TWVYMmszc3NIRWJBZnFvZXRhSU1XN21rS0x3aHpKSG1tOHpTWTV2V2s2SUM5dzVvR1NRdVcxSWR3d2U1Z3VVRTNMdzRmdmVacDlaN1R2czBNSmUtZTgwb0IwNXFCMDNZbkF3SW91WGxpSEZ2SzBubnpRVDlscXFKRTJvWER5Tzh3?oc=5": {
    "lead": [],
    "t": 1794891378,
@@ -60275,6 +60392,20 @@
     "vien"
    ],
    "url": "https://thanhnien.vn/cai-tao-cong-vien-le-thi-rieng-bao-ton-khu-chon-cat-tap-the-liet-si-ra-sao-185261112164310924.htm"
+  },
+  "thanhnien.vn/cai-to-dai-hoi-the-thao-toan-quoc-185261119202925744.htm": {
+   "lead": [],
+   "t": 1795120018,
+   "title": [
+    "cai",
+    "dai",
+    "hoi",
+    "quoc",
+    "thao",
+    "the",
+    "toan"
+   ],
+   "url": "https://thanhnien.vn/cai-to-dai-hoi-the-thao-toan-quoc-185261119202925744.htm"
   },
   "thanhnien.vn/cam-dong-hinh-anh-cac-co-giao-hang-ngay-don-be-gai-mo-coi-me-toi-truong-185261119211844821.htm": {
    "lead": [],
@@ -120992,6 +121123,25 @@
    ],
    "url": "https://tuoitre.vn/thoi-tiet-hom-nay-19-11-khong-khi-lanh-manh-lan-toi-tan-nam-trung-bo-100261118162800809.htm"
   },
+  "tuoitre.vn/thoi-tiet-hom-nay-20-11-mien-trung-du-bao-mua-xoi-xa-mien-bac-ret-100261119191424235.htm": {
+   "lead": [],
+   "t": 1795120018,
+   "title": [
+    "11",
+    "20",
+    "bac",
+    "bao",
+    "hom",
+    "mien",
+    "mua",
+    "ret",
+    "thoi",
+    "tiet",
+    "trung",
+    "xoi"
+   ],
+   "url": "https://tuoitre.vn/thoi-tiet-hom-nay-20-11-mien-trung-du-bao-mua-xoi-xa-mien-bac-ret-100261119191424235.htm"
+  },
   "tuoitre.vn/thong-diep-tren-chiec-khan-choang-tai-apec-2026-o-tham-quyen-100261119171603926.htm": {
    "lead": [],
    "t": 1795096121,
@@ -122317,6 +122467,30 @@
     "tuc"
    ],
    "url": "https://tuoitre.vn/tin-tuc-sang-19-11-phat-den-600-trieu-dong-du-an-thi-cong-khong-co-giay-phep-moi-truong-100261118230822499.htm"
+  },
+  "tuoitre.vn/tin-tuc-sang-20-11-quoc-hoi-hop-dot-2-ky-hop-thu-2-tphcm-de-xuat-ho-tro-thu-nhap-hon-2300-nguoi-100261119235147979.htm": {
+   "lead": [],
+   "t": 1795120018,
+   "title": [
+    "11",
+    "2",
+    "20",
+    "300",
+    "dot",
+    "hcm",
+    "hoi",
+    "hon",
+    "hop",
+    "nhap",
+    "quoc",
+    "sang",
+    "thu",
+    "tin",
+    "tro",
+    "tuc",
+    "xuat"
+   ],
+   "url": "https://tuoitre.vn/tin-tuc-sang-20-11-quoc-hoi-hop-dot-2-ky-hop-thu-2-tphcm-de-xuat-ho-tro-thu-nhap-hon-2300-nguoi-100261119235147979.htm"
   },
   "tuoitre.vn/tin-tuc-the-gioi-12-11-nga-noi-thoa-thuan-hoa-binh-da-gan-hon-nha-trang-canh-cao-y-dinh-dieu-tra-ong-trump-100261112054450123.htm": {
    "lead": [],
