@@ -600,7 +600,7 @@
    "priority": "thuong",
    "site": "Tuổi Trẻ",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 583,
    "title": "Tài xế kịp thời cứu người có ý định nhảy cầu Thuận Phước",
    "urgent": false,
@@ -720,7 +720,7 @@
    "priority": "thuong",
    "site": "Vietnam",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng đẩy mạnh chuẩn hóa dữ liệu, ứng dụng trí tuệ nhân tạo trong công vụ",
    "urgent": false,
    "url": "https://www.vietnam.vn/da-nang-day-manh-chuan-hoa-du-lieu-ung-dung-tri-tue-nhan-tao-trong-cong-vu"
@@ -3178,7 +3178,7 @@
    "priority": "thuong",
    "site": "Dân trí",
    "source": "Dân trí - Trang chủ",
-   "status": "queued",
+   "status": "expired",
    "title": "Tặng Bằng khen nhân viên gác chắn kịp thời ngăn nữ sinh lao vào container",
    "urgent": false,
    "url": "https://dantri.com.vn/thoi-su/tang-bang-khen-nhan-vien-gac-chan-kip-thoi-ngan-nu-sinh-lao-vao-container-20261119134257620.htm"
@@ -5896,7 +5896,7 @@
    "priority": "hot",
    "site": "Nguoiquansat",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 580,
    "title": "Đà Nẵng sắp có thêm khu đô thị sườn đồi tích hợp sân golf gần 10.000 tỷ",
    "urgent": false,
@@ -6346,7 +6346,7 @@
   "news.google.com/rss/articles/CBMivAFBVV95cUxPZVBSN2JwVEkzbDVCY3VOb21OMDJsaFhZaHJhTkJsaGYzb00tT2VlMEZMd0haemNaS0dJakVUQ0RBaGNiVHRJS2pxMW9TVzNwWXhicVhlNjh2NG4zTXQ4MkxWNXN1MHdjbG9WOGstNS1PQ2NWQ3IwRHM0OGw4SWtVTmpBbU5IdzZxaUh2MTdKTEtsZ2hIajQwdVdra0FqaUpTWmhtdDVRY2FjaVBtTENYSDR1R1YyV0lwNXhzcQ?oc=5": 1,
   "news.google.com/rss/articles/CBMivgFBVV95cUxOb3ZFWDRiT3FtdjJIZnpnYXhBWGNqVThhTURMNnVFUFpjWTVNX196RmNERnh1YXpKY2w5ak1PUm5wV0Z0bkZtWUpRa2FjVUliVUlMaHZLejJvbDIzWEhmbm16Ty1DQ3kwakRJdXViZm94Vm5JVnlkZnlwa0g2MnJOUmhEZEx3VVFDLWZEVWRfOGNBcjAzMDVaX2hsSDZDODY5SjNKUGJhSlRtaE9ZRktKWlBMNU9IZmstUnIwWWlR?oc=5": 1,
   "news.google.com/rss/articles/CBMiwAFBVV95cUxOamtvVmpRVl9mMzJHYWJSc1lkS2JlbFBkV3pKd014ZnJPc0stQnB4N1AzN0NrNXBoa1pTVnh1LXREVzlydnlIMGdIclZCUm9pQkZ5M1A1ZVNwRWFhaUU2dUEwZ2JlZV9TTmJZUmZVQm5LR0t4M2FLcFJ4OWdaMFp1UlhpWGo1Q1I3ZElFaVQzWG5kbnhNSWhqcU01dmQzWm5zV3BTeVRrakpBV0JacVc0TmI0VnFkRDZCbWttSW9LbWk?oc=5": 1,
-  "news.google.com/rss/articles/CBMiwAFBVV95cUxPcTFEdWRSMlpTcEkzb09RSHhMa0xDakVEMHBPMUZ1UUNQTmtKZTdyYXlDNm9FN1VtQ3RWRDVIOXBzQ2tfMTNOTExteDVaLVBQZ1A0WV9aQ0RHcXpDYkRqcEFwamdTX256QjZuTF9oSmZKOE9zQjdFRHNRT1lramZQNTU0RlBiT2sxZDJOTF9yUWJTZ3BoWjFjalF5aDVlOEwwSFl2MEJmLTlVdXJKMnlsaDdmU0JiZUY2ZTRSd3A5RU0?oc=5": 2,
+  "news.google.com/rss/articles/CBMiwAFBVV95cUxPcTFEdWRSMlpTcEkzb09RSHhMa0xDakVEMHBPMUZ1UUNQTmtKZTdyYXlDNm9FN1VtQ3RWRDVIOXBzQ2tfMTNOTExteDVaLVBQZ1A0WV9aQ0RHcXpDYkRqcEFwamdTX256QjZuTF9oSmZKOE9zQjdFRHNRT1lramZQNTU0RlBiT2sxZDJOTF9yUWJTZ3BoWjFjalF5aDVlOEwwSFl2MEJmLTlVdXJKMnlsaDdmU0JiZUY2ZTRSd3A5RU0?oc=5": 3,
   "news.google.com/rss/articles/CBMixAFBVV95cUxNU0M3aU5xNFVBaGxEdlRwb3gwbl9RakUxQTVKTlNnYmV3c1BDUEZOUlRpdlBpYm5aSDRYOVFCTHBGY2VEZ2QxT2NzbmhXLVlHdnAtXzlnNWRnLU5OTWM2QThicVBGR29GNEJpX0licFBYbFVHa2ZkR29TZzFaS2lHcjZMZ3BsUmFnODVPaHZXeG9kSUg5SHhYTWptT2xmbWhzR0ZpOVlxY2hkdW1EWlVra2NmRi1zWmltWWdRLWZJeTV3N0Nv?oc=5": 1,
   "news.google.com/rss/articles/CBMiyAFBVV95cUxOWDdTaEp4VG5pZF9sb2lXTHpyWXlBMVZNMEstZFd4U1Q0U2hEMlhpa0RpYUpQZXNVcExlSkpZQ1ctdk5MNjZ0ZHlrdG42WGV2TDRTUl9zS1lGVXluOWxLWGhxR3FwU2FqRjBrcGozOXJ0WklfM2x3X0VWVHRPOGpmQzhnNjItU1ZnOEJEZllNc29aR3FZTExuVEZ3OEQ4Y1M2ekx0cjFMMmg1WU8zQTdXOTNpenZVSFozSDFuZjlyeVNLcGpwZzZwSw?oc=5": 1,
   "news.google.com/rss/articles/CBMizAFBVV95cUxNajh2X2RXUUI0YVlqbjdZal8yU0xaSU1NS1NlVk96VUxwSk9GN0gyY3VSaWw2SEEzcEVpQ3dxbTQ0d1JzM0dsLS0zMkFkcnBpYlgtUjV5dzF4MjA0NXhEajV3dXkxcDR4MllpSEs1dEprbUJLTnBJWDlJdjdfZXRnRm5GTFF6RHhqTEhKT1VnY09hcEgxWDBvTWllaFlVOUZNYVlTclZiX3dhYnpBay1rU1o4ZFZ1QzlueGc1OW9TY2pkSFM4aWlxT0hmRnU?oc=5": 1,
@@ -33460,6 +33460,15 @@
    ],
    "url": "https://dantri.com.vn/tam-diem/dua-nghe-thuat-vao-doi-song-de-moi-nguoi-dan-duoc-song-cung-cai-dep-20261114164942792.htm"
   },
+  "dantri.com.vn/tam-diem/gieo-chu-trong-nguoi-20261120010144643.htm": {
+   "lead": [],
+   "t": 1795115744,
+   "title": [
+    "chu",
+    "gieo"
+   ],
+   "url": "https://dantri.com.vn/tam-diem/gieo-chu-trong-nguoi-20261120010144643.htm"
+  },
   "dantri.com.vn/tam-diem/kham-suc-khoe-toan-dan-ghi-chep-sau-ca-nghin-luot-kham-20261118003658424.htm": {
    "lead": [],
    "t": 1794968545,
@@ -41669,6 +41678,21 @@
    ],
    "url": "https://dantri.com.vn/thoi-su/muc-tieu-thong-vanh-dai-3-tphcm-cuoi-thang-11-gap-kho-vi-thieu-be-tong-nhua-20261112193809203.htm"
   },
+  "dantri.com.vn/thoi-su/nam-bo-ngay-nang-34-do-c-mua-dong-gia-tang-tu-chieu-toi-20261119194932446.htm": {
+   "lead": [],
+   "t": 1795115744,
+   "title": [
+    "34",
+    "chieu",
+    "dong",
+    "gia",
+    "mua",
+    "nang",
+    "tang",
+    "toi"
+   ],
+   "url": "https://dantri.com.vn/thoi-su/nam-bo-ngay-nang-34-do-c-mua-dong-gia-tang-tu-chieu-toi-20261119194932446.htm"
+  },
   "dantri.com.vn/thoi-su/nghien-cuu-chi-canh-cao-truong-hop-lan-dau-vuot-den-do-20261117175945307.htm": {
    "lead": [],
    "t": 1794933043,
@@ -45141,6 +45165,21 @@
     "noi"
    ],
    "url": "https://dantri.com.vn/thoi-tiet/ha-noi-va-nhieu-noi-o-mien-bac-nang-oi-truoc-khi-don-khong-khi-lanh-manh-20261115213314249.htm"
+  },
+  "dantri.com.vn/thoi-tiet/khong-khi-lanh-tang-cuong-va-lan-rong-nhieu-noi-mua-ret-20261119212922680.htm": {
+   "lead": [],
+   "t": 1795115744,
+   "title": [
+    "cuong",
+    "lan",
+    "lanh",
+    "mua",
+    "noi",
+    "ret",
+    "rong",
+    "tang"
+   ],
+   "url": "https://dantri.com.vn/thoi-tiet/khong-khi-lanh-tang-cuong-va-lan-rong-nhieu-noi-mua-ret-20261119212922680.htm"
   },
   "dantri.com.vn/thoi-tiet/mien-bac-co-noi-ret-12-do-c-ha-noi-ngay-nang-am-20261113205738034.htm": {
    "lead": [],
@@ -50014,6 +50053,20 @@
    ],
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2VQOFRVNUs2ZjBicG8wQ3hfMjl3aW9fd3VidUdYZmdFU0V3VG41bEFZMU43eERDeGN2SnN1NG8xVTRFZTJtU2ZtODJTeVAzd1k0SEdFN3lFM294SVp5LWNDd05INWlEa0VPOEExTDZPSUthVnROWlVsR2Utd2RLaXJRTXpLaksyRTktNnBCNnYxY3U2dmJoVjRhbks?oc=5"
   },
+  "news.google.com/rss/articles/CBMingFBVV95cUxNZlhnRTZib2tTa19pdTBaVkFrUHRHTVhhSUM5aE1YT0pRajJBS0hlVlVDR3lLYUVNeGlweUNwQTdqWUlHM1RyRGRmU1hubUZySzJ4TGo4d09mYUxtamdjZDVqRmlkWGJIaWdQWkxIVERDVEtwVnNnMEVsUkR2UUpLX3gxRWw4TWVEM3hpRzRnZWNkSFMtLUJjRnliUHp5dw?oc=5": {
+   "lead": [],
+   "t": 1795115744,
+   "title": [
+    "cau",
+    "dai",
+    "moi",
+    "nang",
+    "noi",
+    "song",
+    "xay"
+   ],
+   "url": "https://tin.skydoor.net/news/xa-hoi-da-nang-noi-ve-viec-xay-cau-moi-song-song-cau-cua-dai-8442265"
+  },
   "news.google.com/rss/articles/CBMingFBVV95cUxNbWdkWlFySnZUQnpva0wtM01xYmpaaVJXSlRMN2E1NXBEWW5vazlOV1ZQOFJRQktFM3NNbWdIandQZzJ2bllGd0JHdFFod1RMTjQ5SHpFY3dfdmlrZzh1Y3hCRmRheVNXM0JBdnV2SjZ6VkJuU2RyZ2thX2EzUWZlRTgwYllHa3d5dW0wWXBXckpialBudWFBWVhpcF9nQQ?oc=5": {
    "lead": [],
    "t": 1794492031,
@@ -51688,6 +51741,27 @@
     "van"
    ],
    "url": "https://www.vietnam.vn/phuong-hai-van-quang-ba-san-pham-dia-phuong-qua-phien-cho-co-tu-huong-sac-nui-rung"
+  },
+  "news.google.com/rss/articles/CBMiqAFBVV95cUxNSmE0LXJMS0RRTUJibmt0MWlTYTBYZGV4QmREX3U5WDZ4ZmpHamNlT3Z0X2x0bFpoUDRGR0pzNnBia3BSeHJMNDhWeFlHSzF5ZGQxSmUtZjVtbDJYTTZJVHBYbWVJVkcyTmlOWGVWX0o5ZjJ3MGRIMFQwRTI4aHFUR0ItZGdGYzZxaVBVNVhLYzhaUlJSdmRGaVNMN190RS1ILUIzWnJ2NWw?oc=5": {
+   "lead": [],
+   "t": 1795115744,
+   "title": [
+    "327ha",
+    "9",
+    "900",
+    "dau",
+    "dong",
+    "fili",
+    "gan",
+    "hon",
+    "khu",
+    "nang",
+    "nha",
+    "thi",
+    "tim",
+    "von"
+   ],
+   "url": "https://fili.vn/2026/11/da-nang-tim-nha-dau-tu-khu-do-thi-gan-327ha-von-hon-9900-ty-dong-4222-1516008.htm"
   },
   "news.google.com/rss/articles/CBMiqAFBVV95cUxNTTFSVDNYcC1PMTRYNkNDOHRWVmM0czJVcnk3UFpkTUVuV2I1OWtXdFVnV2g3ZndrX2ZZV3hrak11TlBmeVpELVc0eGJDM18zR25xVWM5VjNiZjBsSGMtbGtCdWVYUmxsdnVsazBtQ2RHazhsWHZndWlEVUFadmx4dUlLeTRtVy1BclI2UmYyVWlWU2RTa05IN1E0dWV2NTJHN05NOEVnSUw?oc=5": {
    "lead": [],
@@ -54473,6 +54547,26 @@
     "ubnd"
    ],
    "url": "https://cadn.com.vn/chu-tich-ubnd-tp-da-nang-nguyen-manh-hung-du-ngay-hoi-dai-doan-ket-tai-thon-phuoc-cong-post361024.html"
+  },
+  "news.google.com/rss/articles/CBMiwAFBVV95cUxPcTFEdWRSMlpTcEkzb09RSHhMa0xDakVEMHBPMUZ1UUNQTmtKZTdyYXlDNm9FN1VtQ3RWRDVIOXBzQ2tfMTNOTExteDVaLVBQZ1A0WV9aQ0RHcXpDYkRqcEFwamdTX256QjZuTF9oSmZKOE9zQjdFRHNRT1lramZQNTU0RlBiT2sxZDJOTF9yUWJTZ3BoWjFjalF5aDVlOEwwSFl2MEJmLTlVdXJKMnlsaDdmU0JiZUY2ZTRSd3A5RU0?oc=5": {
+   "lead": [],
+   "t": 1795115744,
+   "title": [
+    "chuong",
+    "day",
+    "dung",
+    "gan",
+    "giai",
+    "hieu",
+    "mtqg",
+    "nang",
+    "ngan",
+    "nhanh",
+    "qua",
+    "trinh",
+    "von"
+   ],
+   "url": "https://dantocphattrien.vietnamnet.vn/da-nang-day-nhanh-giai-ngan-von-chuong-trinh-mtqg-gan-voi-hieu-qua-su-dung-80457.html"
   },
   "news.google.com/rss/articles/CBMiwAFBVV95cUxPd1h5SDlEaHUyTmNzNm1HUERqM2F1cDFoLXlmeUJiUWRhSzBiT1NjQjRZVlpIOFFqVEdkeDFJZWZSUlRtWTZpamhkclVuaVVhMGJrTUZ3UE1qX1ZWWXhwckxVelc5TDhLbk9YcWRYajJLV01xajdVMnktZXZZbHQ3LU5PUXc3TVJ0SlpjbFNpZkNsTy02YmtxUEFKbEg5Rl9aVEI0VndnamhVX2phLTZ0TW9oZ3ItSnNDS1lHdWZmd2o?oc=5": {
    "lead": [],
@@ -57288,6 +57382,19 @@
     "tuan"
    ],
    "url": "https://thanhnien.vn/an-do-lap-luc-luong-dac-nhiem-tuan-tra-bien-gioi-tranh-chap-voi-trung-quoc-185261112093407936.htm"
+  },
+  "thanhnien.vn/an-it-ma-cholesterol-van-tang-co-the-dang-gap-van-de-gi-185261119184333747.htm": {
+   "lead": [],
+   "t": 1795115744,
+   "title": [
+    "cholesterol",
+    "dang",
+    "gap",
+    "tang",
+    "the",
+    "van"
+   ],
+   "url": "https://thanhnien.vn/an-it-ma-cholesterol-van-tang-co-the-dang-gap-van-de-gi-185261119184333747.htm"
   },
   "thanhnien.vn/an-nhieu-thit-co-thuc-su-tang-cuong-ban-linh-dan-ong-18526111214442381.htm": {
    "lead": [],
@@ -71464,6 +71571,22 @@
    ],
    "url": "https://thanhnien.vn/huyet-ap-da-on-dinh-vi-sao-van-co-nguy-co-dot-quy-185261111181501027.htm"
   },
+  "thanhnien.vn/huyet-ap-tang-vao-buoi-sang-do-luc-nao-la-tot-nhat-18526111917264534.htm": {
+   "lead": [],
+   "t": 1795115744,
+   "title": [
+    "buoi",
+    "huyet",
+    "luc",
+    "nao",
+    "nhat",
+    "sang",
+    "tang",
+    "tot",
+    "vao"
+   ],
+   "url": "https://thanhnien.vn/huyet-ap-tang-vao-buoi-sang-do-luc-nao-la-tot-nhat-18526111917264534.htm"
+  },
   "thanhnien.vn/hy-huu-ong-bay-vao-mui-mac-ket-trong-phe-quan-nguoi-dan-ong-66-tuoi-185261111182931289.htm": {
    "lead": [],
    "t": 1794409543,
@@ -71871,6 +71994,26 @@
     "vong"
    ],
    "url": "https://thanhnien.vn/kenh-hy-vong-duoc-nang-von-cai-tao-len-hon-2500-ti-dong-nguoi-dan-mong-moi-dieu-gi-18526111601540122.htm"
+  },
+  "thanhnien.vn/ket-qua-u17-world-cup-moi-nhat-argentina-thua-soc-uc-han-quoc-cung-phap-thang-de-185261120010228646.htm": {
+   "lead": [],
+   "t": 1795115744,
+   "title": [
+    "17",
+    "argentina",
+    "cup",
+    "han",
+    "ket",
+    "moi",
+    "nhat",
+    "phap",
+    "qua",
+    "quoc",
+    "soc",
+    "thua",
+    "world"
+   ],
+   "url": "https://thanhnien.vn/ket-qua-u17-world-cup-moi-nhat-argentina-thua-soc-uc-han-quoc-cung-phap-thang-de-185261120010228646.htm"
   },
   "thanhnien.vn/ket-qua-xo-so-kien-thiet-hau-giang-ngay-14112026-185261114170518093.htm": {
    "lead": [],
@@ -88649,6 +88792,20 @@
     "uoc"
    ],
    "url": "https://thanhnien.vn/uoc-mo-cua-nguoi-me-ngheo-giau-nghi-luc-185261110124237291.htm"
+  },
+  "thanhnien.vn/uong-ca-phe-ngay-khi-thuc-day-co-lam-tang-huyet-ap-185261119152921683.htm": {
+   "lead": [],
+   "t": 1795115744,
+   "title": [
+    "day",
+    "huyet",
+    "lam",
+    "phe",
+    "tang",
+    "thuc",
+    "uong"
+   ],
+   "url": "https://thanhnien.vn/uong-ca-phe-ngay-khi-thuc-day-co-lam-tang-huyet-ap-185261119152921683.htm"
   },
   "thanhnien.vn/uong-nuoc-nau-tu-re-cay-1-thang-nguoi-dan-ong-bi-ton-thuong-than-nang-185261112092421135.htm": {
    "lead": [],
