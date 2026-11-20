@@ -3681,7 +3681,7 @@
    "priority": "khan",
    "site": "Docnhanh",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 631,
    "title": "Đi soi ếch ban đêm, nhóm người dân ở Đà Nẵng bàng hoàng phát hiện bé gái sơ sinh bị bỏ rơi trong thùng xốp",
    "urgent": true,
@@ -4294,7 +4294,7 @@
    "priority": "khan",
    "site": "VTV",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 633,
    "title": "Bản tin thời tiết 19h45 - 20/11: Huế, Đà Nẵng, Quảng Ngãi là tâm mưa",
    "urgent": true,
@@ -59022,6 +59022,17 @@
    ],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN09xa2ItMVZsRzJQVEF3RWNETElrajcwd1EzMFljTEd0bzZDOURpN3NhczRPcEhaWHkwMlpSakNUNTJOYnIwanZqT05wY1JLMDRnLWthQnBJaEZIWFU4Zm5OWUN6b3lYTC1sUDFnLTAtMnhuazVPN05YWkxwdXRfM3pSVWlPMHdicGtsbmcyVUtjR2VWbXB0TWN4Z3YtVFZycEIyWk94OFpKZ2NzWi1lVmgxOW1BZw?oc=5"
   },
+  "news.google.com/rss/articles/CBMitgFBVV95cUxOM2JpenZfRC1VT0dUdUVzRllPdW1wUHY0WW56RkNLZFg1c3IxZ0RxZlNsZ0NkNGpuQ3ZxeEF6bFZvdXlFRU0wMWgxbTlQVmR2dkRDMk40Vjk4dmJEUWVNY3dENTJsS1ZvS3JwdjRGSzRvZHMtdUJ0N01DNzJGT2huR2FaUjFfYlNRSGpvMmVUWHFTQ1RDSkRtUGFnajFVdDBLbGRRMzV2RVRnUmJtcW54WmR5YXpxZw?oc=5": {
+   "lead": [],
+   "t": 1795206836,
+   "title": [
+    "anh",
+    "bao",
+    "tieng",
+    "viet"
+   ],
+   "url": "https://vietnam.vnanet.vn/vietnamese/print/lang-hoa-noi-tieng-da-nang-tat-bat-uom-mam-sac-huong-cho-tet-478190.html"
+  },
   "news.google.com/rss/articles/CBMitgFBVV95cUxQQk5oZ2twRXpvNDZwc0Z6WWwzRHZqbG1pYkMxVXl6T1JteHNjUjNYVDdrSGtvQzB4LS1YRnNIY3ZaY1pwOWNEZktFOXBpRXluOHhweFFMZDh2dllaQ2ZnbjY2VkFXdUZGSFByT183ZGtWdjgtclhHWGVXS2FHMzZEVFAzYTQ4VjllX25wSWJuRDdlVGp2U3l1UExYY3pobDJMMm1nN056cThmM2MwNzRQdUlHYWdTQQ?oc=5": {
    "lead": [],
    "t": 1794660388,
@@ -82348,6 +82359,20 @@
    ],
    "url": "https://thanhnien.vn/mai-toc-trao-di-yeu-thuong-o-lai-185261111123824387.htm"
   },
+  "thanhnien.vn/man-trinh-dien-qua-cam-cua-u17-viet-nam-185261120223954716.htm": {
+   "lead": [],
+   "t": 1795206836,
+   "title": [
+    "17",
+    "cam",
+    "dien",
+    "man",
+    "qua",
+    "trinh",
+    "viet"
+   ],
+   "url": "https://thanhnien.vn/man-trinh-dien-qua-cam-cua-u17-viet-nam-185261120223954716.htm"
+  },
   "thanhnien.vn/manh-tay-xu-ly-tieu-cuc-trong-the-thao-185261112201052074.htm": {
    "lead": [],
    "t": 1794504276,
@@ -105151,6 +105176,22 @@
     "truong"
    ],
    "url": "https://tuoitre.vn/bo-truong-noi-vu-noi-ve-noi-o-giay-to-cua-nguoi-dan-khi-chuyen-hon-40-km-dat-phu-tho-ve-ha-noi-100261113165441732.htm"
+  },
+  "tuoitre.vn/bo-truong-tai-chinh-my-van-o-lai-can-cu-quan-su-tu-sau-loi-de-doa-cua-iran-100261121010549225.htm": {
+   "lead": [],
+   "t": 1795206836,
+   "title": [
+    "can",
+    "chinh",
+    "doa",
+    "iran",
+    "lai",
+    "loi",
+    "quan",
+    "truong",
+    "van"
+   ],
+   "url": "https://tuoitre.vn/bo-truong-tai-chinh-my-van-o-lai-can-cu-quan-su-tu-sau-loi-de-doa-cua-iran-100261121010549225.htm"
   },
   "tuoitre.vn/bo-truong-vu-hai-quan-dong-tinh-han-che-tham-chi-cam-hoc-sinh-nho-tuoi-dung-ai-100261112160553896.htm": {
    "lead": [],
