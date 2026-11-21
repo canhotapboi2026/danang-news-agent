@@ -716,10 +716,31 @@
    "priority": "thuong",
    "site": "Cổng Thông tin điện tử thành phố Đà Nẵng",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Thông tin báo chí sáng 21-11-2026",
    "urgent": false,
    "url": "https://danang.gov.vn/vi/w/thong-tin-bao-chi-sang-21-11-2026"
+  },
+  "1efe372e": {
+   "caption": "🎉 NHIỀU HOẠT ĐỘNG VĂN HÓA ĐẶC SẮC TẠI NGÀY HỘI DI SẢN\n\nNhiều hoạt động ý nghĩa đang diễn ra tại Bảo tàng Đà Nẵng trong ngày 21 và 22/11 để chào mừng Ngày Di sản văn hóa Việt Nam. Sự kiện mang đến các màn trình diễn nghệ thuật truyền thống, khu vực trải nghiệm làng nghề thủ công và không gian văn hóa đậm đà bản sắc các dân tộc. Trong khuôn khổ chương trình, ban tổ chức đã tiếp nhận tổng cộng 4.115 hiện vật cùng tài liệu do người dân trao tặng. Bà con đã ghé qua không gian này để khám phá các nét đẹp truyền thống chưa.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DuLichDaNang #BaoTamDaNang\nCre: Báo Đà Nẵng",
+   "card_title": "Nhiều hoạt động văn hóa đặc sắc tại ngày hội di sản",
+   "category": "du_lich_van_hoa",
+   "created": 1795240425,
+   "flags": [],
+   "id": "1efe372e",
+   "images": [
+    "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/21/hv3(1).jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Báo Đà Nẵng",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Sôi nổi hoạt động kỷ niệm ngày Di sản văn hóa Việt Nam tại Bảo tàng Đà Nẵng",
+   "urgent": false,
+   "url": "https://baodanang.vn/soi-noi-hoat-dong-ky-niem-ngay-di-san-van-hoa-viet-nam-tai-bao-tang-da-nang-3359121.html"
   },
   "21192d77": {
    "caption": "🏗️ XÃ BÀ NÀ CHUẨN BỊ NÂNG CẤP LÊN PHƯỜNG CÙNG HÀNG LOẠT DỰ ÁN NGHÌN TỶ\n\nXã Bà Nà ở khu vực phía Tây Đà Nẵng đang chứng kiến bước chuyển mình quan trọng khi vừa tích cực chuẩn bị thành lập phường vừa đón nhận hàng loạt dự án hạ tầng lớn. Địa phương hiện có diện tích hơn 136 km2 cùng 25.464 nhân khẩu, được thành lập trên cơ sở hợp nhất hai xã Hòa Ninh và Hòa Nhơn trước đây. Với tỷ lệ dân đô thị đạt 72,74%, nơi này đã đáp ứng đủ điều kiện và được HĐND thành phố thông qua chủ trương thành lập phường. Đi cùng với đà phát triển đô thị là hàng loạt dự án công nghiệp và thương mại dịch vụ quy mô lớn được triển khai, tiêu biểu như Khu công nghiệp Hòa Ninh trị giá 6.204 tỷ đồng hay Khu công nghiệp FTZ Phú Mỹ 3 với tổng vốn 5.338 tỷ đồng. Ngoài ra, thành phố cũng đầu tư dự án khu tái định cư rộng hơn 65 ha với số vốn hơn 919,5 tỷ đồng nhằm phục vụ công tác giải phóng mặt bằng và hoàn thiện hạ tầng kỹ thuật. Theo định hướng quy hoạch đến năm 2050, địa bàn này sẽ trở thành một đô thị sinh thái hiện đại, đóng vai trò là động lực phát triển mới ở vùng Tây thành phố. Bà con khu vực này có cảm nghĩ gì trước những bước thay đổi lớn này?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang #BaNa\nCre: Tạp chí điện tử",
@@ -1308,6 +1329,31 @@
    "title": "Đà Nẵng: Huy động lực lượng tuần tra tháo gỡ bẫy động vật hoang dã tại bán đảo Sơn Trà",
    "urgent": false,
    "url": "https://daidoanket.vn/da-nang-huy-dong-luc-luong-tuan-tra-thao-go-bay-dong-vat-hoang-da-tai-ban-dao-son-tra.html"
+  },
+  "33589348": {
+   "caption": "🎭 ĐÀ NẴNG SÔI NỔI CHUỖI HOẠT ĐỘNG HƯỞNG ỨNG NGÀY VĂN HÓA VIỆT NAM TẠI THANH KHÊ\n\nNhằm tôn vinh giá trị truyền thống và hưởng ứng Ngày Văn hóa Việt Nam 24/11, địa phương Thanh Khê vừa chính thức khai mạc chuỗi sự kiện ý nghĩa dành cho cộng đồng. Chương trình mở đầu từ ngày 21/11 với nhiều điểm nhấn hấp dẫn như triển lãm ảnh tại số 503 Trần Cao Vân, không gian văn hóa số và văn hóa đọc ở số 374 Điện Biên Phủ. Cùng với đó là các cuộc thi tìm hiểu lịch sử, văn nghệ dành cho học sinh, sự kiện ra mắt tập san số về di sản địa phương và việc thành lập các câu lạc bộ bài chòi, thơ ca. Những hoạt động này không chỉ giúp lưu giữ bản sắc vùng đất miền biển mà còn lan tỏa tình yêu quê hương đến mọi lứa tuổi. Bà con ở Thanh Khê đã có dịp tham gia trải nghiệm các không gian văn hóa này chưa?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DuLichDaNang #ThanhKhe\nCre: Báo Đại Đoàn Kết",
+   "card_title": "Đà Nẵng sôi nổi chuỗi hoạt động hưởng ứng Ngày Văn hóa Việt Nam tại Thanh Khê",
+   "category": "du_lich_van_hoa",
+   "created": 1795240425,
+   "flags": [],
+   "id": "33589348",
+   "images": [
+    "https://cdn.daidoanket.vn/w1200/uploaded/images/2026/11/21/08f14bf7-49c2-4fae-9afd-a84902d678ba.jpg",
+    "https://cdn.daidoanket.vn/w1200/uploaded/images/2026/11/21/eee84be0-37ed-415d-83c8-aab1e2568ee5.jpg",
+    "https://cdn.daidoanket.vn/w1200/uploaded/images/2026/11/21/16183269-5ffd-4808-88ef-9b437bde15f3.jpg",
+    "https://cdn.daidoanket.vn/w1200/uploaded/images/2026/11/21/f539aabc-ed33-47b1-b275-c04291d2c554.jpg",
+    "https://cdn.daidoanket.vn/w1200/uploaded/images/2026/11/21/fc657646-5f8a-4c36-838e-c94872872b48.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Báo Đại Đoàn Kết",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Đà Nẵng: Nhiều hoạt động mới hưởng ứng Ngày Văn hóa Việt Nam",
+   "urgent": false,
+   "url": "https://daidoanket.vn/da-nang-nhieu-hoat-dong-moi-huong-ung-ngay-van-hoa-viet-nam.html"
   },
   "33db633a": {
    "caption": "🚨 KHẢO SÁT HIỆN TRẠNG SẠT LỞ ĐẤT PHÍA SAU TRƯỜNG HỌC TẠI TRÀ LENG\n\nChính quyền xã Trà Leng thuộc thành phố Đà Nẵng đã tiến hành kiểm tra thực địa hiện tượng sạt lở và sụt lún đất ở phía sau khu vực Trường Phổ thông dân tộc bán trú Trung học cơ sở Trà Leng. Thông tin này được ông Châu Minh Nghĩa, Chủ tịch UBND xã Trà Leng cho biết vào ngày 13/11 sau khi lực lượng chức năng đến tận nơi đánh giá tình hình. Việc khảo sát giúp địa phương chủ động đưa ra các phương án ứng phó nhằm bảo vệ an toàn cho học sinh cùng giáo viên nhà trường.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #ThoiTietDaNang #TraLeng\nCre: Báo Tin Tức",
@@ -3498,6 +3544,27 @@
    "title": "S-Race 2026 Đà Nẵng: Sức lan tỏa của dự án thể thao học đường",
    "urgent": false,
    "url": "https://tienphong.vn/s-race-2026-da-nang-suc-lan-toa-cua-du-an-the-thao-hoc-duong-post1894353.tpo"
+  },
+  "889d7a34": {
+   "caption": "✈️ TRẢI NGHIỆM CÀ PHÊ NGẮM MÁY BAY VÀ CƠ HỘI SĂN KHOẢNH KHẮC HIẾM TẠI ĐÀ NẴNG\n\nCác quán cà phê có tầm nhìn hướng ra đường băng tại các tuyến đường như Man Thiện hay Lê Duy Đỉnh đang trở thành điểm đến thư giãn ưa thích của nhiều bạn trẻ và người mê chụp ảnh ở Đà Nẵng. Không chỉ tận hưởng không gian trò chuyện chậm rãi, nhiều người còn hào hứng lưu lại khoảnh khắc những chiếc máy bay cất và hạ cánh nối tiếp nhau. Đặc biệt trong tuần qua, sự xuất hiện của dòng máy bay quân sự hiếm gặp như Tu-95 và IL-76 tại sân bay Đà Nẵng đã khiến không ít khách uống cà phê bất ngờ và thích thú ghi hình. Với góc nhìn cận cảnh từ sân thượng hay lan can, chỉ cần một chiếc điện thoại cùng sự kiên nhẫn là bà con đã có thể ghi lại những khung hình ấn tượng. Bà con ở khu vực quanh sân bay đã từng bắt gặp chiếc máy bay độc đáo nào lướt qua bầu trời chưa?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang #SanBayDaNang\nCre: Vietnam",
+   "card_title": "Trải nghiệm cà phê ngắm máy bay và cơ hội săn khoảnh khắc hiếm tại Đà Nẵng",
+   "category": "doi_song",
+   "created": 1795240425,
+   "flags": [],
+   "id": "889d7a34",
+   "images": [
+    "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/21/1795232463994_2aobordefqzsjojgtqp8jqrq5hrd4hilgabgwrdu-17952215020791191649007-219-0-1559-2560-crop-17952221036931379112138.jpeg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Vietnam",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Cà phê ngắm máy bay, bất ngờ gặp 'pháo đài bay' Tu-95",
+   "urgent": false,
+   "url": "https://www.vietnam.vn/ca-phe-ngam-may-bay-bat-ngo-gap-phao-dai-bay-tu-95"
   },
   "8d2a2200": {
    "caption": "🌧️ XUẤT HIỆN HỐ SỤT SÂU 3 MÉT SAU TRƯỜNG HỌC Ở TRÀ LENG SAU MƯA LỚN\n\nSáng ngày 13/11, chính quyền xã Trà Leng tổ chức kiểm tra thực tế khu vực phía sau Trường Phổ thông dân tộc bán trú Trung học cơ sở Trà Leng thuộc thôn Trà Dơn sau nhiều ngày mưa lớn kéo dài. Tại hiện trường, cơ quan chức năng ghi nhận một hố sụt sâu khoảng 3m kèm theo nhiều đường nứt chạy dài sang hai bên, nguy cơ tiếp tục gây sạt lở nguy hiểm. Ngôi trường này hiện có 664 học sinh cùng 71 cán bộ, giáo viên và nhân viên đang công tác. Trước tình hình vượt quá khả năng tự xử lý, UBND xã Trà Leng đang hoàn thiện báo cáo gửi lãnh đạo TP Đà Nẵng để xin phương án chỉ đạo khẩn cấp nhằm bảo đảm an toàn cho nhà trường. Bên cạnh đó, mưa lũ đợt này cũng làm sạt lở nhiều tuyến đường, buộc địa phương phải sơ tán khẩn cấp 30 hộ dân với 127 người ở khu vực nguy hiểm đến vị trí an toàn.\n\n#DaNang #TraLeng #SatLo\nCre: TUOI TRE ONLINE",
@@ -6416,7 +6483,7 @@
    "priority": "thuong",
    "site": "Báo Đà Nẵng",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "SHB Đà Nẵng - Ninh Bình: Chờ đợi màn ra mắt của ông Lee Young-jin",
    "urgent": false,
    "url": "https://baodanang.vn/shb-da-nang-ninh-binh-cho-doi-man-ra-mat-cua-ong-lee-young-jin-3359083.html"
@@ -13191,6 +13258,62 @@
    ],
    "url": "https://baodanang.vn/shb-da-nang-ninh-binh-cho-doi-man-ra-mat-cua-ong-lee-young-jin-3359083.html"
   },
+  "baodanang.vn/soi-noi-hoat-dong-ky-niem-ngay-di-san-van-hoa-viet-nam-tai-bao-tang-da-nang-3359121.html": {
+   "lead": [
+    "11",
+    "2026",
+    "21",
+    "22",
+    "23",
+    "bao",
+    "bay",
+    "bieu",
+    "chu",
+    "chuc",
+    "dien",
+    "dno",
+    "dong",
+    "gian",
+    "hai",
+    "hoa",
+    "hoat",
+    "hoi",
+    "hop",
+    "ket",
+    "mien",
+    "nang",
+    "nhan",
+    "niem",
+    "noi",
+    "phoi",
+    "quan",
+    "san",
+    "sang",
+    "tam",
+    "tang",
+    "tra",
+    "trung",
+    "ubnd",
+    "van",
+    "viet"
+   ],
+   "t": 1795240425,
+   "title": [
+    "bao",
+    "dong",
+    "hoa",
+    "hoat",
+    "nang",
+    "niem",
+    "noi",
+    "san",
+    "soi",
+    "tang",
+    "van",
+    "viet"
+   ],
+   "url": "https://baodanang.vn/soi-noi-hoat-dong-ky-niem-ngay-di-san-van-hoa-viet-nam-tai-bao-tang-da-nang-3359121.html"
+  },
   "baodanang.vn/the-thao-da-nang-ky-vong-but-pha-3358308.html": {
    "lead": [
     "1",
@@ -16074,6 +16197,74 @@
     "vet"
    ],
    "url": "https://daidoanket.vn/da-nang-nao-vet-cong-khoi-thong-dong-chay-giai-quyet-ngap-ung-khu-dan-cu.html"
+  },
+  "daidoanket.vn/da-nang-nhieu-hoat-dong-moi-huong-ung-ngay-van-hoa-viet-nam.html": {
+   "lead": [
+    "11",
+    "21",
+    "24",
+    "bien",
+    "chu",
+    "chuoi",
+    "dac",
+    "dat",
+    "day",
+    "dong",
+    "gia",
+    "gop",
+    "hao",
+    "hoa",
+    "hoat",
+    "hoi",
+    "hon",
+    "huong",
+    "khai",
+    "khe",
+    "khoi",
+    "lang",
+    "lich",
+    "mac",
+    "nang",
+    "nep",
+    "net",
+    "nham",
+    "nhip",
+    "niem",
+    "phan",
+    "pho",
+    "phuong",
+    "qua",
+    "quang",
+    "que",
+    "thanh",
+    "thong",
+    "tich",
+    "tinh",
+    "ton",
+    "tri",
+    "trung",
+    "truyen",
+    "ubnd",
+    "ung",
+    "van",
+    "viet",
+    "vinh",
+    "vung",
+    "yeu"
+   ],
+   "t": 1795240425,
+   "title": [
+    "dong",
+    "hoa",
+    "hoat",
+    "huong",
+    "moi",
+    "nang",
+    "ung",
+    "van",
+    "viet"
+   ],
+   "url": "https://daidoanket.vn/da-nang-nhieu-hoat-dong-moi-huong-ung-ngay-van-hoa-viet-nam.html"
   },
   "daidoanket.vn/da-nang-ung-dung-ai-toi-uu-van-hanh-tang-doanh-so-cho-doanh-nghiep-lu-hanh.html": {
    "lead": [
@@ -54753,6 +54944,23 @@
    ],
    "url": "https://www.vietnam.vn/da-nang-tang-toc-trang-bi-ky-nang-ai-cho-nguoi-tre"
   },
+  "news.google.com/rss/articles/CBMifkFVX3lxTFBuZzhDZXE2WDFnUHpiZjdMb3QtY3ZFbjRRT2dhZDROaU91U2lsYWEtSDdRTWpmSE1OX254MTFDN3JPdUFGR1U2cEZQZ2phcTliUUFKek8wcTVsUS1jNEd2dUJNeWtLNWg1VWJUZ2k0M1g1UnBUdGJhWV9ieklUQQ?oc=5": {
+   "lead": [],
+   "t": 1795240425,
+   "title": [
+    "95",
+    "bat",
+    "bay",
+    "dai",
+    "gap",
+    "may",
+    "ngam",
+    "ngo",
+    "phao",
+    "phe"
+   ],
+   "url": "https://www.vietnam.vn/ca-phe-ngam-may-bay-bat-ngo-gap-phao-dai-bay-tu-95"
+  },
   "news.google.com/rss/articles/CBMigAFBVV95cUxNSGRZQm16Sk13UUJBTnktSkE2V2ZOb1RSNEYxSjZIRmhnOHczMHFrY29tMmNxeUw3cVlacEY0d1hsdmRZRVhyaE9fWEJDTWx5TDltMWZtM3JPZm9sQVNBdEZLUExmSUUyRW9KWExZUTdXQTFQU1JfWHVDS1Vfa0p1OA?oc=5": {
    "lead": [],
    "t": 1795139210,
@@ -55622,6 +55830,22 @@
     "trao"
    ],
    "url": "https://nhandan.vn/to-chuc-doan-cung-can-doi-moi-hoat-dong-phong-trao-post1003925.html"
+  },
+  "news.google.com/rss/articles/CBMijwFBVV95cUxNZjd3aWdUcDZSS3Zfam5lRW5GQ0dHckFlZURYaDJVaUlKLVJscWkwSktSRTQzT1dFSWJkYkhhbXF3RkJnclo3N2E0ZnRmeC12Mkt1endHcnlDTmR0Q25EX3FzanFzTDljdk0yMnQ3WEZpZndBZ3pmdFhUay1vRVJPVlF6cGs0THBNRzFZcjMyUQ?oc=5": {
+   "lead": [],
+   "t": 1795240425,
+   "title": [
+    "dong",
+    "hoa",
+    "hoat",
+    "huong",
+    "moi",
+    "nang",
+    "ung",
+    "van",
+    "viet"
+   ],
+   "url": "https://daidoanket.vn/da-nang-nhieu-hoat-dong-moi-huong-ung-ngay-van-hoa-viet-nam.html"
   },
   "news.google.com/rss/articles/CBMijwFBVV95cUxObEVGVzJvdXlwcEVkeGlMN01leVE3X3d3UjZWTHI3S3Nmd2dEMDJ4TWtBRTFuWk54WGc1UTNlMElfa3ZiM2s3Z2g5MVp0QS1CVjRUd096UmRScXBJNFNfejc1M2JVM1BTRTkyaWlrb1VIRGl6QlpvV2lZRFcwd0hzWEM2NWNGcjlYRXMxQXlHRQ?oc=5": {
    "lead": [],
@@ -60166,6 +60390,25 @@
     "ven"
    ],
    "url": "https://kinhtechungkhoan.vn/xa-cua-ngo-da-nang-chuan-bi-len-phuong-dinh-hinh-do-thi-sinh-thai-ven-song-vu-gia"
+  },
+  "news.google.com/rss/articles/CBMirgFBVV95cUxPbHpuQ2xHNE5pcVBGSWpJTWYwQjlnaWVtdlRacTEybUFUamdlUjA0TjBoSWY3WWl0YzR2eFdCelJhZHo2SkVmVktsV0swZE1CZTdYZG1RYVJENWxCVVFzN19XVC00dnhmbGJkSjdNMEprYjJVd1hMcFdJTnpvSEg0eHB6MllfR3c2Y3pTcUZIOC1uU1E4MlExLTdwMVBNTTcxMXgxOXNZVXBSaDJpeUE?oc=5": {
+   "lead": [],
+   "t": 1795240425,
+   "title": [
+    "bao",
+    "dong",
+    "hoa",
+    "hoat",
+    "nang",
+    "niem",
+    "noi",
+    "san",
+    "soi",
+    "tang",
+    "van",
+    "viet"
+   ],
+   "url": "https://baodanang.vn/soi-noi-hoat-dong-ky-niem-ngay-di-san-van-hoa-viet-nam-tai-bao-tang-da-nang-3359121.html"
   },
   "news.google.com/rss/articles/CBMirgFBVV95cUxPd2NuazFXRGdTSk5ISG10RFl2LW1fanB1eU1GTGFBLVJKM2V0aGVPcm9TQWdtX0VvVG5jc1p6WHFJRHdZaGg3cFAyWmZkU1B6SFVSR2VjMmFLMFZCUWphckhkS1NtUlUxVUFMT1ZaRXhiVDN0MVdUMGYwTWx4akFtUEljeUNZX2l2TFFHelFGN2ZLZlhoeENVbHJsRWl6ZWp6cDFzX2hMMk5sUFp2clE?oc=5": {
    "lead": [],
@@ -145010,6 +145253,64 @@
     "vien"
    ],
    "url": "https://www.vietnam.vn/30-doi-du-giai-bong-da-s7-sinh-vien-thanh-pho-da-nang"
+  },
+  "vietnam.vn/ca-phe-ngam-may-bay-bat-ngo-gap-phao-dai-bay-tu-95": {
+   "lead": [
+    "2",
+    "95",
+    "anh",
+    "ban",
+    "bat",
+    "bay",
+    "canh",
+    "chi",
+    "chill",
+    "dai",
+    "dang",
+    "duong",
+    "gap",
+    "gio",
+    "hien",
+    "man",
+    "may",
+    "nang",
+    "neu",
+    "ngam",
+    "nghe",
+    "ngo",
+    "nhiep",
+    "nhin",
+    "phao",
+    "phat",
+    "phe",
+    "quan",
+    "san",
+    "tam",
+    "thay",
+    "thich",
+    "tin",
+    "tivi",
+    "tre",
+    "tron",
+    "van",
+    "xuan",
+    "xuat",
+    "yeu"
+   ],
+   "t": 1795240425,
+   "title": [
+    "95",
+    "bat",
+    "bay",
+    "dai",
+    "gap",
+    "may",
+    "ngam",
+    "ngo",
+    "phao",
+    "phe"
+   ],
+   "url": "https://www.vietnam.vn/ca-phe-ngam-may-bay-bat-ngo-gap-phao-dai-bay-tu-95"
   },
   "vietnam.vn/chu-dong-ung-pho-dich-benh-truyen-nhiem": {
    "lead": [
