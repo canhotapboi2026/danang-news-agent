@@ -2276,7 +2276,7 @@
    "priority": "khan",
    "site": "Vietnam",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 673,
    "title": "Cảnh báo lũ quét, sạt lở đất ngày 21/11/2026 tại TP. Huế, TP. Đà Nẵng, Quảng Ngãi, Gia Lai",
    "urgent": true,
@@ -3020,6 +3020,28 @@
    "title": "CLB Đà Nẵng bổ nhiệm 'tướng' Lee Young-jin: Ông Lê Đức Tuấn thôi chức, ngồi ghế khác",
    "urgent": false,
    "url": "https://thanhnien.vn/clb-da-nang-bo-nhiem-tuong-lee-young-jin-ong-le-duc-tuan-thoi-chuc-ngoi-ghe-khac-185261116184059809.htm"
+  },
+  "61ebfd08": {
+   "caption": "🚨 CẢNH BÁO NGUY CƠ LŨ QUÉT VÀ SẠT LỞ ĐẤT TẠI ĐÀ NẴNG CÙNG CÁC TỈNH KHU VỰC\n\nCơ quan chức năng vừa đưa ra cảnh báo khẩn về nguy cơ cao xảy ra lũ quét, sạt lở đất và sụt lún trên các sườn dốc cũng như khu vực suối nhỏ trong vòng 6 giờ tới tính từ ngày 22/11/2026. Cảnh báo này áp dụng đối với các địa phương gồm TP. Đà Nẵng, TP. Huế, Quảng Ngãi và Gia Lai do chịu ảnh hưởng từ mưa lũ hoặc dòng chảy xiết. Người dân sống ở vùng núi, khu vực ven sông suối và địa hình dốc cần hết sức chú ý theo dõi diễn biến thời tiết, chủ động triển khai các phương án an toàn để bảo vệ bản thân và gia đình.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #ThoiTietDaNang #LuQuet\nCre: Báo Lâm Đồng",
+   "card_title": "Cảnh báo nguy cơ lũ quét và sạt lở đất tại Đà Nẵng cùng các tỉnh khu vực",
+   "category": "thoi_tiet",
+   "created": 1795296300,
+   "flags": [],
+   "id": "61ebfd08",
+   "images": [
+    "https://daknong.1cdn.vn/thumbs/1200x630/2026/11/22/img_031d3bfb.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "khan",
+   "site": "Báo Lâm Đồng",
+   "source": "Google News - Đà Nẵng",
+   "status": "pending",
+   "tg_msg_id": 675,
+   "title": "Cảnh báo lũ quét, sạt lở đất ngày 22/11/2026 tại TP. Huế,...",
+   "urgent": true,
+   "url": "https://baolamdong.vn/canh-bao-lu-quet-sat-lo-dat-ngay-22112026-tai-tp-hue-tp-da-nang-quang-ngai-va-gia-lai-475239.html"
   },
   "62505beb": {
    "caption": "Giữa thời tiết mưa lớn gây sạt lở tại xã Trà Tân, lực lượng chức năng đã kịp thời hỗ trợ một sản phụ sinh con an toàn ngay trên xe cấp cứu. Chị Trần Thị M. xuất hiện dấu hiệu sinh non nên được y tế địa phương phối hợp chuyển tuyến khẩn cấp. Dù giao thông bị chia cắt, hai mẹ con đã được đưa đến cơ sở y tế để tiếp tục chăm sóc.\n\nNguồn: TUOI TRE ONLINE - https://tuoitre.vn/san-phu-sinh-non-be-gai-17kg-tren-duong-chuyen-vien-giua-luc-mua-lon-100261111180138734.htm\nẢnh: TUOI TRE ONLINE\n#DaNang #TraTan #TinTucDaNang",
@@ -15030,6 +15052,52 @@
     "trung"
    ],
    "url": "https://baodautu.vn/da-nang-tap-trung-thao-go-cac-diem-nghen-ve-chuyen-doi-so-d743066.html"
+  },
+  "baolamdong.vn/canh-bao-lu-quet-sat-lo-dat-ngay-22112026-tai-tp-hue-tp-da-nang-quang-ngai-va-gia-lai-475239.html": {
+   "lead": [
+    "6",
+    "ban",
+    "cap",
+    "dat",
+    "doc",
+    "dong",
+    "gia",
+    "gio",
+    "hoac",
+    "hue",
+    "khu",
+    "lai",
+    "lun",
+    "mua",
+    "nang",
+    "ngai",
+    "nguy",
+    "nhat",
+    "nho",
+    "quang",
+    "quet",
+    "sat",
+    "suoi",
+    "suon",
+    "sut",
+    "toi",
+    "vuc",
+    "xay",
+    "xem"
+   ],
+   "t": 1795296300,
+   "title": [
+    "11",
+    "2026",
+    "22",
+    "bao",
+    "canh",
+    "dat",
+    "hue",
+    "quet",
+    "sat"
+   ],
+   "url": "https://baolamdong.vn/canh-bao-lu-quet-sat-lo-dat-ngay-22112026-tai-tp-hue-tp-da-nang-quang-ngai-va-gia-lai-475239.html"
   },
   "baophapluat.vn/bo-chi-huy-quan-su-tp-da-nang-doi-moi-tuyen-truyen-pho-bien-giao-duc-phap-luat-de-cung-co-the-tran-long-dan.html": {
    "lead": [
@@ -65601,6 +65669,22 @@
    ],
    "url": "https://dantri.com.vn/phap-luat/lo-viec-cho-vay-nang-lai-sau-khi-kien-doi-khoan-no-hon-48-ty-dong-20261114184302435.htm"
   },
+  "news.google.com/rss/articles/CBMiuwFBVV95cUxQVktlODlaV09pNFZ6U25ob3hQOHVxQ1dwRmtlY0RFdmt5UG9XbnhnU09wWEdCaFBFT1dQZHhsdTAtbC1nWjJNV0l4cU5jcXN1d2lVVVFOWkNCOXYzU2kyX2s0U3hYOE5tSllxR2JxZUFTT1EzaHNJaVgzcElVdTUxRFZRTmk1SE9NMFJ4cG9iZ0VIVGRBeG4wXzZtaXA5N0pNUW5DU1pra0JCMy1CdVJWWlZkcUhIM3dRaVRV?oc=5": {
+   "lead": [],
+   "t": 1795296300,
+   "title": [
+    "11",
+    "2026",
+    "22",
+    "bao",
+    "canh",
+    "dat",
+    "hue",
+    "quet",
+    "sat"
+   ],
+   "url": "https://baolamdong.vn/canh-bao-lu-quet-sat-lo-dat-ngay-22112026-tai-tp-hue-tp-da-nang-quang-ngai-va-gia-lai-475239.html"
+  },
   "news.google.com/rss/articles/CBMiuwFBVV95cUxQY0ZiX2dLZklsOTE0X2RPVERNaGRNbkdiQW14dVdzVHpHbFhHQnp0dGJ5dHV1dW9LRXV0QUhtZzB5QlpZc3JkT3IzbVdOUkVGYm5sWDJ2aUhmLW91QVNLaFJ5cGpCYVVGTVhCT1QwT01sYkQ0WTY0bUZDUnV6Q2NmcGlVejR5N1lRXzVLcFR0dVg2MTRaOTBlMi10QnNLZWtCRDlKaHBXc1pWU0pkb0NhblhQdnI0VGIxYVJj?oc=5": {
    "lead": [],
    "t": 1794528026,
@@ -104425,6 +104509,21 @@
     "trinh"
    ],
    "url": "https://thanhnien.vn/tram-cap-cuu-ghe-sat-nuoi-song-hanh-trinh-muu-sinh-khap-mien-tay-185261115092217533.htm"
+  },
+  "thanhnien.vn/tran-dau-then-chot-cua-u17-viet-nam-tai-world-cup-185261121192258309.htm": {
+   "lead": [],
+   "t": 1795296300,
+   "title": [
+    "17",
+    "chot",
+    "cup",
+    "dau",
+    "then",
+    "tran",
+    "viet",
+    "world"
+   ],
+   "url": "https://thanhnien.vn/tran-dau-then-chot-cua-u17-viet-nam-tai-world-cup-185261121192258309.htm"
   },
   "thanhnien.vn/tran-phi-long-ban-1-3-tranh-muc-tren-giay-xuyen-ngay-buoi-khai-mac-trien-lam-185261115080118846.htm": {
    "lead": [],
