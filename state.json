@@ -84,7 +84,7 @@
    "priority": "thuong",
    "site": "Tuổi Trẻ",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 656,
    "title": "Đà Nẵng: Cần chủ động hạ thấp mực nước hồ để hạn chế ngập đường phố",
    "urgent": false,
@@ -1736,7 +1736,7 @@
    "priority": "thuong",
    "site": "Bongda",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Soi trận Đà Nẵng vs Ninh Bình: Chờ dấu ấn Lee Young Jin",
    "urgent": false,
    "url": "https://bongda.com.vn/soi-tran-da-nang-vs-ninh-binh-cho-dau-an-lee-young-jin-d855894.html"
@@ -2208,7 +2208,7 @@
    "priority": "hot",
    "site": "Báo Đà Nẵng",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 658,
    "title": "Xây mới khối điều trị nội trú 400 giường tại Bệnh viện Ung bướu Đà Nẵng",
    "urgent": false,
@@ -3234,6 +3234,27 @@
    "title": "Hòa Vang phát triển mô hình giáo dục công dân số và AI",
    "urgent": false,
    "url": "https://www.vietnam.vn/hoa-vang-phat-trien-mo-hinh-giao-duc-cong-dan-so-va-ai"
+  },
+  "68b0563d": {
+   "caption": "⚽ LỊCH THI ĐẤU BÓNG ĐÁ NGÀY 22/11 VỚI TRẬN ĐỌ SỨC CỦA ĐÀ NẴNG\n\nHôm nay ngày 22/11 sẽ diễn ra các trận tranh tài bóng đá sôi động, tâm điểm là cuộc đọ sức giữa Đà Nẵng và Ninh Bình trong khuôn khổ V.League lúc 18h00. Bên cạnh đó, lịch thi đấu bóng đá quốc tế cũng ghi nhận màn so tài giữa Barcelona và Villarreal lúc 20h00, cuộc chạm trán giữa Liverpool và MU ở giải Ngoại hạng Anh lúc 23h30, cùng trận đấu giữa Atalanta và Inter Milan diễn ra lúc 02h45 rạng sáng 23/11. Bà con hâm mộ bóng đá đã sẵn sàng lên lịch theo dõi tối nay chưa? ⚽\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #SuKienDaNang #VLeague\nCre: Tạp chí Bóng đá",
+   "card_title": "Lịch thi đấu bóng đá ngày 22/11 với trận đọ sức của Đà Nẵng",
+   "category": "su_kien",
+   "created": 1795301915,
+   "flags": [],
+   "id": "68b0563d",
+   "images": [
+    "https://cdn.bongdaplus.vn/assets/Media/2026/11/21/49/lich-thi-dau-bong-da-hom-nay-bongdaplus.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Tạp chí Bóng đá",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Lịch thi đấu bóng đá hôm nay (22/11): Đà Nẵng vs Ninh Bình, Barcelona gặp Villarreal, Liverpool tiếp MU",
+   "urgent": false,
+   "url": "https://bongdaplus.vn/"
   },
   "694c93c6": {
    "caption": "🌧️ KHẨN TRƯƠNG KHẮC PHỤC SẠT LỞ VÀ THÔNG TUYẾN GIAO THÔNG KHU VỰC MIỀN NÚI\n\nMưa lũ lớn những ngày qua đã gây sạt lở nghiêm trọng tại nhiều tuyến đường miền núi, làm ách tắc giao thông và ảnh hưởng lớn đến cuộc sống người dân. Tại xã Trà Leng, gần 1.800 m3 đất đá đổ xuống 7 tuyến đường, làm hư hại nặng các tuyến huyết mạch ĐH1 và ĐH2; chính quyền địa phương cùng lực lượng chức năng đã huy động nhiều xe máy chuyên dụng dọn dẹp để phấn đấu thông tuyến bước một đến hết ngày 13/11. Trong khi đó tại xã Nam Trà My, 9 điểm sạt lở với khối lượng khoảng 1.500 m3 đất đá cũng đã ảnh hưởng tới giao thông, lực lượng tại chỗ phải khẩn cấp di dời 36 hộ dân với 153 nhân khẩu đến nơi an toàn. Sáng 12/11, Bộ Chỉ huy Quân sự thành phố Đà Nẵng đã trực tiếp kiểm tra công tác ứng phó thiên tai, yêu cầu các đơn vị ven sông Thu Bồn duy trì nghiêm chế độ trực ban, sẵn sàng phương án sơ tán dân khi tình hình mưa lũ diễn biến phức tạp.\n\n#DaNang #SatLo #KhacPhucThienTai\nCre: baochinhphu.vn",
@@ -4557,6 +4578,31 @@
    "urgent": false,
    "url": "https://nguoiquansat.vn/da-nang-lap-to-cong-tac-dac-biet-thuc-tien-do-sieu-cang-2-ty-usd-nam-sat-dai-du-an-hai-van-bay-cua-vingroup-327585.html"
   },
+  "a18e254c": {
+   "caption": "🐒 CHÀNG TRAI ĐÀ NẴNG NGẮM VOỌC CHÀ VÁ CHÂN NÂU NGAY NƠI LÀM VIỆC\n\nNhiều người phảiất công lên núi tìm kiếm nhưng anh Dương Đức Khánh Hưng lại may mắn được ngắm voọc chà vá chân nâu xuất hiện đều đặn mỗi ngày ngay tại nơi làm việc là khu nghỉ dưỡng InterContinental Danang Sun Peninsula ở bán đảo Sơn Trà. Tại đây có khoảng 6 đến 8 đàn voọc với số lượng từ 4 đến 15 cá thể sinh sống tự nhiên trong khuôn viên rộng 39 ha, thường kiếm ăn vào sáng sớm từ 6 đến 8 giờ và chiều từ 16 đến 18 giờ. Những đoạn phim cận cảnh loài động vật nguy cấp thuộc Sách đỏ Việt Nam này được anh ghi lại và chia sẻ nhằm lan tỏa tình yêu thiên nhiên cũng như nhắc nhở mọi người giữ khoảng cách an toàn khi quan sát. Bà con khu vực này đã bao giờ bắt gặp những vị khách đặc biệt này ghé thăm chưa.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #NguoiDaNang #SonTra\nCre: Thanh Niên",
+   "card_title": "Chàng trai Đà Nẵng ngắm voọc chà vá chân nâu ngay nơi làm việc",
+   "category": "con_nguoi",
+   "created": 1795301915,
+   "flags": [],
+   "id": "a18e254c",
+   "images": [
+    "https://images2.thanhnien.vn/528068263637045248/2026/11/20/vooc-cha-va-chan-nau1-17951670405291186947372.jpg",
+    "https://static.mediacdn.vn/thanhnien.vn/banmuonmb2.png",
+    "https://static.mediacdn.vn/thanhnien.vn/banmuonmb3.png",
+    "https://static.mediacdn.vn/thanhnien.vn/cacnguon.png",
+    "https://images2.thanhnien.vn/zoom/205_128/528068263637045248/2026/10/10/voocquaduong-ezgifcom-video-to-gif-converter-1791614704688534848362-0-0-450-720-crop-1791614730830609801564.gif.png"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Thanh Niên",
+   "source": "Thanh Niên - Trang chủ",
+   "status": "queued",
+   "title": "Người khác lên núi tìm vọoc chà vá chân nâu, chàng trai Đà Nẵng đi làm là gặp",
+   "urgent": false,
+   "url": "https://thanhnien.vn/nguoi-khac-len-nui-tim-vooc-cha-va-chan-nau-chang-trai-da-nang-di-lam-la-gap-185261117140855565.htm"
+  },
   "a1ca4623": {
    "caption": "⚖️ THÀNH ỦY ĐÀ NẴNG THI HÀNH KỶ LUẬT KHAI TRỪ HAI NỮ ĐẢNG VIÊN VI PHẠM\n\nỦy ban Kiểm tra Thành ủy Đà Nẵng qua hai kỳ họp làm việc liên tiếp đã quyết định thi hành kỷ luật bằng hình thức khai trừ ra khỏi Đảng đối với hai nữ đảng viên có sai phạm nghiêm trọng. Cụ thể, tại kỳ họp thứ 19 dưới sự chủ trì của Chủ nhiệm Ủy ban Kiểm tra Thành ủy Trần Thắng Lợi, cơ quan này đã thống nhất khai trừ bà Đặng Thị Bích Thủy thuộc Chi bộ 40 Hòa Cường Bắc do có những vi phạm rất nghiêm trọng trong mảng tài chính, suy thoái tư tưởng đạo đức và đã bị khởi tố, bắt tạm giam. Trước đó ở kỳ họp thứ 18, đơn vị này cũng quyết định khai trừ bà Nguyễn Thị Thu Hằng thuộc Chi bộ Phòng Thi hành án dân sự khu vực 4 vì các vi phạm quy định về phòng chống tham nhũng, tiêu cực trong thực thi công vụ và đã bị xử lý tố tụng. Cả hai trường hợp trên đều được đánh giá là suy giảm tư cách và không còn đủ điều kiện đứng trong hàng ngũ của Đảng.\n\n#DaNang #KyLuatDang #TinDaNang\nCre: TUOI TRE ONLINE",
    "card_title": "Thành ủy Đà Nẵng thi hành kỷ luật khai trừ hai nữ đảng viên vi phạm",
@@ -5698,7 +5744,7 @@
    "priority": "thuong",
    "site": "Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "queued",
+   "status": "expired",
    "title": "Lịch thi đấu V-League hấp dẫn hôm nay: Tướng mới Lee Young-jin và Đà Nẵng thắng sốc Ninh Bình?",
    "urgent": false,
    "url": "https://thanhnien.vn/lich-thi-dau-v-league-hap-dan-hom-nay-tuong-moi-lee-young-jin-va-da-nang-thang-soc-ninh-binh-18526112120482408.htm"
@@ -7804,6 +7850,7 @@
   "news.google.com/rss/articles/CBMirAFBVV95cUxOVVJHc3FfVEhNM25ET3BuRXNfV1J6WFBqNmJDdi1HcGptbmUzRlFtZ0hPQXRDcjRQUW9ETDRQbW9fVnE4S0tZeDFIVjItTDRaS3ZuRnZieHBWamR3ODl3WGN4SC1MTEFxR3VtMXVaTFVsdUt1ME1tYVNBVWpiZWFlZHpTNmhiZmdvX1lKYkh0eHA4a2lSRWpEM1FqZTg5T1NRUHNraWpCN0pzZ3Iy?oc=5": 1,
   "news.google.com/rss/articles/CBMirAFBVV95cUxPOUxrVVJhbVAxUV9tbGc5NXN3S0FRSjdjUE5KREt0R0ZqQ0FWeC1FWTdHenlnRjZ2ajItZE9idGFPOEUtWmRsZjhyVzg4dmZTZGF4MkFBcnJGR1JQNkVFaXB1bmN5eXktS3lWTjVBRzVnZzFoVGFrNnVTZC0waTZvTlFTVXZNOHIxVGE1T1FzNDhfdm4tUV8tcjRjYnA2cVV1TllmOHd0MEI1UWxr?oc=5": 1,
   "news.google.com/rss/articles/CBMirwFBVV95cUxNRjU3U2t5S3ZpWThWaW84Q3lha1NXSU9jcGd4NFVvTUFnYV9IQmJBNGx2cHpaUFdMdjNJSW5mdWxseEx1aUZueXRRZWE0S2lVS0QwUHVnb1doMWFFSmRHem0tWTJDQTFXVy1scHpOajRMMURvTWxSZzVncnhJWkt6SGttOW52WlpIZHE3VnlBQXNmeTVMOHM1NlhhSy1sYWNsZ1IwYWZVQWpCRnJZOVRV?oc=5": 1,
+  "news.google.com/rss/articles/CBMirwFBVV95cUxOMFBOUjh0eGlwcXBxSnlDNm5nWW1YVGRMeUJjWFRyenZRZ0RtS3BKQWdmeHpYOUJzdEV6ai1kUUkzekNCVGQxQmo1bW9TZTd0Q3BvWEp6MEdLWW1TcGpDeE8wMWx3M1BlWnV5c3VVM2t2ZWdVZGVBS2ZsZ1hvaDdLWllMVThYNm53dDZSTU1kUUlSU3Q4VVA0c3hlMXpzQ0NQZkRyR0FQbEFFaDRjeGRR?oc=5": 1,
   "news.google.com/rss/articles/CBMirwFBVV95cUxQeVdpMTZpYVJZczh2Mkt2QUVkZC15NGU4NUktZUpFLXQwMDRqamg0Vm03b3pEWmxXX29pOTZhS2NvaXcyaFozT2xuWHJlaXQ5UEd4N3Zvd1VyOEpXRHdOcHY4eW9jWFdnX3BRN1NJTHJSMS1qLWctZ2lMNUpyTGx1WXBOY040OEMzcWExeGFKMHVoTndfSDZTWm1tcFJZZUpFM05ROGlPSWQ0eTYteU1N?oc=5": 1,
   "news.google.com/rss/articles/CBMisAFBVV95cUxQSkNxcmRZamQ3NjBUX2JfdUtRUVhmcm92NEZWUk1uT3h6WFd1Q1VFQWs4ZjZwRmFaWkQwdWhFRHlrSVl6em1oNlM5NU5MV3dySGhheHBkNlg1a0xLWGE1cFBUc0hFclpyRF9TX0xLeDB2S1BlSzF4TVVTQjNpbUMzQTdxT3JLZEZyTTdrNVZYTzItUmlXX3ZPRDNydkZ5RmtnUWtZTnNtUzhpV1AtWTh2UA?oc=5": 3,
   "news.google.com/rss/articles/CBMiswFBVV95cUxNY043ZXRRU1owOEhtTXNDaEduemdIczBfRHpodUYyN3VBYjZWM1UtSG9FSkZXeHlyM1dsZ1RUU19Rdk9tbE1sNjBtQXJ5djhiZ0hEcDAzRmZ6OXV5dXFYUGRrQzJaRHVXS1FZWlR6MWVBZnczYkJUVk9KYzRnS2MzcFBwSksyYU5OOWJJRkVXTjZzaWdMdlhPbUk5Mm42aDMyS2c3U2Ewbm9pN0sxckRyanhoaw?oc=5": 1,
@@ -16155,6 +16202,85 @@
     "young"
    ],
    "url": "https://bongda.com.vn/soi-tran-da-nang-vs-ninh-binh-cho-dau-an-lee-young-jin-d855894.html"
+  },
+  "bongdaplus.vn": {
+   "lead": [
+    "02",
+    "05",
+    "11",
+    "18h00",
+    "2020",
+    "22",
+    "48",
+    "anh",
+    "ban",
+    "bang",
+    "bien",
+    "bong",
+    "bongdaplus",
+    "btttt",
+    "cao",
+    "cap",
+    "champions",
+    "chinh",
+    "dau",
+    "dinh",
+    "doi",
+    "duc",
+    "giai",
+    "gian",
+    "giay",
+    "hang",
+    "hom",
+    "italia",
+    "kenh",
+    "khac",
+    "league",
+    "lich",
+    "nations",
+    "ngoai",
+    "nguyen",
+    "nha",
+    "nhanh",
+    "nhat",
+    "phap",
+    "phat",
+    "phep",
+    "pho",
+    "son",
+    "song",
+    "tap",
+    "tay",
+    "thanh",
+    "thi",
+    "thoi",
+    "tiep",
+    "tong",
+    "tron",
+    "truc",
+    "vdqg",
+    "ven",
+    "xac"
+   ],
+   "t": 1795301915,
+   "title": [
+    "11",
+    "22",
+    "barcelona",
+    "binh",
+    "bong",
+    "dau",
+    "gap",
+    "hom",
+    "lich",
+    "liverpool",
+    "nang",
+    "ninh",
+    "thi",
+    "tiep",
+    "villarreal"
+   ],
+   "url": "https://bongdaplus.vn/"
   },
   "cadn.com.vn/chu-tich-ubnd-tp-da-nang-nguyen-manh-hung-du-ngay-hoi-dai-doan-ket-tai-thon-phuoc-cong-post361024.html": {
    "lead": [
@@ -55196,6 +55322,26 @@
    ],
    "url": "https://dantri.com.vn/tinh-yeu-gioi-tinh/cap-ke-dai-gia-co-vo-toi-nhan-cai-ket-khong-ngo-khi-bao-tin-mang-thai-20261111201110359.htm"
   },
+  "dantri.com.vn/tinh-yeu-gioi-tinh/cho-em-chong-vay-nua-ty-dong-luc-kho-khan-toi-lai-bi-ca-nha-noi-quay-lung-20261121172813710.htm": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "chong",
+    "dong",
+    "khan",
+    "kho",
+    "lai",
+    "luc",
+    "lung",
+    "nha",
+    "noi",
+    "nua",
+    "quay",
+    "toi",
+    "vay"
+   ],
+   "url": "https://dantri.com.vn/tinh-yeu-gioi-tinh/cho-em-chong-vay-nua-ty-dong-luc-kho-khan-toi-lai-bi-ca-nha-noi-quay-lung-20261121172813710.htm"
+  },
   "dantri.com.vn/tinh-yeu-gioi-tinh/chong-co-bieu-hien-la-moi-khi-toi-dan-ban-than-ve-nha-choi-20261118160513950.htm": {
    "lead": [],
    "t": 1795041431,
@@ -55490,6 +55636,23 @@
     "tuyen"
    ],
    "url": "https://dantri.com.vn/tinh-yeu-gioi-tinh/muon-sinh-con-nhung-khong-lay-chong-toi-bi-bo-me-tuyen-bo-tu-mat-20261113232820220.htm"
+  },
+  "dantri.com.vn/tinh-yeu-gioi-tinh/nhan-tinh-doa-tu-tu-chong-bo-mac-toi-giua-tuan-trang-mat-20261120223232991.htm": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "chong",
+    "doa",
+    "giua",
+    "mac",
+    "mat",
+    "nhan",
+    "tinh",
+    "toi",
+    "trang",
+    "tuan"
+   ],
+   "url": "https://dantri.com.vn/tinh-yeu-gioi-tinh/nhan-tinh-doa-tu-tu-chong-bo-mac-toi-giua-tuan-trang-mat-20261120223232991.htm"
   },
   "dantri.com.vn/tinh-yeu-gioi-tinh/nho-me-giu-ho-2-cay-vang-3-nam-sau-toi-ta-hoa-khi-me-thu-nhan-su-that-20261119102206443.htm": {
    "lead": [],
@@ -60236,6 +60399,28 @@
     "van"
    ],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdldoLXhZTWszN1FtN1NobTdBY3BxSXJhblQ2UHlyNEtFWXNNcFkxYUx0NEVDSUFHOGN0d01oZkJHZWx4OGw2elNnejNxdDFnNDg3LWZqOTY1UVh0aGg2aEpxbTl1bEh2b2RmMko5bXZPU3RkUTNUWHJZc2dnMkZscTRISHk5WlgzVjJrczZDSDdQYnRFS1dQVg?oc=5"
+  },
+  "news.google.com/rss/articles/CBMimAFBVV95cUxORnhYem8tQWRRVlBQNE5nelp6VkNfRjRZUlF6UjZfZ19ZVEtaVWRhVm1EekxUVjV1N2RHN1F6SHdiWlRINHUtdHBYUzhiX0xCMDAzclczUWdYVjdLWG9ybTVRTC1tRTVBMFRtMWNBY3ZxajVoOHBhYkxoZ2pZZlJQdHBjcURTclZVdElTZTJJcGxvb09qS1ItTw?oc=5": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "11",
+    "22",
+    "barcelona",
+    "binh",
+    "bong",
+    "dau",
+    "gap",
+    "hom",
+    "lich",
+    "liverpool",
+    "nang",
+    "ninh",
+    "thi",
+    "tiep",
+    "villarreal"
+   ],
+   "url": "https://bongdaplus.vn/lich-thi-dau-bong-da/lich-thi-dau-bong-da-hom-nay-22-11-5296562611.html"
   },
   "news.google.com/rss/articles/CBMimAFBVV95cUxPOHF3VGlpMWlnTmtqdWUwcGxRWm9JcVBBZi1WZ0RTbWdCd2g0RjJ0UHl5aW12YWVXYkstZnZiNWYwcnNYam5BdE1oN3dzSGl5T3lWaVBOcDhhVy1VeEM2ZC1JUkxWcXBZSUxEZVpnVGhfbVZRVDdHVG9fcGdtZWFPa1EzT1BFLUExVjQ4ZXB0WU0zSkJaTF9UOQ?oc=5": {
    "lead": [],
@@ -69600,6 +69785,22 @@
    ],
    "url": "https://thanhnien.vn/86-tuoi-mat-da-mo-cu-ba-van-ngoi-ban-rau-ben-duong-o-tphcm-185261110164527812.htm"
   },
+  "thanhnien.vn/9-nguoi-cung-trung-107-ti-xo-so-mien-nam-nho-day-so-may-man-185261121155857403.htm": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "10",
+    "7",
+    "9",
+    "day",
+    "man",
+    "may",
+    "mien",
+    "nho",
+    "trung"
+   ],
+   "url": "https://thanhnien.vn/9-nguoi-cung-trung-107-ti-xo-so-mien-nam-nho-day-so-may-man-185261121155857403.htm"
+  },
   "thanhnien.vn/96-nam-ngay-truyen-thong-mttq-viet-nam-thuoc-do-cua-long-dan-185261114211559097.htm": {
    "lead": [],
    "t": 1794711654,
@@ -78628,6 +78829,25 @@
     "ung"
    ],
    "url": "https://thanhnien.vn/dau-lung-keo-dai-o-nam-gioi-khi-nao-can-canh-giac-voi-ung-thu-185261113160951409.htm"
+  },
+  "thanhnien.vn/dau-nao-du-an-chong-ngap-gan-10000-ti-dong-o-tphcm-van-hanh-ra-sao-185261121221806492.htm": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "000",
+    "10",
+    "chong",
+    "dau",
+    "dong",
+    "gan",
+    "hanh",
+    "hcm",
+    "nao",
+    "ngap",
+    "sao",
+    "van"
+   ],
+   "url": "https://thanhnien.vn/dau-nao-du-an-chong-ngap-gan-10000-ti-dong-o-tphcm-van-hanh-ra-sao-185261121221806492.htm"
   },
   "thanhnien.vn/dau-tu-lon-cho-ai-nhung-chua-doi-cach-quan-tri-doanh-nghiep-kho-tao-gia-tri-185261114100741008.htm": {
    "lead": [],
@@ -90068,6 +90288,18 @@
    ],
    "url": "https://thanhnien.vn/loi-ra-cho-cong-trinh-xay-dung-sai-phep-185261113081020091.htm"
   },
+  "thanhnien.vn/loi-ra-nao-cho-xung-dot-o-chung-cu-185261121193316371.htm": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "chung",
+    "dot",
+    "loi",
+    "nao",
+    "xung"
+   ],
+   "url": "https://thanhnien.vn/loi-ra-nao-cho-xung-dot-o-chung-cu-185261121193316371.htm"
+  },
   "thanhnien.vn/loi-vi-pham-nao-xuat-hien-nhieu-nhat-10-ngay-dau-thang-11-185261111151025111.htm": {
    "lead": [],
    "t": 1794409543,
@@ -91062,6 +91294,21 @@
     "trai"
    ],
    "url": "https://thanhnien.vn/momo-thang-lon-tai-ai-awards-2026-nho-trai-nghiem-tai-chinh-so-an-tam-an-toan-185261112140802389.htm"
+  },
+  "thanhnien.vn/mon-che-me-den-ket-hop-bach-hop-co-loi-gi-cho-suc-khoe-185261120162324769.htm": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "bach",
+    "che",
+    "hop",
+    "ket",
+    "khoe",
+    "loi",
+    "mon",
+    "suc"
+   ],
+   "url": "https://thanhnien.vn/mon-che-me-den-ket-hop-bach-hop-co-loi-gi-cho-suc-khoe-185261120162324769.htm"
   },
   "thanhnien.vn/mon-qua-ngay-2011-gia-su-roi-nuoc-mat-khi-nghe-giong-noi-cua-me-185261113154946363.htm": {
    "lead": [],
@@ -93243,6 +93490,78 @@
     "mien"
    ],
    "url": "https://thanhnien.vn/nguoi-gieo-hat-bo-de-tren-mien-dat-bac-mau-18526110721092463.htm"
+  },
+  "thanhnien.vn/nguoi-khac-len-nui-tim-vooc-cha-va-chan-nau-chang-trai-da-nang-di-lam-la-gap-185261117140855565.htm": {
+   "lead": [
+    "15",
+    "39",
+    "4",
+    "6",
+    "8",
+    "anh",
+    "ban",
+    "canh",
+    "cha",
+    "chan",
+    "chuyen",
+    "dan",
+    "danang",
+    "dang",
+    "dao",
+    "day",
+    "dong",
+    "duc",
+    "duong",
+    "gian",
+    "giua",
+    "hung",
+    "intercontinental",
+    "khanh",
+    "khoang",
+    "khu",
+    "khung",
+    "khuon",
+    "lam",
+    "moi",
+    "nang",
+    "nau",
+    "nghi",
+    "nghiem",
+    "noi",
+    "peninsula",
+    "pho",
+    "rong",
+    "sinh",
+    "son",
+    "song",
+    "sun",
+    "tao",
+    "thanh",
+    "the",
+    "thuong",
+    "tra",
+    "trai",
+    "vien",
+    "vooc",
+    "xuyen"
+   ],
+   "t": 1795301915,
+   "title": [
+    "cha",
+    "chan",
+    "chang",
+    "gap",
+    "khac",
+    "lam",
+    "len",
+    "nang",
+    "nau",
+    "nui",
+    "tim",
+    "trai",
+    "vooc"
+   ],
+   "url": "https://thanhnien.vn/nguoi-khac-len-nui-tim-vooc-cha-va-chan-nau-chang-trai-da-nang-di-lam-la-gap-185261117140855565.htm"
   },
   "thanhnien.vn/nguoi-lao-dong-tuyet-doi-khong-thu-ma-tuy-du-chi-mot-lan-185261113163340991.htm": {
    "lead": [],
@@ -102403,6 +102722,31 @@
    ],
    "url": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-2011-thuong-dinh-lich-su-trung-my-nga-israel-lai-muon-khong-kich-iran-1852611192312203.htm"
   },
+  "thanhnien.vn/tieu-diem-quoc-te-ngay-2211-ong-trump-ung-ho-jensen-huang-tro-lai-nvidia-iran-muon-vuot-phong-toa-my-185261121225842828.htm": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "11",
+    "22",
+    "diem",
+    "huang",
+    "iran",
+    "jensen",
+    "lai",
+    "muon",
+    "nvidia",
+    "ong",
+    "phong",
+    "quoc",
+    "tieu",
+    "toa",
+    "tro",
+    "trump",
+    "ung",
+    "vuot"
+   ],
+   "url": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-2211-ong-trump-ung-ho-jensen-huang-tro-lai-nvidia-iran-muon-vuot-phong-toa-my-185261121225842828.htm"
+  },
   "thanhnien.vn/tieu-duong-am-tham-tan-pha-than-dung-doi-co-trieu-chung-moi-kiem-tra-18526111516415199.htm": {
    "lead": [],
    "t": 1794766794,
@@ -102840,6 +103184,23 @@
     "tuc"
    ],
    "url": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-21112026-18526112023140975.htm"
+  },
+  "thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-22112026-18526112121571138.htm": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "11",
+    "2026",
+    "22",
+    "bao",
+    "biet",
+    "dac",
+    "nien",
+    "thanh",
+    "tin",
+    "tuc"
+   ],
+   "url": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-22112026-18526112121571138.htm"
   },
   "thanhnien.vn/tin-tuc-quoc-te-ngay-1711-nguyen-nhan-su-co-toan-cau-cua-microsoft-185261117072156771.htm": {
    "lead": [],
@@ -106063,6 +106424,25 @@
    ],
    "url": "https://thanhnien.vn/tu-vi-ngay-21-thang-11-tuoi-mao-co-loc-tuoi-ti-tranh-quyet-dinh-voi-185261120180035538.htm"
   },
+  "thanhnien.vn/tu-vi-ngay-22-thang-11-tuoi-than-don-tin-vui-tuoi-ngo-can-giu-binh-tinh-185261121183507661.htm": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "11",
+    "22",
+    "binh",
+    "can",
+    "don",
+    "giu",
+    "ngo",
+    "than",
+    "tin",
+    "tinh",
+    "tuoi",
+    "vui"
+   ],
+   "url": "https://thanhnien.vn/tu-vi-ngay-22-thang-11-tuoi-than-don-tin-vui-tuoi-ngo-can-giu-binh-tinh-185261121183507661.htm"
+  },
   "thanhnien.vn/tu-vong-vi-an-nham-bom-tu-che-tao-hinh-giong-banh-ngot-185261113190517635.htm": {
    "lead": [],
    "t": 1794577557,
@@ -106163,6 +106543,25 @@
     "tung"
    ],
    "url": "https://thanhnien.vn/tung-duoc-day-mien-phi-thay-giao-tre-lam-dieu-dac-biet-cho-nhung-hoc-tro-co-hoan-canh-giong-minh-185261119172155677.htm"
+  },
+  "thanhnien.vn/tung-nghi-cha-me-khong-yeu-minh-co-gai-bat-ngo-biet-chuyen-cha-khoc-vi-nho-con-185261118154133687.htm": {
+   "lead": [],
+   "t": 1795301915,
+   "title": [
+    "bat",
+    "biet",
+    "cha",
+    "chuyen",
+    "gai",
+    "khoc",
+    "minh",
+    "nghi",
+    "ngo",
+    "nho",
+    "tung",
+    "yeu"
+   ],
+   "url": "https://thanhnien.vn/tung-nghi-cha-me-khong-yeu-minh-co-gai-bat-ngo-biet-chuyen-cha-khoc-vi-nho-con-185261118154133687.htm"
   },
   "thanhnien.vn/tung-tu-ti-vi-giong-dia-phuong-nu-thu-khoa-bao-chi-nay-lam-btv-truyen-hinh-185261121132341869.htm": {
    "lead": [],
