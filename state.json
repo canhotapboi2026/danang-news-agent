@@ -1521,7 +1521,7 @@
    "priority": "thuong",
    "site": "Tin bóng đá 24h",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Video bàn thắng Đà Nẵng vs Ninh Bình: Hoàng Đức lập đại công (LPBank V.League 1-2026/27)",
    "urgent": false,
    "url": "https://bongda24h.vn/video/ket-qua-da-nang-vs-ninh-binh-hom-nay-189-465375.html"
@@ -2599,7 +2599,7 @@
    "priority": "thuong",
    "site": "VnExpress",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Tuyển thủ Việt Nam cúi đầu xin lỗi sau thẻ đỏ ở V-League",
    "urgent": false,
    "url": "https://vnexpress.net/tuyen-thu-viet-nam-cui-dau-xin-loi-sau-the-do-o-v-league-5147731.html"
@@ -84691,6 +84691,27 @@
    ],
    "url": "https://thanhnien.vn/dong-nai-cong-bo-quyet-dinh-nhan-su-ve-vuon-quoc-gia-cat-tien-185261114113401374.htm"
   },
+  "thanhnien.vn/dong-nai-tim-nhan-than-5-mo-xua-o-dai-lo-ket-noi-san-bay-long-thanh-185261122223822896.htm": {
+   "lead": [],
+   "t": 1795383776,
+   "title": [
+    "5",
+    "bay",
+    "dai",
+    "dong",
+    "ket",
+    "long",
+    "nai",
+    "nhan",
+    "noi",
+    "san",
+    "than",
+    "thanh",
+    "tim",
+    "xua"
+   ],
+   "url": "https://thanhnien.vn/dong-nai-tim-nhan-than-5-mo-xua-o-dai-lo-ket-noi-san-bay-long-thanh-185261122223822896.htm"
+  },
   "thanhnien.vn/dong-nguoi-do-ve-tuan-le-nha-sang-tao-noi-dung-so-2026-tai-tphcm-185261113193333655.htm": {
    "lead": [],
    "t": 1794577557,
@@ -92934,6 +92955,22 @@
    ],
    "url": "https://thanhnien.vn/kim-tuyen-le-phuong-ra-sao-o-duong-dua-mai-vang-2026-185261119185512602.htm"
   },
+  "thanhnien.vn/kinh-ngu-anh-vien-tro-lai-nhung-chi-ve-nhi-sau-my-tien-185261122223413459.htm": {
+   "lead": [],
+   "t": 1795383776,
+   "title": [
+    "anh",
+    "chi",
+    "kinh",
+    "lai",
+    "ngu",
+    "nhi",
+    "tien",
+    "tro",
+    "vien"
+   ],
+   "url": "https://thanhnien.vn/kinh-ngu-anh-vien-tro-lai-nhung-chi-ve-nhi-sau-my-tien-185261122223413459.htm"
+  },
   "thanhnien.vn/kinh-ngu-viet-kieu-my-watson-nguyen-lap-cu-dup-ky-luc-o-dai-hoi-the-thao-toan-quoc-185261122103114398.htm": {
    "lead": [],
    "t": 1795323360,
@@ -95724,6 +95761,23 @@
     "tieng"
    ],
    "url": "https://thanhnien.vn/mo-rong-san-choi-cho-nhung-tieng-noi-nghe-thuat-khac-biet-185261113172355411.htm"
+  },
+  "thanhnien.vn/moi-cuoi-thang-11-da-oi-buc-mua-kho-2027-dang-lo-the-nao-185261122180544738.htm": {
+   "lead": [],
+   "t": 1795383776,
+   "title": [
+    "11",
+    "2027",
+    "buc",
+    "cuoi",
+    "dang",
+    "kho",
+    "moi",
+    "mua",
+    "nao",
+    "the"
+   ],
+   "url": "https://thanhnien.vn/moi-cuoi-thang-11-da-oi-buc-mua-kho-2027-dang-lo-the-nao-185261122180544738.htm"
   },
   "thanhnien.vn/moi-dau-thang-11-nam-bo-da-nang-nong-36-do-c-185261113080446804.htm": {
    "lead": [],
@@ -112202,6 +112256,23 @@
     "zealand"
    ],
    "url": "https://thanhnien.vn/u17-viet-nam-thua-nhung-day-hy-vong-hai-sieu-pham-lich-su-va-co-hoi-truoc-new-zealand-185261120231142749.htm"
+  },
+  "thanhnien.vn/u17-viet-nam-tung-thang-doi-cung-chau-luc-voi-new-zealand-loi-the-gi-185261122191235826.htm": {
+   "lead": [],
+   "t": 1795383776,
+   "title": [
+    "17",
+    "chau",
+    "doi",
+    "loi",
+    "luc",
+    "new",
+    "the",
+    "tung",
+    "viet",
+    "zealand"
+   ],
+   "url": "https://thanhnien.vn/u17-viet-nam-tung-thang-doi-cung-chau-luc-voi-new-zealand-loi-the-gi-185261122191235826.htm"
   },
   "thanhnien.vn/u17-world-cup-u17-viet-nam-dau-u17-bi-nguyen-luc-da-chinh-van-duong-va-sy-bach-linh-xuong-hang-cong-185261120171709151.htm": {
    "lead": [],
