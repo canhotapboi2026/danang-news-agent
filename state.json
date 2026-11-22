@@ -1032,7 +1032,7 @@
    "priority": "thuong",
    "site": "Báo Văn hóa",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 669,
    "title": "Đà Nẵng lan tỏa văn hóa đọc qua Tuần Văn hóa 2026",
    "urgent": false,
@@ -2913,7 +2913,7 @@
    "priority": "thuong",
    "site": "Tạp chí Diễn đàn Doanh nghiệp",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng tìm động lực tăng trưởng từ kinh tế đêm",
    "urgent": false,
    "url": "https://diendandoanhnghiep.vn/da-nang-tim-dong-luc-tang-truong-tu-kinh-te-dem-10187841.html"
@@ -5817,6 +5817,27 @@
    "urgent": false,
    "url": "https://www.vietnam.vn/da-nang-thuc-day-ung-dung-cong-nghe-ai-trong-hoat-dong-cong-thuong"
   },
+  "c2076a0d": {
+   "caption": "🌾 NÔNG DÂN VÙNG CAO ĐÀ NẴNG VƯƠN LÊN THOÁT NGHÈO NHỜ NGUỒN VỐN ƯU ĐÃI VÀ MÔ HÌNH SINH KẾ\n\nNhờ nguồn vốn tín dụng chính sách cùng các chương trình hỗ trợ sinh kế, nhiều nông dân đồng bào dân tộc thiểu số tại vùng cao TP Đà Nẵng đã mạnh dạn đổi mới cách làm để vươn lên thoát nghèo bền vững. Điển hình như chị Hôih Thị Bân ở xã Tây Giang đã vay 50 triệu đồng từ Phòng giao dịch NHCSXH để đầu tư chăn nuôi, trồng trọt và thành lập tổ hợp tác dệt thổ cẩm, đạt doanh thu khoảng 250 triệu đồng mỗi năm và tạo việc làm cho nhiều phụ nữ nghèo. Tại xã Sông Kôn, mô hình chuyển đổi vườn tạp sang trồng các loại cây ăn quả giá trị cao như sầu riêng, chôm chôm, nhãn cũng giúp gia đình ông Võ Ngọc Hồng và nhiều hộ dân nâng cao thu nhập đáng kể. Toàn thành phố hiện có hơn 50.000 nông dân sản xuất kinh doanh giỏi, góp phần thay đổi diện mạo đời sống miền núi. Bà con mình thấy sao về những mô hình vươn lên làm giàu đầy cảm hứng này? 🌾\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #NguoiDaNang\nCre: Dân Việt",
+   "card_title": "Nông dân vùng cao Đà Nẵng vươn lên thoát nghèo nhờ nguồn vốn ưu đãi và mô hình sinh kế",
+   "category": "con_nguoi",
+   "created": 1795319539,
+   "flags": [],
+   "id": "c2076a0d",
+   "images": [
+    "https://t.ex-cdn.com/danviet.vn/800w/files/news/2026/11/22/1-0904.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Dân Việt",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Có vốn ưu đãi tiếp sức, nông dân vùng cao Đà Nẵng thoát nghèo và đổi đời nhờ những mô hình sinh kế hiệu quả",
+   "urgent": false,
+   "url": "https://etime.danviet.vn/co-von-uu-dai-tiep-suc-nong-dan-vung-cao-da-nang-thoat-ngheo-va-doi-doi-nho-nhung-mo-hinh-sinh-ke-hieu-qua-d1476846.html"
+  },
   "c234d283": {
    "caption": "🏃 HỌC SINH TRƯỜNG HY VỌNG GẶT HÁI NHIỀU THÀNH TÍCH TẠI GIẢI CHẠY S-RACE ĐÀ NẴNG\n\nNgày 14/11 vừa qua tại Công viên Biển Đông, 29 học sinh của Trường Hy vọng đã xuất sắc mang về 6 giải thưởng khi tham gia giải chạy S-Race Đà Nẵng. Trong đó, em Phạm Nam Anh đạt giải Nhất khối THPT, em Văn Minh giành giải Nhì khối THCS và 4 em khác góp mặt ở top 10. Sự kiện năm nay ghi nhận quy mô ấn tượng với hơn 12.000 người tham gia trực tiếp cùng 15 địa điểm chạy hưởng ứng khắp thành phố. Trước ngày tranh tài, đội tuyển của trường cũng nhận được sự động viên tinh thần cùng 50 đôi giày tập luyện từ các cán bộ nhân viên FPT. Sự chuẩn bị chu đáo cùng tinh thần rèn luyện thể thao thường xuyên đã giúp các em tự tin bứt phá trên đường chạy. Bà con khu vực mình thấy thành tích của các em nhỏ thế nào?\n\n#DaNang #SuKienDaNang #SRaceDaNang\nCre: Chungta",
    "card_title": "Học sinh Trường Hy vọng gặt hái nhiều thành tích tại giải chạy S-Race Đà Nẵng",
@@ -6907,6 +6928,30 @@
    "title": "Xuất hiện hố sụt lún sâu 3 m phía sau trường học ở vùng cao Đà Nẵng",
    "urgent": true,
    "url": "https://thanhnien.vn/xuat-hien-ho-sut-lun-sau-3-m-phia-sau-truong-hoc-o-vung-cao-da-nang-185261113123135963.htm"
+  },
+  "e66834c9": {
+   "caption": "🌧️ GIẢI CỨU THÀNH CÔNG ĐÔI NAM NỮ CẮM TRẠI BỊ KẸT LŨ TẠI KHE SUỐI CÀY\n\nCác lực lượng chức năng tại phường Hải Vân vừa xuyên đêm giải cứu an toàn hai thanh niên bị mắc kẹt do nước lũ dâng cao khi đi cắm trại. Sự việc diễn ra vào trưa ngày 20-11 khi đôi nam nữ đến dã ngoại tại khu vực khe Suối Cày thuộc tổ dân phố Nam Mỹ, tuy nhiên mưa lớn kéo dài khiến nước suối bất ngờ chảy xiết và cô lập cả hai. Ngay sau khi tiếp nhận tin báo, lực lượng cứu hộ địa phương đã phối hợp cùng các đơn vị công an, quân sự và biên phòng triển khai tìm kiếm từ 21 giờ đêm. Đến khoảng 1 giờ 20 phút ngày 21-11, sau hơn 4 tiếng vượt địa hình hiểm trở trong mưa lũ, các lực lượng đã đưa cả hai ra khỏi vùng nguy hiểm an toàn tuyệt đối.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang #HaiVan\nCre: Tuổi Trẻ",
+   "card_title": "Giải cứu thành công đôi nam nữ cắm trại bị kẹt lũ tại khe Suối Cày",
+   "category": "doi_song",
+   "created": 1795319539,
+   "flags": [],
+   "id": "e66834c9",
+   "images": [
+    "https://cdn2.tuoitre.vn/zoom/1200_1200/471584752817336320/2026/11/22/22-11-xuyen-dem-cuu-doi-nam-nu-di-cam-trai-mac-ket-giua-khe-suoi-cay-1-1795316185906537910973-344-0-1416-2048-crop-179531624944118035094.jpg",
+    "https://cdn2.tuoitre.vn/zoom/211_132/471584752817336320/2026/11/12/mua-lu-1794458914117488235411-150-0-896-1193-crop-1794458934246834684732.jpg",
+    "https://cdn2.tuoitre.vn/zoom/211_132/471584752817336320/2026/11/10/giai-cuu-2-179428599161085545477-0-0-1256-2010-crop-1794286257602659437590.jpg",
+    "https://cdn2.tuoitre.vn/zoom/211_132/471584752817336320/2026/10/24/chay-nha-5g-sang-full-edit-1792816950130469702640-1130-0-2755-2600-crop-1792817019422437719186.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Tuổi Trẻ",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Đôi nam nữ cắm trại bị kẹt lũ cám ơn lực lượng chức năng Đà Nẵng",
+   "urgent": false,
+   "url": "https://tuoitre.vn/doi-nam-nu-cam-trai-bi-ket-lu-cam-on-luc-luong-chuc-nang-da-nang-100261122095909822.htm"
   },
   "e67e79bb": {
    "caption": "🏫 XUẤT HIỆN HỐ SỤT LÚN SÂU 3M PHÍA SAU TRƯỜNG BÁN TRÚ TRÀ LENG\n\nKhu vực phía sau Trường Phổ thông dân tộc bán trú THCS Trà Leng vừa xuất hiện một hố sụt đất sâu khoảng 3m cùng nhiều vết nứt kéo dài hai bên, tiềm ẩn nguy cơ tiếp tục sạt lở. Vào ngày 13/11, chính quyền xã Trà Leng đã trực tiếp khảo sát hiện trường để đánh giá mức độ ảnh hưởng. Được biết, điểm trường chính xuất hiện vết sụt lún hiện có 383 học sinh và đội ngũ giáo viên đang học tập, làm việc. Theo Chủ tịch UBND xã Trà Leng Châu Minh Nghĩa, địa phương đang phối hợp với các đơn vị liên quan xây dựng giải pháp tạm thời nhằm bảo đảm an toàn tối đa cho thầy trò, đồng thời báo cáo cấp trên để có hướng xử lý dứt điểm. Hi vọng sự cố sẽ sớm được khắc phục hoàn toàn để nhà trường yên tâm giảng dạy.\n\n#DaNang #TraLeng #SutLunTruongHoc\nCre: Dân tộc & Phát triển",
@@ -57008,6 +57053,85 @@
    ],
    "url": "https://docnhanh.vn/xa-hoi/di-soi-ech-ban-dem-nhom-nguoi-dan-o-da-nang-bang-hoang-phat-hien-be-gai-so-sinh-bi-bo-roi-trong-thung-xop-tintuc1058072"
   },
+  "etime.danviet.vn/co-von-uu-dai-tiep-suc-nong-dan-vung-cao-da-nang-thoat-ngheo-va-doi-doi-nho-nhung-mo-hinh-sinh-ke-hieu-qua-d1476846.html": {
+   "lead": [
+    "50",
+    "ban",
+    "bap",
+    "benh",
+    "chi",
+    "chu",
+    "cuoc",
+    "dan",
+    "dau",
+    "day",
+    "dich",
+    "dinh",
+    "dong",
+    "dua",
+    "gia",
+    "giang",
+    "giao",
+    "hoc",
+    "hoi",
+    "hoih",
+    "huan",
+    "keo",
+    "khan",
+    "kho",
+    "kinh",
+    "len",
+    "lop",
+    "manh",
+    "nang",
+    "ngheo",
+    "nhap",
+    "nhcsxh",
+    "nuong",
+    "phat",
+    "phong",
+    "quyet",
+    "ray",
+    "san",
+    "song",
+    "tam",
+    "tap",
+    "tay",
+    "tham",
+    "thi",
+    "thoat",
+    "thu",
+    "toc",
+    "trien",
+    "trieu",
+    "vao",
+    "vay",
+    "vuon",
+    "xuat",
+    "yeu"
+   ],
+   "t": 1795319539,
+   "title": [
+    "cao",
+    "dai",
+    "dan",
+    "doi",
+    "hieu",
+    "hinh",
+    "nang",
+    "ngheo",
+    "nho",
+    "nong",
+    "qua",
+    "sinh",
+    "suc",
+    "thoat",
+    "tiep",
+    "von",
+    "vung"
+   ],
+   "url": "https://etime.danviet.vn/co-von-uu-dai-tiep-suc-nong-dan-vung-cao-da-nang-thoat-ngheo-va-doi-doi-nho-nhung-mo-hinh-sinh-ke-hieu-qua-d1476846.html"
+  },
   "etime.danviet.vn/da-nang-quy-hoach-chien-dan-thanh-cuc-dong-luc-moi-phia-tay-nam-den-nam-2050-d1474927.html": {
    "lead": [
     "11",
@@ -58355,6 +58479,30 @@
     "vingroup"
    ],
    "url": "https://nguoiquansat.vn/da-nang-lap-to-cong-tac-dac-biet-thuc-tien-do-sieu-cang-2-ty-usd-nam-sat-dai-du-an-hai-van-bay-cua-vingroup-327585.html"
+  },
+  "news.google.com/rss/articles/CBMi3gFBVV95cUxPS0lfelI1MkotNnF6a1NsZVRjWUNaNDZ6RHVFSlFBNjJRREpPMDZmTzVrelZhS3RPZHBLbGVxbkJ1eHVkdlNGcGZMWWRqVDRJbGtYS19peFhDd1Y5cTlyT2theWl2Q2Z4YXdtMUdMekJKVTQ5dDJNc0NlRjd3M0lHQ2E4eVd0RVphOHRvcGJzS2ZXSThfLWRMY3NObUJIMjlGR1FrY2JxZEZzOTVISW4tdWl1MmlzTXRQXzJ0eUNjTGdDeTRrYzVScUN0ZE1oUnRJdlNJNTZKZ3RWeDk5V1E?oc=5": {
+   "lead": [],
+   "t": 1795319539,
+   "title": [
+    "cao",
+    "dai",
+    "dan",
+    "doi",
+    "hieu",
+    "hinh",
+    "nang",
+    "ngheo",
+    "nho",
+    "nong",
+    "qua",
+    "sinh",
+    "suc",
+    "thoat",
+    "tiep",
+    "von",
+    "vung"
+   ],
+   "url": "https://etime.danviet.vn/co-von-uu-dai-tiep-suc-nong-dan-vung-cao-da-nang-thoat-ngheo-va-doi-doi-nho-nhung-mo-hinh-sinh-ke-hieu-qua-d1476846.html"
   },
   "news.google.com/rss/articles/CBMi3gFBVV95cUxQdU9YQmlHdlFaVkhEbWZ6aVQ3VnVQeTdxcHVGdWxIa1RDUk5BRVVwT0xMMlYwVGRnaUw2azJiY011REQtdVgyWUxLV3Z4a3g3cjR6X2E2TEhueUtnSmlIdmpYXzkzbXl6U29OZmhjMy1qNUVoNDhqc3NESlZlaWtKYldzeXZJejVHNTViNk9tRW9FcHA3MnBxVTVSTE5haGxUdFg0VjF4bnNMdkNMZWk2WU1MT2MtdzRaVnlSU0tBcHBWNUQybEllenk0Z2Ytdi1MQ0RrTm15aXFETXdaRHc?oc=5": {
    "lead": [],
@@ -64729,6 +64877,21 @@
    "t": 1794540122,
    "title": [],
    "url": "https://laodong.vn/moi-truong/du-bao-khu-vuc-mua-dong-chieu-va-toi-nay-co-noi-mua-to-tren-70mm-1799597.ldo"
+  },
+  "news.google.com/rss/articles/CBMiqgFBVV95cUxQa2FoSXdBZlRxV2dKR1ZXNlRBMmkzWXkzei1nNmpfYmRPd0FWbi1VZDFWamhGc05wYk9VMDBQdnVpY2JsMnFUNGo2S1RxUjF3RzBlbGViTUItTnoyTW5ET3BweHlkLUIzU0NPVy15bXJHYUU0dlhVZnBtSXU0QVBCT3BCam1UWGFoR3AzMkJfS29XRHMwQWNZbkRHMzlLWnJELUk2VDlrS1U1Zw?oc=5": {
+   "lead": [],
+   "t": 1795319539,
+   "title": [
+    "cam",
+    "chuc",
+    "doi",
+    "ket",
+    "luc",
+    "luong",
+    "nang",
+    "trai"
+   ],
+   "url": "https://tuoitre.vn/doi-nam-nu-cam-trai-bi-ket-lu-cam-on-luc-luong-chuc-nang-da-nang-100261122095909822.htm"
   },
   "news.google.com/rss/articles/CBMiqwFBVV95cUxNQXdvVngwaVZFQnJLOU92WHdQRFBiR0FnYXh1cm9BX3JtTU5QamtTOXg5SDkyV3hRWmkydnhJcnFzM2UtbVg4QThIVjk5U2lCVHR0cGp0OVNQVExVeWxyYnNKYkhaQlBoUmhOMWw5d1R6M2JzQTFJVlY2UjRKcDlRbGtyMm9HXzdqM3h4cHdWU0toV29zT1d1TTRQOVNDUW9fME1CWEk5eUZkQmM?oc=5": {
    "lead": [],
@@ -124878,6 +125041,54 @@
     "trang"
    ],
    "url": "https://tuoitre.vn/doi-hoa-don-nop-hon-293-ti-dong-mua-dat-nhieu-nam-chu-du-an-o-nha-trang-khong-giao-100261114113807591.htm"
+  },
+  "tuoitre.vn/doi-nam-nu-cam-trai-bi-ket-lu-cam-on-luc-luong-chuc-nang-da-nang-100261122095909822.htm": {
+   "lead": [
+    "4",
+    "anh",
+    "cam",
+    "cao",
+    "cay",
+    "chuc",
+    "cong",
+    "cuu",
+    "dang",
+    "dem",
+    "doi",
+    "giai",
+    "gio",
+    "giua",
+    "hai",
+    "hon",
+    "ket",
+    "khe",
+    "luc",
+    "luong",
+    "mac",
+    "may",
+    "nang",
+    "nuoc",
+    "phuong",
+    "roi",
+    "suoi",
+    "thanh",
+    "trai",
+    "ung",
+    "van",
+    "xuyen"
+   ],
+   "t": 1795319539,
+   "title": [
+    "cam",
+    "chuc",
+    "doi",
+    "ket",
+    "luc",
+    "luong",
+    "nang",
+    "trai"
+   ],
+   "url": "https://tuoitre.vn/doi-nam-nu-cam-trai-bi-ket-lu-cam-on-luc-luong-chuc-nang-da-nang-100261122095909822.htm"
   },
   "tuoitre.vn/doi-thu-dang-ngai-nhat-cua-u17-viet-nam-o-world-cup-2026-100261116162255488.htm": {
    "lead": [],
