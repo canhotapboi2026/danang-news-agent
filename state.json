@@ -5221,7 +5221,7 @@
    "priority": "thuong",
    "site": "Dân trí",
    "source": "Dân trí - Trang chủ",
-   "status": "queued",
+   "status": "expired",
    "title": "Vé tàu tăng cao dịp Tết, có chặng giường nằm đắt hơn vé máy bay",
    "urgent": false,
    "url": "https://dantri.com.vn/kinh-doanh/ve-tau-tang-cao-dip-tet-co-chang-giuong-nam-dat-hon-ve-may-bay-20261123144614963.htm"
@@ -5652,7 +5652,7 @@
    "priority": "thuong",
    "site": "Nguoiquansat",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 702,
    "title": "Tổ hợp căn hộ, khách sạn cao 36 tầng tại Đà Nẵng do Alphanam đầu tư có diễn biến mới",
    "urgent": false,
@@ -9206,7 +9206,7 @@
   "news.google.com/rss/articles/CBMikAFBVV95cUxNRjZWcHJJOWV3WG16djQ3TXFsRVdLS0RKcmxoTW52YVNmSnlSeTVUNl8xbHBaeHQ5MUVOc2JhMmRkUDdGSlNEbUF6TUlSY09jblJGZ3pHQV9yanBaOEJJaDRzTExDQ3FEYnNNeFBncUxhYkYxNmVjcGhOOU1ONHFsME1xcU1OM2NaTXZ4Q1ZTS1g?oc=5": 1,
   "news.google.com/rss/articles/CBMikAFBVV95cUxQaVNDOExuWUgxTkxJbnJveFpyZEw4T0pHR1dIVkhWYm9fdUo3dHZTdjNMT0Nqb3VsdzdyeDhOdEpqazR4U0VVOEYxS2puWXZlVjdRZ2ZSVFFUdklnVzJIbmR0cmQ2VkRkWTZmTC1YcThzT1NuTVlFakFENVo4Y0ZYVVVPZDVVZFpibWphdG10RzQ?oc=5": 1,
   "news.google.com/rss/articles/CBMikAFBVV95cUxQdEVGY0gwYi1WQkN1cmZlQml1XzZERndWSWlPRjUtdF80LVNiODNRdHpaOXNOeHBkSVhNbXZOZ21iQmJYeURHTnc4eWpuVC0taEtTcXlyaXhQMzNPRm40QkN2UkRUc3NfN2VmU0xfano3SkRxOXM4eHZOcFVmSGNOOEdOT1R4dlRGVmpKeXUxZnI?oc=5": 1,
-  "news.google.com/rss/articles/CBMikgFBVV95cUxObHVUcGkycFJuVVd1RWo5MFpXaW9MNVNpWXhpUFI1dDd6RFVvYU9oUmVhdlA0WjNIVUNDYTl0aFJjNGNSaWVSMnh5NzlJUHBSeWd5MUl2UWxaMTZpazZmRWRrYWZoWnpTSUJGYmZEZlNJdEx1WS1ZS3pGcXBqT3djM0FXOF94R2p1TWlUTTZnS2VFUQ?oc=5": 1,
+  "news.google.com/rss/articles/CBMikgFBVV95cUxObHVUcGkycFJuVVd1RWo5MFpXaW9MNVNpWXhpUFI1dDd6RFVvYU9oUmVhdlA0WjNIVUNDYTl0aFJjNGNSaWVSMnh5NzlJUHBSeWd5MUl2UWxaMTZpazZmRWRrYWZoWnpTSUJGYmZEZlNJdEx1WS1ZS3pGcXBqT3djM0FXOF94R2p1TWlUTTZnS2VFUQ?oc=5": 2,
   "news.google.com/rss/articles/CBMilAFBVV95cUxNUllINkF4X1M0WjNOYTVpb0Y0cmFSVFpmQ3dOMGVaRVo4ekNQN1QydURMbWxBdGg3bnZfcXhndjYyVGpaYmJ3dWNZQVZncXFwOVpCUEd0Z1ljWk9kUmw1VGN5VGM5c3A5QXlqcTdkMExRbl96d0NJWGc0NzFWSGwyNjVLbkM0d3J6WVFBeXFnLWtpa3Ux?oc=5": 1,
   "news.google.com/rss/articles/CBMimAFBVV95cUxPR0oyblBCTE9WaW1ob0dGcmNFZHVyOFA5eDZVS3RlVmUwb0dnUHF0T2YyUUozVmdzQ1hoVmQ3blByZTZCSG11SGpBSl8teHV6VF8yQXJoQ2kzYjVuZ0Nwc3VobTZzQU9YRnJXRnZlN0U3dXNnZklMNUg3R0hTeHpGTi10R0g5T294QWtDNzljYjVHLVNZSGNYYg?oc=5": 1,
   "news.google.com/rss/articles/CBMimAFBVV95cUxQTWR6dDEweDEyelR3WkxhUGwwLUQxTU4wbmJDc3ByRnMtNkE0ZGtkZGQ0S295cXRzdEYxTnozS2dCT2M4QkJNbGdaTGxhdFpLdEdfUVd6S29WMS02OXJHN2gycVBvOGxnSzRYZUJ2NlFDbWgza0E2dzA2Sy1ROTZfYXRWOHlYSDlhbFlDQ05UUjZTQmZMdzRLRA?oc=5": 1,
@@ -71795,6 +71795,29 @@
    ],
    "url": "https://tin.skydoor.net/news/da-nang-thu-giu-4-vat-the-nghi-la-dau-dan-sau-vu-no-khien-mot-nguoi-8430408"
   },
+  "news.google.com/rss/articles/CBMipwFBVV95cUxPVzdVYzZqMTZpcVFaY3NJUUpGVmZWRFpmeGN0Z2ZPOGdrbXNMY1huMk5yTVpVQk5Tb2YxME1mRFNpbmZseU53MGFLTXdNeFI0OFg2dGJKTTNFTzFtZ0JHUTF4b0NhOXZRR2xnbnNWellyUTNhWExGYzJYMjZSTE5SeEJsaFBqb21STGZrcEtvREpoQlhQampOX3BOYzVLRlotMnRKekI1RQ?oc=5": {
+   "lead": [],
+   "t": 1795464869,
+   "title": [
+    "bay",
+    "cao",
+    "chat",
+    "day",
+    "dung",
+    "hanh",
+    "hoc",
+    "khach",
+    "luong",
+    "manh",
+    "nang",
+    "phuc",
+    "san",
+    "sinh",
+    "trac",
+    "ung"
+   ],
+   "url": "https://tin.skydoor.net/news/da-nang/san-bay-da-nang-day-manh-sinh-trac-hoc-ung-dung-ai-nang-cao-8449620"
+  },
   "news.google.com/rss/articles/CBMipwFBVV95cUxPYUIxTU1LRENDcl9tX1A1UWR0emxTQ1JsYXFtclBhQlFuZHlacXRBbll3c3NrdTdzT2RkcVJDVlBVcXVIc05nQzB2TzVjbTRpeVcxZ2JMajc1anRSLURNdndkT2J2RnFBZHlPNEgyaHgtRFpDWV9CUkxtRUt6M21NWmtTTDRmbGtpajlCTHR0SFVyaTBhOGRTZ2MzNHluYVhJOGltNVp2OA?oc=5": {
    "lead": [],
    "t": 1794552259,
@@ -72110,6 +72133,23 @@
     "xuong"
    ],
    "url": "https://tin.skydoor.net/news/da-nang/hon-4000-tuyen-duong-o-da-nang-duoc-de-xuat-dieu-chinh-he-so-8447515"
+  },
+  "news.google.com/rss/articles/CBMiqAFBVV95cUxOMjNzdFpRd1Z2a1VzOW96blFscElvblptQklDY0JUZ29kOFlyX0VrZVJtcWNoWFc2TUhpR3NYWU52S19ubDdTT2ZsM1dpM2p3T3h5X1NHQm8yQS1VUlRYX1dqblZvRkVobko5b09FM2lHVVMwTXVMNGVOMEltcUJ1bHV4ZjA3b1RqNEw5OUg2Uk9JZjZmOVBvNEo4Q3UtSENEekxSV3diaEU?oc=5": {
+   "lead": [],
+   "t": 1795464869,
+   "title": [
+    "che",
+    "chinh",
+    "kien",
+    "lay",
+    "luong",
+    "nang",
+    "quoc",
+    "tam",
+    "tien",
+    "trung"
+   ],
+   "url": "https://tin.skydoor.net/news/da-nang/lay-y-kien-ve-che-do-tien-luong-tai-trung-tam-tai-chinh-quoc-8449544"
   },
   "news.google.com/rss/articles/CBMiqAFBVV95cUxONW5ZX2d6LUhpbXpjbzhCeWhnZjBub0s1Q0ZYRW0xRHhKcXVwbDYtV1hzRHJ1Q1F0a3gzZnd0R2xDWE5EOXpfektOMHdpOFc0d3Bua1RtRjd1U3NYVmpxYmZ2cEhaVXN0U21WVXlmUXNFUWF5UFBaaUhNbzM3SGpJZWs1UHVZTm9CTjRYVEVic3ItN3pGWmZZUzNvSWlQNkpQMUJvbTJFLVM?oc=5": {
    "lead": [],
@@ -96438,6 +96478,21 @@
    ],
    "url": "https://thanhnien.vn/hlv-cristiano-roland-noi-gi-sau-tran-thua-tiec-nuoi-cua-u17-viet-nam-truoc-bi-185261121001530583.htm"
   },
+  "thanhnien.vn/hlv-cristiano-roland-tu-hao-ve-u17-viet-nam-chien-dau-den-cung-cung-la-mot-chien-thang-185261124022140705.htm": {
+   "lead": [],
+   "t": 1795464869,
+   "title": [
+    "17",
+    "chien",
+    "cristiano",
+    "dau",
+    "hao",
+    "hlv",
+    "roland",
+    "viet"
+   ],
+   "url": "https://thanhnien.vn/hlv-cristiano-roland-tu-hao-ve-u17-viet-nam-chien-dau-den-cung-cung-la-mot-chien-thang-185261124022140705.htm"
+  },
   "thanhnien.vn/hlv-dai-loan-noi-dieu-rat-bat-ngo-doi-tuyen-viet-nam-dang-cap-vuot-troi-thang-2-0-con-la-it-185261111211204134.htm": {
    "lead": [],
    "t": 1794409543,
@@ -105848,6 +105903,23 @@
     "mien"
    ],
    "url": "https://thanhnien.vn/nguoi-gieo-hat-bo-de-tren-mien-dat-bac-mau-18526110721092463.htm"
+  },
+  "thanhnien.vn/nguoi-hung-duy-khang-xuc-dong-u17-viet-nam-da-lam-tat-ca-vi-la-co-to-quoc-185261124021316215.htm": {
+   "lead": [],
+   "t": 1795464869,
+   "title": [
+    "17",
+    "dong",
+    "duy",
+    "hung",
+    "khang",
+    "lam",
+    "quoc",
+    "tat",
+    "viet",
+    "xuc"
+   ],
+   "url": "https://thanhnien.vn/nguoi-hung-duy-khang-xuc-dong-u17-viet-nam-da-lam-tat-ca-vi-la-co-to-quoc-185261124021316215.htm"
   },
   "thanhnien.vn/nguoi-khac-len-nui-tim-vooc-cha-va-chan-nau-chang-trai-da-nang-di-lam-la-gap-185261117140855565.htm": {
    "lead": [
@@ -118814,6 +118886,29 @@
     "trinh"
    ],
    "url": "https://thanhnien.vn/tram-cap-cuu-ghe-sat-nuoi-song-hanh-trinh-muu-sinh-khap-mien-tay-185261115092217533.htm"
+  },
+  "thanhnien.vn/tran-cuoi-gap-mali-u17-viet-nam-can-dieu-kien-gi-de-gianh-ve-vao-vong-32-doi-world-cup-185261124021108572.htm": {
+   "lead": [],
+   "t": 1795464869,
+   "title": [
+    "17",
+    "32",
+    "can",
+    "cuoi",
+    "cup",
+    "dieu",
+    "doi",
+    "gap",
+    "gianh",
+    "kien",
+    "mali",
+    "tran",
+    "vao",
+    "viet",
+    "vong",
+    "world"
+   ],
+   "url": "https://thanhnien.vn/tran-cuoi-gap-mali-u17-viet-nam-can-dieu-kien-gi-de-gianh-ve-vao-vong-32-doi-world-cup-185261124021108572.htm"
   },
   "thanhnien.vn/tran-dau-then-chot-cua-u17-viet-nam-tai-world-cup-185261121192258309.htm": {
    "lead": [],
