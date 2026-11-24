@@ -133,7 +133,7 @@
    "priority": "thuong",
    "site": "Thanh Niên",
    "source": "Thanh Niên - Trang chủ",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 726,
    "title": "Khu bảo tồn voi duy nhất Việt Nam: Gia đình 9 thành viên giữa đại ngàn",
    "urgent": false,
@@ -4662,6 +4662,31 @@
    "title": "Thi thể nam thanh niên 28 tuổi ở Đà Nẵng được tìm thấy sau 3 ngày mất tích tại cầu Chìm",
    "urgent": false,
    "url": "https://tin.skydoor.net/news/da-nang/thi-the-nam-thanh-nien-o-da-nang-duoc-tim-thay-cach-noi-gap-8449097"
+  },
+  "8148da81": {
+   "caption": "🏔️ PHÁT TRIỂN DU LỊCH CỘNG ĐỒNG TỪ BẢN SẮC VĂN HÓA VÙNG CAO ĐÀ NẴNG\n\nKhông gian núi rừng Trường Sơn tại Đà Nẵng đang trở thành điểm đến thu hút nhiều du khách nhờ việc bảo tồn và phát huy các giá trị văn hóa bản địa. Thành phố hiện có hơn 161.000 đồng bào dân tộc thiểu số sinh sống tại 35 xã, nơi nhiều lễ hội truyền thống như lễ khai năm tạ ơn rừng ở xã Hùng Sơn hay lễ cúng máng nước ở xã Trà Leng được phục dựng và duy trì. Các địa phương vùng cao như xã Phước Trà cũng đang đẩy mạnh phát triển du lịch cộng đồng gắn với các di tích lịch sử và nghề truyền thống. Bà con khu vực này có thường xuyên tham gia các hoạt động trải nghiệm văn hóa cùng du khách không.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DuLichDaNang\nCre: Bnews",
+   "card_title": "Phát triển du lịch cộng đồng từ bản sắc văn hóa vùng cao Đà Nẵng",
+   "category": "du_lich_van_hoa",
+   "created": 1795521372,
+   "flags": [],
+   "id": "8148da81",
+   "images": [
+    "https://image.bnews.vn/MediaUpload/Org/2026/11/24/183336-da-nang-net-dep-le-cung-mang-nuoc-cua-dong-bao-m-nong.jpg",
+    "https://image.bnews.vn/MediaUpload/Org/2026/11/24/183236-da-nang-net-dep-le-cung-mang-nuoc-cua-dong-bao-m-nong.jpg",
+    "https://image.bnews.vn/MediaUpload/Org/2026/11/24/183315-da-nang-net-dep-le-cung-mang-nuoc-cua-dong-bao-m-nong.jpg",
+    "https://image.bnews.vn/MediaUpload/Org/2026/11/24/183540-da-nang-net-dep-le-cung-mang-nuoc-cua-dong-bao-m-nong.jpg",
+    "https://image.bnews.vn/MediaUpload/Medium/2026/11/21/104751-go-diem-nghen-hoan-thien-cac-du-an-cao-toc-qua-da-nang.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Bnews",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Đà Nẵng đánh thức tiềm năng du lịch từ bản sắc văn hóa vùng cao",
+   "urgent": false,
+   "url": "https://bnews.vn/da-nang-danh-thuc-tiem-nang-du-lich-tu-ban-sac-van-hoa-vung-cao/445505.html"
   },
   "8153e2af": {
    "caption": "🎭 THƯỞNG THỨC OPERA VÀ BALLET MIỄN PHÍ TẠI CHƯƠNG TRÌNH ĐỐI THOẠI Á - ÂU\n\nBà con yêu nghệ thuật có thêm địa điểm giải trí cuối tuần khi chương trình nghệ thuật Đối thoại Á - Âu đang diễn ra hoàn toàn miễn phí tại rạp Hội An từ ngày 12 đến 14/11. Sự kiện do Trung tâm Bảo tồn di sản văn hóa thế giới Hội An phối hợp với Nhà hát Nhạc vũ kịch Việt Nam thực hiện, quy tụ 20 nghệ sĩ chuyên nghiệp mang đến các tiết mục múa đương đại, ballet Đông Hồ và những giai điệu opera nổi tiếng. Không chỉ giúp đưa nghệ thuật hàn lâm tiếp cận rộng rãi hơn với công chúng và du khách, đêm diễn còn là dịp để cơ quan chức năng khảo sát nhu cầu khán giả nhằm định hướng khai thác hiệu quả không gian rạp Hội An trong thời gian tới. Có bà con nào đã ghé thưởng thức đêm diễn này chưa, cùng chia sẻ cảm nhận nhé! 🎭\n\n#DaNang #HoiAn #DoiThoaiAAu #NghietThuat\nCre: Báo Thanh Niên",
@@ -20811,6 +20836,71 @@
     "thu"
    ],
    "url": "https://baoxaydung.vn/da-nang-ra-soat-phuong-an-thi-diem-su-dung-xe-dien-ba-banh-phuc-vu-thu-gom-rac-thai-192261112194339938.htm"
+  },
+  "bnews.vn/da-nang-danh-thuc-tiem-nang-du-lich-tu-ban-sac-van-hoa-vung-cao/445505.html": {
+   "lead": [
+    "ban",
+    "bao",
+    "bnews",
+    "cao",
+    "chieng",
+    "chua",
+    "dai",
+    "dan",
+    "doi",
+    "dong",
+    "dung",
+    "gian",
+    "giua",
+    "giuc",
+    "goi",
+    "hoa",
+    "lang",
+    "len",
+    "lon",
+    "lop",
+    "mach",
+    "mai",
+    "moi",
+    "nang",
+    "ngan",
+    "nguon",
+    "nhip",
+    "nhon",
+    "noi",
+    "nui",
+    "rong",
+    "rung",
+    "sinh",
+    "soi",
+    "son",
+    "song",
+    "suong",
+    "thanh",
+    "thi",
+    "thuc",
+    "tieng",
+    "toc",
+    "truong",
+    "van",
+    "vang",
+    "vung"
+   ],
+   "t": 1795521372,
+   "title": [
+    "ban",
+    "cao",
+    "danh",
+    "hoa",
+    "lich",
+    "nang",
+    "sac",
+    "thuc",
+    "tiem",
+    "van",
+    "vung"
+   ],
+   "url": "https://bnews.vn/da-nang-danh-thuc-tiem-nang-du-lich-tu-ban-sac-van-hoa-vung-cao/445505.html"
   },
   "bnews.vn/da-nang-to-chuc-ngay-hoi-thuong-mai-dien-tu-ket-noi-san-pham-dia-phuong/444296.html": {
    "lead": [
@@ -72365,6 +72455,24 @@
    ],
    "url": "https://www.vietnam.vn/tra-tan-dinh-hinh-khong-gian-phat-trien-moi-voi-tam-nhin-den-nam-2050"
   },
+  "news.google.com/rss/articles/CBMilwFBVV95cUxQTURTUDJQNi0yanRKZ0xoenBHUThJTFg5aHNPaFNTdW4wRm94bmtNR1hmVWV2RjZQa3IyeHVoYmVPQTNhdXFYRjZwdWFpOW8yU0tlSW5JUDJPT3RKbUtLSUJtSllOZk5ldUlyWEliSWEtRFlqb3NyWG94UHJTZThSaWJRc3dzb2JmSXFyYmpHMDlja3RCTHJB?oc=5": {
+   "lead": [],
+   "t": 1795521372,
+   "title": [
+    "ban",
+    "cao",
+    "danh",
+    "hoa",
+    "lich",
+    "nang",
+    "sac",
+    "thuc",
+    "tiem",
+    "van",
+    "vung"
+   ],
+   "url": "https://bnews.vn/da-nang-danh-thuc-tiem-nang-du-lich-tu-ban-sac-van-hoa-vung-cao/445505.html"
+  },
   "news.google.com/rss/articles/CBMilwFBVV95cUxQWTJqQkMyUXlaS3hjakVtQUZFTnpaelU1U3U1Y2xHYllHdTVWcTlCVVUwdWRNVHVQdHFFTUFuZVYwajNUX3FPV2NzOHVSWVg3UEEyeHdkSjZGWlhNQ0d0ZUZhdmVsQktKNkxqOXcwbzVpcFAxSm56eGZvdmZ1OWRCTGZRczB1THhBcmpNSVdXYmVCa1R5Qk1z?oc=5": {
    "lead": [],
    "t": 1794986281,
@@ -72971,6 +73079,27 @@
     "viet"
    ],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjBla1lBaHM2amNjSmU3ZlpVTVpkdlIzNkRxYUV3a19ickt5a01sR2JNaEV2U3dJczFCcTRxR2xBR2Q1NEVKNW9NTUU3WE5uT0JPd3VXUGVKbU15RnJDQ28xWlJjRTJySUxDWl9zUHRNc3cyWlcxdGFaaG9XeXZSMTRpMXFhMlg5RUROaXhTcFFRUk9VUmlCR2xpVQ?oc=5"
+  },
+  "news.google.com/rss/articles/CBMimwFBVV95cUxPY1JHYV9OTkhyRzJ3dEg0aGlNeVB4MFBybENpSENRTGp3dTNWcGhXMFRJZFI4VWRuLWVZNDBvXzBJX1MwdURLUllVbHVvSXdkZFA3NVM5ZHQxTnczNnpSMWRXcjN4UmFFQTJsX0lzbGw0d3JOUkxWRFl4TmQ1aFZZT1hHTjBONDBKVjJMWl9VcDBvOERJblk3UUZtQQ?oc=5": {
+   "lead": [],
+   "t": 1795521372,
+   "title": [
+    "bao",
+    "canh",
+    "dau",
+    "dien",
+    "dieu",
+    "don",
+    "lon",
+    "mua",
+    "nang",
+    "nguon",
+    "nuoc",
+    "thuy",
+    "tiet",
+    "video"
+   ],
+   "url": "https://www.vietnam.vn/video-da-nang-canh-bao-mua-lon-thuy-dien-dau-nguon-dieu-tiet-nuoc-don-lu"
   },
   "news.google.com/rss/articles/CBMimwFBVV95cUxQNENHNW44RWs1bXNhMjNFRkQ3c3dLSUphakwyZ3RtejdXakkwN2gzZTZBUThha1RWRlM5Q2k3c0lCdlFnMDJYU19aZVFrZWoxYl9NUHcwQlBhQUdBZERlWHA1VmJEaHJxazFEWlJweGN3eFVnS3RSXzh2bUZ3Yk9ieTJsZy1PQ1dwQkJOZGZPSTROUDJWZzgyWHhTaw?oc=5": {
    "lead": [],
