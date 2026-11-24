@@ -4266,7 +4266,7 @@
    "priority": "thuong",
    "site": "Vietnam",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Công đoàn xã Nam Phước, Đà Nẵng lan toả những giá trị di sản nhân ngày Văn hoá Việt Nam",
    "urgent": false,
    "url": "https://www.vietnam.vn/cong-doan-xa-nam-phuoc-da-nang-lan-toa-nhung-gia-tri-di-san-nhan-ngay-van-hoa-viet-nam"
@@ -6141,6 +6141,30 @@
    "urgent": false,
    "url": "https://thanhnien.vn/da-nang-quy-hoach-lai-khu-dat-vang-gan-cau-rong-lam-cong-vien-bai-do-xe-18526111610593433.htm"
   },
+  "adecb177": {
+   "caption": "🏔️ ĐÀ NẴNG TRIỂN KHAI KẾ HOẠCH HỖ TRỢ PHÁT TRIỂN TOÀN DIỆN 37 XÃ VÙNG NÚI\n\nĐà Nẵng vừa ban hành kế hoạch thực hiện đề án đổi mới nếp nghĩ và phương thức sản xuất tại 37 xã vùng núi giai đoạn 2026–2030. Chương trình chuyển trọng tâm từ hỗ trợ thụ động sang hướng dẫn, đồng hành nhằm nâng cao năng lực tự chủ cho bà con địa phương. Nhiều mục tiêu sinh kế và hạ tầng được đề ra như đảm bảo toàn bộ hộ dân có điện, nước sạch và bảo hiểm y tế, đồng thời phấn đấu giảm tỷ lệ hộ nghèo đa chiều xuống dưới 14%. Đáng chú ý, thành phố sẽ di dời toàn bộ hộ dân ở các khu vực có nguy cơ sạt lở, lũ quét đến nơi ở mới an toàn, đồng thời miễn 100% học phí và hỗ trợ bữa ăn cho học sinh vùng biên giới. Hi vọng những giải pháp này sẽ tạo nên khởi sắc mới cho đời sống bà con vùng cao 🏔️\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang\nCre: Báo Văn hóa",
+   "card_title": "Đà Nẵng triển khai kế hoạch hỗ trợ phát triển toàn diện 37 xã vùng núi",
+   "category": "doi_song",
+   "created": 1795513884,
+   "flags": [],
+   "id": "adecb177",
+   "images": [
+    "https://cdn.baovanhoa.vn/1200x1200/uploaded/images/2026/11/24/01a20c77-7613-7eba-9aad-cfa36d43f2df.jpg",
+    "https://cdn.baovanhoa.vn/w900/uploaded/images/2026/11/24/01a20c76-300f-7ed4-846b-1a721d4fc066.jpg",
+    "https://cdn.baovanhoa.vn/w900/uploaded/images/2026/11/24/01a20c79-f8e6-7ae8-8723-edad7581381f.jpg",
+    "https://cdn.baovanhoa.vn/w640/uploaded/images/2026/10/28/01a184b2-fe9f-75d4-9799-41290a23980f.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Báo Văn hóa",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Đà Nẵng triển khai đề án thay đổi nếp nghĩ ở 37 xã vùng núi",
+   "urgent": false,
+   "url": "https://baovanhoa.vn/da-nang-trien-khai-de-an-thay-doi-nep-nghi-cach-lam-tai-37-xa.html"
+  },
   "ae901e0a": {
    "caption": "🚂 GIẢM 50% VÉ THAM QUAN DI SẢN HUẾ CHO DU KHÁCH ĐI TÀU HƠI NƯỚC ĐÀ NẴNG\n\nBà con Đà Nẵng có kế hoạch trải nghiệm tuyến tàu du lịch di sản Huế - Đà Nẵng sắp tới sẽ được hưởng ưu đãi giảm 50% phí tham quan các di tích tại Huế. Theo quyết định từ UBND thành phố Huế, mức giảm nửa giá vé áp dụng cho du khách sử dụng tàu du lịch đầu máy hơi nước Huế - Đà Nẵng, chặng Huế - Phong Nha và các đường bay mới khi ghé thăm Đại Nội, Bảo tàng Cổ vật Cung đình Huế cùng lăng các vua Thiệu Trị, Dục Đức, Đồng Khánh. Ngoài ra, người tham gia hội nghị, hội thảo hoặc kết hợp khám chữa bệnh tại các cơ sở y tế trên địa bàn Huế cũng được hưởng mức giảm 30% khi tham quan di sản. Đây là cơ hội tuyệt vời để bà con vừa trải nghiệm cung đường đèo Hải Vân bằng tàu hỏa vừa khám phá Cố đô với chi phí tiết kiệm hơn.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DuLichDaNang #TauHoiNuocHueDaNang\nCre: Dân trí",
    "card_title": "Giảm 50% vé tham quan di sản Huế cho du khách đi tàu hơi nước Đà Nẵng",
@@ -6396,6 +6420,27 @@
    "title": "Đà Nẵng đón cơ hội từ du lịch Halal",
    "urgent": false,
    "url": "https://nhandan.vn/da-nang-don-co-hoi-tu-du-lich-halal-post1003681.html"
+  },
+  "b1a99274": {
+   "caption": "💡 ĐÀ NẴNG VINH DANH SINH VIÊN NGHIÊN CỨU KHOA HỌC VÀ RA MẮT MẠNG LƯỚI KHỞI NGHIỆP\n\nNhiều công trình khoa học và ý tưởng sáng tạo của các bạn trẻ vừa được vinh danh tại sự kiện kết nối khởi nghiệp vừa diễn ra ở Đà Nẵng. Vào ngày 22/11/2026, Sở Khoa học và Công nghệ phối hợp cùng Thành Đoàn tổ chức Festival Khởi nghiệp đổi mới sáng tạo tại Trường Đại học Sư phạm. Ban tổ chức đã trao giải cho 18 đề tài nghiên cứu và lựa chọn 10 dự án vào chung kết cuộc thi ý tưởng khởi nghiệp, tiêu biểu như vòng tay thông minh cảnh báo đột quỵ hay tái tạo phụ phẩm từ dứa. Đáng chú ý, Mạng lưới hỗ trợ thanh niên sinh viên khởi nghiệp thành phố cũng chính thức ra mắt với 19 thành viên cùng Hội đồng cố vấn gồm 06 chuyên gia nhằm giúp đỡ các dự án phát triển thực tế. Các bạn sinh viên đã có dự án nào sẵn sàng cho cuộc thi năm tới chưa?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #SuKienDaNang #KhoiNghiepDaNang\nCre: Vietnam",
+   "card_title": "Đà Nẵng vinh danh sinh viên nghiên cứu khoa học và ra mắt mạng lưới khởi nghiệp",
+   "category": "su_kien",
+   "created": 1795513884,
+   "flags": [],
+   "id": "b1a99274",
+   "images": [
+    "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/24/1795509075268_dsc00754-17954277274072063176880-0-0-1000-1600-crop-17954277351551110290252.jpeg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Vietnam",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Da Nang verbindet wissenschaftliche Forschung mit innovativen Startups.",
+   "urgent": false,
+   "url": "https://www.vietnam.vn/de/da-nang-ket-noi-nghien-cuu-khoa-hoc-voi-khoi-nghiep-doi-moi-sang-tao"
   },
   "b1f99037": {
    "caption": "🎓 TRƯỜNG ĐẠI HỌC ĐÔNG Á NHẬN CỜ THI ĐUA CỦA THÀNH PHỐ\n\nTrường Đại học Đông Á vừa vinh dự đón nhận Cờ thi đua của Ủy ban nhân dân thành phố Đà Nẵng nhờ thành tích dẫn đầu phong trào thi đua năm học 2025-2026. Trong năm qua, nhà trường ghi dấu ấn với việc có thêm 4 chương trình đào tạo đạt chuẩn kiểm định AUN-QA, tăng hạng trong bảng xếp hạng đại học bền vững thế giới và tiếp tục được JETRO bình chọn là đại học tiêu biểu trong hợp tác doanh nghiệp Nhật Bản. Bên cạnh đó, trường cũng công bố nhiều bài báo quốc tế uy tín, ký kết thêm 30 hợp tác doanh nghiệp mới và tuyên dương nhiều sinh viên, giảng viên đạt thành tích cao. Bà con thấy chất lượng đào tạo của các trường đại học tại thành phố mình thời gian qua thế nào.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #GiaoDucDaNang #DaihocDongA\nCre: Tạp chí Công Thương",
@@ -20137,6 +20182,70 @@
     "ven"
    ],
    "url": "https://baovanhoa.vn/da-nang-sap-co-21-mo-hinh-check-in-doc-duong-hoa-bien.html"
+  },
+  "baovanhoa.vn/da-nang-trien-khai-de-an-thay-doi-nep-nghi-cach-lam-tai-37-xa.html": {
+   "lead": [
+    "11",
+    "2026",
+    "2030",
+    "23",
+    "37",
+    "596",
+    "ban",
+    "bao",
+    "cach",
+    "chinh",
+    "dan",
+    "doan",
+    "doi",
+    "dong",
+    "dung",
+    "giai",
+    "gom",
+    "hanh",
+    "het",
+    "hien",
+    "hoach",
+    "huong",
+    "khai",
+    "lam",
+    "mien",
+    "nang",
+    "nep",
+    "nghi",
+    "nhan",
+    "noi",
+    "nui",
+    "pham",
+    "phat",
+    "tap",
+    "thay",
+    "thieu",
+    "thong",
+    "thuc",
+    "toc",
+    "tri",
+    "trien",
+    "trung",
+    "ubnd",
+    "vao",
+    "vua",
+    "vung"
+   ],
+   "t": 1795513884,
+   "title": [
+    "37",
+    "doi",
+    "khai",
+    "nang",
+    "nep",
+    "nghi",
+    "nui",
+    "thay",
+    "trien",
+    "vung"
+   ],
+   "url": "https://baovanhoa.vn/da-nang-trien-khai-de-an-thay-doi-nep-nghi-cach-lam-tai-37-xa.html"
   },
   "baovanhoa.vn/link-xem-truc-tiep-da-nang-vs-ninh-binh-18h00-ngay-22-11-vong-8-v-league-2026-27.html": {
    "lead": [
@@ -71192,6 +71301,23 @@
    ],
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUnFCX01ZQ1lSWjhodFdPNjJpaXhWekw5Rll4M00tYWNyY2NBaHFpTmxWTHlXYjYwUGpsT19selM5T3dKVXRZSnJGSkg4cDFmYXZVbWJWZldnSE1DUzFkVTV6c3F4cjZhdmxycEFReTlRbnJxcXZGZEhEQnBOZHBNbjVWYUQ0NktVeTI5VVRBeWk?oc=5"
   },
+  "news.google.com/rss/articles/CBMikAFBVV95cUxOdEhWMW1DMWpzV3NoNTgxOHVTb3VTOVhkRHRoUVBFZzdxcUx5TWdiNXhFWkxHS0VNa2RlRUpVMF9WenRxcDRpREpnTUpEeVlheXc3MGhPdUJvR3hmazk1c181amxSN1lrSTJldjVrVzgtNDdnR012RVJKMkZyS1ZUdEVvaHhBZWpURWtPNVYyckI?oc=5": {
+   "lead": [],
+   "t": 1795513884,
+   "title": [
+    "37",
+    "doi",
+    "khai",
+    "nang",
+    "nep",
+    "nghi",
+    "nui",
+    "thay",
+    "trien",
+    "vung"
+   ],
+   "url": "https://baovanhoa.vn/da-nang-trien-khai-de-an-thay-doi-nep-nghi-cach-lam-tai-37-xa.html"
+  },
   "news.google.com/rss/articles/CBMikAFBVV95cUxPU2VIc0dkN3hzVGFNZENsbVk2c25qZ1VPVnpuQUY2LXJpZ1FtbEIydkxoaUs3WWUzX2p1dHRaNEJLOUdlU0hNUGtiVG5zQ21kbFpRalBybEdvd2FqblY2a1JiNDlWaDR1YXBHanBuNVd1d0hLSU9BQmV2OUVBTklhaEI5ZHd4SUl1VldoaDZYNTQ?oc=5": {
    "lead": [],
    "t": 1794764278,
@@ -72481,6 +72607,20 @@
     "xsdng"
    ],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmFxLURrWjNCcERqYVNVZUZHWmJwaEppZWxDZ2dXOWxVdlJ1U0ttcExRMXhXcERmY0tZY045VktPZG9DczZKc3hsR3VIa19QeGlCR2hQU2h0NVd5MXpKWkhEWENtME1ucnRZdFBtYkZPU3M5dUxrZ080T3VUeDUxM29fT21ySWFwbjEwYWswU1NVZmpxUHVNb1hn?oc=5"
+  },
+  "news.google.com/rss/articles/CBMimgFBVV95cUxPWkJvbmlVdExmdW56Nmw5RU5TOTRMaEQzakg0YW5VT19BX0s1X3JsLUFMcUFEc21OejFZaXpNWWRobnF1NjVfQ2EtOXE0d1FPYVJYa1ExM21sNndxX3JQWDFleHFzOTM3bEpjWklOdVNRdks5TXFMWEtYRUx2aFpKTmk5cFgwTHhubFRXVXpZNDNRSnE3X25MRUtB?oc=5": {
+   "lead": [],
+   "t": 1795513884,
+   "title": [
+    "forschung",
+    "innovativen",
+    "mit",
+    "nang",
+    "startups",
+    "verbindet",
+    "wissenschaftliche"
+   ],
+   "url": "https://www.vietnam.vn/de/da-nang-ket-noi-nghien-cuu-khoa-hoc-voi-khoi-nghiep-doi-moi-sang-tao"
   },
   "news.google.com/rss/articles/CBMimgFBVV95cUxPaGlMbFQwSW1YQm5fSTYtR25XSUVGLWNYUFBwMjh5bEJvbG9DdHA0WXNUaEo0cmRqdnI3b2J1a0pEQkF2MXhzSmhJSmwtVmlYMG1uUlB2YnVzWEFKeU5DY09MbTlpblFMUHZYQ2lLWGw0WXNMbHdQdGxTaTBOVnU0LVlGMkdqM0RFdlNpN0NGYVcyYzczQld6R3V3?oc=5": {
    "lead": [],
@@ -78190,6 +78330,12 @@
    "t": 1795015650,
    "title": [],
    "url": "https://laodong.vn/cong-doan/lanh-dao-lien-doan-lao-dong-thanh-pho-da-nang-tham-chuc-mung-nganh-giao-duc-1802693.ldo"
+  },
+  "news.google.com/rss/articles/CBMitwFBVV95cUxPcG8xdUpyeVRMZFZ3Uk5iTUstbTF4LVNCMENtMlFMWHdBZUZGNmdXdHlxWVBmSkVBR0lRcmJfUW1GOGJ3Z0lpM0NjNUlFNnl4UU9YT1hkdUdXWGFTZVA0bkg1ZWV3RUJINjJCYlNjdi1yV0lOOGdnZzl5N0RrQlBoYkFCTjQ1elVnbjhwcU1PX1Rudk1URmpzbnE0V1J0Z2ZOZnNzRDF5eU1oYThwWGI3M0JMMzk1aU0?oc=5": {
+   "lead": [],
+   "t": 1795513884,
+   "title": [],
+   "url": "https://laodong.vn/video/can-bo-cong-doan-da-nang-thi-nghiep-vu-tren-nen-tang-egame-tai-ngay-hoi-van-hoa-1805869.ldo"
   },
   "news.google.com/rss/articles/CBMitwFBVV95cUxQMU8ydVRNWV9Ka19NRkJCZHNaV0JzSzV6NVVTb3JDUzNYQnFvYXhrWWl1YVprUU5DbFhBRHJNcHluNHJMaktJX2Y5Q0g4cDFEb01oQVcxdFcyYWRYd3ZyS3JWVmF6VFNFWGhHMGluZHNQN3lXRmpfbDZXTXgwSFBfaTk0Q19HekNPbUZ0XzVVNG9kTjRmbGxiOThQeTVrcGxPcGpRZzdENk1DTEtHWXBIZFExOVhIX1E?oc=5": {
    "lead": [],
@@ -186505,6 +186651,78 @@
     "tuoi"
    ],
    "url": "https://www.vietnam.vn/dap-auto-da-nang-tron-9-tuoi-tu-tiem-phu-kien-nho-den-trung-tam-do-xe-dien-uy-tin"
+  },
+  "vietnam.vn/de/da-nang-ket-noi-nghien-cuu-khoa-hoc-voi-khoi-nghiep-doi-moi-sang-tao": {
+   "lead": [
+    "10",
+    "11",
+    "18",
+    "19",
+    "2026",
+    "22",
+    "chuc",
+    "cong",
+    "cuoc",
+    "das",
+    "die",
+    "doan",
+    "doi",
+    "eines",
+    "erweitert",
+    "festival",
+    "finalrunde",
+    "forschungsergebnisse",
+    "forschungsprojekte",
+    "giai",
+    "grundung",
+    "hoc",
+    "hop",
+    "ideen",
+    "initiativen",
+    "innovative",
+    "jugend",
+    "khoa",
+    "khoi",
+    "markierte",
+    "mit",
+    "mitgliedern",
+    "moglichkeiten",
+    "moi",
+    "nang",
+    "nghe",
+    "nghiep",
+    "phoi",
+    "praxis",
+    "preisen",
+    "sang",
+    "sinh",
+    "startup",
+    "studenten",
+    "tao",
+    "thanh",
+    "thi",
+    "trao",
+    "umzusetzen",
+    "und",
+    "unterstutzungsnetzwerks",
+    "vergabe",
+    "vien",
+    "von",
+    "wissenschaftliche",
+    "wodurch",
+    "wurden"
+   ],
+   "t": 1795513884,
+   "title": [
+    "forschung",
+    "innovativen",
+    "mit",
+    "nang",
+    "startups",
+    "verbindet",
+    "wissenschaftliche"
+   ],
+   "url": "https://www.vietnam.vn/de/da-nang-ket-noi-nghien-cuu-khoa-hoc-voi-khoi-nghiep-doi-moi-sang-tao"
   },
   "vietnam.vn/de/khan-truong-khac-phuc-sat-lo-tren-cac-tuyen-duong-phia-tay-nam-da-nang": {
    "lead": [
