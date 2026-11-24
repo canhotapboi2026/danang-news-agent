@@ -4444,7 +4444,7 @@
    "priority": "thuong",
    "site": "Vietnam",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Polis trafik Da Nang meningkatkan rondaan untuk berkhidmat di Festival Kebudayaan.",
    "urgent": false,
    "url": "https://www.vietnam.vn/ms/csgt-da-nang-tang-cuong-tuan-tra-phuc-vu-ngay-hoi-van-hoa"
@@ -72910,6 +72910,18 @@
    ],
    "url": "https://www.vietnam.vn/da-nang-vao-top-10-diem-den-ly-tuong-dip-giang-sinh-va-nam-moi"
   },
+  "news.google.com/rss/articles/CBMijgFBVV95cUxNZVAteG9zOFZZcHZMeThVSHZCeWJ6bjNlTTRwbUxndGNlVFgzUlZYeTNFczJGbC16c0hqOXp5TkFrb21XNl9SVFhDRHEyRFhiYmNfQ3F2UDZPUDFlTnQxeDdWUzhNU1RyYk40a084LXdjSEJaS20ySW5vTVpEWUFQMHY0WXlqVFNEMjlud0hR?oc=5": {
+   "lead": [],
+   "t": 1795555648,
+   "title": [
+    "feyenoord",
+    "porto",
+    "sestavy",
+    "zakladni",
+    "zive"
+   ],
+   "url": "https://www.vietnam.vn/cs/truc-tieptruc-tiep-feyenoord-vs-fc-porto-doi-hinh-xuat-phat"
+  },
   "news.google.com/rss/articles/CBMijgFBVV95cUxNaWVBdDltdmRvUkRnbDVSeU5TN2MtY2JKbzBqcGZTUTlyb2toR1drYWFyOXBFR3Z6TnM4WnFCOWZXZkl6T3VMNHR2QTR1NUxUUG05RkkwRUdhQk9xc3ktVHU2dmlGLVBZWEV0SjJhTmplVmVjX0JlaVJWbzBuRlNsNC1QMzNzVldHUW9vZ3NR?oc=5": {
    "lead": [],
    "t": 1795225628,
@@ -95663,6 +95675,26 @@
     "viet"
    ],
    "url": "https://thanhnien.vn/dan-sao-tham-tu-kien-gap-go-hang-nghin-khan-gia-mung-ngay-van-hoa-viet-nam-185261124133825781.htm"
+  },
+  "thanhnien.vn/dan-sao-tre-khang-dinh-tai-nang-dai-hoi-the-thao-toan-quoc-rat-hap-dan-185261124213840989.htm": {
+   "lead": [],
+   "t": 1795555648,
+   "title": [
+    "dai",
+    "dan",
+    "dinh",
+    "hap",
+    "hoi",
+    "khang",
+    "nang",
+    "quoc",
+    "sao",
+    "thao",
+    "the",
+    "toan",
+    "tre"
+   ],
+   "url": "https://thanhnien.vn/dan-sao-tre-khang-dinh-tai-nang-dai-hoi-the-thao-toan-quoc-rat-hap-dan-185261124213840989.htm"
   },
   "thanhnien.vn/dang-cong-hoa-nhan-them-cu-soc-lon-tai-thanh-tri-mississippi-185261112091724127.htm": {
    "lead": [],
@@ -126949,6 +126981,25 @@
     "trung"
    ],
    "url": "https://thanhnien.vn/toan-canh-17h-xe-cong-nghe-tong-gay-tru-dien-hy-huu-tang-ban-9-16-ve-so-ca-nhom-trung-32-ti-185261121170729506.htm"
+  },
+  "thanhnien.vn/toan-canh-6-cong-ngan-trieu-o-tphcm-truoc-gio-van-hanh-lien-hoan-18526112317032715.htm": {
+   "lead": [],
+   "t": 1795555648,
+   "title": [
+    "6",
+    "canh",
+    "cong",
+    "gio",
+    "hanh",
+    "hcm",
+    "hoan",
+    "lien",
+    "ngan",
+    "toan",
+    "trieu",
+    "van"
+   ],
+   "url": "https://thanhnien.vn/toan-canh-6-cong-ngan-trieu-o-tphcm-truoc-gio-van-hanh-lien-hoan-18526112317032715.htm"
   },
   "thanhnien.vn/toan-canh-cau-long-thanh-du-an-mo-rong-cao-toc-tphcm-long-thanh-185261115164316527.htm": {
    "lead": [],
