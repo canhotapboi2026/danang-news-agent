@@ -1763,7 +1763,7 @@
    "priority": "thuong",
    "site": "Báo Văn hóa",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 771,
    "title": "Đà Nẵng tổ chức chương trình nghệ thuật sắc màu đại ngàn",
    "urgent": false,
@@ -9101,6 +9101,31 @@
    "urgent": false,
    "url": "https://www.vietnam.vn/hon-30-cum-den-long-nghe-thuat-sap-thap-sang-pho-co-hoi-an"
   },
+  "e8f8f9a7": {
+   "caption": "🤝 NHÌN LẠI HÀNH TRÌNH ĐỒNG HÀNH VÀ TRỢ GIÚP CỘNG ĐỒNG TẠI ĐÀ NẴNG\n\nNhìn lại một năm qua, tổ chức Caritas tại Đà Nẵng đã triển khai nhiều hoạt động thiện nguyện thiết thực để trợ giúp những hoàn cảnh khó khăn trên địa bàn. Không chỉ kịp thời ứng cứu và chuyển nhu yếu phẩm đến bà con vùng thiên tai, đơn vị còn hỗ trợ sửa nhà, trao cây giống vật nuôi và hỗ trợ xây dựng nhà vệ sinh cho 50 hộ gia đình khó khăn. Bên cạnh đó, dự án xe lăn lưu động chính thức ra mắt từ ngày 12/10/2026 cùng các phiên siêu thị miễn phí đã hỗ trợ thiết thực cho người yếu thế. Các hội viên cũng kiên trì đến tận nhà đồng hành phục hồi chức năng cho 38 trẻ bại não và duy trì thăm hỏi định kỳ khoảng 250 cụ già neo đơn. Những việc làm nghĩa tình này đã góp phần lan tỏa tình yêu thương và tiếp thêm động lực cho nhiều mảnh đời yếu thế.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #NguoiDaNang #CaritasDaNang\nCre: Giáo phận Đà Nẵng",
+   "card_title": "Nhìn lại hành trình đồng hành và trợ giúp cộng đồng tại Đà Nẵng",
+   "category": "con_nguoi",
+   "created": 1795587407,
+   "flags": [],
+   "id": "e8f8f9a7",
+   "images": [
+    "https://giaophandanang.org/wp-content/uploads/2026/11/CARITAS-gpdn-jpeg.jpg",
+    "https://live.staticflickr.com/65535/55672938525_553a490eb5_n.jpg",
+    "https://live.staticflickr.com/65535/55672631278_69402ed1e1_n.jpg",
+    "https://live.staticflickr.com/65535/55672695314_274b54a6dc_n.jpg",
+    "https://live.staticflickr.com/65535/55672527906_833c29b435_n.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Giáo phận Đà Nẵng",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Caritas Đà Nẵng: Một Năm Nhìn Lại",
+   "urgent": false,
+   "url": "https://giaophandanang.org/caritas-da-nang-mot-nam-nhin-lai/"
+  },
   "e9183924": {
    "caption": "🏃 HƠN 12.000 HỌC SINH VÀ PHỤ HUYNH ĐÀ NẴNG SÔI NỔI THAM GIA GIẢI CHẠY S-RACE\n\nGiải chạy học đường S-Race 2026 tại Đà Nẵng vừa ghi nhận sự tham gia sôi nổi của hơn 12.000 học sinh, phụ huynh cùng các thầy cô giáo trên toàn địa bàn. Sự kiện diễn ra với các nội dung thi đấu trực tiếp cùng 15 điểm chạy hưởng ứng, dành cho học sinh từ cấp tiểu học đến THPT ở cự ly từ 1 km đến 3 km. Bên cạnh tổng giá trị giải thưởng 142 triệu đồng dành cho các cá nhân và tập thể xuất sắc, giải chạy đã mang đến sân chơi ý nghĩa nhằm khuyến khích tinh thần rèn luyện thể thao và vượt qua giới hạn bản thân của thế hệ trẻ. Nhà mình có em nhỏ nào vừa tham gia thử sức trên đường chạy cuối tuần qua không nhỉ? 🏃\n\n#DaNang #SRaceDaNang #TheThaoHocDuong\nCre: Báo điện tử VTC News",
    "card_title": "Hơn 12.000 học sinh và phụ huynh Đà Nẵng sôi nổi tham gia giải chạy S-Race",
@@ -10129,6 +10154,7 @@
   "news.google.com/rss/articles/CBMiU0FVX3lxTE9tZ2g5MUE4OV9KdS1GM3ZFcm5XT2loa29pcEs0N082dkJxbFpFamJFNkNXbFRqUUtJVVFtQWpXNjlhSzB2MktlbXRlZGQwLW8zZ2NV?oc=5": 1,
   "news.google.com/rss/articles/CBMiU0FVX3lxTE9xYXpWa2EybWlyWkhWdlg2aWdKakhNTjR2Z3Noa0NGSjZ0U242MjQ0ZTRyZEhBUXY4MGtUMGRqTzd6Ml9KbzBDa2hPRUJVaVcxNXpB?oc=5": 1,
   "news.google.com/rss/articles/CBMie0FVX3lxTE1TRmY3V0EwVW83ZmhlQXZyZnJLNGZidUU2M09JQktlQmZzSWQtVzFnUldFWnlYenN1MnVqQlNHcHMtQldCelMzakd6ZkYxRkVGdURySnpPSGNNX2lPVzNwMGdGbXloMUVCemxaRVg4TWIzSExlVlVlZ1lLWQ?oc=5": 1,
+  "news.google.com/rss/articles/CBMif0FVX3lxTE1sOVFQZjlPVEFpSThzNnp3RUN1ZEZjRDhKLW4xd211ckJicW11bVptQlNfSzB4V1drNUpZd2pIbGlVT2doOUxSSGxsaWRVelBQUUZnM0d5VVo4RS1odldtVnB2MlpQV2lDYWt1cG40YjEzUzlKeGp3d3BKU21oeEU?oc=5": 1,
   "news.google.com/rss/articles/CBMif0FVX3lxTE9UUzNTdGZhS2F5MDg0R1cxakZya2c1bk4xQXU0d2UxNWVoWXMtZnRMY2F3YTF6RE5hV3ctcDFQNG9QUkFLblpJWTAzdkZ0Si11cjFNNjI3d3dRZGlrMEJ4QUFObmpra25oSlltWGxnSFFVemQycm9vRkN3MjBWUFk?oc=5": 1,
   "news.google.com/rss/articles/CBMifEFVX3lxTE1jMEhXRUl4cVpEWlc0X3FZa1BUblhQSGMyLWlWS1lNSG9GczlFUEtEOW5hR3h0T1FtbkpVWVJyTDZza3NXYlpKcDFsMmdaV0x3eC1qRWx4NTBjX2dUbDEtWTd1bFp5ZWRZUUVMaDhGREJXVng4N1lfR1kxeDI?oc=5": 2,
   "news.google.com/rss/articles/CBMigwFBVV95cUxOelRtTWh2ZUFUMzl0SWJIMy1KVTZ2UllIMnJzVkF6NmlxMzEzaGg5al9YNGY5WjB5RDFVazhnX09sNUFyTUg3S0xUcGJlTzJNSGZHZWxyZ05rSHVQYnJPWFBNb3RHT0QxR0RTMVVIVEpSZktydXV2STRheU8tV2szZXFuMA?oc=5": 1,
@@ -71226,6 +71252,65 @@
    ],
    "url": "https://giaoducthoidai.vn/phu-huynh-fpt-school-da-nang-dung-lop-day-hoc-sinh-ky-nang-an-toan-so-post800434.html"
   },
+  "giaophandanang.org/caritas-da-nang-mot-nam-nhin-lai": {
+   "lead": [
+    "bac",
+    "ban",
+    "buoc",
+    "buoi",
+    "caritas",
+    "cha",
+    "chan",
+    "chu",
+    "chua",
+    "chuan",
+    "chuc",
+    "chung",
+    "dac",
+    "dai",
+    "dang",
+    "dien",
+    "doi",
+    "gia",
+    "giao",
+    "giua",
+    "hanh",
+    "hat",
+    "hoi",
+    "khoi",
+    "lai",
+    "loi",
+    "mua",
+    "nang",
+    "nhin",
+    "pham",
+    "phong",
+    "phuc",
+    "qua",
+    "quy",
+    "sai",
+    "tam",
+    "tay",
+    "thi",
+    "thua",
+    "thuong",
+    "tinh",
+    "ton",
+    "trach",
+    "van",
+    "vao",
+    "vien",
+    "vong"
+   ],
+   "t": 1795587407,
+   "title": [
+    "caritas",
+    "lai",
+    "nang",
+    "nhin"
+   ],
+   "url": "https://giaophandanang.org/caritas-da-nang-mot-nam-nhin-lai/"
+  },
   "giaophandanang.org/dai-hoi-huynh-doan-thanh-the-giao-phan-da-nang": {
    "lead": [
     "11",
@@ -73268,6 +73353,17 @@
     "ung"
    ],
    "url": "https://www.vietnam.vn/chu-dong-ung-pho-dich-benh-truyen-nhiem"
+  },
+  "news.google.com/rss/articles/CBMibEFVX3lxTFBRLWE4ejdFa20zWGh4Zjl3eXRwb0xSaHRZX2pFNDg0T0R2Nkx6UTNhZ2lhZXNFLXpObDh1dFd2N0Fkb2ttek1vQ245NHVtVGl3RmlDVV9uRWU1QTA3MnNOQ051RWIwbXBPNUQ4ag?oc=5": {
+   "lead": [],
+   "t": 1795587407,
+   "title": [
+    "caritas",
+    "lai",
+    "nang",
+    "nhin"
+   ],
+   "url": "https://giaophandanang.org/caritas-da-nang-mot-nam-nhin-lai/"
   },
   "news.google.com/rss/articles/CBMibkFVX3lxTE1iRUQ0c1p2ZmJRY3VHTS11RXkzbTAyUnJRSVdzbUFSWWhoYmNMa1cyNmowNEFMblBVRXRmV3RLZ2xJYnE0dVhHUUkwUVZiVUwwbDJFNG1odThKbXpMWTVmNnBQN1pqOEhGTkJScm13?oc=5": {
    "lead": [],
@@ -80366,6 +80462,25 @@
     "viet"
    ],
    "url": "https://tin.skydoor.net/news/viet-nam/cac-thanh-pho-di-san-se-gap-nhau-tai-da-nang-dip-50-nam-viet-8449739"
+  },
+  "news.google.com/rss/articles/CBMiqgFBVV95cUxQQlNTMU5GdTMxWDYzOHJIOU10Q2pmTXo2T2xZTXVIVEUxWm9wS3diRmlBNkFmbmVHLUZudlNjZUxMakhsVXN2ZUFMbDBRbENGdDVpQlB1U0F5T2hCUTh6UTdVNng4cHhvUlI3d0V4TE9UMHN4REpIcEt4RmdqNkhma1pvRHlZeWJzekZJazhwUVk5TFdrUHI0em9MUzZaeXNVa0dSZ05icGx5UQ?oc=5": {
+   "lead": [],
+   "t": 1795587407,
+   "title": [
+    "7",
+    "cong",
+    "dinh",
+    "gan",
+    "gia",
+    "giup",
+    "lac",
+    "lai",
+    "luu",
+    "nang",
+    "phuong",
+    "tim"
+   ],
+   "url": "https://cand.vn/cong-an-phuong-o-da-nang-giup-mot-nguoi-luu-lac-gan-7-nam-tim-lai-gia-dinh-post828653.html"
   },
   "news.google.com/rss/articles/CBMiqgFBVV95cUxQRENvbnJJVHlTOGdyYXYzdHZucVFmVFVkZ1NndjR5Ui12ZUQ2MC1OZ1J0Q0dOaTBKVjVCMUdKT3Jod0w1U2g2amlEZy1VWEEwRFZPWTQxb2pHdjFyWU5ZLUFWbkxzNWJWdjROV3RhNHpMOGxBZ2huZnFXT0VPcUxQa1NZM3RQaUdERlNoOHhUb0p1Z3FTN1Z0T3IyZEkwR040QkpyV1F0UFYtZw?oc=5": {
    "lead": [],
