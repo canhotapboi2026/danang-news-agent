@@ -2388,6 +2388,27 @@
    "urgent": false,
    "url": "https://www.vietnam.vn/vong-8-v-league-2026-27-hoang-duc-toa-sang-ninh-binh-vuot-ai-chi-lang"
   },
+  "3feb7582": {
+   "caption": "💡 THỢ ĐIỆN KỊP THỜI DẬP TẮT ĐÁM CHÁY TẠI NHÀ TRỌ ĐƯỜNG LÝ THÁI TÔNG\n\nVào chiều ngày 23/11/2026, anh Đặng Văn Tùng công tác tại Điện lực Thanh Khê đã nhanh chóng cùng người dân dập tắt đám cháy phát sinh từ một phòng trọ tại số 10 đường Lý Thái Tông, phường Thanh Khê, thành phố Đà Nẵng. Sự cố xuất phát từ việc máy lạnh chạy quá tải do bật liên tục không nghỉ, may mắn là sự can thiệp kịp thời của nhân viên ngành điện cùng đồng nghiệp và lực lượng chuyên nghiệp đã khống chế hoàn toàn ngọn lửa, ngăn chặn việc lan rộng và bảo đảm an toàn tính mạng cũng như tài sản cho người dân quanh vùng. Qua tình huống này, đơn vị cung cấp điện cũng lưu ý bà con cần cẩn trọng hơn trong việc vận hành các thiết bị công suất lớn tại các khu lưu trú.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang #ThanhKhe\nCre: Vietnam",
+   "card_title": "Thợ điện kịp thời dập tắt đám cháy tại nhà trọ đường Lý Thái Tông",
+   "category": "doi_song",
+   "created": 1795593465,
+   "flags": [],
+   "id": "3feb7582",
+   "images": [
+    "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/25/1795580673978_2b92b56f-068c-4d9a-a901-5206efa12f9b.jpeg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Vietnam",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Modige elektrikere hjælper med at få slukket branden på et pensionat i Da Nang City.",
+   "urgent": false,
+   "url": "https://www.vietnam.vn/da/tho-dien-dung-cam-ho-tro-khong-che-dam-chay-nha-tro-tai-tp-da-nang"
+  },
   "40250f60": {
    "caption": "🌾 MÔ HÌNH CÂY NÊU LỜI HỨA GIÚP BÀ CON XÃ THẠNH MỸ NÂNG CAO Ý THỨC CHẤP HÀNH PHÁP LUẬT\n\nChiều 23/11, Hội LHPN thành phố Đà Nẵng phối hợp cùng UBND xã Thạnh Mỹ tổ chức ra mắt mô hình Cây nêu lời hứa – Bản làng hiểu luật, giữ bản sắc. Tại chương trình, người dân địa phương cùng các đại biểu đã trực tiếp gửi gắm những cam kết thiết thực như đẩy lùi tảo hôn, không bạo lực gia đình, chăm lo cho trẻ đến trường và gìn giữ trang phục cùng làn điệu truyền thống lên cây nêu. Nhằm đồng hành và hỗ trợ bà con thực hiện đúng cam kết, địa phương cũng thành lập Tổ điều hành với sự tham gia của chính quyền, công an, y tế và các đoàn thể cơ sở. Hy vọng cách làm sáng tạo này sẽ đem lại nhiều thay đổi tích cực cho đời sống của bà con Thạnh Mỹ trong thời gian tới. 🌾\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang #ThanhMy\nCre: Vietnam",
    "card_title": "Mô hình Cây nêu lời hứa giúp bà con xã Thạnh Mỹ nâng cao ý thức chấp hành pháp luật",
@@ -3247,7 +3268,7 @@
    "priority": "thuong",
    "site": "Tạp chí Môi trường",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng: Hòa Khánh huy động cộng đồng vệ sinh môi trường, phòng, chống sốt xuất huyết",
    "urgent": false,
    "url": "https://tapchimoitruong.vn/da-nang-hoa-khanh-huy-dong-cong-dong-ve-sinh-moi-truong-phong-chong-sot-xuat-huyet-16317.html"
@@ -4014,7 +4035,7 @@
    "priority": "thuong",
    "site": "Sohuutritue",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng: Công an phường Hòa Cường trang bị kỹ năng phòng, chống ma túy, bạo lực học đường và bảo vệ học sinh trên không gian mạng",
    "urgent": false,
    "url": "https://sohuutritue.net.vn/da-nang-cong-an-phuong-hoa-cuong-trang-bi-ky-nang-phong-chong-ma-tuy-bao-luc-hoc-duong-va-bao-ve-hoc-sinh-tren-khong-gian-mang-d437763.html"
@@ -75958,6 +75979,22 @@
     "tiet"
    ],
    "url": "https://tuoitre.vn/da-nang-mua-lon-tu-dem-nay-thuy-dien-xa-dieu-tiet-100261124074917032.htm"
+  },
+  "news.google.com/rss/articles/CBMilwFBVV95cUxNN045R1RsYTU4eWZiUXctOVF0bzdUdTdEOFZKNUdjUDRsaldWalhUalR2akpJVktJaDFDb3paZXViR0w2eTJFeUt5OXNMLUtzY3FkRFNkNEp2VHRXaVdjWHRrZGhKZEdIYmhreTRjS0tObkx6aVpQVzk2QmJhWHRDNFQ4OVR2MXdwY251Z3dRMHBHT1lsSzBF?oc=5": {
+   "lead": [],
+   "t": 1795593465,
+   "title": [
+    "branden",
+    "city",
+    "elektrikere",
+    "lper",
+    "med",
+    "modige",
+    "nang",
+    "pensionat",
+    "slukket"
+   ],
+   "url": "https://www.vietnam.vn/da/tho-dien-dung-cam-ho-tro-khong-che-dam-chay-nha-tro-tai-tp-da-nang"
   },
   "news.google.com/rss/articles/CBMilwFBVV95cUxNRU1WX0w4VE9YTXJXM0dyN2JhMTB5VzNfRk50OFVnYXFmT0hGTlhKa21zVUtCdlU5ZFQxbkRnS3ZCSDlacWdDSDVScUNwaGlXNER5Vmt6aUJBV1FwdGQ4N0ZDWWdMT2lTX0lrUDI3X25SejU4Rk1femstTy1hNFhQcG5aaHVYbkVGdzNueE9NekhFRDFXa3dn?oc=5": {
    "lead": [],
@@ -195713,6 +195750,77 @@
     "the"
    ],
    "url": "https://www.vietnam.vn/da/du-an-tha-luoi-uoc-mo-tiep-suc-con-ngu-dan-den-truong"
+  },
+  "vietnam.vn/da/tho-dien-dung-cam-ho-tro-khong-che-dam-chay-nha-tro-tai-tp-da-nang": {
+   "lead": [
+    "10",
+    "11",
+    "2026",
+    "23",
+    "ansvarsf",
+    "bat",
+    "brand",
+    "bung",
+    "chieu",
+    "company",
+    "dang",
+    "der",
+    "dermed",
+    "duong",
+    "for",
+    "forhindrede",
+    "hjalp",
+    "hos",
+    "ilden",
+    "kem",
+    "khe",
+    "lelse",
+    "lua",
+    "med",
+    "medarbejder",
+    "nang",
+    "ngo",
+    "ngoi",
+    "ngon",
+    "nha",
+    "omradet",
+    "opdagede",
+    "opstod",
+    "over",
+    "pensionat",
+    "phat",
+    "phuong",
+    "power",
+    "professionelle",
+    "reflekser",
+    "samfundet",
+    "sig",
+    "sine",
+    "skarpe",
+    "slukke",
+    "sprede",
+    "straks",
+    "thai",
+    "thanh",
+    "the",
+    "tong",
+    "tung",
+    "van",
+    "xay"
+   ],
+   "t": 1795593465,
+   "title": [
+    "branden",
+    "city",
+    "elektrikere",
+    "lper",
+    "med",
+    "modige",
+    "nang",
+    "pensionat",
+    "slukket"
+   ],
+   "url": "https://www.vietnam.vn/da/tho-dien-dung-cam-ho-tro-khong-che-dam-chay-nha-tro-tai-tp-da-nang"
   },
   "vietnam.vn/dap-auto-da-nang-tron-9-tuoi-tu-tiem-phu-kien-nho-den-trung-tam-do-xe-dien-uy-tin": {
    "lead": [
