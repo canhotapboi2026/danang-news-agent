@@ -110,6 +110,30 @@
    "urgent": false,
    "url": "https://www.vietnam.vn/mo-co-hoi-tu-tai-chinh-xanh"
   },
+  "040385e4": {
+   "caption": "🎄 CHỢ GIÁNG SINH ĐÀ NẴNG MỞ CỬA MIỄN PHÍ VỚI HƠN 70 GIAN HÀNG\n\nKhông khí lễ hội sắp ngập tràn phố biển khi Chợ Giáng sinh Đà Nẵng 2026 chính thức diễn ra từ ngày 3 đến 6-12 tại khuôn viên ngoài trời Trung tâm Hội nghị Ariyana trên đường Võ Nguyên Giáp. Sự kiện năm nay quy tụ hơn 70 gian hàng ẩm thực, quà tặng thủ công cùng nhiều hoạt động giải trí đặc sắc như trình diễn lửa, hợp xướng, diễu hành và khu vui chơi riêng cho trẻ em. Đặc biệt, người dân cùng du khách có thể ghé thăm chụp ảnh và trải nghiệm hoàn toàn miễn phí vé vào cửa từ 10h đến 22h hằng ngày, với dự kiến thu hút khoảng 50.000 lượt khách ghé thăm. Bà con đã lên kế hoạch rủ người thân và bạn bè đi tham quan chưa?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #SuKienDaNang #ChoGiangSinhDaNang\nCre: Tuổi Trẻ",
+   "card_title": "Chợ Giáng sinh Đà Nẵng mở cửa miễn phí với hơn 70 gian hàng",
+   "category": "su_kien",
+   "created": 1795602281,
+   "flags": [],
+   "id": "040385e4",
+   "images": [
+    "https://cdn2.tuoitre.vn/zoom/1200_1200/471584752817336320/2026/11/25/0-1795596417982810935184-129-0-1230-2103-crop-17955967625221318224144.jpg",
+    "https://cdn2.tuoitre.vn/zoom/211_132/471584752817336320/2026/11/25/ba-bui-thi-xong-anh-rehahn-croquevielle-17955793719301142896987-30-0-894-1382-crop-17955794209572006844496.jpg",
+    "https://cdn2.tuoitre.vn/zoom/211_132/471584752817336320/2026/11/24/cau-rong-tu-tren-cao-1516009392318-0-86-1125-1886-crop-17955210203781978294146.jpg",
+    "https://cdn2.tuoitre.vn/zoom/211_132/471584752817336320/2026/11/24/dsc7871-17954898872311884961883-0-0-1600-2560-crop-17954900042341393788647.jpeg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Tuổi Trẻ",
+   "source": "Tuổi Trẻ - Tin mới nhất",
+   "status": "queued",
+   "title": "Đà Nẵng mở chợ Giáng sinh hơn 70 gian hàng, miễn phí vào cửa, dự kiến đón 50.000 khách",
+   "urgent": false,
+   "url": "https://tuoitre.vn/da-nang-mo-cho-giang-sinh-hon-70-gian-hang-mien-phi-vao-cua-du-kien-don-50000-khach-1002611251556559.htm"
+  },
   "04264cad": {
    "caption": "🌧️ GIẢI PHÁP HẠ MỰC NƯỚC HỒ ĐỂ GIẢM NGẬP TRUNG TÂM ĐÀ NẴNG\n\nTrận mưa lớn vào chiều 20-11 với cường độ đo được 45,6mm/h đã khiến nhiều tuyến đường trung tâm thành phố như Nguyễn Văn Linh, Hàm Nghi, Tô Ngọc Vân và Quang Dũng ngập sâu, khiến người dân chật vật đẩy xe chết máy. Trao đổi về vấn đề này, chuyên gia từ Trường đại học Bách khoa Đà Nẵng cho biết nguyên nhân do dung tích hồ Thạc Gián và Vĩnh Trung còn nhỏ, khoảng 94.407m³, khiến khả năng thoát nước tự chảy bị hạn chế khi mưa lớn. Để khắc phục tình trạng này, giải pháp được đưa ra là bổ sung trạm bơm công suất 2-3 m³/s nhằm chủ động hạ thấp mực nước hồ công viên 29/3 trước mỗi đợt mưa từ 6-12 giờ, qua đó tăng khả năng trữ nước cho các hồ khu vực lân cận.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang #chongngapDanang\nCre: Tuổi Trẻ",
    "card_title": "Giải pháp hạ mực nước hồ để giảm ngập trung tâm Đà Nẵng",
@@ -881,7 +905,7 @@
    "priority": "thuong",
    "site": "Tuổi Trẻ",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "queued",
+   "status": "expired",
    "title": "Đưa Đà Nẵng thành thương hiệu toàn cầu: Bài 3 - Nhớ đến Đà Nẵng từ 'những đại sứ chân đất'",
    "urgent": false,
    "url": "https://tuoitre.vn/dua-da-nang-thanh-thuong-hieu-toan-cau-bai-3-nho-den-da-nang-tu-nhung-dai-su-chan-dat-100261123164436429.htm"
@@ -6249,6 +6273,51 @@
    "urgent": false,
    "url": "https://moitruong.net.vn/da-nang-siet-quan-ly-tau-ca-bao-dam-an-toan-cho-ngu-dan-tren-bien-104225.html"
   },
+  "a411f128": {
+   "caption": "🌊 XÁC ĐỊNH TRÁCH NHIỆM VỤ XẢ NƯỚC THẢI GÂY Ô NHIỄM HỒ ĐIỀU TIẾT ĐIỆN NGỌC\n\nLiên quan đến phản ánh ô nhiễm tại hồ điều tiết Điện Ngọc ở Khu đô thị số 9, phường Điện Bàn Đông, cơ quan chức năng đã làm rõ nguyên nhân do nước thải sơ chế gia cầm và sinh hoạt từ chợ chưa qua xử lý chuẩn đã xả thẳng ra hồ. Trách nhiệm được xác định thuộc về chủ đầu tư dự án do chưa hoàn thiện hệ thống xử lý nước thải tập trung và đơn vị quản lý chợ vì buông lỏng kiểm soát nguồn thải. Để khắc phục, chính quyền địa phương đã yêu cầu chủ đầu tư khẩn trương có giải pháp xử lý tạm thời, đồng thời cho tạm dừng ngay hoạt động giết mổ gia cầm tại chợ tới khi bảo đảm các điều kiện về môi trường. Hi vọng các đơn vị liên quan sớm xử lý dứt điểm để trả lại bầu không khí trong lành cho bà con sống quanh khu vực 🌿\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang\nCre: Báo điện tử Công Lý",
+   "card_title": "Xác định trách nhiệm vụ xả nước thải gây ô nhiễm hồ điều tiết Điện Ngọc",
+   "category": "doi_song",
+   "created": 1795602281,
+   "fb_link": "https://www.facebook.com/904711256069968_122126051037267109",
+   "fb_post_id": "904711256069968_122126051037267109",
+   "flags": [],
+   "id": "a411f128",
+   "images": [
+    "https://cly.1cdn.vn/2026/11/25/img_6860.jpg",
+    "https://cly.1cdn.vn/2026/11/25/img_6853-1-.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Báo điện tử Công Lý",
+   "source": "Google News - Đà Nẵng",
+   "status": "posted",
+   "title": "Đà Nẵng: Trách nhiệm để xảy ra ô nhiễm tại hồ Điện Ngọc thuộc về đơn vị nào?",
+   "urgent": false,
+   "url": "https://congly.vn/da-nang-trach-nhiem-de-xay-ra-o-nhiem-tai-ho-dien-ngoc-thuoc-ve-don-vi-nao-549162.html"
+  },
+  "a52ee91b": {
+   "caption": "🏗️ HĐND THÀNH PHỐ ĐÀ NẴNG CHỈ RA NHIỀU VƯỚNG MẮC TRONG QUẢN LÝ KHOÁNG SẢN\n\nBan Đô thị HĐND thành phố Đà Nẵng vừa thực hiện giám sát chuyên đề liên quan đến việc quản lý và khai thác khoáng sản phục vụ xây dựng trên địa bàn 🏗️ Dù hoạt động này thời gian qua đã hỗ trợ tích cực cho các công trình đầu tư công và sự phát triển chung, cơ quan chức năng ghi nhận vẫn còn không ít điểm nghẽn. Cụ thể, cuộc giám sát đã chỉ ra các vướng mắc về thể chế, rủi ro đứt gãy nguồn cung vật liệu, bất cập khi đấu giá mỏ cũng như sai phạm trong nghĩa vụ thuế và bảo vệ môi trường. Bà con quan tâm đến tiến độ các dự án hạ tầng tại địa phương có suy nghĩ gì về vấn đề này?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #KinhTeDaNang\nCre: Vietnam",
+   "card_title": "HĐND thành phố Đà Nẵng chỉ ra nhiều vướng mắc trong quản lý khoáng sản",
+   "category": "kinh_te",
+   "created": 1795602281,
+   "flags": [],
+   "id": "a52ee91b",
+   "images": [
+    "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/25/1795595195331_da-nang-khoang-san_-khoang-trong-quy-hoach.png"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Vietnam",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Cần lấp “khoảng trống” trong quy hoạch, quản lý khoáng sản tại Đà Nẵng",
+   "urgent": false,
+   "url": "https://www.vietnam.vn/can-lap-khoang-trong-trong-quy-hoach-quan-ly-khoang-san-tai-da-nang"
+  },
   "a5525196": {
    "caption": "🌧️ NỖ LỰC TÌM KIẾM NAM THANH NIÊN NGHI BỊ NƯỚC CUỐN TRÔI TẠI CẦU CHÌM\n\nLực lượng chức năng cùng người dân địa phương đang tích cực tổ chức tìm kiếm một nam thanh niên 28 tuổi mất tích khi đi qua khu vực cầu Chìm bắc qua sông Tiên. Khoảng 23 giờ khuya 20-11, anh T.Đ.T. đi xe máy qua cầu trong thời điểm địa bàn có mưa lớn, nước từ thượng nguồn đổ về tràn qua mặt cầu và chảy rất mạnh. Trích xuất hình ảnh từ camera khu vực cho thấy chiếc xe máy nghi của nạn nhân di chuyển đến giữa cầu thì đèn xe vụt tắt, các camera đối diện cũng không ghi nhận người đi qua bên kia cầu. Nhận định nạn nhân có thể đã bị dòng nước xiết cuốn trôi, công tác cứu nạn đã được triển khai liên tục từ ngày 21-11 nhưng đến sáng 22-11 vẫn chưa tìm thấy tung tích.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang #CauChim\nCre: Tuổi Trẻ",
    "card_title": "Nỗ lực tìm kiếm nam thanh niên nghi bị nước cuốn trôi tại cầu Chìm",
@@ -6881,6 +6950,30 @@
    "title": "Trung bộ đối mặt đợt mưa lớn phức tạp, kéo dài hết tháng 11",
    "urgent": true,
    "url": "https://anninhthudo.vn/trung-bo-doi-mat-dot-mua-lon-phuc-tap-keo-dai-het-thang-11-post676717.antd"
+  },
+  "b277f158": {
+   "caption": "🏖️ ĐÀ NẴNG CHÍNH THỨC THÀNH LẬP CHI HỘI ĐIỂM ĐẾN XANH THÚC ĐẨY DU LỊCH BỀN VỮNG\n\nChiều ngày 25/11, Chi hội Điểm đến xanh Đà Nẵng đã tổ chức thành công Đại hội lần thứ I nhiệm kỳ 2026–2030 tại Đảo Ký Ức Hội An. Sự kiện đánh dấu bước hợp nhất giữa Câu lạc bộ Điểm đến xứ Quảng và Câu lạc bộ Du lịch xanh, đồng thời bầu ông Phan Xuân Thanh giữ chức Chủ tịch Chi hội. Với 52 thành viên ban đầu gồm nhiều doanh nghiệp lữ hành, lưu trú, điểm đến và cộng đồng local, đơn vị hướng tới mục tiêu phát triển mô hình du lịch có trách nhiệm. Đến năm 2030, chi hội kỳ vọng kết nối từ 100 đến 150 hội viên và đồng hành hỗ trợ khoảng 50–70 cơ sở kinh doanh chuyển đổi xanh thành công. Bà con có mong chờ những trải nghiệm du lịch thân thiện với môi trường trong thời gian tới không? 🌿\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DuLichDaNang #DuLichXanh\nCre: Báo Đà Nẵng",
+   "card_title": "Đà Nẵng chính thức thành lập Chi hội Điểm đến xanh thúc đẩy du lịch bền vững",
+   "category": "du_lich_van_hoa",
+   "created": 1795602281,
+   "flags": [
+    "sao chép 14 từ liên tiếp"
+   ],
+   "id": "b277f158",
+   "images": [
+    "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/25/img_0168(1).jpeg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Báo Đà Nẵng",
+   "source": "Google News - Đà Nẵng",
+   "status": "pending",
+   "tg_msg_id": 784,
+   "title": "Thành lập Chi hội Điểm đến xanh Đà Nẵng, thúc đẩy phát triển du lịch xanh",
+   "urgent": false,
+   "url": "https://baodanang.vn/thanh-lap-chi-hoi-diem-den-xanh-da-nang-thuc-day-phat-trien-du-lich-xanh-3359528.html"
   },
   "b35e4710": {
    "caption": "⚖️ KHỞI TỐ ĐỐI TƯỢNG THUÊ HÀNG LOẠT XE MÁY MANG ĐI CẦM CỐ\n\nCông an thành phố Đà Nẵng vừa khởi tố và tạm giam Giang Thị Quỳnh Anh sinh năm 1992, trú phường Hòa Khánh để điều tra về hành vi lừa đảo chiếm đoạt tài sản. Từ ngày 7/8 đến 28/10, đối tượng này đã thuê tổng cộng 22 xe mô-tô tự lái từ một cơ sở trên địa bàn rồi đem đi cầm cố lấy tiền trả nợ và tiêu xài cá nhân. Cơ quan chức năng đã thu hồi được 19 trên tổng số 22 xe và đang tiếp tục tìm kiếm những người có liên quan để phục vụ công tác điều tra, thu hồi tài sản.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #PhapLuatDaNang #ConganDaNang\nCre: Nhân Dân",
@@ -7687,7 +7780,7 @@
    "priority": "thuong",
    "site": "Vietnam",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Thợ điện dũng cảm hỗ trợ khống chế đám cháy nhà trọ tại TP Đà Nẵng",
    "urgent": false,
    "url": "https://www.vietnam.vn/tho-dien-dung-cam-ho-tro-khong-che-dam-chay-nha-tro-tai-tp-da-nang"
@@ -18904,6 +18997,99 @@
     "xay",
     "xuat"
    ]
+  },
+  {
+   "t": 1795602281,
+   "tok": [
+    "9",
+    "anh",
+    "ban",
+    "bantindanang",
+    "bao",
+    "bau",
+    "buong",
+    "cam",
+    "cau",
+    "che",
+    "chinh",
+    "chu",
+    "chua",
+    "chuan",
+    "chuc",
+    "cong",
+    "cre",
+    "dam",
+    "danang",
+    "danangdangsong",
+    "danangnews",
+    "dau",
+    "dia",
+    "diem",
+    "dien",
+    "dieu",
+    "dinh",
+    "doisongdanang",
+    "don",
+    "dong",
+    "dung",
+    "dut",
+    "gay",
+    "gia",
+    "giai",
+    "giet",
+    "hoan",
+    "hoat",
+    "khac",
+    "khamphadanang",
+    "khan",
+    "khu",
+    "kiem",
+    "kien",
+    "lai",
+    "lam",
+    "lanh",
+    "lien",
+    "long",
+    "moi",
+    "nang",
+    "ngoc",
+    "nguon",
+    "nguyen",
+    "nhan",
+    "nhiem",
+    "nuoc",
+    "phan",
+    "phap",
+    "phuc",
+    "phuong",
+    "qua",
+    "quan",
+    "quanh",
+    "quyen",
+    "sinh",
+    "soat",
+    "som",
+    "song",
+    "tam",
+    "tap",
+    "thai",
+    "thi",
+    "thien",
+    "thoi",
+    "thong",
+    "thuoc",
+    "tiet",
+    "tintucdanang",
+    "toi",
+    "tra",
+    "trach",
+    "trung",
+    "truong",
+    "vong",
+    "vuc",
+    "xac",
+    "yeu"
+   ]
   }
  ],
  "posted_times": [
@@ -18999,7 +19185,8 @@
   1795571697,
   1795579154,
   1795583495,
-  1795597588
+  1795597588,
+  1795602281
  ],
  "seen": {
   "anninhthudo.vn/trung-bo-doi-mat-dot-mua-lon-phuc-tap-keo-dai-het-thang-11-post676717.antd": {
@@ -20529,6 +20716,58 @@
     "viet"
    ],
    "url": "https://baodanang.vn/soi-noi-hoat-dong-ky-niem-ngay-di-san-van-hoa-viet-nam-tai-bao-tang-da-nang-3359121.html"
+  },
+  "baodanang.vn/thanh-lap-chi-hoi-diem-den-xanh-da-nang-thuc-day-phat-trien-du-lich-xanh-3359528.html": {
+   "lead": [
+    "11",
+    "2026",
+    "2030",
+    "25",
+    "ban",
+    "cau",
+    "chi",
+    "chieu",
+    "chuc",
+    "chuyen",
+    "dai",
+    "dao",
+    "diem",
+    "dno",
+    "gom",
+    "hiep",
+    "hoi",
+    "hop",
+    "lac",
+    "lan",
+    "lap",
+    "lich",
+    "mon",
+    "nang",
+    "nhat",
+    "nhiem",
+    "pho",
+    "phuong",
+    "quang",
+    "thanh",
+    "thu",
+    "xanh"
+   ],
+   "t": 1795602281,
+   "title": [
+    "chi",
+    "day",
+    "diem",
+    "hoi",
+    "lap",
+    "lich",
+    "nang",
+    "phat",
+    "thanh",
+    "thuc",
+    "trien",
+    "xanh"
+   ],
+   "url": "https://baodanang.vn/thanh-lap-chi-hoi-diem-den-xanh-da-nang-thuc-day-phat-trien-du-lich-xanh-3359528.html"
   },
   "baodanang.vn/the-thao-da-nang-ky-vong-but-pha-3358308.html": {
    "lead": [
@@ -24373,6 +24612,55 @@
     "viet"
    ],
    "url": "https://congly.vn/da-nang-hon-3-000-dai-bieu-du-hoi-nghi-nganh-nhan-khoa-viet-nam-nam-2026-547592.html"
+  },
+  "congly.vn/da-nang-trach-nhiem-de-xay-ra-o-nhiem-tai-ho-dien-ngoc-thuoc-ve-don-vi-nao-549162.html": {
+   "lead": [
+    "anh",
+    "bai",
+    "bao",
+    "chay",
+    "cong",
+    "dan",
+    "dien",
+    "dieu",
+    "hanh",
+    "kho",
+    "khon",
+    "kiem",
+    "lam",
+    "lien",
+    "nang",
+    "ngoc",
+    "nguyen",
+    "nhan",
+    "nhiem",
+    "nuoc",
+    "phan",
+    "quan",
+    "soat",
+    "thai",
+    "tien",
+    "tiet",
+    "tinh",
+    "tra",
+    "trach",
+    "trang",
+    "vao",
+    "viet"
+   ],
+   "t": 1795602281,
+   "title": [
+    "dien",
+    "don",
+    "nang",
+    "nao",
+    "ngoc",
+    "nhiem",
+    "thuoc",
+    "trach",
+    "xay"
+   ],
+   "url": "https://congly.vn/da-nang-trach-nhiem-de-xay-ra-o-nhiem-tai-ho-dien-ngoc-thuoc-ve-don-vi-nao-549162.html"
   },
   "congly.vn/da-nang-tuyen-duong-42-nha-giao-tre-tieu-bieu-va-40-hoc-sinh-xuat-sac-547354.html": {
    "lead": [
@@ -76051,6 +76339,21 @@
    ],
    "url": "https://www.vietnam.vn/den-nam-2030-phan-dau-100-nguoi-cao-tuoi-duoc-kham-suc-khoe-dinh-ky"
   },
+  "news.google.com/rss/articles/CBMilAFBVV95cUxPZHkwNmFxYlE5M2NiOExxN2E3R0NreEFvUkl4T0RSTVlZMGRXYnVyY0NmaFoxbHp5bG1wWjVaNGQxMjM0aDJROWdVQ19ZZjdwd2FYdnNOdGxlNE0zWE9xUXp5bmFRSDhCMXlXeWVuR2JnaDFuN3o5UTJ0OWFaY3A2MW5XTUVILVlDSlNFdW9lODJmNEhS?oc=5": {
+   "lead": [],
+   "t": 1795602281,
+   "title": [
+    "can",
+    "hoach",
+    "khoang",
+    "lap",
+    "nang",
+    "quan",
+    "quy",
+    "san"
+   ],
+   "url": "https://www.vietnam.vn/can-lap-khoang-trong-trong-quy-hoach-quan-ly-khoang-san-tai-da-nang"
+  },
   "news.google.com/rss/articles/CBMilAFBVV95cUxPak9Uc2xvZXdsS2tSbTByT01LdjlkbV9ZY2dNOGc5aGNMX1ZRaVVWSWx5dWpxRWx2aEszSEJrSEtKWjlNUE5LYmhxQmF4UjdGaGRBYkY4ck5NQ3Fmc3AyNkNGLTFNNkhab2tmZ3VodzhoejhOUXl6b3FMb1J6UEVsT3F0VjBEbE1ZSlBIOXFyWXRTeXhU?oc=5": {
    "lead": [],
    "t": 1794645015,
@@ -79698,6 +80001,22 @@
    ],
    "url": "https://tin.skydoor.net/news/da-nang-thu-giu-4-vat-the-nghi-la-dau-dan-sau-vu-no-khien-mot-nguoi-8430408"
   },
+  "news.google.com/rss/articles/CBMipwFBVV95cUxOamNkWDVzUWZxZWloV3c5Q3k4YkRyMjhxdDFtdW5adTdqM2lkZTgwQzJ6OUlvVTIwMnVSUGpLckVEbWMycTFlVFctTmpRWDBXUS1BbzlZZVFzUVRub2dPV2syQkJCUVpiQTVISjloWXlMOXJnelBlMndvcUszem5ZMUJCUjdyYWRfS1YxMnc0M3RXWFZuSWQwNkwxZ1hfdmtxNDFqdGJjTQ?oc=5": {
+   "lead": [],
+   "t": 1795602281,
+   "title": [
+    "dien",
+    "don",
+    "nang",
+    "nao",
+    "ngoc",
+    "nhiem",
+    "thuoc",
+    "trach",
+    "xay"
+   ],
+   "url": "https://congly.vn/da-nang-trach-nhiem-de-xay-ra-o-nhiem-tai-ho-dien-ngoc-thuoc-ve-don-vi-nao-549162.html"
+  },
   "news.google.com/rss/articles/CBMipwFBVV95cUxPVzdVYzZqMTZpcVFaY3NJUUpGVmZWRFpmeGN0Z2ZPOGdrbXNMY1huMk5yTVpVQk5Tb2YxME1mRFNpbmZseU53MGFLTXdNeFI0OFg2dGJKTTNFTzFtZ0JHUTF4b0NhOXZRR2xnbnNWellyUTNhWExGYzJYMjZSTE5SeEJsaFBqb21STGZrcEtvREpoQlhQampOX3BOYzVLRlotMnRKekI1RQ?oc=5": {
    "lead": [],
    "t": 1795464869,
@@ -80674,6 +80993,25 @@
     "xem"
    ],
    "url": "https://baovanhoa.vn/link-xem-truc-tiep-da-nang-vs-ninh-binh-18h00-ngay-22-11-vong-8-v-league-2026-27.html"
+  },
+  "news.google.com/rss/articles/CBMiqgFBVV95cUxPQm5qQnp4WkhMTmVWQTc0NmF1S3g0WHVPRmFOcHdLSEtaeHNnWFpmeTdQNWtRQ21Eejh4STU2TEVvUkFZWHRsXzdYQURER0EyWWFBTlJuaWFsSVZnNzBTRjlkQ0hUWTJEVUlDMVgtMXpqTFFGNjFMUUNMTll0cTA1RUxBMjBnTkRaX3h4M2VIeFBpLUNvMXc5VHhMdTROX3pSMlpzeGxoUmgzQQ?oc=5": {
+   "lead": [],
+   "t": 1795602281,
+   "title": [
+    "chi",
+    "day",
+    "diem",
+    "hoi",
+    "lap",
+    "lich",
+    "nang",
+    "phat",
+    "thanh",
+    "thuc",
+    "trien",
+    "xanh"
+   ],
+   "url": "https://baodanang.vn/thanh-lap-chi-hoi-diem-den-xanh-da-nang-thuc-day-phat-trien-du-lich-xanh-3359528.html"
   },
   "news.google.com/rss/articles/CBMiqgFBVV95cUxPRkJfQTQzaHlHb05telFRakVJZGU2ZlFZMEVoeGVSNVlDQnE0YUw4S0JSSDVhSXhBcEdIQWFhTGVHekxvY3pZTFR5UWpMQ0RCUThCVEhTUU5UM0hVaVlEeEZQYzBwN3VnaXBnSkd6M2JqWWx5dEhRVllFYmRUZHdLbmtFS2xWeldBMGtJOFlLRHAwWTYxTXdRdEt1S3d5STJoS1ZpdTdSSGhLUQ?oc=5": {
    "lead": [],
@@ -141781,6 +142119,28 @@
    ],
    "url": "https://tuoitre.vn/40-tieng-sau-khi-my-dung-bay-toan-quoc-ong-trump-moi-len-tieng-tai-biden-100261115224009153.htm"
   },
+  "tuoitre.vn/40000-san-pham-nhap-lau-tu-trung-quoc-duoc-dua-vao-nha-may-xi-mang-de-tieu-huy-100261125162413588.htm": {
+   "lead": [],
+   "t": 1795602281,
+   "title": [
+    "000",
+    "40",
+    "dua",
+    "huy",
+    "lau",
+    "mang",
+    "may",
+    "nha",
+    "nhap",
+    "pham",
+    "quoc",
+    "san",
+    "tieu",
+    "trung",
+    "vao"
+   ],
+   "url": "https://tuoitre.vn/40000-san-pham-nhap-lau-tu-trung-quoc-duoc-dua-vao-nha-may-xi-mang-de-tieu-huy-100261125162413588.htm"
+  },
   "tuoitre.vn/41-nam-ttc-kien-tri-nang-buoc-hoc-sinh-ngheo-100261118173607628.htm": {
    "lead": [],
    "t": 1795011413,
@@ -145271,6 +145631,27 @@
     "uong"
    ],
    "url": "https://tuoitre.vn/bo-ngon-ngu-robusta-de-nguoi-uong-khong-chi-hoi-dang-khong-100261113112116241.htm"
+  },
+  "tuoitre.vn/bo-nong-nghiep-va-moi-truong-de-nghi-13-tinh-thanh-khan-truong-hoan-thien-co-so-du-lieu-dat-dai-100261125162044344.htm": {
+   "lead": [],
+   "t": 1795602281,
+   "title": [
+    "13",
+    "dai",
+    "dat",
+    "hoan",
+    "khan",
+    "lieu",
+    "moi",
+    "nghi",
+    "nghiep",
+    "nong",
+    "thanh",
+    "thien",
+    "tinh",
+    "truong"
+   ],
+   "url": "https://tuoitre.vn/bo-nong-nghiep-va-moi-truong-de-nghi-13-tinh-thanh-khan-truong-hoan-thien-co-so-du-lieu-dat-dai-100261125162044344.htm"
   },
   "tuoitre.vn/bo-quy-binh-on-xang-dau-cong-cu-nao-kem-gia-khi-co-bien-dong-manh-100261113163914281.htm": {
    "lead": [],
@@ -152903,6 +153284,73 @@
     "tap"
    ],
    "url": "https://tuoitre.vn/da-nang-lam-viec-voi-nvidia-don-nhieu-tap-doan-lon-ve-o-to-cong-nghe-ve-mo-nha-may-100261124122728889.htm"
+  },
+  "tuoitre.vn/da-nang-mo-cho-giang-sinh-hon-70-gian-hang-mien-phi-vao-cua-du-kien-don-50000-khach-1002611251556559.htm": {
+   "lead": [
+    "11",
+    "12",
+    "2026",
+    "25",
+    "3",
+    "6",
+    "70",
+    "anh",
+    "ban",
+    "bang",
+    "bieu",
+    "chieu",
+    "christmas",
+    "chuc",
+    "chuong",
+    "cuoc",
+    "danang",
+    "dien",
+    "dong",
+    "gian",
+    "giang",
+    "hang",
+    "hinh",
+    "hoat",
+    "hon",
+    "hop",
+    "lam",
+    "market",
+    "nang",
+    "nghe",
+    "nhan",
+    "nhuan",
+    "phim",
+    "quoc",
+    "sinh",
+    "tao",
+    "thi",
+    "thong",
+    "thuat",
+    "thuc",
+    "tin",
+    "tri",
+    "trinh",
+    "tue"
+   ],
+   "t": 1795602281,
+   "title": [
+    "000",
+    "50",
+    "70",
+    "don",
+    "gian",
+    "giang",
+    "hang",
+    "hon",
+    "khach",
+    "kien",
+    "mien",
+    "nang",
+    "phi",
+    "sinh",
+    "vao"
+   ],
+   "url": "https://tuoitre.vn/da-nang-mo-cho-giang-sinh-hon-70-gian-hang-mien-phi-vao-cua-du-kien-don-50000-khach-1002611251556559.htm"
   },
   "tuoitre.vn/da-nang-mua-lon-tu-dem-nay-thuy-dien-xa-dieu-tiet-100261124074917032.htm": {
    "lead": [
@@ -167421,6 +167869,20 @@
     "ubnd"
    ],
    "url": "https://tuoitre.vn/man-nhan-man-trinh-dien-nghe-thuat-3d-mapping-tren-nen-kien-truc-tru-so-ubnd-tphcm-100261122174029107.htm"
+  },
+  "tuoitre.vn/man-trinh-dien-de-doi-cua-doan-van-hau-100261125164127779.htm": {
+   "lead": [],
+   "t": 1795602281,
+   "title": [
+    "dien",
+    "doan",
+    "doi",
+    "hau",
+    "man",
+    "trinh",
+    "van"
+   ],
+   "url": "https://tuoitre.vn/man-trinh-dien-de-doi-cua-doan-van-hau-100261125164127779.htm"
   },
   "tuoitre.vn/man-united-bo-nhiem-hlv-pochettino-voi-chuc-danh-gay-tranh-cai-100261113201741117.htm": {
    "lead": [],
@@ -186371,6 +186833,26 @@
    ],
    "url": "https://tuoitre.vn/tphcm-ho-tro-gan-29-ti-dong-cho-1518-lao-dong-mat-viec-tai-ecco-viet-nam-100261118202918578.htm"
   },
+  "tuoitre.vn/tphcm-hoc-sinh-sinh-vien-nha-giao-tai-nang-co-the-nhan-hoc-bong-den-12-ti-dong-100261125161614922.htm": {
+   "lead": [],
+   "t": 1795602281,
+   "title": [
+    "1",
+    "2",
+    "bong",
+    "dong",
+    "giao",
+    "hcm",
+    "hoc",
+    "nang",
+    "nha",
+    "nhan",
+    "sinh",
+    "the",
+    "vien"
+   ],
+   "url": "https://tuoitre.vn/tphcm-hoc-sinh-sinh-vien-nha-giao-tai-nang-co-the-nhan-hoc-bong-den-12-ti-dong-100261125161614922.htm"
+  },
   "tuoitre.vn/tphcm-hon-97-trieu-nguoi-da-kham-suc-khoe-ti-le-kham-nhom-sinh-vien-thap-nhat-100261117081914392.htm": {
    "lead": [],
    "t": 1794887545,
@@ -186531,6 +187013,25 @@
     "som"
    ],
    "url": "https://tuoitre.vn/tphcm-mua-som-nhung-khong-lon-100261115063209109.htm"
+  },
+  "tuoitre.vn/tphcm-muon-hut-dong-hang-dang-trung-chuyen-qua-singapore-port-klang-100261125162025674.htm": {
+   "lead": [],
+   "t": 1795602281,
+   "title": [
+    "chuyen",
+    "dang",
+    "dong",
+    "hang",
+    "hcm",
+    "hut",
+    "klang",
+    "muon",
+    "port",
+    "qua",
+    "singapore",
+    "trung"
+   ],
+   "url": "https://tuoitre.vn/tphcm-muon-hut-dong-hang-dang-trung-chuyen-qua-singapore-port-klang-100261125162025674.htm"
   },
   "tuoitre.vn/tphcm-muon-tro-thanh-trung-tam-am-nhac-va-su-kien-quoc-te-100261112190547324.htm": {
    "lead": [],
@@ -189819,6 +190320,21 @@
    ],
    "url": "https://tuoitre.vn/tuyet-dau-mua-phu-trang-van-ly-truong-thanh-hang-chuc-ngan-nguoi-den-check-in-100261117141306062.htm"
   },
+  "tuoitre.vn/tuyet-ky-nguy-trang-nhu-tac-ke-hoa-cua-dac-cong-viet-nam-100261125161157251.htm": {
+   "lead": [],
+   "t": 1795602281,
+   "title": [
+    "cong",
+    "dac",
+    "hoa",
+    "nguy",
+    "tac",
+    "trang",
+    "tuyet",
+    "viet"
+   ],
+   "url": "https://tuoitre.vn/tuyet-ky-nguy-trang-nhu-tac-ke-hoa-cua-dac-cong-viet-nam-100261125161157251.htm"
+  },
   "tuoitre.vn/u17-argentina-thua-soc-truoc-dai-dien-u17-chau-a-100261120061357622.htm": {
    "lead": [],
    "t": 1795139210,
@@ -191369,6 +191885,23 @@
     "viet"
    ],
    "url": "https://tuoitre.vn/viet-nam-azerbaijan-thuc-day-hop-tac-ve-nang-luong-dau-khi-100261120210507459.htm"
+  },
+  "tuoitre.vn/viet-nam-can-khoang-38-trieu-ti-dong-von-dau-tu-dau-la-du-dia-huy-dong-100261125132134749.htm": {
+   "lead": [],
+   "t": 1795602281,
+   "title": [
+    "38",
+    "can",
+    "dau",
+    "dia",
+    "dong",
+    "huy",
+    "khoang",
+    "trieu",
+    "viet",
+    "von"
+   ],
+   "url": "https://tuoitre.vn/viet-nam-can-khoang-38-trieu-ti-dong-von-dau-tu-dau-la-du-dia-huy-dong-100261125132134749.htm"
   },
   "tuoitre.vn/viet-nam-cau-noi-giua-cong-dong-phap-ngu-va-dong-nam-a-100261114135937698.htm": {
    "lead": [],
@@ -194662,6 +195195,74 @@
     "phe"
    ],
    "url": "https://www.vietnam.vn/ca-phe-ngam-may-bay-bat-ngo-gap-phao-dai-bay-tu-95"
+  },
+  "vietnam.vn/can-lap-khoang-trong-trong-quy-hoach-quan-ly-khoang-san-tai-da-nang": {
+   "lead": [
+    "ban",
+    "cau",
+    "chi",
+    "chuyen",
+    "cong",
+    "cuc",
+    "dap",
+    "dat",
+    "dau",
+    "day",
+    "diem",
+    "dno",
+    "dung",
+    "giam",
+    "gian",
+    "gop",
+    "hdnd",
+    "hoach",
+    "hoi",
+    "ket",
+    "khai",
+    "khoang",
+    "kinh",
+    "lam",
+    "lieu",
+    "moi",
+    "nang",
+    "nghen",
+    "nhien",
+    "phan",
+    "phat",
+    "pho",
+    "qua",
+    "quan",
+    "quy",
+    "san",
+    "sat",
+    "tac",
+    "thac",
+    "thanh",
+    "the",
+    "thi",
+    "thoi",
+    "thong",
+    "thuong",
+    "tich",
+    "trien",
+    "trinh",
+    "tuy",
+    "ung",
+    "vat",
+    "xay"
+   ],
+   "t": 1795602281,
+   "title": [
+    "can",
+    "hoach",
+    "khoang",
+    "lap",
+    "nang",
+    "quan",
+    "quy",
+    "san"
+   ],
+   "url": "https://www.vietnam.vn/can-lap-khoang-trong-trong-quy-hoach-quan-ly-khoang-san-tai-da-nang"
   },
   "vietnam.vn/canh-bao-lu-quet-sat-lo-dat-ngay-21-11-2026-tai-tp-hue-tp-da-nang-quang-ngai-gia-lai": {
    "lead": [
