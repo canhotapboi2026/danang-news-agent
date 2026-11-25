@@ -4556,7 +4556,7 @@
    "priority": "thuong",
    "site": "Vietnam",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng: Phát triển công nghiệp gắn với nâng cao đời sống người dân",
    "urgent": false,
    "url": "https://www.vietnam.vn/da-nang-phat-trien-cong-nghiep-gan-voi-nang-cao-doi-song-nguoi-dan"
@@ -5261,6 +5261,27 @@
    "title": "S-Race 2026 Đà Nẵng: Sức lan tỏa của dự án thể thao học đường",
    "urgent": false,
    "url": "https://tienphong.vn/s-race-2026-da-nang-suc-lan-toa-cua-du-an-the-thao-hoc-duong-post1894353.tpo"
+  },
+  "87659f53": {
+   "caption": "🗣️ ĐOÀN ĐẠI BIỂU QUỐC HỘI ĐÀ NẴNG LẮNG NGHE NHIỀU ĐỀ XUẤT TỪ CỬ TRI NÔNG SƠN\n\nChiều ngày 25/11, các đại biểu Quốc hội thuộc đơn vị thành phố Đà Nẵng đã có buổi làm việc và ghi nhận 12 ý kiến từ cử tri xã Nông Sơn. Người dân tại đây đã nêu lên hàng loạt vấn đề bức thiết như tình trạng sạt lở hư hỏng ở dốc Hàng Ngang và đường 14H, nguyện vọng xây cầu qua Đại Bình hay di dời trường tiểu học ra khỏi khu vực hay bị ngập lụt. Ngoài ra, đại diện bà con và các doanh nghiệp còn phản ánh sự cố điện sinh hoạt, đề nghị hỗ trợ nghề nuôi tằm truyền thống, bổ sung nguồn lực cho cán bộ cơ sở và tăng cường kiểm tra an toàn thực phẩm. Những thắc mắc trong tầm tay đã được giải đáp tại chỗ, các nội dung khác được đoàn tổng hợp để chuyển lên cấp có thẩm quyền xử lý. Bà con địa phương có quan tâm đến những kiến nghị này không?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang #NongSon\nCre: Vietnam",
+   "card_title": "Đoàn đại biểu Quốc hội Đà Nẵng lắng nghe nhiều đề xuất từ cử tri Nông Sơn",
+   "category": "doi_song",
+   "created": 1795631501,
+   "flags": [],
+   "id": "87659f53",
+   "images": [
+    "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/25/1795612597072_1795597260197_1510675090930644403_3007507326945510137_5f564b7b9eeaf0b11131e3b26c487c1f-1-aed532c35999496a29243aeafc93591c.jpeg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Vietnam",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Đoàn đại biểu Quốc hội thành phố Đà Nẵng tiếp xúc cử tri xã Nông Sơn",
+   "urgent": false,
+   "url": "https://www.vietnam.vn/doan-dai-bieu-quoc-hoi-thanh-pho-da-nang-tiep-xuc-cu-tri-xa-nong-son"
   },
   "889d7a34": {
    "caption": "✈️ TRẢI NGHIỆM CÀ PHÊ NGẮM MÁY BAY VÀ CƠ HỘI SĂN KHOẢNH KHẮC HIẾM TẠI ĐÀ NẴNG\n\nCác quán cà phê có tầm nhìn hướng ra đường băng tại các tuyến đường như Man Thiện hay Lê Duy Đỉnh đang trở thành điểm đến thư giãn ưa thích của nhiều bạn trẻ và người mê chụp ảnh ở Đà Nẵng. Không chỉ tận hưởng không gian trò chuyện chậm rãi, nhiều người còn hào hứng lưu lại khoảnh khắc những chiếc máy bay cất và hạ cánh nối tiếp nhau. Đặc biệt trong tuần qua, sự xuất hiện của dòng máy bay quân sự hiếm gặp như Tu-95 và IL-76 tại sân bay Đà Nẵng đã khiến không ít khách uống cà phê bất ngờ và thích thú ghi hình. Với góc nhìn cận cảnh từ sân thượng hay lan can, chỉ cần một chiếc điện thoại cùng sự kiên nhẫn là bà con đã có thể ghi lại những khung hình ấn tượng. Bà con ở khu vực quanh sân bay đã từng bắt gặp chiếc máy bay độc đáo nào lướt qua bầu trời chưa?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DoiSongDaNang #SanBayDaNang\nCre: Vietnam",
@@ -10405,6 +10426,7 @@
   "news.google.com/rss/articles/CBMingFBVV95cUxQN25pMkIySm1ubkc0TmExekVtMGluZ2VZX0FmVXpoNFpYajNlMWU0M1N5Rm9zNzAwaTNNUW5JQ3VOQmdvaTV0eW9aYUUzYjR2dnhQeDZTZGJfMFIwM0RQZUhwT25VdjlCSmNUNThWa05TMUVEVXloRFNXdjZ4bWZRLXk2ZFpTa043RXl6aHZ1NjNpM1ozRnZLNmJvTTQ2dw?oc=5": 1,
   "news.google.com/rss/articles/CBMinwFBVV95cUxNMENiNElQTDRRaVVXbGVmREctaDlNMjlTSHMzenM0OG1pR245aFQ5VnFKYUV3aWxzTzlDSUh0ZGxJU2lvT2hGWjBiU1JfNTB3dnI5U0pMZVFrcDV5N0hXQXRXZmYtUEc3SUVHN3VtRjQyaEJiRFBEcVZoQnVITUxQZ1p4NXRZeW91aUtTdDZPSUQ1RnNhMHhHT3VTVzNzX3M?oc=5": 2,
   "news.google.com/rss/articles/CBMioAFBVV95cUxNOHJoaXZ6OUNtenRWVTJ1LWZrcjZWOVYweHZMMHNBdkZITVQwMTgtMjBhVGJFcFl3dkZja1g0VU02cjc4MS1JLXlRN2VXRmE0Z3RmeGt1M0FybzZ5VjlDVHB2Z1l5YTNNcG1sTng3MlF2QmtNYnFlZjQyY2dNaFNPOEZhMHl5dnB1RUQyQnZTaFdQVTV1ako2RFROQk5rRlFf?oc=5": 3,
+  "news.google.com/rss/articles/CBMioAFBVV95cUxNZDlRRnYzelNFWlJqcGZyakJtOXFMN3NKYkNwSHJXcS0tcVNtaUF4Zzd2Ym5JR3ZKVGxMLXNlbzU0Z0g4SEJCYjlwU0xVUVdMWFZMTWE5aHpPZVhkeFlGSTFqWGJlZkE4MkRwQnlPcnZvVGNkd05nX29ocmxEN0RWRmdrUm9JXzdQcHltLXpZS0p5VFg0RHV4SV81aHVUd3FK?oc=5": 1,
   "news.google.com/rss/articles/CBMipgFBVV95cUxOUFhhNkJ1d0UxSjlLdXhfOU1TVzNpNXZWbEVtREF6a2VOaU1xSU82dGd5M3lGbTFibzgtRmwwVFFSbjN3b0RuUXB3b0llY2UzMDQteWJ4SWFGUzYxcjR5M0FGUjhzS1JBemtFT2F6aHZER2QwRUVtbXV1NU5pRl9CRWNRV3NULVdERkdDZjJ3bnJlNUxYaVMxX0w1eHE4N0JXRExhdi1B?oc=5": 1,
   "news.google.com/rss/articles/CBMipgFBVV95cUxPMXhBY2NObzQzQWNrZDFtU01rTU1XNUhEVHY1QW4tQzd3S1FiU0R4ZnpRblpPeU1iUnhVcHQtX3ZscGFfaDBHaTdkeDFJUjZKc0xucmZLbF96S2JfMUhyMnh4NFhmUXEyWl9HNVhPLVRmR3FpdXhja1gtekliMFdPRElOcHlYVHgtSlNKNlVlRWFtVWRDLVdicWdkSjAtb1RsR0tSX2ZB?oc=5": 1,
   "news.google.com/rss/articles/CBMipgFBVV95cUxPWTN4WG5FbXVsZmhXLW8wcjJPZHFyY01kQWliOWwtemQ0czZpUXlQSFhmMUlVWjBmOWwyR01MWW9WTTBsbzU4VFFqdVg0NXlUQmhYc0h6SnFiY0dGUFhvQ0tvNWVCSWRJTUg5Qk53MER1WnUyNmRxRFN3YmNZRnE5RHF2Sy1zT2xibTV0b1dBQ3pPakV4Z1BlNmlPdkRhRTNSM3otN3dR?oc=5": 1,
@@ -77592,6 +77614,26 @@
     "xuat"
    ],
    "url": "https://www.vietnam.vn/da-nang-de-xuat-hop-tac-voi-undp-ve-tai-chinh-xanh-do-thi-xanh-va-ai"
+  },
+  "news.google.com/rss/articles/CBMilgFBVV95cUxOOUJocGNRSklGaFdBRkI4T1dGUVRvNm1qXzAtZlljYUQzRnc1ODR6YWQwSGhsMmFid1FkNndnMzdVcnI1Q1RpSDZUbVJaeEs3NUlTdXBlck1DZGdEWm5PQWJHeHMzZVRZU25HMXd4M2JFbkFxTzdFQ1Z1d2w0bzlYQnZ0T2IySUo0VjdVRHdjdkVrUkV0akE?oc=5": {
+   "lead": [],
+   "t": 1795631501,
+   "title": [
+    "bieu",
+    "dai",
+    "doan",
+    "hoi",
+    "nang",
+    "nong",
+    "pho",
+    "quoc",
+    "son",
+    "thanh",
+    "tiep",
+    "tri",
+    "xuc"
+   ],
+   "url": "https://www.vietnam.vn/doan-dai-bieu-quoc-hoi-thanh-pho-da-nang-tiep-xuc-cu-tri-xa-nong-son"
   },
   "news.google.com/rss/articles/CBMilgFBVV95cUxOQVZGclZmMVFnMTNZQTljbmoxaVhuVl8xR25yOFZ2a0VzM0FGcE9GUXpyS1p5eE5VeXVqVkNSRDl6djR3UkFuU2hPVWRGMTM1bDJIdGdCdGJhdk1NYXVac2d5a1FJZ08yWmpRRmgyelpkSDhla2JCUW1YNXEtdUw0NG9sb2x1SktfUndLQ20yQ1k0MTZ3X3c?oc=5": {
    "lead": [],
@@ -199761,6 +199803,72 @@
     "tuoi"
    ],
    "url": "https://www.vietnam.vn/den-nam-2030-phan-dau-100-nguoi-cao-tuoi-duoc-kham-suc-khoe-dinh-ky"
+  },
+  "vietnam.vn/doan-dai-bieu-quoc-hoi-thanh-pho-da-nang-tiep-xuc-cu-tri-xa-nong-son": {
+   "lead": [
+    "11",
+    "12",
+    "2",
+    "25",
+    "ban",
+    "bieu",
+    "buoi",
+    "chieu",
+    "chu",
+    "dai",
+    "dia",
+    "dno",
+    "doan",
+    "ghi",
+    "gom",
+    "hoa",
+    "hoi",
+    "hop",
+    "khanh",
+    "khoa",
+    "kien",
+    "luot",
+    "nang",
+    "ngoc",
+    "nguyen",
+    "nhan",
+    "nhiem",
+    "nong",
+    "pho",
+    "phuong",
+    "quoc",
+    "son",
+    "tap",
+    "thanh",
+    "thiet",
+    "thu",
+    "thuc",
+    "tich",
+    "tiep",
+    "tri",
+    "trung",
+    "van",
+    "vao",
+    "xuc",
+    "xvi"
+   ],
+   "t": 1795631501,
+   "title": [
+    "bieu",
+    "dai",
+    "doan",
+    "hoi",
+    "nang",
+    "nong",
+    "pho",
+    "quoc",
+    "son",
+    "thanh",
+    "tiep",
+    "tri",
+    "xuc"
+   ],
+   "url": "https://www.vietnam.vn/doan-dai-bieu-quoc-hoi-thanh-pho-da-nang-tiep-xuc-cu-tri-xa-nong-son"
   },
   "vietnam.vn/en/van-dong-vien-vovinam-da-nang-nhan-huan-chuong-lao-dong-hang-nhat": {
    "lead": [
