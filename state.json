@@ -2515,6 +2515,28 @@
    "urgent": false,
    "url": "https://dantri.com.vn/du-lich/ban-dao-son-tra-dong-nghit-nguoi-trekking-nhieu-bai-xe-kin-cho-20261124135749559.htm"
   },
+  "40fa5bd9": {
+   "caption": "🚨 ĐÀ NẴNG CHỦ ĐỘNG ỨNG PHÓ ĐỢT MƯA LỚN KÉO DÀI VÀ NGUY CƠ SẠT LỞ\n\nDự báo từ chiều tối 27/11 đến sáng 30/11, địa bàn thành phố Đà Nẵng tiếp tục diễn ra mưa lớn kéo dài với tổng lượng mưa có nơi vượt ngưỡng 250mm, tiềm ẩn nguy cơ cao gây ngập úng đô thị, lũ quét và sạt lở đất. Trước tình hình thời tiết phức tạp, UBND thành phố Đà Nẵng đã ban hành Công điện số 07/CĐ-UBND yêu cầu các địa phương cùng đơn vị liên quan chủ động triển khai phương án ứng phó theo phương châm bốn tại chỗ. Theo đó, chính quyền các cấp thực hiện rà soát, sẵn sàng sơ tán người dân khỏi khu vực rủi ro cao đến nơi an toàn, bố trí lực lượng chốt chặn tại ngầm tràn hay đoạn đường ngập sâu, đồng thời dự trữ nhu yếu phẩm đề phòng nguy cơ bị chia cắt. Bà con nên chủ động theo dõi thông tin thời tiết và chấp hành nghiêm hướng dẫn của cơ quan chức năng để bảo đảm an toàn.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #ThoiTietDaNang\nCre: Vietnam",
+   "card_title": "Đà Nẵng chủ động ứng phó đợt mưa lớn kéo dài và nguy cơ sạt lở",
+   "category": "thoi_tiet",
+   "created": 1795816495,
+   "flags": [],
+   "id": "40fa5bd9",
+   "images": [
+    "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/27/1795784093433_95060fc1-fae8-4921-ab67-dbb6f34d7427.jpeg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "khan",
+   "site": "Vietnam",
+   "source": "Google News - Đà Nẵng",
+   "status": "pending",
+   "tg_msg_id": 897,
+   "title": "Đà Nẵng: Chủ động ứng phó mưa lớn, nguy cơ lũ quét, sạt lở",
+   "urgent": true,
+   "url": "https://www.vietnam.vn/da-nang-chu-dong-ung-pho-mua-lon-nguy-co-lu-quet-sat-lo"
+  },
   "41590778": {
    "caption": "🎉 ĐÀ NẴNG TỔ CHỨC CHUỖI HOẠT ĐỘNG KẾT NỐI MIỀN DI SẢN VĂN HÓA\n\nThành phố vừa chính thức khai mạc chuỗi sự kiện đặc sắc mang chủ đề kết nối miền di sản để chào mừng Ngày văn hóa Việt Nam diễn ra trong các ngày 21 và 22 tháng 11 năm 2026 tại nhiều điểm đến nổi bật. Người dân và du khách khi tham gia sẽ có dịp thưởng thức các không gian nghệ thuật truyền thống, trải nghiệm trực tiếp các làng nghề thủ công lâu đời và khám phá nhiều chuyên đề trưng bày hiện vật lịch sử quý giá. Các cơ sở bảo tàng trên địa bàn cũng đồng loạt mở cửa đón khách tự do trong dịp này để đưa những giá trị truyền thống đến gần hơn với cộng đồng.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DuLichDaNang\nCre: ASEAN News - Tạp Chí Đông Nam Á",
    "card_title": "Đà Nẵng tổ chức chuỗi hoạt động kết nối miền di sản văn hóa",
@@ -3888,7 +3910,7 @@
    "priority": "thuong",
    "site": "Dân trí",
    "source": "Dân trí - Trang chủ",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 884,
    "title": "Măng cụt trái vụ đắt gấp ba, giá tại vườn 180.000 đồng/kg",
    "urgent": false,
@@ -4242,7 +4264,7 @@
    "priority": "thuong",
    "site": "Báo Giáo dục và Thời đại Online",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 878,
    "title": "Đà Nẵng khám sức khỏe cho học sinh, giáo viên 5 trường nội trú vùng biên",
    "urgent": false,
@@ -71778,6 +71800,23 @@
    ],
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUXFTWnlnaUxsZ05ELTg5VkdOd0c3QkZJVXJKSDZWMWZWUFh3YndrRFNYZTd0OGwyaEU4REozanh4dkI5VC1hbFB4LWtVQkFxdmtrRmh4QTRnQ3VQellFZ21KRE1TbDF6SkhJSVJMWHFZTFdUMG5menNrcVNBNUNTQmxxXzE?oc=5"
   },
+  "news.google.com/rss/articles/CBMihAFBVV95cUxQS1hnQVYyMHlwU3NDbjRKYkRpQ2YwaGVVbURySFc1clA5WlBsWTRnenlCdWNNSEJzRmR1ZXlzQjVrVE8wWkRnclU2OWFaanJWblgxdmExMkNrM3VKX1d3UFJlZ3llaDd1TlZFbC1BSHc4bXNZdGhTUzM4ekxnWC1hdU5GRE4?oc=5": {
+   "lead": [],
+   "t": 1795816495,
+   "title": [
+    "chu",
+    "dong",
+    "lon",
+    "mua",
+    "nang",
+    "nguy",
+    "pho",
+    "quet",
+    "sat",
+    "ung"
+   ],
+   "url": "https://www.vietnam.vn/da-nang-chu-dong-ung-pho-mua-lon-nguy-co-lu-quet-sat-lo"
+  },
   "news.google.com/rss/articles/CBMihAFBVV95cUxQd1VFYkFWX3NhVXlJeEFHalltc20xR1BBVzhicFlETi05MnZlTmZSU1R6NmE5Mi1hcV92UkRDc0pRS0RUMWNsd3BvYThCWDNvYTNONlFvZ1RsUW1wdERhb0d6anp4M255Mk5FNGlLT1F3dG9iWS1wVXAzLTJLMXVUOHhzakI?oc=5": {
    "lead": [],
    "t": 1794976393,
@@ -73076,21 +73115,6 @@
     "vovinam"
    ],
    "url": "https://www.vietnam.vn/van-dong-vien-vovinam-da-nang-nhan-huan-chuong-lao-dong-hang-nhat"
-  },
-  "news.google.com/rss/articles/CBMikgFBVV95cUxOZjdDNFY0OFpCNnBMOFVaOTBFXzV3dko3MWJoM1NoV0xzVnBIWHU0ZktGVlhDdjlVbUZHajJub2t6aTRnd1lIdUo0TGN0dzZhRE5wTFdITTBFaGVhcjZ3YmxhQ3o4ZkNZa3UwLVRyQkZ6cUNEcE5sVzBWdWpxLXM3Q0RJOU9sblQyWHJZLUJyZEFUdw?oc=5": {
-   "lead": [],
-   "t": 1794605537,
-   "title": [
-    "day",
-    "dong",
-    "fdi",
-    "luc",
-    "nang",
-    "thuc",
-    "vao",
-    "von"
-   ],
-   "url": "https://thoibaotaichinhvietnam.vn/dong-luc-thuc-day-dong-von-fdi-vao-da-nang-206799.html"
   },
   "news.google.com/rss/articles/CBMikgFBVV95cUxObHVUcGkycFJuVVd1RWo5MFpXaW9MNVNpWXhpUFI1dDd6RFVvYU9oUmVhdlA0WjNIVUNDYTl0aFJjNGNSaWVSMnh5NzlJUHBSeWd5MUl2UWxaMTZpazZmRWRrYWZoWnpTSUJGYmZEZlNJdEx1WS1ZS3pGcXBqT3djM0FXOF94R2p1TWlUTTZnS2VFUQ?oc=5": {
    "lead": [],
@@ -76744,29 +76768,6 @@
     "ubnd"
    ],
    "url": "https://tapchicongthuong.vn/truong-dai-hoc-dong-a-nhan-co-thi-dua-cua-ubnd-thanh-pho-da-nang-567782.htm"
-  },
-  "news.google.com/rss/articles/CBMipgFBVV95cUxPSXdxTi16bk9WdVhaaGJweHpYZ25CQWZWN3Y1V2hPOEQ5elg5TUYtZEhHaEJaZEE4M2hXcFF5NWRuRXlqQ0ZQLWhUVTJoNF8wcExuSTJBVU1La1RwbDdfN3p4ejFOXzQyV21HbXhXM25ybTRfbjdlbHRyUGppbXR1MFhGTFdRY0RWSDh5OS1sRFJiX29aTzViTEJOVERPYUY4OHBSTmpR?oc=5": {
-   "lead": [],
-   "t": 1794605537,
-   "title": [
-    "2",
-    "200",
-    "203",
-    "bao",
-    "cham",
-    "cong",
-    "don",
-    "dong",
-    "gan",
-    "hiem",
-    "khai",
-    "luat",
-    "nang",
-    "phap",
-    "tien",
-    "tron"
-   ],
-   "url": "https://tin.skydoor.net/news/bao-hiem-da-nang-cong-khai-gan-2200-don-vi-cham-dong-tron-dong-gan-8432426"
   },
   "news.google.com/rss/articles/CBMipgFBVV95cUxPZ25aZU5hREg0b3hNVTQ2SzNxOHZ5bmVnQ0oxVnN5amVOeklQMDZUZmlHS3N1Tl95TlRaY1gtaVBUSjZ4R1RmNWdqOFhoOWwxeVZDeUJMaVZMcGk1Mjl1V25maTlWRTdfMjBTMHZOaU1nLWU3TkVHS1pBS1lFM0pVYTB3MWhYNzRTQUZrbU5IT0ljNG45YnFqVzNsd3FWTDlZNC0zdERB?oc=5": {
    "lead": [],
@@ -109501,6 +109502,22 @@
    ],
    "url": "https://thanhnien.vn/masan-tang-toc-ve-dich-nam-2026-voi-da-tang-truong-tren-toan-he-sinh-thai-185261126162146222.htm"
   },
+  "thanhnien.vn/mat-ho-chieu-khi-du-lich-tai-viet-nam-khach-nuoc-ngoai-can-lam-gi-185261127091059267.htm": {
+   "lead": [],
+   "t": 1795816495,
+   "title": [
+    "can",
+    "chieu",
+    "khach",
+    "lam",
+    "lich",
+    "mat",
+    "ngoai",
+    "nuoc",
+    "viet"
+   ],
+   "url": "https://thanhnien.vn/mat-ho-chieu-khi-du-lich-tai-viet-nam-khach-nuoc-ngoai-can-lam-gi-185261127091059267.htm"
+  },
   "thanhnien.vn/mb-duoc-vinh-danh-trong-80-guong-nhan-ai-tieu-bieu-toan-quoc-185261125184337265.htm": {
    "lead": [],
    "t": 1795615250,
@@ -125326,6 +125343,21 @@
     "truong"
    ],
    "url": "https://thanhnien.vn/tong-huy-dong-nguon-luc-phuc-vu-tang-truong-kinh-te-dat-nuoc-18526111420574453.htm"
+  },
+  "thanhnien.vn/tong-lanh-su-malaysia-tai-tphcm-du-vi-kho-quen-truoc-ngay-roi-nhiem-so-185261126234335964.htm": {
+   "lead": [],
+   "t": 1795816495,
+   "title": [
+    "hcm",
+    "kho",
+    "lanh",
+    "malaysia",
+    "nhiem",
+    "quen",
+    "roi",
+    "tong"
+   ],
+   "url": "https://thanhnien.vn/tong-lanh-su-malaysia-tai-tphcm-du-vi-kho-quen-truoc-ngay-roi-nhiem-so-185261126234335964.htm"
   },
   "thanhnien.vn/tong-luc-kich-cau-cuoi-nam-185261113222204284.htm": {
    "lead": [],
@@ -186617,6 +186649,67 @@
     "tet"
    ],
    "url": "https://www.vietnam.vn/da-nang-chot-dia-diem-to-chuc-cho-hoa-tet-dinh-mui-2027"
+  },
+  "vietnam.vn/da-nang-chu-dong-ung-pho-mua-lon-nguy-co-lu-quet-sat-lo": {
+   "lead": [
+    "07",
+    "11",
+    "250mm",
+    "27",
+    "30",
+    "ban",
+    "bao",
+    "cau",
+    "chieu",
+    "chu",
+    "cong",
+    "dan",
+    "dat",
+    "dia",
+    "dien",
+    "dong",
+    "hanh",
+    "hiem",
+    "khai",
+    "lon",
+    "luong",
+    "lut",
+    "mua",
+    "nang",
+    "ngap",
+    "nguy",
+    "noi",
+    "pho",
+    "phuong",
+    "quet",
+    "sang",
+    "sat",
+    "tan",
+    "thanh",
+    "tiep",
+    "toi",
+    "trien",
+    "tuc",
+    "ubnd",
+    "ung",
+    "vung",
+    "vuot",
+    "yeu"
+   ],
+   "t": 1795816495,
+   "title": [
+    "chu",
+    "dong",
+    "lon",
+    "mua",
+    "nang",
+    "nguy",
+    "pho",
+    "quet",
+    "sat",
+    "ung"
+   ],
+   "url": "https://www.vietnam.vn/da-nang-chu-dong-ung-pho-mua-lon-nguy-co-lu-quet-sat-lo"
   },
   "vietnam.vn/da-nang-chuyen-doi-muc-dich-su-dung-rung-de-mo-rong-duong-tranh-nam-hai-van": {
    "lead": [
