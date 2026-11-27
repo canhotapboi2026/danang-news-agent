@@ -4869,7 +4869,7 @@
    "priority": "thuong",
    "site": "Vietnam",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng, Lâm Đồng thúc đẩy liên kết du lịch miền Trung - Tây Nguyên",
    "urgent": false,
    "url": "https://www.vietnam.vn/da-nang-lam-dong-thuc-day-lien-ket-du-lich-mien-trung-tay-nguyen"
@@ -7331,6 +7331,27 @@
    "urgent": false,
    "url": "https://chungta.vn/the-thao/hoc-sinh-hy-vong-gianh-giai-nhat-chay-bo-voi-su-tiep-suc-cua-nguoi-fpt-1142379.html"
   },
+  "c284e8b2": {
+   "caption": "✈️ ĐÀ NẴNG ĐỀ XUẤT MỞ ĐƯỜNG BAY THẲNG KẾT NỐI THỔ NHĨ KỲ\n\nChính quyền thành phố vừa có những buổi làm việc quan trọng với các đối tác hàng không và du lịch lớn tại quốc gia này nhằm thu hút thêm lượng khách quốc tế trong thời gian tới. Cụ thể vào ngày 27 tháng 11 năm 2026, đoàn công tác do Phó Chủ tịch Ủy ban nhân dân thành phố Nguyễn Thị Anh Thi dẫn đầu đã gặp gỡ hãng bay Turkish Airlines cùng tập đoàn Anex Tour. Trong mười tháng đầu năm, địa phương đã đón hơn hai mươi màng ngàn lượt khách từ đây, ghi nhận mức tăng trưởng mạnh mẽ so với cùng kỳ năm trước. Lãnh đạo thành phố kỳ vọng việc xúc tiến mở tuyến bay trực tiếp sẽ tạo điều kiện thuận lợi để đón dòng khách từ châu Âu cũng như khu vực Trung Đông. Theo bà con tuyến bay này đi vào hoạt động thì việc di chuyển của du khách quốc tế sẽ thuận tiện hơn nhiều phải không?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DuLichDaNang\nCre: Cổng thông tin du lịch thành phố Đà Nẵng",
+   "card_title": "Đà Nẵng đề xuất mở đường bay thẳng kết nối Thổ Nhĩ Kỳ",
+   "category": "du_lich_van_hoa",
+   "created": 1795805729,
+   "flags": [],
+   "id": "c284e8b2",
+   "images": [
+    "https://danangfantasticity.com/wp-content/uploads/2026/11/1795795506805_5031015455253036966_5031015455253036966_7edc8118446b0967e41be2330a95fa34.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Cổng thông tin du lịch thành phố Đà Nẵng",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Đà Nẵng mở rộng hợp tác du lịch tại Thổ Nhĩ Kỳ, đề xuất mở đường bay thẳng Istanbul – Đà Nẵng - Cổng thông tin du lịch thành phố Đà Nẵng",
+   "urgent": false,
+   "url": "https://danangfantasticity.com/tin-tuc/da-nang-mo-rong-hop-tac-du-lich-tai-tho-nhi-ky-de-xuat-mo-duong-bay-thang-istanbul-da-nang"
+  },
   "c28bd067": {
    "caption": "⚡ THỢ ĐIỆN ĐÀ NẴNG MƯU TRÍ HỖ TRỢ DẬP TẮT ĐÁM CHÁY NHÀ TRỌ\n\nChiều ngày 23/11/2026, một vụ cháy bất ngờ bùng phát tại căn nhà số 10 đường Lý Thái Tông, phường Thanh Khê do thiết bị điều hòa hoạt động liên tục dẫn đến quá tải và chập điện. Phát hiện khói đen khi đi ngang qua, anh Đặng Văn Tùng, nhân viên Điện lực Thanh Khê, đã nhanh chóng báo cho các đồng nghiệp là anh Phạm Đức Long và anh Nguyễn Minh Toàn đến hỗ trợ, đồng thời phối hợp cùng người dân xung quanh ngắt nguồn điện và dùng bình chữa cháy tại chỗ dập lửa. Nhờ phản ứng kịp thời của người thợ điện cùng sự tiếp cận ngay sau đó của lực lượng chữa cháy chuyên nghiệp, đám cháy đã được khống chế hoàn toàn, không gây thiệt hại về người và ngăn chặn nguy cơ cháy lan sang khu dân cư đông đúc. Vụ việc cũng là lời nhắc nhở bà con cần chủ động kiểm tra hệ thống điện và không để các thiết bị công suất lớn hoạt động liên tục nhằm phòng tránh sự cố tương tự.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #NguoiDaNang #ThanhKhe\nCre: Vietnam",
    "card_title": "Thợ điện Đà Nẵng mưu trí hỗ trợ dập tắt đám cháy nhà trọ",
@@ -8491,7 +8512,7 @@
    "priority": "thuong",
    "site": "Tuổi Trẻ",
    "source": "Tuổi Trẻ - Tin mới nhất",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng muốn hình thành tổ hợp nghiên cứu, thử nghiệm UAV tại Khu công nghệ cao",
    "urgent": false,
    "url": "https://tuoitre.vn/da-nang-muon-hinh-thanh-to-hop-nghien-cuu-thu-nghiem-uav-tai-khu-cong-nghe-cao-100261127154206895.htm"
@@ -8589,6 +8610,29 @@
    "title": "Đơn giá ca máy, thiết bị thi công địa bàn Đà Nẵng áp dụng cho 5 vùng",
    "urgent": false,
    "url": "https://www.vietnam.vn/don-gia-ca-may-thiet-bi-thi-cong-dia-ban-da-nang-ap-dung-cho-5-vung"
+  },
+  "dd9ba72c": {
+   "caption": "✈️ HƠN HAI TRĂM KHÁCH KẸT TẠI SÂN BAY ĐÀ NẴNG VÌ CHUYẾN BAY LỖI KỸ THUẬT\n\nHơn hai trăm hành khách trên chuyến bay từ Đà Nẵng đi Hà Nội tối ngày 26 tháng 11 đã gặp cảnh chờ đợi xuyên đêm do sự cố kỹ thuật liên tiếp xảy ra khiến máy bay phải hoãn khởi hành dù khách đã lên cabin hai lần. Đại diện đơn vị vận chuyển đã lên tiếng xin lỗi toàn bộ người bị ảnh hưởng, hỗ trợ tài chính ba trăm nghìn đồng mỗi vé bên cạnh các quyền lợi hoàn hủy theo quy định. Bà con mình từng gặp tình huống hoãn chuyến kéo dài thế này chưa.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #GiaoThongDaNang\nCre: Tuổi Trẻ",
+   "card_title": "Hơn hai trăm khách kẹt tại sân bay Đà Nẵng vì chuyến bay lỗi kỹ thuật",
+   "category": "giao_thong",
+   "created": 1795805729,
+   "flags": [],
+   "id": "dd9ba72c",
+   "images": [
+    "https://cdn2.tuoitre.vn/zoom/1200_1200/471584752817336320/2026/11/27/may-bay-vietravel-airlines-edit-17957903628222060378488-296-0-1636-2560-crop-17957904103191717922236.jpg",
+    "https://cdn2.tuoitre.vn/zoom/211_132/471584752817336320/2026/11/23/hang-bay-edit-17954111426451216175357-0-103-1496-2497-crop-17954112185612126830185.jpg",
+    "https://cdn2.tuoitre.vn/zoom/211_132/471584752817336320/2026/10/28/2-17931900335031089556981-0-0-911-1457-crop-1793190038994765584281.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Tuổi Trẻ",
+   "source": "Tuổi Trẻ - Tin mới nhất",
+   "status": "queued",
+   "title": "Hai lần lên máy bay vẫn không thể khởi hành, Vietravel Airlines xin lỗi, hỗ trợ khách 300.000 đồng",
+   "urgent": false,
+   "url": "https://tuoitre.vn/hai-lan-len-may-bay-van-khong-the-khoi-hanh-vietravel-airlines-xin-loi-ho-tro-khach-300000-dong-10026112721000787.htm"
   },
   "e0f9834e": {
    "caption": "🌟 BA HỌC SINH ĐÀ NẴNG BẤT NGỜ KHI ĐƯỢC TUYÊN DƯƠNG VÌ GIÚP NGƯỜI GIỮA MƯA\n\nHành động đẹp của ba học sinh lớp 8 gồm Trương Tấn Tuấn Đạt, Nguyễn Văn Duy Đạt và Phan Phước Nhân thuộc Trường THCS Dũng Sĩ Điện Ngọc ở thành phố Đà Nẵng đã thu hút nhiều lời khen sau khi đoạn ghi hình được chia sẻ trên mạng xã hội. Sự việc diễn ra vào chiều 28/10 khi nhóm học sinh này trên đường tìm chỗ trú mưa đã kịp thời hỗ trợ một phụ nữ lớn tuổi đi xe đạp chở ve chai bị ngã trên đoạn đường trơn trượt. Các em đã nhanh tay dựng xe, gom lại đồ đạc và buộc gọn gàng giúp người gặp nạn dù bản thân bị ướt sũng. Mới đây, trong tiết sinh hoạt lớp, cả ba em đã được cô giáo chủ nhiệm cùng tập thể biểu dương trước sự bất ngờ và ngượng ngùng của các trò nhỏ.\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #NguoiDaNang\nCre: Dân trí",
@@ -26266,6 +26310,73 @@
     "trung"
    ],
    "url": "https://danangfantasticity.com/khuyen-mai/aeon-mall-sieu-hoi-mua-sam-black-friday-10-ngay-10-dem-san-deal-100-trung-qua"
+  },
+  "danangfantasticity.com/tin-tuc/da-nang-mo-rong-hop-tac-du-lich-tai-tho-nhi-ky-de-xuat-mo-duong-bay-thang-istanbul-da-nang": {
+   "lead": [
+    "11",
+    "2026",
+    "2027",
+    "27",
+    "airlines",
+    "anex",
+    "anh",
+    "buoi",
+    "chu",
+    "cong",
+    "cuu",
+    "day",
+    "doan",
+    "dua",
+    "halal",
+    "hang",
+    "hop",
+    "istanbul",
+    "khach",
+    "kho",
+    "khuon",
+    "lam",
+    "nang",
+    "nghien",
+    "nguyen",
+    "nhi",
+    "oic",
+    "pho",
+    "quoc",
+    "rong",
+    "tac",
+    "tam",
+    "tap",
+    "thanh",
+    "thi",
+    "tho",
+    "thuc",
+    "tich",
+    "tour",
+    "trien",
+    "truong",
+    "turkish",
+    "ubnd"
+   ],
+   "t": 1795805729,
+   "title": [
+    "bay",
+    "cong",
+    "duong",
+    "hop",
+    "istanbul",
+    "lich",
+    "nang",
+    "nhi",
+    "pho",
+    "rong",
+    "tac",
+    "thanh",
+    "tho",
+    "thong",
+    "tin",
+    "xuat"
+   ],
+   "url": "https://danangfantasticity.com/tin-tuc/da-nang-mo-rong-hop-tac-du-lich-tai-tho-nhi-ky-de-xuat-mo-duong-bay-thang-istanbul-da-nang"
   },
   "danangfantasticity.com/tin-tuc/ngay-hoi-di-san-van-hoa-da-nang-2026-ket-noi-mien-di-san-qua-nhung-trai-nghiem-van-hoa": {
    "lead": [
@@ -70549,6 +70660,24 @@
    ],
    "url": "https://cafef.vn/4-may-bay-khong-lo-cua-nga-cat-canh-roi-da-nang-co-chiec-cao-gan-bang-toa-nha-5-tang-sai-canh-hon-50-m-dong-co-60000-ma-luc-188261119214101295.chn"
   },
+  "news.google.com/rss/articles/CBMiSkFVX3lxTE5yZkJGaVJaVTRIcFl1VFAzR2pyS3BfekZPZnNYN0VaWTNBUUtWTUIwOVdDV1d6N192NWFpSU5RRUlhMER5clpoaFVn?oc=5": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "dan",
+    "giai",
+    "hoa",
+    "lan",
+    "mau",
+    "nang",
+    "sac",
+    "toa",
+    "toc",
+    "tri",
+    "van"
+   ],
+   "url": "http://danangtv.vn/chi_tiet-190892"
+  },
   "news.google.com/rss/articles/CBMiTkFVX3lxTE5PMG92a0hnUTVlSDlpTDJHbzd2RDVESjk5aHdxeG9aay1rMk1qWGs1U2NXakM2VUpFbklMcHZpWGRCaVZpYVFLc1pKNGpnQQ?oc=5": {
    "lead": [],
    "t": 1794704259,
@@ -75925,6 +76054,27 @@
    ],
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWmlCSlZWbGNHVjUxMERhdlE3Z2JtaHVxV0VxMk5QY3dMcHVIRHA5RWhySElENUxKZTVJTHRucmtuVkRUZFRQRlZlZFJiZFloVmVyQnl4SWxxRFFvYW9qRWFBaFFiQVF5LTJuQjRqODJ1ZlUyRjRXRmdiSWx1aTB4V0pLcG04MEFrQ2d3Y0tnOGVqbDFwenU1d3NzbXZEOENtUWZn?oc=5"
   },
+  "news.google.com/rss/articles/CBMiowFBVV95cUxQSmUxLVV6ZWh3by1WQ1ZXdXh0Wk5YU0wxTlAwZERpd0RGUGZOWHRpTTZpY21HMThyNVNzQklxSmNoN193dFZJWm5KTGpwZnUyRjJKRlljR2g0Uzl3dmYzZDZWRlhyN19hQkUtR19RYmljQTh3dE1Nd25LZDBfZjN4TjJkYXdXRDhucGhVTTBGQ0FXUEU2ZGRmeC1lTmJvcHJUQWRJ?oc=5": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "day",
+    "dong",
+    "ket",
+    "lam",
+    "lich",
+    "lien",
+    "mien",
+    "nang",
+    "nguyen",
+    "phat",
+    "tay",
+    "thuc",
+    "trien",
+    "trung"
+   ],
+   "url": "https://www.vietnam.vn/da-nang-va-lam-dong-thuc-day-lien-ket-phat-trien-du-lich-mien-trung-tay-nguyen"
+  },
   "news.google.com/rss/articles/CBMiowFBVV95cUxQWWRIYlV0alg4YlRBMHd4SlhNdVVyallVbGN0M01RZ0lXcHdGeUljOGh6MnRKQk1NWVRTVl9SeUxsZUVEMGpNZEMwbHREbXVPdy11dFZtd0ZRS3ZkNTF3N0l6NzFSdnZydFo4VDNqRWJoS3diR2ItRVoxUi0tbGN1eklLNk4zZ01VangtNVR2dHZ5R3hjRnBXbFp5bmdSUEI3VlVJ?oc=5": {
    "lead": [],
    "t": 1795727273,
@@ -81291,6 +81441,29 @@
     "xam"
    ],
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOckJUTHFuV2xYUjJ4bC02WVd3a0p6QWFhUDRpMXQ5WmQ2S1QwSEFNLXByV1p0cTlGRmZHZ0pWajQyNGF5ZVg4T1NfMXh2dy1aZmhEbGI2NmtmUTg0cEZtamFkR0dQNGFVREh2X0ZlSEZNR0dRQV93TnZOVEdabHhvdXFlZFVHWmh0M2c1LWtZenlHbWZ4dnZ0RUo1RVNQTGFfSG5wcDFkM19ScDJlZGVaU1ZoaDRQSlI2TXE0UUhINVdheFZ3WWl0RU9pZw?oc=5"
+  },
+  "news.google.com/rss/articles/CBMizAFBVV95cUxOU1EzVFJYV1hzNGc0SV9yd3NOSFRLT1RkU2VtRzg0UmNxY3p4SDlFMTVPckVOUi15NmJYdE04ZFByT19sUTVjVXFnNlp5WXA2U2JLYm14T1c2VW9ISW9fdmRaWVd5Y2FSRG9lZUd0YU9YcmxaS0RLNUtTMTlDdkYwSVZNbG9JVGFyZ0JnUmk0aWg4ZWladFppOV9QUTdITjFleTZ3ZlNMazhvN0tnZUtuNE1BR3pCQ0Vnc3E2dDB6c1BpcU12cGFIa0c5SkM?oc=5": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "bay",
+    "cong",
+    "duong",
+    "hop",
+    "istanbul",
+    "lich",
+    "nang",
+    "nhi",
+    "pho",
+    "rong",
+    "tac",
+    "thanh",
+    "tho",
+    "thong",
+    "tin",
+    "xuat"
+   ],
+   "url": "https://danangfantasticity.com/vi/tin-tuc/da-nang-mo-rong-hop-tac-du-lich-tai-tho-nhi-ky-de-xuat-mo-duong-bay-thang-istanbul-da-nang"
   },
   "news.google.com/rss/articles/CBMizAFBVV95cUxOV0YyZDQ2U1hBVmNnbXJ4OUdlUW5JTVRsLUMyaUFNVFk4bGtLRTRIS1hPUThFdm1jVDJOSDZhelFIYTNPNmJVd2Zra04zTWUxSWxpTmhfN0U1REJTdU05ZllLUEV6WXdiTFFmRUVTVkVXMnNQb1A4LWFBUjdncllJVlNabjZuSlRfalBQZHBjSVp1MkVmOTVRVzRTUnVWTjFqLXpFTTNYVDlkamNTcENRWmZzajlMVkpac3prRWpVNUJ0Sk5iUzNEalB5U2g?oc=5": {
    "lead": [],
@@ -137924,6 +138097,27 @@
    ],
    "url": "https://tuoitre.vn/bitis-7-lan-lien-tiep-vao-top-100-noi-lam-viec-tot-nhat-viet-nam-2026-100261123092239231.htm"
   },
+  "tuoitre.vn/black-friday-hang-quan-dich-vu-dua-san-khach-nhieu-noi-keo-dai-khuyen-mai-den-het-thang-100261127194453696.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "black",
+    "dai",
+    "dich",
+    "dua",
+    "friday",
+    "hang",
+    "het",
+    "keo",
+    "khach",
+    "khuyen",
+    "mai",
+    "noi",
+    "quan",
+    "san"
+   ],
+   "url": "https://tuoitre.vn/black-friday-hang-quan-dich-vu-dua-san-khach-nhieu-noi-keo-dai-khuyen-mai-den-het-thang-100261127194453696.htm"
+  },
   "tuoitre.vn/bo-anh-chia-tay-ta-nang-cua-nguyen-chu-tich-xa-khien-nhieu-nguoi-xuc-dong-10026111816001542.htm": {
    "lead": [],
    "t": 1795011413,
@@ -138023,6 +138217,22 @@
     "tri"
    ],
    "url": "https://tuoitre.vn/bo-chinh-tri-hoan-thien-he-thong-danh-muc-vi-tri-viec-lam-gan-voi-ban-mo-ta-cong-viec-la-cot-loi-100261118065155895.htm"
+  },
+  "tuoitre.vn/bo-chinh-tri-ngay-27-7-hang-nam-la-ngay-to-quoc-tri-an-va-ngay-thuong-binh-liet-si-100261127210145554.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "27",
+    "7",
+    "binh",
+    "chinh",
+    "hang",
+    "liet",
+    "quoc",
+    "thuong",
+    "tri"
+   ],
+   "url": "https://tuoitre.vn/bo-chinh-tri-ngay-27-7-hang-nam-la-ngay-to-quoc-tri-an-va-ngay-thuong-binh-liet-si-100261127210145554.htm"
   },
   "tuoitre.vn/bo-chinh-tri-nghien-cuu-doi-ten-thanh-tra-chinh-phu-thanh-thanh-tra-nha-nuoc-100261118164031897.htm": {
    "lead": [],
@@ -142382,6 +142592,22 @@
     "thanh"
    ],
    "url": "https://tuoitre.vn/chuyen-tu-ho-kinh-doanh-thanh-doanh-nghiep-phu-nu-can-mot-he-sinh-thai-dong-hanh-100261116184955601.htm"
+  },
+  "tuoitre.vn/clb-cong-an-nhan-dan-co-chien-thang-muon-nho-minh-vuong-100261127230015138.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "chien",
+    "clb",
+    "cong",
+    "dan",
+    "minh",
+    "muon",
+    "nhan",
+    "nho",
+    "vuong"
+   ],
+   "url": "https://tuoitre.vn/clb-cong-an-nhan-dan-co-chien-thang-muon-nho-minh-vuong-100261127230015138.htm"
   },
   "tuoitre.vn/clb-cong-an-tphcm-se-danh-bai-nha-vo-dich-buriram-united-100261117210453245.htm": {
    "lead": [],
@@ -147702,6 +147928,30 @@
    ],
    "url": "https://tuoitre.vn/diana-unicharm-thang-hang-tai-top-100-noi-lam-viec-tot-nhat-viet-nam-100261125140632151.htm"
   },
+  "tuoitre.vn/diem-10-fair-play-ngoi-sao-brazil-bo-co-hoi-lap-hat-trick-de-doi-thu-duoc-cham-soc-chan-thuong-1002611272100322.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "10",
+    "brazil",
+    "cham",
+    "chan",
+    "diem",
+    "doi",
+    "fair",
+    "hat",
+    "hoi",
+    "lap",
+    "ngoi",
+    "play",
+    "sao",
+    "soc",
+    "thu",
+    "thuong",
+    "trick"
+   ],
+   "url": "https://tuoitre.vn/diem-10-fair-play-ngoi-sao-brazil-bo-co-hoi-lap-hat-trick-de-doi-thu-duoc-cham-soc-chan-thuong-1002611272100322.htm"
+  },
   "tuoitre.vn/diem-hen-11-gio-trua-va-300-bua-com-nghia-tinh-100261112112815818.htm": {
    "lead": [],
    "t": 1794823399,
@@ -147761,6 +148011,26 @@
     "vang"
    ],
    "url": "https://tuoitre.vn/dien-lai-vai-cua-than-tuong-ba-van-trong-doi-co-luu-tri-khang-doat-bong-lua-vang-2026-100261121181157201.htm"
+  },
+  "tuoitre.vn/dien-tap-thuc-binh-ban-dan-that-tac-chien-vom-phong-khong-bao-ve-ha-noi-100261127202526016.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "ban",
+    "bao",
+    "binh",
+    "chien",
+    "dan",
+    "dien",
+    "noi",
+    "phong",
+    "tac",
+    "tap",
+    "that",
+    "thuc",
+    "vom"
+   ],
+   "url": "https://tuoitre.vn/dien-tap-thuc-binh-ban-dan-that-tac-chien-vom-phong-khong-bao-ve-ha-noi-100261127202526016.htm"
   },
   "tuoitre.vn/dien-vien-ultraman-teo-noa-nakada-qua-doi-o-tuoi-23-100261116204830116.htm": {
    "lead": [],
@@ -152737,6 +153007,75 @@
    ],
    "url": "https://tuoitre.vn/hai-chi-em-chau-tuyet-van-va-tuyet-sang-dem-huy-chuong-dai-hoi-ve-cho-tphcm-100261125183333474.htm"
   },
+  "tuoitre.vn/hai-lan-len-may-bay-van-khong-the-khoi-hanh-vietravel-airlines-xin-loi-ho-tro-khach-300000-dong-10026112721000787.htm": {
+   "lead": [
+    "11",
+    "200",
+    "26",
+    "27",
+    "airlines",
+    "anh",
+    "bay",
+    "chuyen",
+    "cong",
+    "dai",
+    "dem",
+    "dien",
+    "doi",
+    "gap",
+    "gio",
+    "giua",
+    "hang",
+    "hanh",
+    "hon",
+    "khach",
+    "len",
+    "lien",
+    "loi",
+    "lui",
+    "may",
+    "nang",
+    "nhan",
+    "noi",
+    "phai",
+    "phuong",
+    "thuat",
+    "tieng",
+    "toi",
+    "trao",
+    "tre",
+    "tro",
+    "trung",
+    "tuc",
+    "tuoi",
+    "vietravel",
+    "vu212",
+    "xac",
+    "xin"
+   ],
+   "t": 1795805729,
+   "title": [
+    "000",
+    "300",
+    "airlines",
+    "bay",
+    "dong",
+    "hai",
+    "hanh",
+    "khach",
+    "khoi",
+    "lan",
+    "len",
+    "loi",
+    "may",
+    "the",
+    "tro",
+    "van",
+    "vietravel",
+    "xin"
+   ],
+   "url": "https://tuoitre.vn/hai-lan-len-may-bay-van-khong-the-khoi-hanh-vietravel-airlines-xin-loi-ho-tro-khach-300000-dong-10026112721000787.htm"
+  },
   "tuoitre.vn/hai-may-bay-boeing-va-cham-tai-my-chi-mot-ngay-sau-lenh-ngung-bay-toan-quoc-100261115140112641.htm": {
    "lead": [],
    "t": 1794734204,
@@ -153933,6 +154272,25 @@
    ],
    "url": "https://tuoitre.vn/hlv-polking-dinh-bac-khong-phai-co-may-100261118112532169.htm"
   },
+  "tuoitre.vn/hlv-polking-thong-tin-quang-hai-chia-tay-tuyen-viet-nam-la-fake-news-100261127215357434.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "chia",
+    "fake",
+    "hai",
+    "hlv",
+    "news",
+    "polking",
+    "quang",
+    "tay",
+    "thong",
+    "tin",
+    "tuyen",
+    "viet"
+   ],
+   "url": "https://tuoitre.vn/hlv-polking-thong-tin-quang-hai-chia-tay-tuyen-viet-nam-la-fake-news-100261127215357434.htm"
+  },
   "tuoitre.vn/hlv-truong-doi-tuyen-ban-sung-viet-nam-bat-ngo-tai-xuat-o-tuoi-52-doi-dau-chinh-hoc-tro-100261116123859632.htm": {
    "lead": [],
    "t": 1794823399,
@@ -153989,6 +154347,23 @@
     "viet"
    ],
    "url": "https://tuoitre.vn/hlv-u17-viet-nam-toi-chi-dua-phuong-an-cac-cau-thu-moi-la-nguoi-quyet-dinh-100261125213725644.htm"
+  },
+  "tuoitre.vn/ho-chieu-viet-nam-tang-4-bac-tren-bang-xep-hang-toan-cau-100261127220059148.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "4",
+    "bac",
+    "bang",
+    "cau",
+    "chieu",
+    "hang",
+    "tang",
+    "toan",
+    "viet",
+    "xep"
+   ],
+   "url": "https://tuoitre.vn/ho-chieu-viet-nam-tang-4-bac-tren-bang-xep-hang-toan-cau-100261127220059148.htm"
   },
   "tuoitre.vn/ho-chua-nuoc-khu-xu-ly-rac-vo-de-anh-huong-hang-chuc-ho-dan-100261117204410272.htm": {
    "lead": [],
@@ -154720,6 +155095,24 @@
     "trum"
    ],
    "url": "https://tuoitre.vn/hon-10000-nguoi-so-tan-vi-chat-la-bao-trum-nha-thi-dau-anh-100261123174148452.htm"
+  },
+  "tuoitre.vn/hon-110-nghe-si-nga-san-sang-cho-hoa-nhac-st-petersburg-symphony-night-100261127210259395.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "110",
+    "hoa",
+    "hon",
+    "nga",
+    "nghe",
+    "nhac",
+    "night",
+    "petersburg",
+    "san",
+    "sang",
+    "symphony"
+   ],
+   "url": "https://tuoitre.vn/hon-110-nghe-si-nga-san-sang-cho-hoa-nhac-st-petersburg-symphony-night-100261127210259395.htm"
   },
   "tuoitre.vn/hon-158000-nguoi-ky-ten-muon-dua-ong-jensen-huang-tro-lai-nvidia-co-ca-elon-musk-100261116081442162.htm": {
    "lead": [],
@@ -155470,6 +155863,27 @@
     "washington"
    ],
    "url": "https://tuoitre.vn/iran-lien-tiep-nham-vao-radar-my-tai-bahrain-washington-len-tieng-100261117191217728.htm"
+  },
+  "tuoitre.vn/iran-noi-ban-canh-cao-khien-f-16-my-quay-dau-doa-dap-tra-tren-khong-lan-tren-bien-100261127225716144.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "16",
+    "ban",
+    "bien",
+    "canh",
+    "cao",
+    "dap",
+    "dau",
+    "doa",
+    "iran",
+    "khien",
+    "lan",
+    "noi",
+    "quay",
+    "tra"
+   ],
+   "url": "https://tuoitre.vn/iran-noi-ban-canh-cao-khien-f-16-my-quay-dau-doa-dap-tra-tren-khong-lan-tren-bien-100261127225716144.htm"
   },
   "tuoitre.vn/iran-noi-sieu-tau-cho-2-trieu-thung-dau-tho-chim-o-eo-bien-hormuz-100261116080309572.htm": {
    "lead": [],
@@ -160693,6 +161107,25 @@
    ],
    "url": "https://tuoitre.vn/mua-hiem-gap-don-dap-522mm-trong-24-gio-dao-ly-son-ngap-nang-100261126171922703.htm"
   },
+  "tuoitre.vn/mua-lon-bat-ngo-o-tphcm-nhieu-duong-ngap-duong-tran-xuan-soan-khong-bi-anh-huong-100261127203725456.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "anh",
+    "bat",
+    "duong",
+    "hcm",
+    "huong",
+    "lon",
+    "mua",
+    "ngap",
+    "ngo",
+    "soan",
+    "tran",
+    "xuan"
+   ],
+   "url": "https://tuoitre.vn/mua-lon-bat-ngo-o-tphcm-nhieu-duong-ngap-duong-tran-xuan-soan-khong-bi-anh-huong-100261127203725456.htm"
+  },
   "tuoitre.vn/mua-lon-lien-tuc-o-quang-ngai-lu-tren-song-ve-song-tra-bong-co-the-vuot-bao-dong-3-100261126131831353.htm": {
    "lead": [],
    "t": 1795686089,
@@ -161393,6 +161826,26 @@
     "tot"
    ],
    "url": "https://tuoitre.vn/ncb-lot-top-6-noi-lam-viec-tot-nhat-nganh-ngan-hang-100261119175834699.htm"
+  },
+  "tuoitre.vn/nen-tang-planespotters-tung-khai-thac-47-may-bay-bamboo-airways-gio-khong-con-chiec-nao-100261127224824929.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "47",
+    "airways",
+    "bamboo",
+    "bay",
+    "chiec",
+    "gio",
+    "khai",
+    "may",
+    "nao",
+    "planespotters",
+    "tang",
+    "thac",
+    "tung"
+   ],
+   "url": "https://tuoitre.vn/nen-tang-planespotters-tung-khai-thac-47-may-bay-bamboo-airways-gio-khong-con-chiec-nao-100261127224824929.htm"
   },
   "tuoitre.vn/nestle-viet-nam-tham-gia-sang-kien-thuc-day-chuyen-doi-chuoi-gia-tri-nong-nghiep-100261123161144826.htm": {
    "lead": [],
@@ -164568,6 +165021,23 @@
    ],
    "url": "https://tuoitre.vn/ninh-binh-trao-quyet-dinh-ve-cong-tac-can-bo-cho-46-nhan-su-10026111622334983.htm"
   },
+  "tuoitre.vn/no-nuc-thuong-thuc-banh-dan-gian-san-gom-su-tai-cho-binh-tay-100261127201411848.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "banh",
+    "binh",
+    "dan",
+    "gian",
+    "gom",
+    "nuc",
+    "san",
+    "tay",
+    "thuc",
+    "thuong"
+   ],
+   "url": "https://tuoitre.vn/no-nuc-thuong-thuc-banh-dan-gian-san-gom-su-tai-cho-binh-tay-100261127201411848.htm"
+  },
   "tuoitre.vn/noi-bo-dang-cong-hoa-chia-re-loat-nhan-su-lau-nam-goc-cua-tong-thong-trump-kho-qua-ai-phe-chuan-100261123201003292.htm": {
    "lead": [],
    "t": 1795488120,
@@ -164923,6 +165393,30 @@
     "vien"
    ],
    "url": "https://tuoitre.vn/nu-sinh-vien-21-tuoi-nhan-huan-chuong-lao-dong-hang-nhat-100261122100526639.htm"
+  },
+  "tuoitre.vn/nu-vdv-xinh-dep-gianh-hcv-day-kich-tinh-tai-mon-dien-kinh-dai-hoi-the-thao-toan-quoc-100261127212543208.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "dai",
+    "day",
+    "dep",
+    "dien",
+    "gianh",
+    "hcv",
+    "hoi",
+    "kich",
+    "kinh",
+    "mon",
+    "quoc",
+    "thao",
+    "the",
+    "tinh",
+    "toan",
+    "vdv",
+    "xinh"
+   ],
+   "url": "https://tuoitre.vn/nu-vdv-xinh-dep-gianh-hcv-day-kich-tinh-tai-mon-dien-kinh-dai-hoi-the-thao-toan-quoc-100261127212543208.htm"
   },
   "tuoitre.vn/nua-the-ky-hop-tac-y-te-viet-nam-thuy-dien-di-san-khong-nam-o-toa-nha-ma-o-con-nguoi-100261115234406336.htm": {
    "lead": [],
@@ -173845,6 +174339,23 @@
    ],
    "url": "https://tuoitre.vn/thu-tuong-trung-quoc-goi-thanh-tuu-hop-tac-voi-asean-la-phi-thuong-100261116145817101.htm"
   },
+  "tuoitre.vn/thu-tuong-vanuatu-lan-dau-tien-tham-chinh-thuc-viet-nam-100261127230617133.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "chinh",
+    "dau",
+    "lan",
+    "tham",
+    "thu",
+    "thuc",
+    "tien",
+    "tuong",
+    "vanuatu",
+    "viet"
+   ],
+   "url": "https://tuoitre.vn/thu-tuong-vanuatu-lan-dau-tien-tham-chinh-thuc-viet-nam-100261127230617133.htm"
+  },
   "tuoitre.vn/thu-tuong-yeu-cau-chu-dong-ung-pho-mua-lu-tai-nam-trung-bo-tay-nguyen-100261126194129429.htm": {
    "lead": [],
    "t": 1795702855,
@@ -174196,6 +174707,28 @@
     "tich"
    ],
    "url": "https://tuoitre.vn/tich-thu-xe-may-dien-cua-nhom-nam-sinh-kep-3-boc-dau-tai-quang-ninh-100261121144543627.htm"
+  },
+  "tuoitre.vn/tien-dao-tung-da-o-han-quoc-gop-kien-tao-giup-clb-hung-yen-len-dau-bang-100261127223330718.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "bang",
+    "clb",
+    "dao",
+    "dau",
+    "giup",
+    "gop",
+    "han",
+    "hung",
+    "kien",
+    "len",
+    "quoc",
+    "tao",
+    "tien",
+    "tung",
+    "yen"
+   ],
+   "url": "https://tuoitre.vn/tien-dao-tung-da-o-han-quoc-gop-kien-tao-giup-clb-hung-yen-len-dau-bang-100261127223330718.htm"
   },
   "tuoitre.vn/tien-dao-u17-viet-nam-danh-got-vao-luoi-bi-o-world-cup-mo-duoc-da-v-league-100261125211611366.htm": {
    "lead": [],
@@ -174594,6 +175127,22 @@
     "trieu"
    ],
    "url": "https://tuoitre.vn/tin-loi-con-ke-bi-nguoi-la-du-do-len-xe-me-bi-phat-125-trieu-dong-vi-livestream-thong-tin-sai-su-that-100261126210807315.htm"
+  },
+  "tuoitre.vn/tin-tac-xam-nhap-cloud-one-de-doa-du-lieu-quan-su-my-100261127230206157.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "cloud",
+    "doa",
+    "lieu",
+    "nhap",
+    "one",
+    "quan",
+    "tac",
+    "tin",
+    "xam"
+   ],
+   "url": "https://tuoitre.vn/tin-tac-xam-nhap-cloud-one-de-doa-du-lieu-quan-su-my-100261127230206157.htm"
   },
   "tuoitre.vn/tin-tuc-gia-xe-kia-carnival-va-sorento-duoc-uu-dai-100-le-phi-truoc-ba-100261125170020188.htm": {
    "lead": [],
@@ -180479,6 +181028,26 @@
     "ukraine"
    ],
    "url": "https://tuoitre.vn/ukraine-pha-cau-crimea-bang-ten-lua-roi-dang-dong-tut-treu-choc-100261119203343365.htm"
+  },
+  "tuoitre.vn/ukraine-rao-riet-len-kich-ban-ung-pho-tap-kich-lon-de-xuat-ngung-ban-o-bien-den-100261127231450906.htm": {
+   "lead": [],
+   "t": 1795805729,
+   "title": [
+    "ban",
+    "bien",
+    "kich",
+    "len",
+    "lon",
+    "ngung",
+    "pho",
+    "rao",
+    "riet",
+    "tap",
+    "ukraine",
+    "ung",
+    "xuat"
+   ],
+   "url": "https://tuoitre.vn/ukraine-rao-riet-len-kich-ban-ung-pho-tap-kich-lon-de-xuat-ngung-ban-o-bien-den-100261127231450906.htm"
   },
   "tuoitre.vn/ukraine-tan-cong-can-cu-khong-quan-nha-may-loc-dau-nga-100261125223057089.htm": {
    "lead": [],
