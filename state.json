@@ -213,7 +213,7 @@
    "priority": "thuong",
    "site": "Dân Việt",
    "source": "Google News - Đà Nẵng",
-   "status": "pending",
+   "status": "expired",
    "tg_msg_id": 857,
    "title": "Đà Nẵng tìm ý tưởng cho cây cầu mới qua sông Hàn, giải nhất được thưởng nửa tỉ đồng",
    "urgent": false,
@@ -972,6 +972,27 @@
    "title": "Đưa Đà Nẵng thành thương hiệu toàn cầu: Bài 3 - Nhớ đến Đà Nẵng từ 'những đại sứ chân đất'",
    "urgent": false,
    "url": "https://tuoitre.vn/dua-da-nang-thanh-thuong-hieu-toan-cau-bai-3-nho-den-da-nang-tu-nhung-dai-su-chan-dat-100261123164436429.htm"
+  },
+  "1be7957e": {
+   "caption": "🏖️ ĐÀ NẴNG BẮT TAY LÂM ĐỒNG VÀ CÁC TỈNH MIỀN TRUNG PHÁT TRIỂN DU LỊCH LIÊN VÙNG\n\nĐà Nẵng cùng tỉnh Lâm Đồng và các địa phương khu vực miền Trung, Tây Nguyên vừa chính thức mở rộng hợp tác phát triển du lịch liên vùng nhằm đa dạng hóa sản phẩm và hút khách hai chiều. Chiều ngày 27/11 tại Đà Nẵng, hội nghị xúc tiến hợp tác đã quy tụ khoảng 100 doanh nghiệp lữ hành, lưu trú và dịch vụ từ các tỉnh thành như Quảng Ngãi, Gia Lai, Đắk Lắk, Huế. Điểm nhấn của sự kiện là lễ ký kết biên bản ghi nhớ giai đoạn 2026-2031 giữa 9 đơn vị tiêu biểu của Lâm Đồng và Đà Nẵng, hướng tới kết nối chuỗi trải nghiệm giữa cao nguyên và biển đảo, đồng thời xúc tiến mở thêm các đường bay mới. Sự kết hợp này hứa hẹn mang đến nhiều hành trình phong phú hơn cho du khách trong thời gian tới. Bà con có háo hức khám phá các tuyến du lịch kết nối mới này không? 🏖️\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DuLichDaNang #DuLichLienVung\nCre: Dulich",
+   "card_title": "Đà Nẵng bắt tay Lâm Đồng và các tỉnh miền Trung phát triển du lịch liên vùng",
+   "category": "du_lich_van_hoa",
+   "created": 1795794182,
+   "flags": [],
+   "id": "1be7957e",
+   "images": [
+    "https://thethaovanhoa.mediacdn.vn/thumb_w/1200/372676912336973824/2026/11/27/vnapotallamdong-danangtanglienkettourtuyenmorongdongkhachhaichieu9183381-17957890742721077065136-112-0-1712-2560-crop-1795789206798349293494.jpg"
+   ],
+   "media": {
+    "kind": "photo"
+   },
+   "priority": "thuong",
+   "site": "Dulich",
+   "source": "Google News - Đà Nẵng",
+   "status": "queued",
+   "title": "Kết nối tour tuyến, khai thác tiềm năng du lịch liên vùng",
+   "urgent": false,
+   "url": "https://dulich.thethaovanhoa.vn/ket-noi-tour-tuyen-khai-thac-tiem-nang-du-lich-lien-vung-20261127212142681.htm"
   },
   "1c296a61": {
    "caption": "🎉 BÀ NÀ HILLS TUNG LOẠT TRẢI NGHIỆM MỚI VÀ ƯU ĐÃI KHỦNG CHO GIỚI TRẺ CUỐI NĂM\n\nMùa lễ hội cuối năm nay tại khu du lịch trên đỉnh núi Chúa mang đến nhiều trải nghiệm mới mẻ như phiên chợ Chu Choa đậm nét văn hóa xứ Quảng, con đường lá vàng lãng mạn hay thị trấn Dream Town sắp ra mắt ngày 1 tháng 12. Du khách còn được khám phá các trò chơi giải trí đa sắc màu và thưởng thức ẩm phong phú tại đây. Đặc biệt, chương trình ưu đãi dành cho độ tuổi từ 18 đến 25 kéo dài đến hết ngày 31 tháng 12 áp dụng mức giá vé cáp treo chỉ còn 500.000 đồng kèm nhiều quà tặng hấp dẫn khi xuất trình giấy tờ tùy thân. Bà con trong độ tuổi này đã lên kế hoạch ghé chơi điểm đến này chưa?\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #DuLichDaNang #BaNaHills\nCre: Dân trí",
@@ -4274,25 +4295,6 @@
    "title": "Đà Nẵng khám sức khỏe cho học sinh, giáo viên 5 trường nội trú vùng biên",
    "urgent": false,
    "url": "https://giaoducthoidai.vn/da-nang-kham-suc-khoe-cho-hoc-sinh-giao-vien-5-truong-noi-tru-vung-bien-post800983.html"
-  },
-  "7046e955": {
-   "caption": "💼 SÂN VẬN ĐỘNG CHI LĂNG TIẾP TỤC GIẢM GIÁ SÂU TRONG LẦN ĐẤU GIÁ THỨ 8\n\nKhu đất sân vận động Chi Lăng tại phường Hải Châu vừa được Trung tâm Dịch vụ đấu giá tài sản thành phố Đà Nẵng thông báo đưa ra đấu giá lần thứ 8 với giá khởi điểm hơn 8.190 tỷ đồng, giảm hơn 1.500 tỷ đồng so với mức ban đầu. Thời gian đăng ký tham gia từ ngày 13 đến 25 tháng 11 và phiên đấu giá dự kiến diễn ra vào ngày 27 tháng 11 năm 2026. Trước đó, toàn bộ 7 lần thông báo đấu giá tài sản liên quan đến vụ án Phạm Công Danh này đều không thành công do vắng bóng người mua. Bà con khu vực này kỳ vọng việc điều chỉnh giảm giá sẽ sớm giúp khu đất trung tâm thành phố tìm được chủ mới để tránh tình trạng bỏ hoang.\n\n#DaNang #SanvandanChiLang #Daugia\nCre: cafef",
-   "card_title": "Sân vận động Chi Lăng tiếp tục giảm giá sâu trong lần đấu giá thứ 8",
-   "category": "kinh_te",
-   "created": 1794581490,
-   "flags": [],
-   "id": "7046e955",
-   "images": [],
-   "media": {
-    "kind": "card"
-   },
-   "priority": "thuong",
-   "site": "cafef",
-   "source": "Google News - Đà Nẵng",
-   "status": "expired",
-   "title": "Sau 7 lần đấu giá 'ế', sân vận động Chi Lăng hạ giá hơn 1.500 tỷ đồng",
-   "urgent": false,
-   "url": "https://cafef.vn/sau-7-lan-dau-gia-e-san-van-dong-chi-lang-ha-gia-hon-1500-ty-dong-188261113210919834.chn"
   },
   "70a585e5": {
    "caption": "✈️ VIETNAM AIRLINES CHÍNH THỨC MỞ ĐƯỜNG BAY THẲNG NỐI ĐÀ NẴNG VỚI SINGAPORE\n\nThêm tin vui cho bà con và du khách khi việc di chuyển giữa Đà Nẵng và Singapore giờ đây đã thuận tiện hơn rất nhiều. Chiều ngày 17/11, chuyến bay đầu tiên mang số hiệu VN691 chở 169 hành khách đã cất cánh lúc 15h từ sân bay quốc tế Đà Nẵng, chính thức đưa tuyến bay thẳng nối liền hai địa điểm đi vào hoạt động. Đường bay được khai thác hằng ngày bằng dòng máy bay Airbus A321 với thời gian di chuyển khoảng 3 giờ, chiều ngược lại cất cánh từ Singapore lúc 19h45 theo giờ địa phương. Tuyến bay mới không chỉ đáp ứng tốt nhu cầu đi lại, giao thương và phát triển du lịch mà còn giúp hành khách tiết kiệm thời gian đáng kể khi không cần phải nốt chuyến qua Hà Nội hay TP.HCM. Bà con mình đã ai lên kế hoạch sang đảo quốc sư tử trong thời gian tới chưa nhỉ? ✈️\n\n#Danang #BantinDaNang #DaNangNews #TinTucDaNang #KhamphaDaNang #DaNangDangSong #GiaoThongDaNang #Singapore\nCre: CafeF",
@@ -8305,7 +8307,7 @@
    "priority": "thuong",
    "site": "MoneyF",
    "source": "Google News - Đà Nẵng",
-   "status": "queued",
+   "status": "expired",
    "title": "Đà Nẵng hỗ trợ hộ kinh doanh sử dụng phần mềm bán hàng, mở website miễn phí",
    "urgent": false,
    "url": "https://moneyf.vn/da-nang-ho-tro-ho-kinh-doanh-su-dung-phan-mem-ban-b6ehvnnj"
@@ -24799,67 +24801,6 @@
    ],
    "url": "https://cafef.vn/hom-nay-17-11-san-bay-da-nang-ghi-nhan-1-may-bay-dac-biet-cua-vietnam-airlines-cho-169-hanh-khach-cat-canh-188261117213525923.chn"
   },
-  "cafef.vn/sau-7-lan-dau-gia-e-san-van-dong-chi-lang-ha-gia-hon-1500-ty-dong-188261113210919834.chn": {
-   "lead": [
-    "11",
-    "13",
-    "190",
-    "2026",
-    "21",
-    "31",
-    "706",
-    "8",
-    "9",
-    "bao",
-    "bat",
-    "cao",
-    "chi",
-    "dat",
-    "dau",
-    "dich",
-    "dong",
-    "dung",
-    "gia",
-    "hon",
-    "hop",
-    "khu",
-    "lan",
-    "lang",
-    "mai",
-    "moi",
-    "nang",
-    "nguyen",
-    "nhat",
-    "phuc",
-    "quyen",
-    "san",
-    "svd",
-    "tam",
-    "tang",
-    "thanh",
-    "thong",
-    "thuong",
-    "trung",
-    "van",
-    "xuong"
-   ],
-   "t": 1794581490,
-   "title": [
-    "1",
-    "500",
-    "7",
-    "chi",
-    "dau",
-    "dong",
-    "gia",
-    "hon",
-    "lan",
-    "lang",
-    "san",
-    "van"
-   ],
-   "url": "https://cafef.vn/sau-7-lan-dau-gia-e-san-van-dong-chi-lang-ha-gia-hon-1500-ty-dong-188261113210919834.chn"
-  },
   "cafef.vn/trieu-tap-86-nguoi-lien-quan-he-thong-bit99-nhieu-nguoi-tre-sinh-vien-tim-viec-lam-bi-du-ban-nha-vay-no-de-dau-tu-188261116103459113.chn": {
    "lead": [
     "11",
@@ -28815,25 +28756,6 @@
     "vinhomes"
    ],
    "url": "https://dantri.com.vn/bat-dong-san/vinhomes-the-gallery-mo-rong-cong-nang-nang-tam-dau-tu-20261115132122061.htm"
-  },
-  "dantri.com.vn/bat-dong-san/xac-dinh-don-vi-trung-dau-gia-khu-dat-vang-ben-bo-song-huong-20261113183454665.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "ben",
-    "dat",
-    "dau",
-    "dinh",
-    "don",
-    "gia",
-    "huong",
-    "khu",
-    "song",
-    "trung",
-    "vang",
-    "xac"
-   ],
-   "url": "https://dantri.com.vn/bat-dong-san/xac-dinh-don-vi-trung-dau-gia-khu-dat-vang-ben-bo-song-huong-20261113183454665.htm"
   },
   "dantri.com.vn/cong-nghe/160000-chu-ky-co-phuc-chuc-duoc-cho-ong-jensen-huang-nhu-sam-altman-20261116113150799.htm": {
    "lead": [],
@@ -38011,20 +37933,6 @@
    ],
    "url": "https://dantri.com.vn/giao-duc/tphcm-du-kien-ho-tro-tien-an-tieng-anh-stem-ai-cho-hoc-sinh-20261114154019913.htm"
   },
-  "dantri.com.vn/giao-duc/tphcm-se-xet-thang-hang-giao-vien-trong-2-thang-cuoi-nam-20261113203852147.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "2",
-    "cuoi",
-    "giao",
-    "hang",
-    "tphcm",
-    "vien",
-    "xet"
-   ],
-   "url": "https://dantri.com.vn/giao-duc/tphcm-se-xet-thang-hang-giao-vien-trong-2-thang-cuoi-nam-20261113203852147.htm"
-  },
   "dantri.com.vn/giao-duc/truong-cong-ha-noi-khong-thu-tien-hoat-dong-giao-duc-ngoai-gio-chinh-khoa-20261126120426574.htm": {
    "lead": [],
    "t": 1795697440,
@@ -42992,26 +42900,6 @@
    ],
    "url": "https://dantri.com.vn/kinh-doanh/so-ceo-roi-ghe-vi-sai-pham-tang-gap-doi-cai-gia-cua-be-boi-doi-tu-20261119095959709.htm"
   },
-  "dantri.com.vn/kinh-doanh/su-co-microsoft-te-liet-dien-rong-gioi-tai-chinh-phai-dung-lai-dien-thoai-ban-may-fax-20261113210637493.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "ban",
-    "chinh",
-    "dien",
-    "dung",
-    "fax",
-    "gioi",
-    "lai",
-    "liet",
-    "may",
-    "microsoft",
-    "phai",
-    "rong",
-    "thoai"
-   ],
-   "url": "https://dantri.com.vn/kinh-doanh/su-co-microsoft-te-liet-dien-rong-gioi-tai-chinh-phai-dung-lai-dien-thoai-ban-may-fax-20261113210637493.htm"
-  },
   "dantri.com.vn/kinh-doanh/ta-nhat-goon-danh-dau-buoc-tien-moi-tai-viet-nam-voi-dong-ta-cao-cap-20261116200025436.htm": {
    "lead": [],
    "t": 1794845866,
@@ -47874,22 +47762,6 @@
     "tphcm"
    ],
    "url": "https://dantri.com.vn/phap-luat/bat-giam-42-nguoi-trong-duong-day-rua-tien-danh-bac-hon-9000-ty-o-tphcm-20261123215305607.htm"
-  },
-  "dantri.com.vn/phap-luat/bat-giam-danh-hai-tan-bo-dien-vien-hoang-meo-20261113205851220.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "bat",
-    "danh",
-    "dien",
-    "giam",
-    "hai",
-    "hoang",
-    "meo",
-    "tan",
-    "vien"
-   ],
-   "url": "https://dantri.com.vn/phap-luat/bat-giam-danh-hai-tan-bo-dien-vien-hoang-meo-20261113205851220.htm"
   },
   "dantri.com.vn/phap-luat/bat-giu-6-thieu-nien-cam-dao-chem-nguoi-tai-cay-xang-o-tphcm-20261123234218401.htm": {
    "lead": [],
@@ -65461,24 +65333,6 @@
    ],
    "url": "https://dantri.com.vn/thoi-su/thu-tuong-va-chu-tich-quoc-hoi-hoi-kien-tong-thong-azerbaijan-20261120205440352.htm"
   },
-  "dantri.com.vn/thoi-su/thuc-day-hop-tac-dao-tao-can-bo-giua-viet-nam-va-trung-quoc-20261113195248946.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "can",
-    "dao",
-    "day",
-    "giua",
-    "hop",
-    "quoc",
-    "tac",
-    "tao",
-    "thuc",
-    "trung",
-    "viet"
-   ],
-   "url": "https://dantri.com.vn/thoi-su/thuc-day-hop-tac-dao-tao-can-bo-giua-viet-nam-va-trung-quoc-20261113195248946.htm"
-  },
   "dantri.com.vn/thoi-su/tim-kiem-nam-thanh-nien-bo-lai-xe-may-tu-trang-tren-cau-o-lam-dong-20261119145956886.htm": {
    "lead": [],
    "t": 1795096121,
@@ -66356,22 +66210,6 @@
     "uav"
    ],
    "url": "https://dantri.com.vn/thoi-su/tphcm-nghien-cuu-khong-gian-thu-nghiem-thuc-te-drone-uav-20261118095130876.htm"
-  },
-  "dantri.com.vn/thoi-su/tphcm-no-luc-tim-ho-chon-nghi-co-200-liet-si-o-phuong-binh-co-20261113202508979.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "200",
-    "binh",
-    "chon",
-    "liet",
-    "luc",
-    "nghi",
-    "phuong",
-    "tim",
-    "tphcm"
-   ],
-   "url": "https://dantri.com.vn/thoi-su/tphcm-no-luc-tim-ho-chon-nghi-co-200-liet-si-o-phuong-binh-co-20261113202508979.htm"
   },
   "dantri.com.vn/thoi-su/tphcm-ra-quan-tong-kiem-tra-1600-co-so-kinh-doanh-gas-20261125171526344.htm": {
    "lead": [],
@@ -68779,6 +68617,83 @@
     "tuong"
    ],
    "url": "https://dulich.thethaovanhoa.vn/da-nang-lot-top-10-diem-den-ly-tuong-nhat-the-gioi-dip-giang-sinh-va-nam-moi-20261127095226924.htm"
+  },
+  "dulich.thethaovanhoa.vn/ket-noi-tour-tuyen-khai-thac-tiem-nang-du-lich-lien-vung-20261127212142681.htm": {
+   "lead": [
+    "100",
+    "11",
+    "27",
+    "chieu",
+    "chuc",
+    "dak",
+    "diem",
+    "doanh",
+    "dong",
+    "gia",
+    "hai",
+    "hanh",
+    "hinh",
+    "hoi",
+    "hop",
+    "hue",
+    "huong",
+    "ket",
+    "khach",
+    "khai",
+    "khoang",
+    "khu",
+    "lai",
+    "lak",
+    "lam",
+    "lich",
+    "lien",
+    "luu",
+    "mien",
+    "nang",
+    "ngai",
+    "nghi",
+    "nghiep",
+    "nguon",
+    "nguyen",
+    "noi",
+    "pham",
+    "phat",
+    "pho",
+    "quang",
+    "rong",
+    "san",
+    "tac",
+    "tay",
+    "thac",
+    "thanh",
+    "tien",
+    "tinh",
+    "toi",
+    "tour",
+    "trien",
+    "tru",
+    "trung",
+    "tuyen",
+    "ubnd",
+    "vuc",
+    "vung",
+    "xuc"
+   ],
+   "t": 1795794182,
+   "title": [
+    "ket",
+    "khai",
+    "lich",
+    "lien",
+    "nang",
+    "noi",
+    "thac",
+    "tiem",
+    "tour",
+    "tuyen",
+    "vung"
+   ],
+   "url": "https://dulich.thethaovanhoa.vn/ket-noi-tour-tuyen-khai-thac-tiem-nang-du-lich-lien-vung-20261127212142681.htm"
   },
   "etime.danviet.vn/co-von-uu-dai-tiep-suc-nong-dan-vung-cao-da-nang-thoat-ngheo-va-doi-doi-nho-nhung-mo-hinh-sinh-ke-hieu-qua-d1476846.html": {
    "lead": [
@@ -77186,6 +77101,24 @@
    ],
    "url": "https://www.vietnam.vn/da-nang-du-kien-ho-tro-100-hoc-phi-cho-can-bo-cong-chuc-vien-chuc-hoc-van-bang-2"
   },
+  "news.google.com/rss/articles/CBMipgFBVV95cUxPa0c2ZnJQTGF5SkVvWk4za2VPdlhVLU44TEczb2dSYTgwOFdIaWZrSU45MnJoWFNYUE8tUmFBWFJialM2ckM1N1dKSGFzNUtCM3ZOblFYRTkzQVlnWTFxLXJCeEdaT2xPVldwc0dyLXhUNmtneFd2aEotNnVzUFpqUi1QaDduZWxIMGdTNm1KVndmYk53R0x3c3dkeXFHeU5pZURwWktR?oc=5": {
+   "lead": [],
+   "t": 1795794182,
+   "title": [
+    "ket",
+    "khai",
+    "lich",
+    "lien",
+    "nang",
+    "noi",
+    "thac",
+    "tiem",
+    "tour",
+    "tuyen",
+    "vung"
+   ],
+   "url": "https://thethaovanhoa.vn/ket-noi-tour-tuyen-khai-thac-tiem-nang-du-lich-lien-vung-20261127212142681.htm"
+  },
   "news.google.com/rss/articles/CBMipgFBVV95cUxPaFR0Vzh4R1djeFMtTFdmWHJlWl9sVUIySVJSWXFtaklqWEVaUGNtbTlJOENZSkFvdnNWbDJKc1JoWkFNck4tejk5eGJZNDgxOHNWaTFVOGJaczVfbnJSalhmVkRKZFhkTko4ZkN0Q2JBNkhxSkVfQWJTYjZQQUc1TTdfM1VZZ0JWNTFGekJSNkgzak5aUXkyRll0UzZEZnpwUUh4VktR?oc=5": {
    "lead": [],
    "t": 1795171586,
@@ -77691,25 +77624,6 @@
     "xuat"
    ],
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjhxbFY0Y2dBUHI2eUlLbVM0TmdGaHktVFR2bjVhRjZWeFRJODUyTm9lV3BHVmRIanl4Rmg3YVpzVlZ0ZTJXZ3d3Wk5FWmZUbV92T2ZjV0c4OWlxWUowQ0NXb1ZFWGlPZXh1Z3lCOVo5N01XejNvazdKOHo1Z2hOekl0REd1UWJiOGxGWS15b3YyLU9KVGpLNWdEUUVPS3YweTVQR1RabVc?oc=5"
-  },
-  "news.google.com/rss/articles/CBMiqAFBVV95cUxOX0FXVHJiWTZnZE9mUVZvTF9yTHljSGZPQlZsaDZNTHFRZnV2aDM3WU4wYUMzRExWd29YTkNVOXp3VExCZHg3U25Cam5vcVd4dXRaRWtGZC04QkRMakJwYUtTNlh0ai1xV3MwaS0yYlN1aVM3aC1ScGQ5Z09ESHFtVGstcElXTHdfN0UxT3RRMWF1bHRSRTRoMjhEWjBxQnlXSFhuMEI5LUU?oc=5": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "1",
-    "500",
-    "7",
-    "chi",
-    "dau",
-    "dong",
-    "gia",
-    "hon",
-    "lan",
-    "lang",
-    "san",
-    "van"
-   ],
-   "url": "https://cafef.vn/sau-7-lan-dau-gia-e-san-van-dong-chi-lang-ha-gia-hon-1500-ty-dong-188261113210919834.chn"
   },
   "news.google.com/rss/articles/CBMiqAFBVV95cUxOZUIyWkxobjRESU5ZeFBLTFZtSHhDdVdya2FsclVXZUlVdW42WkVSUDUtcEdxMTFUTElDZFVlMXQ5alBUNUw5SGJSYjR3Q3NlVGdlbkxsWi1WWEhoVm54UHF3UEFSWkZ2bGpONEJMV3ZEMkhsdlRwZV9lUlZYSFBJMW5JR1ZuLXJTQzdaSDVyYjJWbndSOXExc2FlQmY2ZVo0SVVMa2Jnd24?oc=5": {
    "lead": [],
@@ -78419,25 +78333,6 @@
     "tin"
    ],
    "url": "https://vtv.vn/the-thao/video/ban-tin-thoi-tiet-19h45-20-11-hue-da-nang-quang-ngai-la-tam-mua-108702779.htm"
-  },
-  "news.google.com/rss/articles/CBMiqwFBVV95cUxNWHZMcVlfWElSUGk3M2VSOWZUeVJOTXhYQUFDRXBZYThGaVo2SDN3dks3SS03VDZXMTBndFZYZ1ZHd050blVpeHFoLXFjM0tIakpKS0VTbWRrQWlZWWNRUnhYNE5tWnZkTjk3OEMtX0dKbjlJcGxVUmtFNjgyVmhta043MU5rTGx5Nk1zNVFwWWVvLW5kQjViWnhHby04OUVfQ29nNGxmQUtreVU?oc=5": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "11",
-    "24",
-    "3",
-    "bao",
-    "don",
-    "khach",
-    "mien",
-    "nang",
-    "phi",
-    "quan",
-    "tang",
-    "tham"
-   ],
-   "url": "https://tin.skydoor.net/news/nghe-thuat-3-bao-tang-o-da-nang-se-mo-cua-don-khach-tham-quan-mien-phi-8431703"
   },
   "news.google.com/rss/articles/CBMiqwFBVV95cUxORl9ZRlp5YkVoYk00TEZiZ2RXaUMzNDFZc3VwdmVra19jRXVzNGY1eGNzSk8wYVBqSXJHcGo5SmlZaE5SdWpuNHdDeVFLR0RseG5CNm4yWUdodEM2RnRYQWZUODdudU1jREhmTEx1VUp1b25hMDJhYnpScUFaOGV0UjNVei1QNERQUzMwMXhMYWNSWi1ZTnhhRk10WlVRN2xJV01fTG9LeUl0VG8?oc=5": {
    "lead": [],
@@ -79718,27 +79613,6 @@
     "tiet"
    ],
    "url": "https://www.vietnam.vn/khai-mac-hoi-nghi-noi-tiet-dai-thao-duong-va-roi-loan-chuyen-hoa-da-nang-mo-rong-lan-thu-3"
-  },
-  "news.google.com/rss/articles/CBMiswFBVV95cUxQT1NZZVNydzlwVU50TUd3NjJWUGZsRTNiR0E2MlBDVzItRHJTc29kZjZjSWZBZWlSdU1CRFpVbU5VeVlQcDFleEJZN0xIWVZnSmJhdTFMRlluQnlFM3pvUGNoVndQb05YWWpJQjNmc0VMSlZtaUxtT3R0U21XN2VEOFRkcHVEc0hmRFBjY1l4Y216VXhPSjBRMnlvVmEtVXAzcDBreEFaMm1qZkZXLXRWWU8zSQ?oc=5": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "2026",
-    "dia",
-    "dien",
-    "hoi",
-    "ket",
-    "khai",
-    "mac",
-    "mai",
-    "nang",
-    "noi",
-    "pham",
-    "phuong",
-    "san",
-    "thuong"
-   ],
-   "url": "https://nhandan.vn/da-nang-khai-mac-ngay-hoi-thuong-mai-dien-tu-ket-noi-san-pham-dia-phuong-2026-post1002492.html"
   },
   "news.google.com/rss/articles/CBMiswFBVV95cUxQZ1h5YXlqNlpuWGhuNG1BX3hsN2tHOXNGTjBWNEZEUUU2a1dwR1hZaHNKdzIzdlJhaGc5OVEydEdTU1c3cWtxelhZTXU0dlZEdC0xMGgweG9EWFhNRjNEMTdVbFBhcEtvR2dnNWFlV0dLc2x0MDdLN3p1NUpqSlNtZGQ5Ym9GMDYxdGpUZXRTWFJGRkNmdEk5YV9PemVJWnNpS0w4SV9RbFh4WnZ4aGFIRkZqRQ?oc=5": {
    "lead": [],
@@ -86560,20 +86434,6 @@
     "vien"
    ],
    "url": "https://thanhnien.vn/ban-linh-the-he-giang-vien-9x-o-vgu-185261112171353664.htm"
-  },
-  "thanhnien.vn/ban-nhac-ngu-cung-ra-sao-khi-do-hoang-hiep-roi-di-185261113192049131.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "ban",
-    "hiep",
-    "hoang",
-    "ngu",
-    "nhac",
-    "roi",
-    "sao"
-   ],
-   "url": "https://thanhnien.vn/ban-nhac-ngu-cung-ra-sao-khi-do-hoang-hiep-roi-di-185261113192049131.htm"
   },
   "thanhnien.vn/ban-phao-hoa-15-phut-trong-dem-khai-mac-festival-dong-xanh-an-giang-18526111618482437.htm": {
    "lead": [],
@@ -95548,24 +95408,6 @@
    ],
    "url": "https://thanhnien.vn/de-nghi-ban-bi-thu-xem-xet-ky-luat-cac-ong-nguyen-dac-luc-le-dinh-long-185261126194307724.htm"
   },
-  "thanhnien.vn/de-nghi-ky-luat-3-can-bo-nguyen-lanh-dao-tinh-binh-phuoc-binh-duong-cu-185261113203305041.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "3",
-    "binh",
-    "can",
-    "dao",
-    "duong",
-    "lanh",
-    "luat",
-    "nghi",
-    "nguyen",
-    "phuoc",
-    "tinh"
-   ],
-   "url": "https://thanhnien.vn/de-nghi-ky-luat-3-can-bo-nguyen-lanh-dao-tinh-binh-phuoc-binh-duong-cu-185261113203305041.htm"
-  },
   "thanhnien.vn/de-nghi-tam-su-dung-2-doan-quoc-lo-1-to-chuc-tuan-van-hoa-du-lich-185261123083817136.htm": {
    "lead": [],
    "t": 1795411225,
@@ -102417,21 +102259,6 @@
     "viet"
    ],
    "url": "https://thanhnien.vn/highlight-u23-viet-nam-1-1-u23-qatar-minh-tam-ghi-ban-quy-nhu-vang-185261114225129883.htm"
-  },
-  "thanhnien.vn/hinh-anh-gay-chu-y-cua-trang-phap-o-trung-quoc-185261113210243511.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "anh",
-    "chu",
-    "gay",
-    "hinh",
-    "phap",
-    "quoc",
-    "trang",
-    "trung"
-   ],
-   "url": "https://thanhnien.vn/hinh-anh-gay-chu-y-cua-trang-phap-o-trung-quoc-185261113210243511.htm"
   },
   "thanhnien.vn/hinh-anh-gay-to-mo-cua-nhan-phuc-vinh-185261116181058206.htm": {
    "lead": [],
@@ -126837,22 +126664,6 @@
    ],
    "url": "https://thanhnien.vn/triet-pha-o-nhom-san-xuat-ban-100-tan-khi-cuoi-185261115202428381.htm"
   },
-  "thanhnien.vn/trieu-le-dinh-dam-don-kien-vi-bi-danh-cap-guong-mat-185261113183451988.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "cap",
-    "dam",
-    "danh",
-    "dinh",
-    "don",
-    "guong",
-    "kien",
-    "mat",
-    "trieu"
-   ],
-   "url": "https://thanhnien.vn/trieu-le-dinh-dam-don-kien-vi-bi-danh-cap-guong-mat-185261113183451988.htm"
-  },
   "thanhnien.vn/trieu-tap-13-thanh-nien-gay-nao-loan-pho-phuong-dong-hoi-185261116151935084.htm": {
    "lead": [],
    "t": 1794823399,
@@ -131420,21 +131231,6 @@
    ],
    "url": "https://thanhnien.vn/vu-15-thua-dat-o-ho-song-ray-nhieu-cong-trinh-vi-pham-trat-tu-xay-dung-185261124184818226.htm"
   },
-  "thanhnien.vn/vu-an-hiep-den-cong-an-tphcm-khoi-to-tan-bo-hoang-meo-va-9-dong-pham-185261113211720306.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "10",
-    "cong",
-    "dong",
-    "hcm",
-    "hiep",
-    "khoi",
-    "pham",
-    "tan"
-   ],
-   "url": "https://thanhnien.vn/vu-an-hiep-den-cong-an-tphcm-khoi-to-tan-bo-hoang-meo-va-9-dong-pham-185261113211720306.htm"
-  },
   "thanhnien.vn/vu-an-hiep-den-huy-ben-xe-ai-chiu-trach-nhiem-khi-cai-xau-duoc-tung-ho-185261115153503116.htm": {
    "lead": [],
    "t": 1794734204,
@@ -131709,23 +131505,6 @@
     "van"
    ],
    "url": "https://thanhnien.vn/vu-no-sap-nha-o-duong-bui-van-ba-cong-an-tphcm-khuyen-cao-185261116183948646.htm"
-  },
-  "thanhnien.vn/vu-no-sap-nha-o-tphcm-tim-thay-them-mot-thi-the-trong-dong-do-nat-185261113204355896.htm": {
-   "lead": [],
-   "t": 1794581490,
-   "title": [
-    "dong",
-    "hcm",
-    "nat",
-    "nha",
-    "sap",
-    "thay",
-    "the",
-    "them",
-    "thi",
-    "tim"
-   ],
-   "url": "https://thanhnien.vn/vu-no-sap-nha-o-tphcm-tim-thay-them-mot-thi-the-trong-dong-do-nat-185261113204355896.htm"
   },
   "thanhnien.vn/vu-no-sap-nha-phong-toa-duong-bui-van-ba-di-doi-binh-gas-con-sot-lai-185261114171258017.htm": {
    "lead": [],
